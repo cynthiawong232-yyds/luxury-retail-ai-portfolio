@@ -2,7 +2,7 @@
 
 **Diagnostic AI tools for luxury retail decision-makers** — three Streamlit apps that answer the *"why?"* questions managers actually ask, with disciplined guardrails so the agents fail gracefully when they lack data instead of confabulating.
 
-🌐 **Live demo:** _link added after deploy_
+🌐 **Live demo:** <https://luxury-retail-ai-portfolio-ckevvwqdegeqlc7stc7ixr.streamlit.app/>
 
 ---
 
