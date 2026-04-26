@@ -1,0 +1,1001 @@
+plm_style_code,style_description,color_code,colorway_short_description,gmh_sector_text,gmh_gender_text,gmh_category_text,gmh_sub_category_text,gmh_sub_brand_code,gmh_sub_brand_text,company_code,distribution_channel_code,site_number,site_text,netslsamt_cy,netslscstmerch_cy,netslsqty_cy,netmsrpamt_cy,netslsamt_ly,netslscstmerch_ly,netslsqty_ly,netmsrpamt_ly,eohttlqty_cy,eohstrqty_cy,intranqty_cy,eohttlqty_ly,eohstrqty_ly,intranqty_ly
+MV-67905,Women High Top Luxe,TRP,Taupe,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3131.45,785.17,7,4285.22,1981.79,624.36,5,3060.87,23,19,4,21,12,0
+MV-96870,Women Day Dresses Relaxed,SBL,Sable,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2292.86,793.06,6,3077.28,1990.96,602.82,6,3077.28,12,10,2,14,13,0
+MV-99181,Women Blazers Modern,BRG,Bordeaux,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,608.93,197.2,1,818.89,590.19,215.5,1,818.89,2,1,1,2,1,0
+MV-31632,Women Weekender Luxe,TRP,Taupe,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6140.46,2055.34,14,7413.67,4265.85,1230.93,10,5295.48,13,12,1,8,7,0
+MV-67104,Men Sandals Essential,RSE,Rose Poudre,Footwear,Men,Heels,Sandals,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1550.93,587.33,4,1950.05,1398.72,426.95,4,1950.05,14,11,3,17,10,0
+MV-79329,Men Suit Trousers Classic,ARG,Argent,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,413.19,131.65,2,559.66,215.37,55.67,1,279.83,2,1,1,1,0,0
+MV-90031,Women Loafers Heritage,IVR,Ivoire,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1661.88,566.8,7,2108.69,1655.73,530.35,7,2108.69,20,15,5,17,10,0
+MV-43586,Women Jeans Signature,ROG,Rouge,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,212.64,78.01,1,288.86,200.62,65.1,1,288.86,3,2,1,3,2,0
+MV-99224,Men Day Dresses Relaxed,ARG,Argent,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2158.41,579.7,6,2918.33,2657.38,960.67,7,3404.72,18,15,3,22,18,0
+MV-74038,Women Pouches,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,458.41,134.9,1,601.32,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-24530,Women Day Dresses Luxe,VRT,Vert,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5642.3,1993.24,10,7221.14,4230.33,1114.31,7,5054.8,11,7,4,7,6,0
+MV-90031,Women Loafers Heritage,CRM,Cognac,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1519.84,559.51,3,1905.67,1532.57,479.97,3,1905.67,8,4,4,9,6,0
+MV-49251,Men Slides Classic,SBL,Sable,Footwear,Men,Flats,Slides,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3865.11,1059.21,5,5561.46,3669.26,1157.57,5,5561.46,16,13,3,18,17,0
+MV-95918,Women Suit Sets Modern,TAN,Tan,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,569.21,209.45,1,710.25,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-73532,Women Midi Dresses Modern,SBL,Sable,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3938.07,1466.42,6,5367.9,2600.55,927.89,4,3578.6,17,14,3,14,12,0
+MV-93746,Women Blazers Essential,ARG,Argent,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1995.24,752.72,8,2730.8,1218.57,452.91,5,1706.75,6,5,1,5,4,0
+MV-80143,Men Knitwear Classic,TAN,Tan,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1711.73,639.33,3,2404.76,1889.95,512.91,3,2404.76,6,5,1,8,5,0
+MV-47196,Women Wallets,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1623.51,416.58,5,2023.8,1446.63,501.43,4,1619.04,6,3,3,5,3,0
+MV-69829,Men Ballet Flats Slim,BRG,Bordeaux,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1936.84,504.45,3,2674.99,1218.79,353.97,2,1783.33,5,4,1,3,1,0
+MV-44959,Women Blazers Modern,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4566.0,1566.83,12,6090.29,3403.06,1045.02,9,4567.72,22,16,6,13,12,0
+MV-15014,Women Bracelets Modern,CRM,Creme,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,1414.74,452.49,3,1756.95,1280.74,384.77,3,1756.95,1,0,1,1,0,0
+MV-88222,Men Suit Trousers Heritage,NVY,Navy,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,2196.9,630.29,10,3039.96,2163.32,769.46,9,2735.97,30,28,2,25,17,0
+MV-65255,Women Evening Dresses Heritage,CAM,Camel,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3475.33,1168.18,8,4446.06,1957.68,728.67,5,2778.79,23,18,5,16,13,0
+MV-62196,Women Blazers,NVY,Navy,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1333.94,500.78,2,1683.85,1396.13,470.94,2,1683.85,5,4,1,5,3,0
+MV-64377,Women Trousers Essential,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,579.9,160.46,1,750.29,0.0,0.0,0,0.0,1,0,1,1,0,0
+MV-78146,Men Day Dresses,TRP,Taupe,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1119.1,301.61,2,1512.52,574.49,183.27,1,756.26,2,1,1,1,0,0
+MV-85965,Men Fedoras Signature,CAM,Camel,Accessories,Men,Hats,Fedoras,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2018.34,533.72,9,2577.64,1871.61,660.31,8,2291.23,23,20,3,18,13,0
+MV-90209,Men Suit Sets Modern,BEG,Beige,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,584.8,165.35,1,775.33,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-20993,Men Wool Scarves Slim,ROG,Rouge,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,784.07,226.54,4,974.96,548.9,156.53,3,731.22,6,5,1,5,4,0
+MV-71474,Men Loafers Relaxed,NVY,Navy,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3026.96,974.45,9,4094.33,3754.47,1258.22,11,5004.18,29,28,1,33,31,0
+MV-84531,Women Check-In Classic,VRT,Vert,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,692.26,241.94,2,841.72,653.77,219.96,2,841.72,3,2,1,3,2,0
+MV-70648,Women Tops,CHP,Champagne,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3351.69,871.55,5,4799.01,2530.74,809.11,4,3839.21,13,12,1,11,10,0
+MV-92345,Women Leather Belts Modern,BEG,Beige,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,730.59,246.19,1,935.9,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-74451,Unisex Weekender Modern,ECR,Ecru,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,862.86,223.56,1,1182.44,894.04,338.14,1,1182.44,2,1,1,2,1,0
+MV-27486,Women Mules Classic,NVY,Navy,Footwear,Women,Heels,Mules,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,6169.08,1659.18,8,7978.1,5751.7,1917.72,7,6980.84,26,16,10,28,25,0
+MV-85156,Women Chain Belts Essential,CAM,Camel,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,937.23,236.12,1,1270.25,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-70931,Men Chain Belts Essential,SBL,Sable,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1115.01,335.71,1,1526.86,1007.59,318.71,1,1526.86,2,1,1,1,0,0
+MV-76249,Men Clutches Luxe,VRT,Vert,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,9340.0,2614.83,10,12435.47,6057.53,1812.75,7,8704.83,30,22,8,21,13,0
+MV-16839,Unisex Key Holders Luxe,ARG,Argent,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1899.29,629.89,2,2550.19,1744.23,619.75,2,2550.19,6,3,3,7,6,0
+MV-82910,Men Shirts Signature,ECR,Ecru,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,8592.62,2965.48,19,11584.47,7389.83,2505.76,17,10365.05,28,24,4,26,19,0
+MV-28191,Women Chelsea Boots Luxe,CHP,Champagne,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,11465.77,3608.0,21,14706.71,7822.93,2311.86,15,10504.8,37,27,10,32,30,0
+MV-65444,Women Berets,ANT,Anthracite,Accessories,Women,Hats,Berets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,359.98,135.1,1,459.09,335.67,107.54,1,459.09,3,2,1,3,2,0
+MV-60181,Women Jackets Classic,CAM,Camel,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,459.07,128.56,1,648.04,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-75308,Men Ballet Flats,TRP,Taupe,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4381.1,1118.39,6,6200.63,4034.05,1444.25,5,5167.19,3,1,2,2,1,0
+MV-43491,Women Earrings Heritage,CRM,Cognac,Accessories,Women,Jewelry,Earrings,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,619.39,199.23,3,790.37,650.88,245.13,3,790.37,1,0,1,1,0,0
+MV-57920,Women Blazers Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,421.52,154.86,1,580.17,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-68838,Men Suit Trousers Signature,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2807.7,946.6,6,3623.13,1899.73,609.89,4,2415.42,18,12,6,16,12,0
+MV-84531,Women Check-In Classic,TRP,Taupe,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1126.23,323.89,1,1301.27,1094.29,303.38,1,1301.27,3,2,1,3,2,0
+MV-76237,Women Skirts Classic,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5929.02,2142.6,11,7810.95,5002.41,1279.62,9,6390.77,40,28,12,29,17,0
+MV-23434,Women Card Holders,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,984.66,259.21,1,1371.39,891.77,260.44,1,1371.39,2,1,1,2,1,0
+MV-24530,Women Day Dresses Luxe,ARG,Argent,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,219.46,68.05,1,305.95,212.54,77.73,1,305.95,0,0,0,0,0,0
+MV-99181,Women Blazers Modern,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,593.44,198.47,1,717.13,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-79615,Women Midi Dresses Slim,NOI,Noir,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3304.2,977.54,17,3996.52,3589.45,1226.26,20,4701.79,50,40,10,59,52,0
+MV-56955,Women Ballet Flats Relaxed,BLU,Bleu Marine,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,3615.71,1247.94,6,5193.99,3709.83,1347.17,6,5193.99,15,9,6,20,15,0
+MV-20543,Men Check-In Classic,CRM,Cognac,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,8254.05,2533.01,8,10655.65,11080.18,4107.69,10,13319.56,23,22,1,26,18,0
+MV-73242,Men Chain Belts Luxe,CAM,Camel,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1564.97,392.68,2,1881.39,1588.01,491.76,2,1881.39,1,0,1,1,0,0
+MV-54589,Women Carry-On Slim,RSE,Rose Poudre,Leather Goods,Women,Luggage,Carry-On,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2152.87,677.51,2,2888.31,1955.51,532.76,2,2888.31,4,2,2,4,3,0
+MV-20328,Men Clutches,BEG,Beige,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,884.23,316.84,1,1260.13,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-80282,Unisex Baseball Caps Signature,ECR,Ecru,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,979.89,305.15,3,1384.98,965.34,337.33,3,1384.98,4,3,1,3,2,0
+MV-80807,Men Ballet Flats Heritage,ARG,Argent,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2498.13,834.96,4,3422.28,2602.47,844.69,4,3422.28,3,2,1,3,2,0
+MV-92345,Women Leather Belts Modern,CHP,Champagne,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,1513.78,409.04,5,1867.02,1105.67,352.1,4,1493.62,3,2,1,2,1,0
+MV-46655,Women Cat Eye Heritage,ECR,Ecru,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,205.8,78.03,1,282.26,204.85,64.02,1,282.26,3,1,2,4,3,0
+MV-82199,Men Shorts Classic,TAN,Tan,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5171.48,1440.77,16,6483.98,3253.46,1174.46,11,4457.74,31,19,12,18,11,0
+MV-59391,Women Weekender Signature,ROG,Rouge,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,613.89,214.85,1,793.28,609.34,186.35,1,793.28,1,0,1,0,0,0
+MV-89299,Men Bracelets Luxe,RSE,Rose Poudre,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,9024.07,3202.29,18,11358.7,8786.65,3031.86,17,10727.66,35,24,11,34,24,0
+MV-51441,Women Jackets Modern,CHP,Champagne,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,299.11,81.93,1,385.89,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-96760,Women Blouses Signature,ARG,Argent,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,945.0,313.27,3,1311.48,598.0,211.92,2,874.32,11,10,1,10,9,0
+MV-89299,Men Bracelets Luxe,RSE,Rose Poudre,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1028.76,274.97,2,1202.24,1030.82,379.3,2,1202.24,2,1,1,2,1,0
+MV-16839,Unisex Key Holders Luxe,BRG,Bordeaux,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2311.37,695.68,3,3208.12,1629.2,572.01,2,2138.75,4,2,2,3,1,0
+MV-63843,Women Midi Dresses Essential,CRM,Creme,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2591.5,851.53,4,3542.62,2589.63,676.35,4,3542.62,13,12,1,12,8,0
+MV-44664,Women Shoulder Bags Modern,NOI,Noir,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1742.52,618.28,3,2446.14,1186.7,435.7,2,1630.76,11,10,1,7,4,0
+MV-43491,Women Earrings Heritage,CHP,Champagne,Accessories,Women,Jewelry,Earrings,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1133.3,315.37,2,1627.81,1051.01,384.14,2,1627.81,2,1,1,2,1,0
+MV-67637,Men Midi Dresses Essential,CAM,Camel,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4150.78,1264.88,7,5178.57,4569.2,1425.63,8,5918.36,15,13,2,15,10,0
+MV-45986,Women Chain Belts Classic,CRM,Creme,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4802.12,1609.04,6,6672.21,3783.74,1435.62,5,5560.17,11,8,3,12,7,0
+MV-38047,Women Round Frames Relaxed,CHP,Champagne,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4347.88,1268.66,9,5583.89,2792.78,802.78,6,3722.6,18,17,1,12,11,0
+MV-70521,Men Mules Luxe,NVY,Navy,Footwear,Men,Heels,Mules,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,519.16,154.93,1,691.86,465.17,172.25,1,691.86,2,1,1,2,1,0
+MV-35995,Unisex Check-In Modern,TRP,Taupe,Leather Goods,Unisex,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1690.0,566.22,5,2160.67,1033.18,372.37,3,1296.4,13,8,5,11,6,0
+MV-79924,Unisex Blazers Modern,BLU,Bleu Marine,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1915.8,588.27,4,2560.82,1723.92,507.65,4,2560.82,4,2,2,5,4,0
+MV-54313,Women Wallets Classic,CRM,Cognac,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1718.5,572.34,2,2057.64,1549.8,543.51,2,2057.64,5,4,1,6,5,0
+MV-74451,Unisex Weekender Modern,CRM,Cognac,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1332.35,352.97,3,1980.8,1240.78,458.14,3,1980.8,3,2,1,3,2,0
+MV-79615,Women Midi Dresses Slim,ARG,Argent,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,899.21,246.0,2,1172.98,456.16,115.65,1,586.49,3,2,1,2,1,0
+MV-58566,Men Leather Belts Relaxed,RSE,Rose Poudre,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,339.29,123.9,1,499.21,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-49251,Men Slides Classic,ARG,Argent,Footwear,Men,Flats,Slides,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,240.89,72.26,1,326.27,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-68991,Unisex Pouches Heritage,RSE,Rose Poudre,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,611.16,170.7,1,734.76,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-70258,Men Platform Slim,BLU,Bleu Marine,Footwear,Men,Sneakers,Platform,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1910.79,646.44,6,2275.92,2060.01,621.91,7,2655.24,14,9,5,14,12,0
+MV-74038,Women Pouches,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3257.12,893.97,5,4072.4,2941.04,1061.08,5,4072.4,18,15,3,20,15,0
+MV-18163,Men Blazers Slim,CAM,Camel,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4805.14,1676.91,16,6888.52,4072.57,1136.97,13,5596.93,15,11,4,11,7,0
+MV-68991,Unisex Pouches Heritage,ANT,Anthracite,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3012.53,756.93,7,3634.21,4180.72,1570.83,9,4672.56,18,15,3,26,18,0
+MV-98501,Women Blouses Relaxed,SBL,Sable,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,361.12,95.57,1,520.31,344.6,89.16,1,520.31,0,0,0,0,0,0
+MV-67939,Women Weekender Classic,CRM,Creme,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,11330.11,3094.63,11,14001.18,8745.53,2389.66,9,11455.51,33,23,10,25,18,0
+MV-21542,Women Clutches Signature,ARG,Argent,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,8847.26,2928.07,10,10571.19,9156.47,3078.27,10,10571.19,12,11,1,14,8,0
+MV-41029,Women Ballet Flats Luxe,CAM,Camel,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,840.25,268.97,3,1104.07,491.28,145.94,2,736.05,11,10,1,11,9,0
+MV-30253,Men Weekender Essential,CAM,Camel,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3834.0,974.57,4,4755.91,3529.17,1024.15,4,4755.91,4,2,2,5,4,0
+MV-25974,Women Chain Belts,TAN,Tan,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,9475.1,3015.12,20,11987.67,10191.55,3115.19,21,12587.05,59,42,17,70,52,0
+MV-38903,Men Coats Essential,CHP,Champagne,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2675.82,921.31,4,3241.83,1957.48,718.26,3,2431.37,4,2,2,3,2,0
+MV-94675,Women Trousers Essential,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,5876.1,1896.19,13,7204.65,4900.73,1801.61,10,5542.04,42,31,11,26,23,0
+MV-91490,Women Midi Dresses,CAM,Camel,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,693.67,255.02,1,948.84,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-74866,Women Wool Scarves Luxe,NVY,Navy,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,329.63,110.55,1,450.84,315.62,82.98,1,450.84,3,1,2,3,2,0
+MV-86556,Women Evening Dresses Classic,CHP,Champagne,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1186.03,375.0,3,1700.67,1211.07,347.87,3,1700.67,7,6,1,6,5,0
+MV-91490,Women Midi Dresses,TRP,Taupe,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2877.26,901.91,4,3975.28,2017.18,737.73,3,2981.46,7,4,3,6,5,0
+MV-80468,Men Blouses Relaxed,CHP,Champagne,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,3222.67,1189.2,9,4000.75,2876.63,1068.63,9,4000.75,8,7,1,8,6,0
+MV-56346,Women Clutches Essential,CAM,Camel,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,22685.77,6624.34,24,29370.31,20793.15,6235.26,24,29370.31,18,17,1,19,11,0
+MV-73242,Men Chain Belts Luxe,TAN,Tan,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,744.63,187.56,2,948.66,373.99,138.74,1,474.33,1,0,1,0,0,0
+MV-65851,Women Midi Dresses Slim,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,724.8,222.23,1,895.76,741.48,212.97,1,895.76,3,2,1,3,1,0
+MV-94675,Women Trousers Essential,TRP,Taupe,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3604.75,1300.15,8,4545.68,2640.43,892.24,6,3409.26,24,16,8,22,14,0
+MV-50768,Men Knitwear Modern,SBL,Sable,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1107.9,352.04,5,1581.51,1107.31,331.98,5,1581.51,15,12,3,13,10,0
+MV-49618,Men Square Frames Classic,ROG,Rouge,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,195.22,65.01,1,258.28,192.55,59.32,1,258.28,0,0,0,0,0,0
+MV-76132,Unisex Leather Belts Slim,IVR,Ivoire,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2745.27,896.95,3,3654.3,2541.76,818.95,3,3654.3,6,5,1,6,3,0
+MV-76542,Men Suit Sets Modern,CRM,Cognac,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1704.43,584.41,7,2404.75,2161.58,584.18,8,2748.28,14,11,3,18,13,0
+MV-67637,Men Midi Dresses Essential,CHP,Champagne,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5105.29,1909.81,8,6515.18,6176.22,2112.65,10,8143.97,31,27,4,43,36,0
+MV-12260,Men Knee High Modern,NOI,Noir,Footwear,Men,Boots,Knee High,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1124.97,322.49,3,1380.18,991.64,276.98,3,1380.18,7,5,2,7,4,0
+MV-52176,Women Check-In Relaxed,NOI,Noir,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,2139.91,809.65,2,2742.07,1083.95,351.76,1,1371.03,5,3,2,3,2,0
+MV-71057,Women Boots,TRP,Taupe,Footwear,Women,Heels,Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,8505.21,3224.92,20,11754.68,7262.72,2213.41,16,9403.74,53,43,10,49,43,0
+MV-74451,Unisex Weekender Modern,CRM,Cognac,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,5541.32,1484.45,6,7161.76,4812.84,1296.26,5,5968.13,21,19,2,17,15,0
+MV-59672,Women Shoulder Bags Classic,ANT,Anthracite,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,628.69,227.78,2,771.58,339.54,91.45,1,385.79,3,2,1,3,2,0
+MV-38683,Men Tops Slim,ROG,Rouge,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,270.73,94.93,1,395.23,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-59308,Men Knitwear Essential,CAM,Camel,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3834.6,1293.76,7,5067.75,3668.4,1165.45,6,4343.79,13,11,2,12,9,0
+MV-98501,Women Blouses Relaxed,NVY,Navy,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,555.03,187.03,1,759.26,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-55830,Women Jeans Heritage,TAN,Tan,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,367.62,127.88,1,470.95,384.67,138.45,1,470.95,3,2,1,3,2,0
+MV-92345,Women Leather Belts Modern,SBL,Sable,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2844.96,1027.83,4,3770.96,2424.48,761.55,3,2828.22,8,6,2,8,6,0
+MV-59015,Unisex Baseball Caps Relaxed,CRM,Creme,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,424.57,158.51,1,537.26,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-66881,Men Trousers Modern,IVR,Ivoire,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2751.44,1035.76,5,3681.71,3061.54,843.77,5,3681.71,9,7,2,10,9,0
+MV-20350,Women Card Holders Essential,CRM,Cognac,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,585.48,170.5,1,860.55,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-28191,Women Chelsea Boots Luxe,CHP,Champagne,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2020.93,556.03,5,2801.39,1625.27,515.42,4,2241.11,5,4,1,5,3,0
+MV-20543,Men Check-In Classic,IVR,Ivoire,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,416.9,129.07,1,535.6,445.45,168.95,1,535.6,0,0,0,0,0,0
+MV-76237,Women Skirts Classic,CAM,Camel,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,317.77,99.08,1,370.44,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-93283,Unisex Wallets Luxe,ANT,Anthracite,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,489.83,153.16,1,667.99,476.62,142.14,1,667.99,1,0,1,1,0,0
+MV-63843,Women Midi Dresses Essential,TAN,Tan,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4441.74,1282.64,14,5626.88,5370.38,1540.68,17,6832.64,41,33,8,46,37,0
+MV-94675,Women Trousers Essential,ARG,Argent,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3628.28,1035.97,11,4811.33,2745.0,933.34,8,3499.15,21,18,3,15,11,0
+MV-69459,Women Rings Signature,CHP,Champagne,Accessories,Women,Jewelry,Rings,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,358.66,91.52,1,489.68,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-44664,Women Shoulder Bags Modern,CHP,Champagne,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5178.08,1613.04,8,6940.31,5750.34,1525.51,9,7807.84,24,20,4,24,16,0
+MV-77538,Men Check-In Signature,CAM,Camel,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,3461.94,918.53,5,5042.6,4487.0,1346.36,6,6051.12,13,11,2,15,10,0
+MV-20077,Men Chain Belts Slim,TRP,Taupe,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,16747.69,5628.89,19,22615.51,17634.75,6425.35,22,26186.39,46,41,5,47,28,0
+MV-68493,Women Chain Belts Relaxed,ECR,Ecru,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1118.5,310.38,2,1622.04,615.84,230.05,1,811.02,2,1,1,1,0,0
+MV-62772,Men Tote Bags Signature,BEG,Beige,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2768.89,804.82,6,3663.08,1691.94,481.12,4,2442.05,3,2,1,2,1,0
+MV-90356,Women Loafers Signature,VRT,Vert,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,782.78,271.13,1,996.17,767.92,231.84,1,996.17,0,0,0,0,0,0
+MV-80236,Women Coats Slim,TRP,Taupe,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,1379.34,519.97,2,1917.08,677.36,236.94,1,958.54,4,3,1,3,2,0
+MV-62196,Women Blazers,CAM,Camel,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8564.36,2177.77,18,12790.7,7016.84,2242.66,14,9948.32,49,46,3,39,35,0
+MV-91490,Women Midi Dresses,CHP,Champagne,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1085.12,385.27,4,1376.31,1031.53,260.03,4,1376.31,13,11,2,11,7,0
+MV-66349,Women Crossbody Bags Modern,CRM,Creme,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,560.04,160.3,1,651.43,500.18,186.4,1,651.43,2,1,1,2,1,0
+MV-65255,Women Evening Dresses Heritage,BEG,Beige,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,268.09,78.69,1,359.65,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-69446,Unisex Evening Dresses Modern,NOI,Noir,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3906.16,1019.44,6,5798.16,3085.23,865.13,5,4831.8,20,12,8,22,19,0
+MV-39102,Men Day Dresses Luxe,RSE,Rose Poudre,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2622.86,896.09,5,3561.82,2041.34,563.05,4,2849.46,4,3,1,3,2,0
+MV-53228,Women Shoulder Bags Essential,VRT,Vert,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1443.92,368.25,2,2115.31,1346.55,387.17,2,2115.31,5,4,1,6,3,0
+MV-41029,Women Ballet Flats Luxe,GRG,Greige,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4322.11,1419.49,16,5807.61,3013.38,1107.18,11,3992.73,40,36,4,33,27,0
+MV-44687,Men Card Holders Modern,IVR,Ivoire,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,301.88,96.0,1,437.89,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-79942,Men Blazers Essential,TAN,Tan,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,312.03,81.72,1,406.6,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-44687,Men Card Holders Modern,CAM,Camel,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5448.59,1811.73,14,7644.5,6034.59,2013.02,14,7644.5,35,24,11,30,25,0
+MV-27139,Men Jackets Signature,TRP,Taupe,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,844.32,263.77,2,1034.74,810.28,225.86,2,1034.74,3,2,1,3,1,0
+MV-16265,Women Chain Belts Signature,CRM,Cognac,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,553.04,184.43,1,764.84,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-64524,Women Check-In Modern,GRG,Greige,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3898.71,1100.11,4,4814.0,3089.14,1149.18,3,3610.5,2,1,1,1,0,0
+MV-39389,Women Mules Modern,CRM,Creme,Footwear,Women,Heels,Mules,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3475.25,931.22,9,4326.19,3365.05,944.92,9,4326.19,8,4,4,8,5,0
+MV-47880,Women Shorts Relaxed,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,379.84,118.53,1,506.29,368.18,137.16,1,506.29,1,0,1,0,0,0
+MV-33703,Men Earrings Slim,IVR,Ivoire,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,8416.38,2742.87,15,11046.2,8179.64,2413.22,16,11782.61,48,31,17,49,36,0
+MV-77538,Men Check-In Signature,ANT,Anthracite,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7382.5,2073.65,8,9236.19,6647.14,1901.99,8,9236.19,4,3,1,4,3,0
+MV-30866,Women Loafers Modern,BLU,Bleu Marine,Footwear,Women,Flats,Loafers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,813.28,305.06,1,1032.71,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-82135,Women Trousers Slim,TAN,Tan,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3549.39,1199.66,6,4975.53,3004.95,834.55,5,4146.27,23,20,3,23,15,0
+MV-92478,Women Blazers Classic,NOI,Noir,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1010.64,359.98,2,1493.8,480.36,132.09,1,746.9,1,0,1,1,0,0
+MV-16175,Unisex Day Dresses Modern,SBL,Sable,Ready-to-Wear,Unisex,Dresses,Day Dresses,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,679.23,181.28,2,847.4,320.57,121.33,1,423.7,6,4,2,6,5,0
+MV-40595,Women Day Dresses Heritage,TRP,Taupe,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4021.73,1479.98,8,5663.53,2983.01,980.73,6,4247.65,24,18,6,20,16,0
+MV-44099,Women Trousers Essential,ROG,Rouge,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,10990.6,3958.62,18,14577.57,14810.24,3907.09,22,17817.03,34,23,11,43,27,0
+MV-89299,Men Bracelets Luxe,TRP,Taupe,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,631.24,220.27,1,798.8,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-44687,Men Card Holders Modern,TAN,Tan,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1792.86,640.36,3,2350.77,1752.38,448.24,3,2350.77,10,6,4,12,10,0
+MV-45986,Women Chain Belts Classic,RSE,Rose Poudre,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,2635.43,899.73,3,3602.95,1668.35,625.99,2,2401.97,11,9,2,9,7,0
+MV-44664,Women Shoulder Bags Modern,ANT,Anthracite,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1041.69,367.68,2,1298.81,500.59,183.79,1,649.41,2,1,1,1,0,0
+MV-51441,Women Jackets Modern,TAN,Tan,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,853.06,217.72,2,1002.46,837.21,300.02,2,1002.46,5,3,2,6,4,0
+MV-54313,Women Wallets Classic,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1113.76,295.84,1,1354.69,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-54657,Women Evening Dresses Slim,CHP,Champagne,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2365.96,791.48,6,2897.11,2850.78,1015.9,7,3379.96,17,16,1,19,17,0
+MV-59672,Women Shoulder Bags Classic,SBL,Sable,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2108.15,593.96,3,2689.57,1605.14,563.58,2,1793.05,3,2,1,3,2,0
+MV-67104,Men Sandals Essential,SBL,Sable,Footwear,Men,Heels,Sandals,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,773.68,243.26,1,1046.98,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-40005,Men Silk Scarves Classic,VRT,Vert,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4128.29,1050.07,9,6015.42,2621.09,916.98,6,4010.28,22,14,8,17,10,0
+MV-71953,Women Suit Trousers Relaxed,NVY,Navy,Ready-to-Wear,Women,Suits,Suit Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4081.79,1095.86,8,5321.62,3005.36,954.79,6,3991.22,18,11,7,14,9,0
+MV-38047,Women Round Frames Relaxed,RSE,Rose Poudre,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1684.38,488.44,3,2500.33,1084.15,391.89,2,1666.88,9,6,3,6,5,0
+MV-15958,Men Pumps Heritage,RSE,Rose Poudre,Footwear,Men,Heels,Pumps,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,541.05,141.3,1,636.78,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-28191,Women Chelsea Boots Luxe,ARG,Argent,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,3435.55,1136.06,5,4440.42,2610.11,943.96,4,3552.33,19,11,8,14,9,0
+MV-54185,Men Trousers Heritage,RSE,Rose Poudre,Ready-to-Wear,Men,Bottoms,Trousers,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,569.93,201.7,1,845.18,571.75,216.84,1,845.18,0,0,0,0,0,0
+MV-36143,Unisex Weekender Heritage,ARG,Argent,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,870.77,302.68,1,1088.71,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-82135,Women Trousers Slim,CRM,Creme,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2931.04,998.61,7,3487.07,1978.73,591.21,5,2490.76,7,5,2,4,3,0
+MV-87993,Women Fedoras Modern,ECR,Ecru,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,210.67,56.26,1,265.87,234.95,83.56,1,265.87,1,0,1,1,0,0
+MV-59672,Women Shoulder Bags Classic,SBL,Sable,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,723.16,181.23,1,1074.94,755.87,218.05,1,1074.94,2,1,1,2,1,0
+MV-70258,Men Platform Slim,BEG,Beige,Footwear,Men,Sneakers,Platform,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,344.53,124.53,1,496.14,361.36,130.68,1,496.14,0,0,0,0,0,0
+MV-18799,Women Jeans Modern,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,544.46,169.05,1,677.6,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-86556,Women Evening Dresses Classic,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,454.34,126.84,1,656.13,458.32,147.13,1,656.13,2,1,1,2,1,0
+MV-41358,Men Chelsea Boots Heritage,VRT,Vert,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,16417.04,5535.63,30,20359.22,17948.85,4773.43,36,24431.07,55,45,10,57,37,0
+MV-69692,Women Suit Sets Essential,NVY,Navy,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,369.9,108.34,1,471.32,327.7,95.96,1,471.32,2,1,1,2,1,0
+MV-71953,Women Suit Trousers Relaxed,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Suit Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,397.58,119.52,1,484.53,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-98501,Women Blouses Relaxed,NOI,Noir,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,395.0,146.27,1,495.76,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-57052,Men Day Dresses Signature,GRG,Greige,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3285.52,982.8,15,4662.25,4236.6,1298.64,18,5594.7,56,44,12,80,49,0
+MV-16265,Women Chain Belts Signature,CAM,Camel,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3538.51,1238.01,4,4418.76,3337.72,1187.88,4,4418.76,4,2,2,4,3,0
+MV-35272,Men Check-In Modern,NOI,Noir,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1145.78,364.22,2,1569.75,564.1,151.88,1,784.87,2,1,1,1,0,0
+MV-22833,Women Midi Dresses Classic,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2913.47,916.07,11,3793.82,2032.9,580.53,8,2759.14,32,25,7,27,22,0
+MV-62034,Women Necklaces Luxe,NVY,Navy,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,381.14,96.95,2,528.73,346.2,125.28,2,528.73,4,3,1,4,3,0
+MV-59672,Women Shoulder Bags Classic,BLU,Bleu Marine,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1059.62,363.34,2,1382.91,1181.78,308.07,2,1382.91,7,5,2,7,5,0
+MV-66881,Men Trousers Modern,CHP,Champagne,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,327.65,96.24,1,401.11,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-54657,Women Evening Dresses Slim,CHP,Champagne,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1030.42,295.92,2,1358.44,1148.47,338.69,2,1358.44,1,0,1,0,0,0
+MV-54089,Unisex Blazers,ROG,Rouge,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,442.52,165.09,2,554.73,453.57,143.54,2,554.73,2,1,1,1,0,0
+MV-90301,Men High Top,VRT,Vert,Footwear,Men,Sneakers,High Top,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4589.39,1671.26,6,5616.36,3397.89,1101.96,5,4680.3,22,19,3,18,10,0
+MV-18799,Women Jeans Modern,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,502.6,152.47,1,740.43,528.31,173.33,1,740.43,2,1,1,2,1,0
+MV-68838,Men Suit Trousers Signature,ECR,Ecru,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,836.19,224.64,4,1216.19,842.82,235.37,4,1216.19,5,3,2,6,4,0
+MV-70258,Men Platform Slim,GRG,Greige,Footwear,Men,Sneakers,Platform,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,326.52,115.13,1,412.55,325.04,111.68,1,412.55,1,0,1,1,0,0
+MV-20077,Men Chain Belts Slim,VRT,Vert,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,746.81,251.78,1,986.87,767.88,252.73,1,986.87,3,1,2,3,2,0
+MV-26505,Men Leather Belts Relaxed,ANT,Anthracite,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2275.73,789.71,2,2699.95,2172.34,558.2,2,2699.95,3,2,1,3,2,0
+MV-92478,Women Blazers Classic,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,4387.7,1296.78,15,5408.58,4132.75,1428.17,15,5408.58,55,37,18,51,39,0
+MV-35272,Men Check-In Modern,NOI,Noir,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1452.69,445.23,2,2090.17,772.87,257.01,1,1045.08,2,1,1,1,0,0
+MV-64524,Women Check-In Modern,CRM,Cognac,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3662.48,1033.42,6,4578.02,2248.48,809.97,4,3052.01,22,18,4,16,13,0
+MV-54185,Men Trousers Heritage,CRM,Cognac,Ready-to-Wear,Men,Bottoms,Trousers,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,463.67,123.24,1,675.88,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-23238,Women Knitwear Essential,ECR,Ecru,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,375.42,123.33,1,441.85,387.21,145.71,1,441.85,2,1,1,2,1,0
+MV-56346,Women Clutches Essential,CRM,Creme,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,858.51,258.19,1,1157.47,849.9,295.43,1,1157.47,2,1,1,2,1,0
+MV-99381,Women Fedoras Signature,RSE,Rose Poudre,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1207.57,369.02,2,1603.92,577.2,192.2,1,801.96,2,1,1,1,0,0
+MV-97684,Unisex Bracelets Luxe,ANT,Anthracite,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,595.18,151.35,1,770.31,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-62196,Women Blazers,BRG,Bordeaux,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,373.38,113.43,1,494.43,373.59,107.19,1,494.43,3,1,2,3,2,0
+MV-43681,Men Low Top Luxe,GRG,Greige,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4844.03,1351.64,7,6893.15,5743.32,2150.95,8,7877.89,17,16,1,24,19,0
+MV-43586,Women Jeans Signature,ROG,Rouge,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,368.43,96.05,1,460.43,328.08,102.38,1,460.43,2,1,1,1,0,0
+MV-78955,Women Pouches Modern,VRT,Vert,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2872.12,720.5,4,4012.06,2799.23,755.79,4,4012.06,9,5,4,11,10,0
+MV-96761,Men Jackets Essential,BLU,Bleu Marine,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,943.34,295.89,2,1256.56,949.69,255.17,2,1256.56,7,4,3,7,5,0
+MV-24530,Women Day Dresses Luxe,CHP,Champagne,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1876.96,671.33,3,2416.06,1119.67,349.53,2,1610.71,9,8,1,7,4,0
+MV-80798,Men Chain Belts Modern,CRM,Creme,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2091.03,759.8,4,2406.04,2077.64,704.28,4,2406.04,3,2,1,4,3,0
+MV-47512,Men Tops Relaxed,ROG,Rouge,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1205.2,358.38,2,1574.45,589.69,170.15,1,787.22,6,5,1,4,2,0
+MV-68529,Men Ankle Boots,VRT,Vert,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,361.02,126.43,1,522.39,398.31,114.95,1,522.39,2,1,1,3,1,0
+MV-20336,Men Blazers Heritage,VRT,Vert,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,2646.03,666.48,7,3510.09,2214.63,573.67,6,3008.65,25,20,5,24,17,0
+MV-69634,Women Day Dresses Signature,BEG,Beige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3882.15,1010.99,11,4630.23,4453.22,1611.48,12,5051.16,13,11,2,15,9,0
+MV-25043,Men Loafers,CAM,Camel,Footwear,Men,Flats,Loafers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,515.92,192.96,1,621.28,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-35995,Unisex Check-In Modern,TAN,Tan,Leather Goods,Unisex,Luggage,Check-In,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,923.93,324.05,1,1298.92,914.86,232.33,1,1298.92,2,1,1,1,0,0
+MV-92345,Women Leather Belts Modern,TAN,Tan,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,11401.05,3952.76,12,15835.57,8663.54,2590.16,8,10557.04,7,5,2,6,4,0
+MV-38683,Men Tops Slim,BEG,Beige,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,859.72,249.23,2,1158.23,896.58,284.09,2,1158.23,2,1,1,2,1,0
+MV-40005,Men Silk Scarves Classic,ARG,Argent,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2027.24,598.94,4,3007.89,1667.34,540.11,3,2255.92,10,6,4,6,5,0
+MV-47196,Women Wallets,ARG,Argent,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1072.65,391.8,2,1436.29,543.61,161.11,1,718.14,4,3,1,4,2,0
+MV-15513,Unisex Shorts Heritage,NVY,Navy,Ready-to-Wear,Unisex,Bottoms,Shorts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,188.19,63.47,1,259.23,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-60181,Women Jackets Classic,SBL,Sable,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2706.4,678.75,4,3393.95,2116.76,572.52,3,2545.46,11,10,1,11,10,0
+MV-73736,Women Key Holders Relaxed,CAM,Camel,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3459.53,1053.52,4,4591.83,2759.99,931.1,3,3443.88,13,9,4,10,8,0
+MV-59009,Women Earrings Slim,NOI,Noir,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,575.96,176.59,1,770.18,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-84531,Women Check-In Classic,BEG,Beige,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2842.85,990.77,3,3577.72,2011.18,652.73,2,2385.14,7,5,2,4,3,0
+MV-98815,Men Check-In,CHP,Champagne,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,6140.78,1981.95,8,7949.47,6325.51,1842.33,9,8943.16,27,17,10,39,30,0
+MV-52415,Men Jeans Relaxed,SBL,Sable,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2706.12,783.6,4,3903.51,1982.53,675.87,3,2927.63,14,8,6,10,6,0
+MV-63225,Unisex Key Holders,CHP,Champagne,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,790.16,269.44,1,1071.14,798.48,204.21,1,1071.14,3,2,1,2,1,0
+MV-20543,Men Check-In Classic,CRM,Creme,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2655.12,825.42,4,3783.19,1997.83,546.14,3,2837.39,6,4,2,5,4,0
+MV-13396,Women Wallets Slim,NOI,Noir,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,6227.0,1576.64,6,8388.52,6589.6,2113.19,6,8388.52,9,6,3,8,7,0
+MV-46421,Women Knee High Slim,RSE,Rose Poudre,Footwear,Women,Boots,Knee High,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5961.56,1711.36,8,7928.64,6462.28,1786.65,8,7928.64,15,12,3,18,15,0
+MV-55830,Women Jeans Heritage,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1241.54,354.55,5,1508.18,1270.53,331.82,5,1508.18,18,15,3,17,12,0
+MV-76132,Unisex Leather Belts Slim,TRP,Taupe,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1014.81,293.49,1,1403.85,989.05,367.54,1,1403.85,3,2,1,2,1,0
+MV-97684,Unisex Bracelets Luxe,TRP,Taupe,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3034.83,936.42,6,4166.07,2852.3,777.25,6,4166.07,4,2,2,3,2,0
+MV-68138,Women Tops Modern,VRT,Vert,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,3184.55,1020.68,6,4183.92,1899.96,667.63,4,2789.28,22,20,2,18,17,0
+MV-82910,Men Shirts Signature,NVY,Navy,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,221.09,80.65,1,261.34,220.7,65.83,1,261.34,2,1,1,2,1,0
+MV-74451,Unisex Weekender Modern,NVY,Navy,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1330.93,479.83,2,1608.47,1371.62,388.41,2,1608.47,2,1,1,2,1,0
+MV-62383,Men Berets Relaxed,TAN,Tan,Accessories,Men,Hats,Berets,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1114.35,419.26,2,1431.4,1132.46,360.88,2,1431.4,6,4,2,5,4,0
+MV-59834,Women Skirts,SBL,Sable,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3293.73,1097.76,6,4907.76,2845.37,720.27,5,4089.8,21,20,1,15,10,0
+MV-20336,Men Blazers Heritage,ECR,Ecru,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,462.22,147.46,1,574.0,489.51,143.18,1,574.0,2,1,1,2,1,0
+MV-94675,Women Trousers Essential,CRM,Creme,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,2514.05,782.69,4,3589.58,2794.43,914.41,4,3589.58,9,6,3,9,5,0
+MV-90356,Women Loafers Signature,BRG,Bordeaux,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,10956.99,3000.44,13,15678.41,9734.87,3600.44,11,13266.35,30,27,3,25,21,0
+MV-18799,Women Jeans Modern,ARG,Argent,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4832.49,1234.02,8,6361.87,4261.72,1163.4,7,5566.64,19,11,8,16,15,0
+MV-47196,Women Wallets,CAM,Camel,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,7758.78,2744.02,14,10196.4,7981.21,2246.03,14,10196.4,23,21,2,19,16,0
+MV-73532,Women Midi Dresses Modern,TAN,Tan,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,9479.44,2545.97,21,12689.22,8943.79,2642.45,21,12689.22,17,16,1,17,14,0
+MV-91490,Women Midi Dresses,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,260.29,75.39,1,339.88,273.08,85.68,1,339.88,2,1,1,1,0,0
+MV-73736,Women Key Holders Relaxed,CAM,Camel,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4973.17,1657.25,5,7364.36,2807.34,919.84,3,4418.62,10,9,1,7,5,0
+MV-12665,Women Suit Trousers Essential,CRM,Creme,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,817.49,271.83,2,1069.62,377.51,141.96,1,534.81,5,3,2,3,2,0
+MV-37460,Men Jackets Heritage,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4658.73,1410.14,10,6526.86,4927.15,1670.2,10,6526.86,19,14,5,19,12,0
+MV-77538,Men Check-In Signature,ROG,Rouge,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,674.77,226.08,1,980.51,678.79,221.37,1,980.51,3,2,1,4,3,0
+MV-37535,Men Shirts Relaxed,IVR,Ivoire,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,6763.2,1953.33,21,9566.04,7498.09,2462.65,23,10477.09,24,20,4,27,19,0
+MV-66349,Women Crossbody Bags Modern,ECR,Ecru,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5820.15,2180.06,5,7929.88,4259.37,1418.47,4,6343.9,9,5,4,8,6,0
+MV-85156,Women Chain Belts Essential,ANT,Anthracite,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3349.27,1133.05,8,4374.38,2939.25,880.39,7,3827.58,26,21,5,26,19,0
+MV-76249,Men Clutches Luxe,VRT,Vert,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,341.57,128.0,1,472.79,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-36143,Unisex Weekender Heritage,GRG,Greige,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,497.72,180.45,1,679.32,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-28714,Men Trousers Luxe,BEG,Beige,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3273.62,1059.79,7,4290.86,3844.13,1130.16,8,4903.84,9,6,3,12,9,0
+MV-71474,Men Loafers Relaxed,NOI,Noir,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,436.27,123.53,1,515.56,441.0,156.39,1,515.56,2,1,1,2,1,0
+MV-69634,Women Day Dresses Signature,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2785.59,968.58,9,3979.13,2014.05,513.19,6,2652.75,34,26,8,28,19,0
+MV-57943,Women Shorts Essential,CAM,Camel,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,446.31,163.28,1,580.91,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-93283,Unisex Wallets Luxe,SBL,Sable,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3958.06,1283.53,5,5166.7,5140.21,1676.23,6,6200.04,5,3,2,6,4,0
+MV-23133,Men Trousers Essential,BLU,Bleu Marine,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,494.33,159.61,2,635.49,496.46,183.91,2,635.49,4,2,2,4,2,0
+MV-54725,Women Suit Trousers Classic,NOI,Noir,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1173.19,347.73,5,1496.94,898.77,266.34,4,1197.55,5,4,1,4,3,0
+MV-25043,Men Loafers,CRM,Cognac,Footwear,Men,Flats,Loafers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4925.09,1816.54,6,6882.47,4214.94,1255.41,5,5735.39,10,7,3,9,6,0
+MV-90356,Women Loafers Signature,ANT,Anthracite,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,722.92,189.61,2,1052.67,393.27,126.6,1,526.33,1,0,1,0,0,0
+MV-89963,Women Cat Eye Luxe,TRP,Taupe,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,440.1,140.78,1,547.12,466.75,128.79,1,547.12,0,0,0,0,0,0
+MV-88366,Men Blazers Classic,NOI,Noir,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,612.55,174.31,1,839.06,588.86,206.35,1,839.06,1,0,1,1,0,0
+MV-60432,Women Suit Sets Essential,IVR,Ivoire,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2744.17,830.68,4,3191.33,2548.4,677.37,4,3191.33,14,10,4,13,8,0
+MV-68838,Men Suit Trousers Signature,BEG,Beige,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,798.38,241.59,4,1058.3,834.96,304.49,4,1058.3,9,6,3,9,6,0
+MV-69634,Women Day Dresses Signature,VRT,Vert,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3197.41,964.09,7,3880.68,2292.47,669.28,5,2771.92,20,15,5,18,11,0
+MV-82135,Women Trousers Slim,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1635.39,592.17,3,2234.66,1137.61,400.21,2,1489.77,11,9,2,9,6,0
+MV-60181,Women Jackets Classic,BEG,Beige,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1539.68,469.28,3,2160.6,1611.08,540.21,3,2160.6,6,5,1,6,4,0
+MV-96341,Women Card Holders Signature,BEG,Beige,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1317.57,419.67,2,1628.13,632.49,175.85,1,814.06,3,2,1,3,2,0
+MV-96275,Women Coats Essential,CRM,Creme,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,335.03,110.3,1,503.78,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-68991,Unisex Pouches Heritage,SBL,Sable,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1833.19,479.61,2,2228.46,1888.28,654.64,2,2228.46,3,2,1,3,1,0
+MV-84531,Women Check-In Classic,ROG,Rouge,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,17847.24,5362.73,20,23683.5,18440.1,4647.67,22,26051.85,71,63,8,70,67,0
+MV-76039,Women Boots Relaxed,BEG,Beige,Footwear,Women,Heels,Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,9187.87,3276.69,11,12528.38,8764.28,2676.92,10,11389.43,22,21,1,19,17,0
+MV-31632,Women Weekender Luxe,SBL,Sable,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1741.45,640.29,2,2350.08,882.31,302.14,1,1175.04,4,2,2,3,2,0
+MV-72722,Women Midi Dresses Slim,VRT,Vert,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1714.65,436.9,4,2566.56,1787.58,560.22,4,2566.56,13,11,2,12,11,0
+MV-76132,Unisex Leather Belts Slim,ARG,Argent,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6168.28,2040.15,10,8767.69,5792.77,1685.74,10,8767.69,28,27,1,35,25,0
+MV-17816,Women Trousers Slim,ARG,Argent,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1117.7,323.78,3,1427.82,1084.29,307.5,3,1427.82,4,2,2,4,2,0
+MV-38760,Unisex Rings Heritage,NOI,Noir,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,408.69,117.17,1,584.5,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-59009,Women Earrings Slim,IVR,Ivoire,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,418.14,146.09,1,562.07,417.61,156.71,1,562.07,2,1,1,2,1,0
+MV-59009,Women Earrings Slim,BEG,Beige,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1366.43,449.06,3,1775.65,1365.14,363.66,3,1775.65,11,9,2,11,9,0
+MV-12128,Women Cat Eye Signature,CAM,Camel,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,10544.13,3935.33,19,14378.76,11116.08,4210.99,20,15135.53,12,8,4,14,9,0
+MV-38047,Women Round Frames Relaxed,BEG,Beige,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3817.78,1375.52,6,4562.73,3966.86,1262.01,6,4562.73,23,21,2,27,17,0
+MV-16895,Women Leather Belts Slim,TRP,Taupe,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,964.09,261.05,1,1331.49,975.3,243.96,1,1331.49,3,2,1,4,3,0
+MV-78937,Men Carry-On Luxe,CAM,Camel,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,589.6,195.67,1,861.36,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-52176,Women Check-In Relaxed,SBL,Sable,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,7489.99,1959.49,8,9624.02,9197.6,2918.84,10,12030.02,4,3,1,5,4,0
+MV-17592,Men Coats Relaxed,CRM,Cognac,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,5018.41,1478.74,10,7476.14,6291.69,1693.92,11,8223.75,7,5,2,7,5,0
+MV-65296,Women Ankle Boots Slim,IVR,Ivoire,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2884.06,1089.67,5,3424.65,2842.4,1023.75,5,3424.65,11,8,3,13,9,0
+MV-49251,Men Slides Classic,IVR,Ivoire,Footwear,Men,Flats,Slides,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2100.25,571.81,5,2799.12,1986.74,720.7,5,2799.12,5,4,1,6,5,0
+MV-40595,Women Day Dresses Heritage,NVY,Navy,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,565.6,194.23,1,743.93,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-29080,Men Jackets Relaxed,NVY,Navy,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2686.76,895.88,9,3257.97,3460.58,1139.3,11,3981.96,13,9,4,18,12,0
+MV-49472,Men Square Frames Modern,GRG,Greige,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2493.07,866.92,8,3477.25,2663.8,884.84,8,3477.25,6,4,2,7,5,0
+MV-98501,Women Blouses Relaxed,NVY,Navy,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,214.53,75.09,1,274.72,203.87,53.5,1,274.72,2,1,1,2,1,0
+MV-52487,Men Mini Bags Luxe,CRM,Cognac,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5014.16,1323.68,6,5951.42,3409.89,1219.7,4,3967.61,18,13,5,15,10,0
+MV-47196,Women Wallets,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,889.12,282.63,1,1222.27,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-17331,Women Key Holders Relaxed,NOI,Noir,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,478.32,131.22,1,604.02,445.79,124.75,1,604.02,0,0,0,0,0,0
+MV-80807,Men Ballet Flats Heritage,RSE,Rose Poudre,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,331.48,88.52,1,416.45,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-25396,Women Clutches Slim,ANT,Anthracite,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,945.71,239.17,1,1280.13,840.74,221.19,1,1280.13,3,2,1,3,1,0
+MV-82199,Men Shorts Classic,NOI,Noir,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,887.1,267.84,2,1105.6,963.13,255.59,2,1105.6,3,1,2,2,1,0
+MV-17331,Women Key Holders Relaxed,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1958.77,512.69,2,2668.56,1924.68,577.57,2,2668.56,4,3,1,5,4,0
+MV-68991,Unisex Pouches Heritage,TRP,Taupe,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2464.46,932.45,3,3196.57,2508.99,815.23,3,3196.57,9,5,4,9,6,0
+MV-25396,Women Clutches Slim,CHP,Champagne,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1047.79,288.12,3,1379.05,1153.99,313.88,3,1379.05,2,1,1,1,0,0
+MV-76132,Unisex Leather Belts Slim,GRG,Greige,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,661.56,220.45,1,863.52,630.94,169.8,1,863.52,2,1,1,2,1,0
+MV-86484,Men Blazers Essential,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,206.84,71.82,1,277.01,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-93746,Women Blazers Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1002.75,319.66,5,1282.2,564.47,189.86,3,769.32,18,13,5,13,8,0
+MV-80143,Men Knitwear Classic,ROG,Rouge,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,861.34,287.28,2,1070.15,465.16,117.29,1,535.08,1,0,1,0,0,0
+MV-30644,Men Chain Belts Slim,SBL,Sable,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,556.88,139.75,1,728.32,529.31,145.9,1,728.32,3,2,1,3,2,0
+MV-79329,Men Suit Trousers Classic,NVY,Navy,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,7197.16,1909.13,11,10263.33,8443.14,2700.11,13,12129.39,40,27,13,46,43,0
+MV-57943,Women Shorts Essential,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3506.7,1180.51,7,4804.01,3865.48,1203.48,8,5490.29,18,15,3,23,18,0
+MV-70931,Men Chain Belts Essential,NOI,Noir,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,10055.7,3651.1,10,12210.77,8274.96,3062.27,8,9768.61,26,19,7,18,12,0
+MV-27139,Men Jackets Signature,ROG,Rouge,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1255.79,454.23,3,1705.44,880.15,230.76,2,1136.96,10,6,4,9,8,0
+MV-14852,Men Loafers Slim,CAM,Camel,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,460.15,156.84,1,603.11,441.94,113.0,1,603.11,2,1,1,1,0,0
+MV-96200,Women Suit Sets,VRT,Vert,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1231.41,449.51,6,1511.55,1302.39,399.46,6,1511.55,23,16,7,22,19,0
+MV-22097,Men Leather Belts Essential,VRT,Vert,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,991.13,265.1,1,1380.1,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-27486,Women Mules Classic,CAM,Camel,Footwear,Women,Heels,Mules,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1885.38,654.52,3,2603.11,1302.27,418.66,2,1735.41,3,2,1,1,0,0
+MV-46655,Women Cat Eye Heritage,BLU,Bleu Marine,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,405.69,153.13,1,489.88,0.0,0.0,0,0.0,3,2,1,1,0,0
+MV-54589,Women Carry-On Slim,CRM,Creme,Leather Goods,Women,Luggage,Carry-On,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3021.51,963.56,9,4136.31,2211.53,559.79,7,3217.13,31,27,4,28,18,0
+MV-92203,Men Clutches,BEG,Beige,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,391.26,123.73,1,475.25,358.33,90.71,1,475.25,3,2,1,3,2,0
+MV-27892,Men Suit Trousers Modern,CRM,Creme,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,6151.61,2283.16,12,8386.79,4832.65,1476.06,9,6290.09,26,19,7,20,19,0
+MV-28191,Women Chelsea Boots Luxe,CRM,Cognac,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7604.14,2665.71,11,10731.34,5334.4,1578.28,8,7804.61,10,6,4,6,4,0
+MV-20993,Men Wool Scarves Slim,NVY,Navy,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,516.47,171.81,3,707.47,337.25,95.07,2,471.64,9,8,1,6,5,0
+MV-20336,Men Blazers Heritage,VRT,Vert,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4126.2,1186.45,7,5671.01,3030.16,1068.88,5,4050.72,16,10,6,12,8,0
+MV-73532,Women Midi Dresses Modern,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3335.4,884.17,5,4462.26,2724.11,726.44,4,3569.81,3,2,1,2,1,0
+MV-45986,Women Chain Belts Classic,NOI,Noir,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7619.78,2489.23,8,10931.28,7199.24,2281.29,7,9564.87,17,10,7,16,14,0
+MV-69048,Women Tops Luxe,TRP,Taupe,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,961.39,253.01,3,1381.99,573.44,156.31,2,921.33,11,8,3,7,5,0
+MV-62044,Women Low Top Classic,CRM,Creme,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4706.3,1398.31,8,5627.85,3831.14,1036.54,6,4220.89,22,21,1,22,17,0
+MV-30644,Men Chain Belts Slim,GRG,Greige,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1417.86,510.34,3,1759.83,1406.25,402.4,3,1759.83,7,4,3,10,9,0
+MV-27486,Women Mules Classic,GRG,Greige,Footwear,Women,Heels,Mules,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,12421.24,3740.59,15,14791.18,14520.84,4285.02,18,17749.42,19,18,1,27,26,0
+MV-59834,Women Skirts,GRG,Greige,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1766.14,623.64,3,2078.46,1034.7,260.25,2,1385.64,3,2,1,2,1,0
+MV-23238,Women Knitwear Essential,ARG,Argent,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1536.12,395.3,3,2156.35,1438.05,540.49,3,2156.35,6,5,1,6,4,0
+MV-65296,Women Ankle Boots Slim,NOI,Noir,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5032.45,1834.7,8,6225.06,4005.9,1364.5,6,4668.8,17,12,5,10,8,0
+MV-76263,Women High Top Essential,NOI,Noir,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3078.17,1067.04,9,4078.94,2057.62,556.48,6,2719.29,13,10,3,9,5,0
+MV-41358,Men Chelsea Boots Heritage,RSE,Rose Poudre,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1776.86,659.79,4,2590.48,948.58,274.15,2,1295.24,14,13,1,10,6,0
+MV-65851,Women Midi Dresses Slim,ROG,Rouge,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,520.07,130.5,1,706.67,0.0,0.0,0,0.0,1,0,1,1,0,0
+MV-29597,Women Leather Belts,RSE,Rose Poudre,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3306.08,1006.27,3,3888.26,3145.94,969.3,3,3888.26,4,2,2,4,3,0
+MV-64524,Women Check-In Modern,NOI,Noir,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8029.61,2072.85,19,9651.42,7482.68,2500.87,19,9651.42,27,25,2,22,13,0
+MV-25043,Men Loafers,TRP,Taupe,Footwear,Men,Flats,Loafers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4645.72,1733.95,7,6846.93,5251.83,1780.54,7,6846.93,10,8,2,12,11,0
+MV-66881,Men Trousers Modern,ECR,Ecru,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,2720.7,754.84,9,3340.85,2215.1,683.98,8,2969.64,14,11,3,15,14,0
+MV-43586,Women Jeans Signature,TAN,Tan,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,208.15,62.71,1,263.26,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-58566,Men Leather Belts Relaxed,CRM,Cognac,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1308.17,392.19,3,1619.71,1175.52,368.05,3,1619.71,4,3,1,4,3,0
+MV-67104,Men Sandals Essential,CAM,Camel,Footwear,Men,Heels,Sandals,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1958.92,597.58,5,2663.47,1251.18,462.39,3,1598.08,5,4,1,4,3,0
+MV-14877,Women Necklaces Heritage,ROG,Rouge,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1912.66,696.02,9,2703.76,1621.88,510.97,7,2102.92,20,13,7,19,15,0
+MV-99381,Women Fedoras Signature,NVY,Navy,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,567.52,150.76,1,684.92,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-90356,Women Loafers Signature,BRG,Bordeaux,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8197.17,3050.61,10,11066.54,8109.47,2780.04,11,12173.19,13,11,2,16,10,0
+MV-74038,Women Pouches,VRT,Vert,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4199.01,1318.7,4,5953.93,4006.24,1512.02,4,5953.93,8,6,2,10,6,0
+MV-66349,Women Crossbody Bags Modern,RSE,Rose Poudre,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,539.82,185.61,1,779.25,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-69829,Men Ballet Flats Slim,IVR,Ivoire,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,614.04,160.62,2,779.95,350.07,101.29,1,389.98,2,1,1,1,0,0
+MV-25974,Women Chain Belts,SBL,Sable,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,377.46,131.62,1,466.54,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-51116,Unisex Tops Essential,BEG,Beige,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2727.99,991.7,4,3369.84,2577.23,716.31,4,3369.84,13,10,3,12,7,0
+MV-66531,Unisex Key Holders Modern,ANT,Anthracite,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,990.81,345.77,1,1455.99,973.65,333.45,1,1455.99,2,1,1,2,1,0
+MV-31581,Men Key Holders Slim,CAM,Camel,Leather Goods,Men,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,880.27,232.75,1,1062.3,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-94323,Women Round Frames Classic,NOI,Noir,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,3890.47,1119.88,9,4904.02,2469.51,751.36,6,3269.34,13,12,1,9,8,0
+MV-40595,Women Day Dresses Heritage,CHP,Champagne,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,252.76,74.62,1,351.26,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-44664,Women Shoulder Bags Modern,CAM,Camel,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,823.42,226.61,1,1107.31,910.38,256.73,1,1107.31,2,1,1,2,1,0
+MV-80143,Men Knitwear Classic,TAN,Tan,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1882.15,685.45,3,2200.87,1835.34,462.53,3,2200.87,7,6,1,8,4,0
+MV-14852,Men Loafers Slim,VRT,Vert,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1558.72,545.34,4,2233.38,1340.17,487.49,3,1675.03,7,6,1,5,3,0
+MV-18163,Men Blazers Slim,VRT,Vert,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4609.6,1393.51,7,6835.29,4549.9,1616.98,7,6835.29,19,16,3,21,18,0
+MV-77033,Women Weekender Modern,TAN,Tan,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,1753.82,502.14,3,2233.17,1574.31,546.06,3,2233.17,7,4,3,9,8,0
+MV-46559,Men Ballet Flats Luxe,NOI,Noir,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2302.19,795.18,8,3409.62,1419.87,399.53,5,2131.01,23,21,2,18,11,0
+MV-16265,Women Chain Belts Signature,NVY,Navy,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5103.61,1844.05,5,6609.75,5161.43,1500.81,5,6609.75,3,2,1,2,1,0
+MV-94058,Women Chain Belts,ARG,Argent,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,482.35,164.16,1,558.65,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-79329,Men Suit Trousers Classic,ANT,Anthracite,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,358.35,101.77,1,498.93,386.39,114.4,1,498.93,2,1,1,2,1,0
+MV-67637,Men Midi Dresses Essential,VRT,Vert,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1963.81,725.63,3,2358.86,1164.98,327.15,2,1572.57,5,4,1,4,3,0
+MV-56346,Women Clutches Essential,CRM,Cognac,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1479.32,550.42,2,1996.36,1532.1,570.45,2,1996.36,4,3,1,3,2,0
+MV-71057,Women Boots,RSE,Rose Poudre,Footwear,Women,Heels,Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3379.57,855.66,7,4353.82,2493.74,695.26,5,3109.87,18,11,7,11,8,0
+MV-60052,Unisex Evening Dresses,CAM,Camel,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2587.14,768.85,4,3694.98,2514.24,746.89,4,3694.98,8,7,1,10,8,0
+MV-90301,Men High Top,CAM,Camel,Footwear,Men,Sneakers,High Top,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,805.72,215.44,2,1003.99,749.98,269.19,2,1003.99,2,1,1,2,1,0
+MV-47196,Women Wallets,BEG,Beige,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,441.79,132.19,1,537.1,394.83,144.48,1,537.1,1,0,1,1,0,0
+MV-91830,Women Bracelets,GRG,Greige,Accessories,Women,Jewelry,Bracelets,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,242.83,72.1,1,310.5,237.32,72.18,1,310.5,3,2,1,3,2,0
+MV-17816,Women Trousers Slim,GRG,Greige,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,807.87,203.08,4,1094.67,414.03,122.41,2,547.34,2,1,1,1,0,0
+MV-43681,Men Low Top Luxe,NVY,Navy,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2185.61,701.37,3,2816.56,1335.06,353.58,2,1877.71,9,8,1,7,6,0
+MV-49251,Men Slides Classic,NVY,Navy,Footwear,Men,Flats,Slides,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1861.35,638.04,3,2602.06,1175.06,307.73,2,1734.7,1,0,1,0,0,0
+MV-31798,Women Shoulder Bags Essential,CHP,Champagne,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,795.2,223.03,1,1075.65,862.98,255.07,1,1075.65,0,0,0,0,0,0
+MV-68838,Men Suit Trousers Signature,VRT,Vert,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1496.87,466.39,6,1972.49,1601.73,558.95,7,2301.24,6,5,1,9,5,0
+MV-93746,Women Blazers Essential,CRM,Cognac,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3269.4,1211.67,10,4682.23,3969.31,1255.87,11,5150.45,18,12,6,17,10,0
+MV-36318,Women Ankle Boots Slim,CRM,Creme,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,790.64,236.49,1,1161.38,808.18,297.5,1,1161.38,1,0,1,1,0,0
+MV-94058,Women Chain Belts,RSE,Rose Poudre,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1575.23,595.44,3,2192.76,1558.18,486.83,3,2192.76,4,2,2,4,2,0
+MV-68929,Women Crossbody Bags Relaxed,BLU,Bleu Marine,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,15577.18,5206.84,20,21633.56,18711.41,5157.77,24,25960.27,30,20,10,41,34,0
+MV-23133,Men Trousers Essential,TAN,Tan,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,698.14,215.3,2,973.4,372.86,116.25,1,486.7,1,0,1,0,0,0
+MV-44664,Women Shoulder Bags Modern,TRP,Taupe,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,3135.18,1046.95,4,4549.58,3881.72,1468.21,5,5686.97,15,14,1,19,11,0
+MV-95191,Women Coats Signature,ECR,Ecru,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,332.78,83.74,1,416.88,370.45,117.85,1,416.88,3,2,1,3,2,0
+MV-30257,Women Weekender Relaxed,ROG,Rouge,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4088.48,1044.28,5,5820.52,2603.04,944.27,3,3492.31,15,12,3,10,9,0
+MV-82135,Women Trousers Slim,IVR,Ivoire,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,199.03,57.62,1,237.05,177.55,49.14,1,237.05,1,0,1,1,0,0
+MV-48177,Women Card Holders Essential,CAM,Camel,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,17800.15,6458.15,17,23436.75,19259.53,5194.16,18,24815.39,37,26,11,42,33,0
+MV-96870,Women Day Dresses Relaxed,CHP,Champagne,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1653.66,449.44,6,2012.14,1417.2,536.75,5,1676.78,13,12,1,12,8,0
+MV-47512,Men Tops Relaxed,BEG,Beige,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2509.56,674.83,8,3362.39,2883.25,1075.59,10,4202.99,12,10,2,18,11,0
+MV-92203,Men Clutches,TAN,Tan,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5489.1,2017.02,6,7300.07,4919.55,1512.78,6,7300.07,23,19,4,27,21,0
+MV-20350,Women Card Holders Essential,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2165.34,819.48,4,3005.29,1551.55,457.66,3,2253.96,2,1,1,2,1,0
+MV-16895,Women Leather Belts Slim,BEG,Beige,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3019.47,1104.33,3,3726.13,2965.74,753.03,3,3726.13,10,6,4,12,8,0
+MV-47243,Men Boots Heritage,ROG,Rouge,Footwear,Men,Heels,Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6833.11,2440.82,10,8134.58,7121.63,2560.29,11,8948.04,9,8,1,11,8,0
+MV-60432,Women Suit Sets Essential,ARG,Argent,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,6275.7,2024.11,17,8038.34,4985.69,1623.05,13,6146.97,15,14,1,10,9,0
+MV-99381,Women Fedoras Signature,ECR,Ecru,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1403.53,396.74,3,1785.87,1306.24,350.12,3,1785.87,8,7,1,9,6,0
+MV-70521,Men Mules Luxe,BLU,Bleu Marine,Footwear,Men,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8540.14,3036.01,14,10783.2,6024.67,2061.77,10,7702.28,14,10,4,9,8,0
+MV-47512,Men Tops Relaxed,CRM,Creme,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,927.67,266.64,4,1225.51,646.78,203.74,3,919.13,10,7,3,10,6,0
+MV-51116,Unisex Tops Essential,VRT,Vert,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2456.29,694.61,4,3455.71,2464.93,671.4,4,3455.71,9,8,1,9,7,0
+MV-46655,Women Cat Eye Heritage,ARG,Argent,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1570.45,592.03,3,1867.65,1638.83,464.39,3,1867.65,11,7,4,9,5,0
+MV-54185,Men Trousers Heritage,TAN,Tan,Ready-to-Wear,Men,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,207.04,78.32,1,256.97,206.92,65.31,1,256.97,3,2,1,3,2,0
+MV-50768,Men Knitwear Modern,CAM,Camel,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,493.12,168.04,1,659.03,425.31,160.15,1,659.03,1,0,1,1,0,0
+MV-57920,Women Blazers Slim,ROG,Rouge,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,493.09,152.09,1,624.76,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-40595,Women Day Dresses Heritage,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,1582.18,589.13,3,2308.33,1680.05,580.3,3,2308.33,9,6,3,9,7,0
+MV-39102,Men Day Dresses Luxe,NVY,Navy,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,873.5,253.62,2,1050.82,838.36,269.08,2,1050.82,1,0,1,1,0,0
+MV-79615,Women Midi Dresses Slim,ROG,Rouge,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,913.83,254.49,3,1135.59,619.1,184.24,2,757.06,4,3,1,3,2,0
+MV-14852,Men Loafers Slim,RSE,Rose Poudre,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5559.8,1620.73,21,6953.01,4411.24,1492.92,18,5959.73,53,42,11,42,40,0
+MV-18163,Men Blazers Slim,ROG,Rouge,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,549.74,181.23,2,645.07,271.79,78.65,1,322.54,4,2,2,3,2,0
+MV-68529,Men Ankle Boots,CHP,Champagne,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1931.2,663.06,3,2616.32,1365.51,378.36,2,1744.22,9,6,3,7,4,0
+MV-87993,Women Fedoras Modern,SBL,Sable,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,209.23,70.75,1,299.99,203.34,56.58,1,299.99,3,2,1,3,2,0
+MV-20745,Unisex Mini Bags Essential,VRT,Vert,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,618.76,185.58,1,792.12,620.82,197.05,1,792.12,1,0,1,1,0,0
+MV-23238,Women Knitwear Essential,NOI,Noir,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5031.87,1348.78,8,6523.48,5740.14,2149.69,10,8154.35,17,11,6,24,18,0
+MV-82910,Men Shirts Signature,CRM,Creme,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,779.14,276.58,4,1119.68,868.05,323.77,4,1119.68,9,7,2,9,7,0
+MV-18799,Women Jeans Modern,NOI,Noir,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3185.11,1092.96,7,3981.69,2731.84,755.14,6,3412.88,25,21,4,27,24,0
+MV-57943,Women Shorts Essential,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,252.81,81.22,1,335.94,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-47243,Men Boots Heritage,BEG,Beige,Footwear,Men,Heels,Boots,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,2504.03,751.97,4,3482.39,1985.18,620.44,3,2611.79,12,9,3,12,10,0
+MV-76542,Men Suit Sets Modern,NOI,Noir,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,351.74,101.12,1,520.89,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-62296,Unisex Bracelets Signature,ECR,Ecru,Accessories,Unisex,Jewelry,Bracelets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,370.78,133.87,1,523.06,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-44687,Men Card Holders Modern,ANT,Anthracite,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1056.41,275.92,1,1363.7,1018.11,256.34,1,1363.7,0,0,0,0,0,0
+MV-16265,Women Chain Belts Signature,VRT,Vert,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,739.07,190.94,1,1034.72,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-27961,Women Blouses Signature,CHP,Champagne,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,789.42,281.51,2,1005.23,404.22,131.43,1,502.62,3,2,1,3,2,0
+MV-20336,Men Blazers Heritage,CAM,Camel,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,432.4,135.22,1,547.05,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-89507,Women Blazers Essential,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,10869.48,3524.56,23,13626.17,9016.93,3187.34,19,11256.4,27,25,2,20,12,0
+MV-24530,Women Day Dresses Luxe,TRP,Taupe,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1327.71,486.21,2,1887.44,1325.45,405.07,2,1887.44,3,2,1,3,2,0
+MV-57052,Men Day Dresses Signature,CRM,Creme,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,404.06,151.86,1,493.08,430.13,152.05,1,493.08,1,0,1,1,0,0
+MV-87993,Women Fedoras Modern,RSE,Rose Poudre,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,190.66,59.43,1,255.67,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-18163,Men Blazers Slim,TAN,Tan,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1888.45,513.18,4,2419.92,1391.71,462.86,3,1814.94,5,4,1,4,3,0
+MV-71669,Men Silk Scarves,BRG,Bordeaux,Accessories,Men,Scarves,Silk Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,599.93,208.3,1,796.65,576.04,183.72,1,796.65,2,1,1,2,1,0
+MV-65851,Women Midi Dresses Slim,ROG,Rouge,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2624.77,763.54,10,3694.2,2309.36,588.73,9,3324.78,36,29,7,38,30,0
+MV-56955,Women Ballet Flats Relaxed,IVR,Ivoire,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,7852.32,2326.8,17,9254.09,6670.61,2110.84,16,8709.73,20,15,5,17,12,0
+MV-23238,Women Knitwear Essential,SBL,Sable,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,605.23,210.83,1,772.86,644.21,224.68,1,772.86,1,0,1,1,0,0
+MV-63225,Unisex Key Holders,ECR,Ecru,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1368.89,393.83,3,1683.93,1290.4,399.87,3,1683.93,4,3,1,4,2,0
+MV-71797,Men Shoulder Bags Classic,CAM,Camel,Leather Goods,Men,Handbags,Shoulder Bags,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,381.75,135.08,1,527.17,390.01,125.5,1,527.17,3,2,1,4,2,0
+MV-49139,Men Wool Scarves Essential,BLU,Bleu Marine,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2839.35,836.54,5,3480.11,2755.55,734.74,5,3480.11,15,9,6,16,15,0
+MV-48177,Women Card Holders Essential,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,643.33,230.01,2,927.03,323.01,119.45,1,463.51,2,1,1,1,0,0
+MV-69459,Women Rings Signature,VRT,Vert,Accessories,Women,Jewelry,Rings,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,279.58,78.64,1,352.03,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-59834,Women Skirts,NOI,Noir,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,560.09,173.15,1,791.34,619.6,210.85,1,791.34,3,2,1,3,2,0
+MV-16175,Unisex Day Dresses Modern,BEG,Beige,Ready-to-Wear,Unisex,Dresses,Day Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1786.6,627.02,5,2530.25,1419.37,508.15,4,2024.2,12,11,1,11,8,0
+MV-89507,Women Blazers Essential,VRT,Vert,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,490.73,155.57,2,700.83,512.75,171.93,2,700.83,4,2,2,4,2,0
+MV-58566,Men Leather Belts Relaxed,CAM,Camel,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,768.79,193.37,1,919.4,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-62521,Women Silk Scarves Luxe,RSE,Rose Poudre,Accessories,Women,Scarves,Silk Scarves,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1806.15,628.26,6,2315.2,1731.66,516.27,6,2315.2,10,8,2,11,10,0
+MV-56955,Women Ballet Flats Relaxed,TAN,Tan,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1691.42,462.12,4,2498.14,1735.62,584.23,4,2498.14,8,5,3,7,4,0
+MV-54942,Men Square Frames Relaxed,RSE,Rose Poudre,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,2540.81,865.73,10,3154.11,1874.83,543.05,7,2207.87,28,26,2,21,15,0
+MV-76132,Unisex Leather Belts Slim,ARG,Argent,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,364.65,91.58,1,462.76,415.21,146.33,1,462.76,3,2,1,3,2,0
+MV-15513,Unisex Shorts Heritage,ANT,Anthracite,Ready-to-Wear,Unisex,Bottoms,Shorts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4020.94,1110.52,8,5816.54,3152.64,944.27,6,4362.41,10,9,1,9,7,0
+MV-67637,Men Midi Dresses Essential,CRM,Creme,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2545.87,800.07,6,3559.08,2569.18,880.82,6,3559.08,19,18,1,19,14,0
+MV-77538,Men Check-In Signature,CAM,Camel,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,495.99,157.22,1,600.96,484.57,149.1,1,600.96,1,0,1,1,0,0
+MV-98188,Women Knee High Heritage,TRP,Taupe,Footwear,Women,Boots,Knee High,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2812.22,779.46,6,3841.63,2579.32,877.48,6,3841.63,8,7,1,6,5,0
+MV-80143,Men Knitwear Classic,IVR,Ivoire,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,630.29,205.62,3,849.81,563.14,199.88,3,849.81,11,8,3,14,9,0
+MV-85914,Women Wallets,VRT,Vert,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,16272.97,4869.53,16,21860.9,17410.53,5821.48,17,23227.21,47,44,3,44,29,0
+MV-31798,Women Shoulder Bags Essential,IVR,Ivoire,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1084.01,405.45,1,1404.75,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-76039,Women Boots Relaxed,TRP,Taupe,Footwear,Women,Heels,Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3159.68,808.26,5,4518.29,3861.07,1369.27,6,5421.94,12,10,2,15,14,0
+MV-96341,Women Card Holders Signature,ECR,Ecru,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1448.4,387.39,2,1883.14,1557.59,481.36,2,1883.14,2,1,1,2,1,0
+MV-18163,Men Blazers Slim,CRM,Creme,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7619.03,2303.31,17,11359.42,8522.32,3001.53,19,12695.83,9,7,2,8,6,0
+MV-62772,Men Tote Bags Signature,ROG,Rouge,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2121.65,786.6,2,2721.78,2326.15,776.86,2,2721.78,3,2,1,3,2,0
+MV-17331,Women Key Holders Relaxed,CRM,Creme,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,8127.66,2184.9,18,11907.16,7959.93,2247.83,17,11245.65,39,29,10,41,35,0
+MV-41029,Women Ballet Flats Luxe,BRG,Bordeaux,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,8876.31,2784.62,12,11410.76,9992.67,2562.76,13,12361.66,46,30,16,55,39,0
+MV-12180,Men High Top Signature,BRG,Bordeaux,Footwear,Men,Sneakers,High Top,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,508.03,144.1,1,670.21,465.83,128.2,1,670.21,2,1,1,2,1,0
+MV-28714,Men Trousers Luxe,GRG,Greige,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2846.23,727.95,8,3555.52,1981.21,522.84,6,2666.64,17,14,3,15,14,0
+MV-69829,Men Ballet Flats Slim,CAM,Camel,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,20572.29,6390.37,29,25057.94,22268.25,8210.06,32,27650.14,94,75,19,122,109,0
+MV-94058,Women Chain Belts,CAM,Camel,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,927.84,320.45,1,1345.09,870.8,307.04,1,1345.09,3,2,1,2,1,0
+MV-62521,Women Silk Scarves Luxe,CRM,Creme,Accessories,Women,Scarves,Silk Scarves,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,747.72,230.59,3,904.82,666.86,228.65,3,904.82,1,0,1,0,0,0
+MV-47196,Women Wallets,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1562.71,510.51,4,2135.91,1759.28,664.32,4,2135.91,13,11,2,15,11,0
+MV-90356,Women Loafers Signature,TRP,Taupe,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,271.49,73.04,1,346.56,234.34,64.88,1,346.56,1,0,1,1,0,0
+MV-83975,Unisex Baseball Caps Classic,CAM,Camel,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,204.39,62.84,1,252.72,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-86556,Women Evening Dresses Classic,CRM,Creme,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,621.8,227.5,1,787.06,671.01,254.47,1,787.06,1,0,1,1,0,0
+MV-23979,Women Check-In Relaxed,CHP,Champagne,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1154.63,380.15,1,1410.85,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-68493,Women Chain Belts Relaxed,BRG,Bordeaux,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2898.23,744.19,3,3438.14,2622.4,793.74,3,3438.14,11,6,5,12,7,0
+MV-32527,Women Mules Luxe,BEG,Beige,Footwear,Women,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,375.42,126.11,1,487.12,386.79,146.01,1,487.12,2,1,1,2,1,0
+MV-42087,Men Slides Slim,CHP,Champagne,Footwear,Men,Flats,Slides,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7463.1,2588.24,11,10341.45,5914.88,1987.93,9,8461.19,29,24,5,27,19,0
+MV-78146,Men Day Dresses,IVR,Ivoire,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3249.74,900.83,6,4721.95,3226.28,1167.34,6,4721.95,14,10,4,13,10,0
+MV-78614,Women Trousers Signature,ARG,Argent,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,593.74,170.44,1,782.34,609.31,226.87,1,782.34,1,0,1,1,0,0
+MV-49139,Men Wool Scarves Essential,ECR,Ecru,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,2038.95,579.12,5,2443.23,1693.98,531.42,4,1954.59,19,14,5,16,9,0
+MV-44959,Women Blazers Modern,BEG,Beige,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2709.67,938.28,5,3730.31,1980.12,683.53,4,2984.25,19,13,6,20,15,0
+MV-52176,Women Check-In Relaxed,CRM,Cognac,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,17964.44,5490.8,17,24424.54,14068.98,3671.55,15,21551.06,32,24,8,30,25,0
+MV-79942,Men Blazers Essential,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,270.27,86.33,1,378.25,283.32,105.42,1,378.25,2,1,1,2,1,0
+MV-26704,Men Pouches Classic,TAN,Tan,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,677.19,214.2,1,893.51,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-89299,Men Bracelets Luxe,TAN,Tan,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3663.56,1371.55,14,5201.78,4222.5,1157.32,15,5573.33,44,42,2,45,32,0
+MV-57920,Women Blazers Slim,NOI,Noir,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7376.48,2587.3,14,10594.15,6035.09,1568.51,12,9080.7,50,37,13,36,33,0
+MV-81364,Unisex Crossbody Bags Signature,BRG,Bordeaux,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5950.82,1854.95,7,7420.55,5233.77,1866.97,6,6360.47,19,11,8,15,12,0
+MV-68838,Men Suit Trousers Signature,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,4168.69,1120.68,8,6038.39,4417.17,1410.65,8,6038.39,26,25,1,30,28,0
+MV-30253,Men Weekender Essential,ECR,Ecru,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,797.67,279.32,1,1097.74,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-76263,Women High Top Essential,SBL,Sable,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1228.46,356.02,3,1639.78,737.21,270.1,2,1093.18,7,4,3,5,3,0
+MV-62772,Men Tote Bags Signature,ARG,Argent,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,970.05,255.04,1,1280.43,964.12,257.59,1,1280.43,3,2,1,3,2,0
+MV-25974,Women Chain Belts,BEG,Beige,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,532.55,185.47,1,703.48,502.04,162.72,1,703.48,1,0,1,1,0,0
+MV-62772,Men Tote Bags Signature,SBL,Sable,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,4778.08,1317.97,9,7011.16,3983.24,1078.03,7,5453.12,12,7,5,10,9,0
+MV-82512,Women Shorts Heritage,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,609.34,209.54,1,809.1,0.0,0.0,0,0.0,1,0,1,1,0,0
+MV-96870,Women Day Dresses Relaxed,VRT,Vert,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1383.59,347.88,3,1906.26,1346.8,408.56,3,1906.26,5,4,1,5,4,0
+MV-33647,Men Coats Heritage,BEG,Beige,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,9733.4,2898.71,15,13619.75,10333.15,3448.96,15,13619.75,42,37,5,43,26,0
+MV-17592,Men Coats Relaxed,BLU,Bleu Marine,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,567.95,185.1,1,702.13,535.73,196.21,1,702.13,1,0,1,1,0,0
+MV-93717,Women Leather Belts Heritage,ARG,Argent,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,18455.21,5158.79,21,25107.97,19880.48,7434.82,23,27499.2,21,20,1,20,18,0
+MV-70521,Men Mules Luxe,TAN,Tan,Footwear,Men,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,9920.92,2801.35,28,13570.36,8949.69,2748.27,25,12116.4,26,20,6,22,15,0
+MV-76263,Women High Top Essential,ANT,Anthracite,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1949.81,664.06,4,2536.41,1978.29,550.07,4,2536.41,6,4,2,5,4,0
+MV-70258,Men Platform Slim,VRT,Vert,Footwear,Men,Sneakers,Platform,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,377.96,125.43,1,525.82,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-32527,Women Mules Luxe,CRM,Cognac,Footwear,Women,Heels,Mules,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1059.73,359.56,2,1482.5,465.64,151.32,1,741.25,1,0,1,0,0,0
+MV-76132,Unisex Leather Belts Slim,ROG,Rouge,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2787.66,926.23,3,3859.78,1931.95,515.57,2,2573.18,10,7,3,11,8,0
+MV-47880,Women Shorts Relaxed,GRG,Greige,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,412.19,137.4,2,566.05,386.64,135.73,2,566.05,4,3,1,4,3,0
+MV-80468,Men Blouses Relaxed,TRP,Taupe,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,513.27,173.51,1,714.06,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-35203,Men Blazers Modern,VRT,Vert,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,12126.83,3732.16,19,15767.84,10418.91,3334.5,17,14108.07,38,37,1,28,18,0
+MV-78146,Men Day Dresses,ARG,Argent,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,603.8,219.63,1,747.49,564.8,153.55,1,747.49,3,2,1,3,2,0
+MV-59308,Men Knitwear Essential,ARG,Argent,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3417.01,1194.72,7,4156.33,4376.38,1391.75,9,5343.85,25,15,10,27,16,0
+MV-99181,Women Blazers Modern,ROG,Rouge,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,439.18,153.96,1,574.3,425.86,110.21,1,574.3,3,1,2,2,1,0
+MV-56955,Women Ballet Flats Relaxed,TRP,Taupe,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3795.59,1160.07,5,4433.51,4570.52,1712.35,6,5320.21,16,12,4,21,18,0
+MV-90209,Men Suit Sets Modern,CRM,Cognac,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6277.31,2034.27,13,7716.73,8105.48,3038.83,16,9497.52,40,36,4,56,37,0
+MV-82924,Women Low Top Classic,BRG,Bordeaux,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,556.63,159.15,1,666.08,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-70443,Women Card Holders Heritage,GRG,Greige,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,909.52,251.15,1,1109.56,947.39,254.55,1,1109.56,3,2,1,3,2,0
+MV-68929,Women Crossbody Bags Relaxed,NVY,Navy,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3368.66,1246.53,5,4683.11,2704.6,924.79,4,3746.49,10,9,1,9,7,0
+MV-26505,Men Leather Belts Relaxed,RSE,Rose Poudre,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3183.72,966.93,6,4117.56,3179.16,1078.45,6,4117.56,21,17,4,19,12,0
+MV-69473,Women Chain Belts Heritage,ANT,Anthracite,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,5867.11,1744.95,6,8120.72,3510.06,1051.87,4,5413.82,6,5,1,5,3,0
+MV-51441,Women Jackets Modern,SBL,Sable,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1066.51,338.81,2,1323.68,592.75,180.02,1,661.84,3,1,2,2,1,0
+MV-51116,Unisex Tops Essential,NVY,Navy,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,634.75,195.5,1,876.48,573.97,164.75,1,876.48,1,0,1,1,0,0
+MV-67961,Men Wool Scarves Heritage,IVR,Ivoire,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5369.45,1965.05,17,7104.23,6338.7,2187.72,20,8357.92,44,27,17,52,49,0
+MV-74866,Women Wool Scarves Luxe,NOI,Noir,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7717.63,2891.18,14,9133.42,5339.0,1785.09,10,6523.87,18,12,6,12,10,0
+MV-13396,Women Wallets Slim,GRG,Greige,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1914.43,712.77,3,2568.93,1237.01,378.54,2,1712.62,10,6,4,8,6,0
+MV-95918,Women Suit Sets Modern,NOI,Noir,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3519.66,1089.68,10,4433.44,3532.82,1240.6,10,4433.44,17,12,5,17,14,0
+MV-93717,Women Leather Belts Heritage,CHP,Champagne,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2546.21,723.32,3,3672.79,1714.63,446.51,2,2448.53,9,6,3,7,5,0
+MV-28714,Men Trousers Luxe,CRM,Creme,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,810.7,264.59,3,1072.59,798.25,259.95,3,1072.59,6,5,1,6,5,0
+MV-20336,Men Blazers Heritage,SBL,Sable,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,232.92,63.37,1,325.78,219.14,55.48,1,325.78,3,2,1,3,2,0
+MV-32527,Women Mules Luxe,CAM,Camel,Footwear,Women,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1232.82,373.93,3,1598.9,858.72,220.59,2,1065.93,4,3,1,4,3,0
+MV-56955,Women Ballet Flats Relaxed,CRM,Cognac,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2609.88,823.68,4,3373.87,2090.13,722.18,3,2530.4,14,9,5,10,7,0
+MV-80468,Men Blouses Relaxed,BLU,Bleu Marine,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,406.51,124.08,1,530.96,436.93,122.01,1,530.96,3,2,1,4,3,0
+MV-39389,Women Mules Modern,VRT,Vert,Footwear,Women,Heels,Mules,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2408.5,635.79,3,3046.36,1760.54,505.67,2,2030.91,5,3,2,5,4,0
+MV-29597,Women Leather Belts,ARG,Argent,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8196.12,2728.83,8,10528.97,7163.53,1910.76,7,9212.85,24,23,1,21,19,0
+MV-82910,Men Shirts Signature,CRM,Cognac,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2669.88,948.6,6,3700.89,3471.73,934.25,7,4317.71,16,11,5,22,17,0
+MV-99381,Women Fedoras Signature,ECR,Ecru,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2150.93,754.93,5,2887.38,1175.33,309.16,3,1732.43,9,6,3,6,5,0
+MV-23434,Women Card Holders,NVY,Navy,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5939.58,1528.81,13,8593.71,4419.57,1479.4,9,5949.49,17,13,4,13,12,0
+MV-47512,Men Tops Relaxed,ARG,Argent,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,409.59,155.27,1,516.54,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-39444,Men Key Holders Relaxed,NVY,Navy,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3169.42,942.96,4,4308.04,3557.5,1140.23,4,4308.04,6,3,3,7,5,0
+MV-99224,Men Day Dresses Relaxed,VRT,Vert,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3474.44,1060.15,8,4810.39,4329.31,1165.4,9,5411.68,21,17,4,21,15,0
+MV-65296,Women Ankle Boots Slim,ARG,Argent,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3064.71,801.91,4,3683.32,3228.44,946.02,4,3683.32,11,8,3,11,9,0
+MV-26683,Women Blazers Relaxed,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,475.22,133.56,2,680.65,220.36,64.88,1,340.32,6,5,1,4,3,0
+MV-60181,Women Jackets Classic,BRG,Bordeaux,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,665.96,186.42,1,907.34,0.0,0.0,0,0.0,1,0,1,1,0,0
+MV-12128,Women Cat Eye Signature,ANT,Anthracite,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5183.93,1514.33,12,7002.16,6022.67,1600.23,14,8169.19,37,23,14,46,45,0
+MV-49472,Men Square Frames Modern,CRM,Cognac,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1776.89,534.06,3,2215.3,1722.01,654.21,3,2215.3,3,1,2,2,1,0
+MV-15014,Women Bracelets Modern,CRM,Creme,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3667.91,1184.83,11,5037.19,2920.16,1095.83,9,4121.34,39,28,11,34,29,0
+MV-51116,Unisex Tops Essential,GRG,Greige,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1584.04,446.42,4,2268.36,1608.78,599.91,4,2268.36,12,10,2,13,9,0
+MV-68929,Women Crossbody Bags Relaxed,VRT,Vert,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5347.68,1621.5,6,6810.7,3435.36,1116.42,4,4540.47,18,13,5,13,11,0
+MV-84531,Women Check-In Classic,BRG,Bordeaux,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,7154.16,2344.01,9,10299.06,5886.07,2151.64,7,8010.38,31,26,5,21,20,0
+MV-51441,Women Jackets Modern,GRG,Greige,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3087.58,963.01,5,4032.17,3174.31,1016.76,5,4032.17,3,2,1,4,3,0
+MV-16265,Women Chain Belts Signature,VRT,Vert,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2227.52,707.26,2,2683.35,1063.87,371.0,1,1341.67,6,3,3,5,3,0
+MV-82199,Men Shorts Classic,NOI,Noir,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1822.55,562.46,3,2569.89,1943.49,724.75,3,2569.89,11,9,2,10,8,0
+MV-44959,Women Blazers Modern,ECR,Ecru,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5662.06,1748.73,8,7700.36,5915.33,1576.98,9,8662.9,11,6,5,10,9,0
+MV-62521,Women Silk Scarves Luxe,BEG,Beige,Accessories,Women,Scarves,Silk Scarves,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,811.15,302.01,2,1133.43,777.68,236.68,2,1133.43,6,5,1,5,3,0
+MV-12260,Men Knee High Modern,BRG,Bordeaux,Footwear,Men,Boots,Knee High,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,498.43,144.76,2,728.17,495.98,166.5,2,728.17,2,1,1,2,1,0
+MV-93283,Unisex Wallets Luxe,BLU,Bleu Marine,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,647.55,169.76,1,943.18,636.09,173.17,1,943.18,0,0,0,0,0,0
+MV-88366,Men Blazers Classic,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,6647.44,1999.74,13,9260.44,5620.57,1501.31,11,7835.76,44,41,3,36,28,0
+MV-92345,Women Leather Belts Modern,CHP,Champagne,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,811.2,293.07,1,1049.15,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-91490,Women Midi Dresses,CRM,Cognac,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1841.47,698.97,5,2587.59,1314.96,466.69,4,2070.07,15,14,1,10,6,0
+MV-59015,Unisex Baseball Caps Relaxed,BLU,Bleu Marine,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,508.96,170.88,2,692.54,576.91,190.52,2,692.54,2,1,1,2,1,0
+MV-52487,Men Mini Bags Luxe,ECR,Ecru,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1630.95,589.72,2,2220.93,886.42,315.82,1,1110.46,1,0,1,0,0,0
+MV-89963,Women Cat Eye Luxe,NVY,Navy,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1808.13,599.0,6,2415.24,1727.33,468.13,6,2415.24,12,7,5,11,9,0
+MV-63843,Women Midi Dresses Essential,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,592.29,217.69,1,849.9,611.58,208.23,1,849.9,0,0,0,0,0,0
+MV-79942,Men Blazers Essential,ARG,Argent,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1361.91,487.49,4,1730.94,1583.75,585.0,5,2163.67,11,9,2,16,11,0
+MV-66531,Unisex Key Holders Modern,ANT,Anthracite,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4368.92,1637.75,8,5643.73,3903.46,1392.26,7,4938.26,7,4,3,6,5,0
+MV-26074,Women Fedoras Slim,CRM,Creme,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,5639.93,2095.06,9,7599.03,3886.26,1008.85,6,5066.02,18,15,3,11,7,0
+MV-89507,Women Blazers Essential,GRG,Greige,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,447.54,154.21,1,530.61,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-35272,Men Check-In Modern,ANT,Anthracite,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,3783.67,1089.85,12,5313.3,2447.03,727.22,8,3542.2,23,22,1,19,15,0
+MV-86483,Women Wallets Luxe,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2149.78,622.28,5,3195.8,1662.9,522.2,4,2556.64,8,6,2,7,5,0
+MV-18799,Women Jeans Modern,ARG,Argent,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5013.93,1400.16,11,6585.0,6058.5,1735.91,13,7782.28,10,7,3,12,10,0
+MV-30257,Women Weekender Relaxed,TAN,Tan,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2632.79,772.47,3,3272.18,2391.51,782.13,3,3272.18,3,1,2,3,2,0
+MV-32527,Women Mules Luxe,SBL,Sable,Footwear,Women,Heels,Mules,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2384.41,667.99,4,3438.47,1678.52,561.5,3,2578.85,5,4,1,4,3,0
+MV-49472,Men Square Frames Modern,RSE,Rose Poudre,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2780.69,971.72,13,3456.24,1892.48,539.66,10,2658.65,22,20,2,16,9,0
+MV-62521,Women Silk Scarves Luxe,VRT,Vert,Accessories,Women,Scarves,Silk Scarves,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,7264.08,2271.59,12,8953.09,6922.91,2021.58,11,8207.0,40,36,4,42,29,0
+MV-46655,Women Cat Eye Heritage,CAM,Camel,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,695.78,207.6,3,992.01,507.9,185.39,2,661.34,7,4,3,5,3,0
+MV-99224,Men Day Dresses Relaxed,NOI,Noir,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,332.65,125.87,1,389.43,339.13,122.13,1,389.43,0,0,0,0,0,0
+MV-54942,Men Square Frames Relaxed,SBL,Sable,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,832.05,300.46,2,1017.3,803.31,260.41,2,1017.3,7,6,1,6,5,0
+MV-12128,Women Cat Eye Signature,NOI,Noir,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,485.54,155.91,2,598.69,515.38,136.52,2,598.69,6,4,2,7,4,0
+MV-99181,Women Blazers Modern,GRG,Greige,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,498.64,185.46,1,681.68,0.0,0.0,0,0.0,3,2,1,1,0,0
+MV-64524,Women Check-In Modern,CRM,Creme,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,855.07,303.82,1,1036.5,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-93283,Unisex Wallets Luxe,NOI,Noir,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,10578.52,3626.21,10,13525.93,9633.64,3063.37,9,12173.34,18,11,7,14,10,0
+MV-69829,Men Ballet Flats Slim,ECR,Ecru,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,741.63,185.88,1,906.27,0.0,0.0,0,0.0,3,2,1,1,0,0
+MV-54657,Women Evening Dresses Slim,VRT,Vert,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4052.6,1086.08,6,5195.84,2800.8,855.47,4,3463.89,14,11,3,11,8,0
+MV-26551,Women Mules Luxe,ARG,Argent,Footwear,Women,Heels,Mules,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,321.54,81.96,1,423.73,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-78955,Women Pouches Modern,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,846.11,261.1,2,1191.98,829.42,286.04,2,1191.98,2,1,1,2,1,0
+MV-67905,Women High Top Luxe,ARG,Argent,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,620.3,199.19,1,774.04,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-20077,Men Chain Belts Slim,BLU,Bleu Marine,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,708.01,262.9,1,951.53,755.68,259.39,1,951.53,1,0,1,1,0,0
+MV-78937,Men Carry-On Luxe,BRG,Bordeaux,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,7776.97,2447.5,8,9609.53,7392.0,2170.25,8,9609.53,24,18,6,27,17,0
+MV-40005,Men Silk Scarves Classic,TRP,Taupe,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3955.66,1301.0,11,5088.45,3347.51,849.11,10,4625.86,16,12,4,15,13,0
+MV-24530,Women Day Dresses Luxe,CRM,Cognac,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,223.12,74.53,1,296.97,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-43586,Women Jeans Signature,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2030.84,716.87,3,2656.27,1240.61,351.69,2,1770.85,2,1,1,1,0,0
+MV-62296,Unisex Bracelets Signature,RSE,Rose Poudre,Accessories,Unisex,Jewelry,Bracelets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1663.11,567.44,3,2059.17,1630.93,511.08,3,2059.17,2,1,1,2,1,0
+MV-49363,Unisex Cashmere Scarves,GRG,Greige,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5591.0,1807.52,11,7383.61,5334.87,1766.03,11,7383.61,22,13,9,18,15,0
+MV-65851,Women Midi Dresses Slim,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4706.45,1319.6,7,6092.07,2840.48,950.95,4,3481.18,13,10,3,8,5,0
+MV-99381,Women Fedoras Signature,CHP,Champagne,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1361.13,433.41,3,1606.86,1444.3,421.96,3,1606.86,6,5,1,7,5,0
+MV-38183,Men Suit Trousers Essential,ARG,Argent,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3180.54,1140.81,6,4133.47,3148.88,1173.11,6,4133.47,12,8,4,11,7,0
+MV-15014,Women Bracelets Modern,CRM,Cognac,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3688.34,1173.61,10,5073.68,4161.03,1238.6,11,5581.05,17,15,2,21,14,0
+MV-71953,Women Suit Trousers Relaxed,CAM,Camel,Ready-to-Wear,Women,Suits,Suit Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,579.1,180.97,1,732.01,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-66531,Unisex Key Holders Modern,ROG,Rouge,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,852.48,309.29,2,1149.51,861.79,323.89,2,1149.51,6,5,1,5,3,0
+MV-20328,Men Clutches,ECR,Ecru,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,10882.56,3938.68,13,15683.14,10735.63,3931.22,12,14476.75,35,23,12,35,27,0
+MV-54589,Women Carry-On Slim,TAN,Tan,Leather Goods,Women,Luggage,Carry-On,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,4132.08,1357.97,7,5518.71,3157.63,1199.03,6,4730.33,20,15,5,22,18,0
+MV-68878,Men Carry-On Heritage,VRT,Vert,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2818.8,748.44,4,4010.53,1901.92,494.93,3,3007.9,5,4,1,4,3,0
+MV-68493,Women Chain Belts Relaxed,CRM,Cognac,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3787.8,1299.62,4,4785.29,2966.19,1011.9,3,3588.97,12,9,3,13,10,0
+MV-83975,Unisex Baseball Caps Classic,BRG,Bordeaux,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,745.71,202.61,2,1077.7,341.2,88.2,1,538.85,2,1,1,1,0,0
+MV-38183,Men Suit Trousers Essential,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1024.59,350.93,4,1463.54,835.02,233.3,3,1097.66,6,4,2,6,4,0
+MV-76249,Men Clutches Luxe,ARG,Argent,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1965.65,636.13,5,2727.34,1104.24,411.55,3,1636.4,10,8,2,6,4,0
+MV-65851,Women Midi Dresses Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1062.35,374.87,2,1357.6,1183.09,420.93,2,1357.6,3,1,2,2,1,0
+MV-79329,Men Suit Trousers Classic,GRG,Greige,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2787.38,864.55,6,3752.22,2199.98,588.04,5,3126.85,23,21,2,22,20,0
+MV-27486,Women Mules Classic,GRG,Greige,Footwear,Women,Heels,Mules,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4629.5,1527.93,10,5804.69,5110.51,1492.23,11,6385.16,12,7,5,16,12,0
+MV-20328,Men Clutches,ROG,Rouge,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,773.63,199.15,1,1122.32,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-90301,Men High Top,CRM,Cognac,Footwear,Men,Sneakers,High Top,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2009.82,566.59,3,2887.74,2169.97,669.7,3,2887.74,1,0,1,1,0,0
+MV-12260,Men Knee High Modern,BRG,Bordeaux,Footwear,Men,Boots,Knee High,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,735.57,259.4,2,957.28,748.5,230.48,2,957.28,3,2,1,3,2,0
+MV-54725,Women Suit Trousers Classic,CAM,Camel,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3911.43,1272.32,6,4593.42,4076.7,1404.93,6,4593.42,18,13,5,15,9,0
+MV-26505,Men Leather Belts Relaxed,GRG,Greige,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1119.66,285.06,1,1381.15,0.0,0.0,0,0.0,3,1,2,3,2,0
+MV-26704,Men Pouches Classic,ECR,Ecru,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4426.24,1594.4,5,5272.67,2761.0,851.32,3,3163.6,11,8,3,7,5,0
+MV-54942,Men Square Frames Relaxed,NOI,Noir,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3701.36,1228.84,11,4933.06,3007.3,1112.44,9,4036.14,27,26,1,20,12,0
+MV-81364,Unisex Crossbody Bags Signature,ECR,Ecru,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,732.89,191.94,2,861.2,371.38,107.75,1,430.6,7,4,3,6,3,0
+MV-89507,Women Blazers Essential,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6701.85,2523.48,13,9160.49,6475.05,2188.93,13,9160.49,36,27,9,41,24,0
+MV-60052,Unisex Evening Dresses,CHP,Champagne,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,18035.05,5041.8,27,24457.28,19826.55,7425.08,28,25363.11,39,37,2,39,26,0
+MV-85914,Women Wallets,BEG,Beige,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1012.03,264.59,1,1408.76,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-71474,Men Loafers Relaxed,BRG,Bordeaux,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,748.24,250.29,1,1035.87,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-45986,Women Chain Belts Classic,ECR,Ecru,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,14045.81,5102.15,16,18655.85,11898.7,3770.24,13,15157.88,38,27,11,35,28,0
+MV-37460,Men Jackets Heritage,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,4330.1,1560.32,17,5368.36,3839.12,1208.01,14,4421.0,53,49,4,37,32,0
+MV-62196,Women Blazers,BEG,Beige,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,240.8,73.07,1,288.54,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-99173,Women Card Holders Modern,CRM,Creme,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,574.97,181.43,1,669.79,525.09,151.9,1,669.79,0,0,0,0,0,0
+MV-70443,Women Card Holders Heritage,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,409.56,143.34,1,574.09,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-18163,Men Blazers Slim,CHP,Champagne,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,15909.79,4563.36,30,19486.0,14259.83,5235.97,28,18186.93,97,95,2,77,67,0
+MV-49363,Unisex Cashmere Scarves,BLU,Bleu Marine,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,416.89,130.98,1,588.29,382.3,97.94,1,588.29,3,2,1,3,2,0
+MV-26074,Women Fedoras Slim,TAN,Tan,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,840.13,212.33,3,1074.51,767.3,197.8,3,1074.51,4,3,1,5,4,0
+MV-39444,Men Key Holders Relaxed,ECR,Ecru,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3824.56,1264.29,10,4865.44,3523.86,1293.36,10,4865.44,6,4,2,5,3,0
+MV-68929,Women Crossbody Bags Relaxed,TRP,Taupe,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,318.98,80.52,1,453.34,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-31632,Women Weekender Luxe,BLU,Bleu Marine,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4665.9,1249.35,5,6113.17,2835.1,1011.5,3,3667.9,6,5,1,4,3,0
+MV-51441,Women Jackets Modern,TAN,Tan,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,531.42,142.63,1,653.34,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-76132,Unisex Leather Belts Slim,CAM,Camel,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4504.95,1704.31,10,5860.47,4617.9,1661.58,10,5860.47,17,15,2,18,17,0
+MV-92345,Women Leather Belts Modern,BRG,Bordeaux,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,919.29,245.62,1,1143.96,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-56346,Women Clutches Essential,BLU,Bleu Marine,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2566.0,665.56,6,3221.86,2106.89,568.76,5,2684.89,19,16,3,17,16,0
+MV-69829,Men Ballet Flats Slim,RSE,Rose Poudre,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4142.15,1481.77,6,5959.78,3325.07,1201.54,5,4966.49,17,12,5,12,11,0
+MV-55830,Women Jeans Heritage,CRM,Creme,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,510.57,158.03,1,665.18,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-44664,Women Shoulder Bags Modern,ANT,Anthracite,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,378.75,97.6,1,459.85,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-96870,Women Day Dresses Relaxed,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1334.63,360.8,2,1774.51,1418.84,413.47,2,1774.51,5,3,2,7,6,0
+MV-51704,Women Fedoras Luxe,BRG,Bordeaux,Accessories,Women,Hats,Fedoras,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,438.37,133.44,1,545.47,465.56,151.31,1,545.47,2,1,1,2,1,0
+MV-99353,Women Tote Bags,GRG,Greige,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4097.3,1025.53,9,5282.38,5274.24,1380.13,11,6456.24,20,12,8,25,21,0
+MV-30866,Women Loafers Modern,ECR,Ecru,Footwear,Women,Flats,Loafers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5615.2,1583.14,8,7777.36,5653.3,1534.68,8,7777.36,14,13,1,15,14,0
+MV-55830,Women Jeans Heritage,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1998.85,640.95,3,2382.69,2089.29,717.17,3,2382.69,10,9,1,11,7,0
+MV-92203,Men Clutches,BRG,Bordeaux,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,4196.31,1195.93,5,5439.0,3033.21,960.37,4,4351.2,15,10,5,14,12,0
+MV-13396,Women Wallets Slim,VRT,Vert,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,5380.51,1831.31,5,6649.93,6184.71,1649.63,6,7979.91,12,7,5,15,14,0
+MV-54657,Women Evening Dresses Slim,VRT,Vert,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4469.44,1653.2,9,5405.15,4448.13,1407.81,9,5405.15,35,34,1,45,44,0
+MV-79329,Men Suit Trousers Classic,ANT,Anthracite,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2061.34,530.0,3,2905.2,2161.99,634.69,3,2905.2,1,0,1,1,0,0
+MV-53064,Men Skirts Slim,ANT,Anthracite,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,401.57,135.26,1,490.38,405.78,120.92,1,490.38,0,0,0,0,0,0
+MV-26683,Women Blazers Relaxed,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,536.96,191.91,1,726.32,593.45,149.66,1,726.32,3,2,1,2,1,0
+MV-55830,Women Jeans Heritage,TAN,Tan,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1174.76,339.82,4,1641.42,1232.09,383.4,4,1641.42,10,6,4,11,7,0
+MV-17816,Women Trousers Slim,BEG,Beige,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1258.96,350.75,3,1671.96,1202.77,349.37,3,1671.96,8,7,1,8,6,0
+MV-92345,Women Leather Belts Modern,ECR,Ecru,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,1143.52,353.28,3,1609.1,1080.77,337.01,3,1609.1,3,2,1,2,1,0
+MV-54725,Women Suit Trousers Classic,ARG,Argent,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,553.8,162.51,1,745.99,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-17816,Women Trousers Slim,CAM,Camel,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3933.43,1287.45,6,5561.6,3139.27,973.71,5,4634.67,3,2,1,3,2,0
+MV-43681,Men Low Top Luxe,CHP,Champagne,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,563.89,206.34,1,738.83,636.63,240.43,1,738.83,2,1,1,2,1,0
+MV-95191,Women Coats Signature,BEG,Beige,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,441.37,137.65,1,612.99,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-65255,Women Evening Dresses Heritage,NOI,Noir,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,855.75,237.79,2,1133.69,979.26,371.54,2,1133.69,6,5,1,8,5,0
+MV-26551,Women Mules Luxe,CRM,Cognac,Footwear,Women,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,396.56,126.8,1,524.71,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-82924,Women Low Top Classic,BEG,Beige,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1851.9,631.93,4,2170.12,1647.25,602.85,4,2170.12,13,12,1,17,15,0
+MV-89963,Women Cat Eye Luxe,CHP,Champagne,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1215.8,414.61,2,1526.57,1126.71,348.11,2,1526.57,5,3,2,5,3,0
+MV-80807,Men Ballet Flats Heritage,TRP,Taupe,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,992.22,313.53,3,1192.51,682.8,216.08,2,795.01,1,0,1,0,0,0
+MV-94323,Women Round Frames Classic,CAM,Camel,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1544.5,575.42,4,2137.87,1143.83,340.29,3,1603.4,2,1,1,1,0,0
+MV-60181,Women Jackets Classic,ARG,Argent,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,633.67,171.86,1,794.51,584.4,210.11,1,794.51,0,0,0,0,0,0
+MV-46421,Women Knee High Slim,GRG,Greige,Footwear,Women,Boots,Knee High,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,586.86,194.86,1,839.37,626.72,198.58,1,839.37,2,1,1,2,1,0
+MV-21164,Men Shorts Relaxed,BLU,Bleu Marine,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3290.61,823.26,11,4375.78,3427.09,1247.34,12,4773.57,12,7,5,15,11,0
+MV-51441,Women Jackets Modern,BRG,Bordeaux,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1655.6,491.21,3,2432.49,1909.87,717.82,3,2432.49,10,8,2,10,8,0
+MV-51704,Women Fedoras Luxe,TAN,Tan,Accessories,Women,Hats,Fedoras,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1169.1,355.92,2,1694.12,1243.64,451.24,2,1694.12,4,3,1,4,2,0
+MV-71474,Men Loafers Relaxed,BEG,Beige,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,757.26,196.53,1,1066.01,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-38683,Men Tops Slim,ANT,Anthracite,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1716.37,562.89,3,2492.8,1823.51,514.28,3,2492.8,10,6,4,11,10,0
+MV-15014,Women Bracelets Modern,NOI,Noir,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,905.49,336.37,4,1201.66,895.95,261.89,4,1201.66,7,5,2,6,4,0
+MV-69692,Women Suit Sets Essential,IVR,Ivoire,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1917.45,644.13,4,2707.21,2365.65,663.74,5,3384.02,11,8,3,14,12,0
+MV-35995,Unisex Check-In Modern,BLU,Bleu Marine,Leather Goods,Unisex,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4921.12,1711.35,6,6420.79,4336.94,1253.03,5,5350.66,18,14,4,15,13,0
+MV-38903,Men Coats Essential,VRT,Vert,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,683.79,252.11,1,848.48,652.77,175.64,1,848.48,3,2,1,2,1,0
+MV-51441,Women Jackets Modern,ARG,Argent,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,458.08,153.74,1,583.57,429.24,159.59,1,583.57,3,2,1,3,2,0
+MV-51704,Women Fedoras Luxe,NVY,Navy,Accessories,Women,Hats,Fedoras,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4564.59,1639.34,9,6387.74,2960.85,841.43,6,4258.5,27,23,4,18,13,0
+MV-54313,Women Wallets Classic,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,10209.41,3010.11,16,13879.16,10807.3,3261.87,15,13011.71,41,33,8,45,44,0
+MV-26551,Women Mules Luxe,BEG,Beige,Footwear,Women,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,819.45,237.52,1,1138.26,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-90301,Men High Top,SBL,Sable,Footwear,Men,Sneakers,High Top,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,912.96,305.06,3,1114.66,607.01,190.48,2,743.11,11,9,2,11,7,0
+MV-48177,Women Card Holders Essential,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,756.08,232.22,1,1044.56,689.58,215.0,1,1044.56,2,1,1,2,1,0
+MV-96760,Women Blouses Signature,NOI,Noir,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,481.13,160.57,1,591.0,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-73242,Men Chain Belts Luxe,SBL,Sable,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1465.93,415.63,2,1701.42,1302.87,395.73,2,1701.42,7,5,2,8,6,0
+MV-62772,Men Tote Bags Signature,CRM,Creme,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,676.41,202.59,1,835.55,637.18,159.6,1,835.55,1,0,1,1,0,0
+MV-63225,Unisex Key Holders,CRM,Creme,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,6387.85,2400.43,6,8983.14,4123.88,1434.64,4,5988.76,15,11,4,9,7,0
+MV-26505,Men Leather Belts Relaxed,ANT,Anthracite,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3929.2,1125.85,4,4724.8,3998.32,1310.31,4,4724.8,5,3,2,5,4,0
+MV-50213,Women Tops Slim,CAM,Camel,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,660.68,181.03,1,943.83,0.0,0.0,0,0.0,3,1,2,3,2,0
+MV-50768,Men Knitwear Modern,CRM,Creme,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,341.58,124.19,1,483.61,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-46655,Women Cat Eye Heritage,GRG,Greige,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4259.52,1079.64,9,6378.16,3249.9,1092.89,6,4252.11,33,28,5,20,12,0
+MV-31632,Women Weekender Luxe,CRM,Creme,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,764.93,251.57,1,1053.34,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-77538,Men Check-In Signature,RSE,Rose Poudre,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5706.12,2134.51,5,7030.07,4537.61,1688.2,4,5624.06,15,11,4,13,7,0
+MV-57920,Women Blazers Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1150.31,323.55,2,1550.52,1169.75,299.59,2,1550.52,7,5,2,8,6,0
+MV-62772,Men Tote Bags Signature,BLU,Bleu Marine,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3924.55,1289.27,4,5312.14,3201.31,1124.41,3,3984.11,10,9,1,6,4,0
+MV-80282,Unisex Baseball Caps Signature,BLU,Bleu Marine,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,645.69,205.77,2,799.78,617.17,184.23,2,799.78,4,3,1,5,4,0
+MV-90301,Men High Top,ANT,Anthracite,Footwear,Men,Sneakers,High Top,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,370.45,131.82,1,472.46,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-54657,Women Evening Dresses Slim,BEG,Beige,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,395.7,123.75,1,503.03,371.73,136.15,1,503.03,3,2,1,3,2,0
+MV-79942,Men Blazers Essential,RSE,Rose Poudre,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,504.71,190.79,1,618.84,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-12128,Women Cat Eye Signature,IVR,Ivoire,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1398.54,429.27,3,2068.66,1546.71,418.94,3,2068.66,4,3,1,4,2,0
+MV-53228,Women Shoulder Bags Essential,ANT,Anthracite,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4286.33,1403.96,5,5921.4,3331.89,968.09,4,4737.12,19,13,6,13,8,0
+MV-59834,Women Skirts,BEG,Beige,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,644.84,202.65,1,861.55,645.89,231.69,1,861.55,1,0,1,1,0,0
+MV-30257,Women Weekender Relaxed,NVY,Navy,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,591.28,156.57,1,832.62,619.2,166.49,1,832.62,3,2,1,3,1,0
+MV-70443,Women Card Holders Heritage,ECR,Ecru,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1784.7,628.45,4,2444.83,2151.11,655.28,5,3056.03,2,1,1,2,1,0
+MV-99173,Women Card Holders Modern,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4499.19,1169.27,5,6284.26,5577.79,2066.95,6,7541.12,3,2,1,4,3,0
+MV-52487,Men Mini Bags Luxe,ROG,Rouge,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,19357.06,7303.52,18,27392.37,13863.72,3594.01,12,18261.58,68,62,6,47,40,0
+MV-67637,Men Midi Dresses Essential,GRG,Greige,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2290.24,596.08,4,2863.93,2202.63,622.34,4,2863.93,14,10,4,12,7,0
+MV-65255,Women Evening Dresses Heritage,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1543.21,542.44,3,1942.36,1085.91,286.01,2,1294.91,9,8,1,6,5,0
+MV-49363,Unisex Cashmere Scarves,ROG,Rouge,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,2102.74,782.87,4,2593.11,1932.78,583.46,4,2593.11,12,8,4,11,7,0
+MV-80143,Men Knitwear Classic,CRM,Cognac,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,4815.54,1597.04,14,6501.07,3816.05,1360.79,12,5572.34,48,40,8,35,28,0
+MV-99381,Women Fedoras Signature,ECR,Ecru,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3717.83,1389.04,9,4719.04,3346.36,975.63,9,4719.04,13,8,5,14,13,0
+MV-23238,Women Knitwear Essential,TRP,Taupe,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,928.01,289.93,2,1163.66,445.58,160.98,1,581.83,6,4,2,5,4,0
+MV-90356,Women Loafers Signature,NVY,Navy,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,790.58,264.29,1,1088.06,787.34,241.93,1,1088.06,3,2,1,4,2,0
+MV-44664,Women Shoulder Bags Modern,CAM,Camel,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1002.13,278.65,1,1325.02,937.1,317.77,1,1325.02,3,2,1,3,2,0
+MV-48504,Women Slides Signature,CHP,Champagne,Footwear,Women,Flats,Slides,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1670.72,571.91,3,2317.86,1630.56,459.48,3,2317.86,4,3,1,5,4,0
+MV-79822,Unisex Fedoras Slim,SBL,Sable,Accessories,Unisex,Hats,Fedoras,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3724.08,1329.56,7,4723.23,3986.63,1187.27,7,4723.23,8,4,4,9,7,0
+MV-40595,Women Day Dresses Heritage,TRP,Taupe,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1634.14,516.9,3,2075.37,1054.23,396.25,2,1383.58,10,6,4,8,4,0
+MV-99173,Women Card Holders Modern,BEG,Beige,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,875.12,308.96,1,1154.67,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-76263,Women High Top Essential,IVR,Ivoire,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1725.67,446.91,7,2168.17,2126.47,622.87,8,2477.9,8,6,2,7,6,0
+MV-71474,Men Loafers Relaxed,BLU,Bleu Marine,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2464.63,664.12,9,3180.34,1841.8,581.27,7,2473.6,21,13,8,16,15,0
+MV-74451,Unisex Weekender Modern,RSE,Rose Poudre,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1007.36,296.02,1,1252.13,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-15513,Unisex Shorts Heritage,BLU,Bleu Marine,Ready-to-Wear,Unisex,Bottoms,Shorts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3000.62,814.19,6,3552.79,3071.21,913.97,7,4144.93,19,17,2,25,22,0
+MV-74866,Women Wool Scarves Luxe,TRP,Taupe,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1267.8,346.22,3,1751.93,1319.08,439.5,3,1751.93,6,4,2,8,6,0
+MV-78614,Women Trousers Signature,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,6035.57,1985.49,12,8778.96,6236.57,1751.32,12,8778.96,6,4,2,7,6,0
+MV-59391,Women Weekender Signature,SBL,Sable,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,8156.56,2650.31,10,11349.85,8322.31,3151.13,10,11349.85,6,5,1,6,5,0
+MV-27139,Men Jackets Signature,NOI,Noir,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1237.59,356.44,4,1586.61,1161.99,339.85,4,1586.61,9,5,4,8,7,0
+MV-44099,Women Trousers Essential,VRT,Vert,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1554.91,400.04,6,1984.74,1315.44,428.78,5,1653.95,11,9,2,9,7,0
+MV-57943,Women Shorts Essential,ROG,Rouge,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6931.39,2273.92,11,9340.01,9183.76,3309.39,13,11038.19,30,27,3,33,31,0
+MV-42541,Women Blazers Slim,CHP,Champagne,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1229.87,361.97,3,1487.79,845.66,232.6,2,991.86,1,0,1,0,0,0
+MV-67905,Women High Top Luxe,RSE,Rose Poudre,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,791.13,276.59,2,985.76,386.29,113.38,1,492.88,1,0,1,1,0,0
+MV-22833,Women Midi Dresses Classic,SBL,Sable,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3293.43,1174.56,7,4933.17,2502.26,947.12,5,3523.69,6,5,1,5,4,0
+MV-13761,Women Evening Dresses Luxe,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,649.06,220.7,1,911.87,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-89963,Women Cat Eye Luxe,ANT,Anthracite,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,523.54,195.01,2,712.28,506.28,135.5,2,712.28,6,4,2,6,5,0
+MV-67939,Women Weekender Classic,BLU,Bleu Marine,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3639.86,1163.35,11,4537.25,4048.54,1039.73,13,5362.2,13,12,1,14,11,0
+MV-79615,Women Midi Dresses Slim,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,2269.09,696.81,7,2883.02,1695.64,600.57,5,2059.3,14,13,1,8,7,0
+MV-68138,Women Tops Modern,TAN,Tan,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,940.53,319.76,2,1194.96,922.47,314.35,2,1194.96,1,0,1,1,0,0
+MV-94675,Women Trousers Essential,BLU,Bleu Marine,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,649.45,218.78,1,803.47,593.72,169.09,1,803.47,1,0,1,1,0,0
+MV-62383,Men Berets Relaxed,NOI,Noir,Accessories,Men,Hats,Berets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1111.43,307.34,2,1532.07,1023.17,380.77,2,1532.07,3,2,1,2,1,0
+MV-96341,Women Card Holders Signature,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,569.38,175.31,1,714.75,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-88366,Men Blazers Classic,NOI,Noir,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,569.34,147.03,1,713.55,588.41,159.87,1,713.55,0,0,0,0,0,0
+MV-60181,Women Jackets Classic,GRG,Greige,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4084.5,1423.29,7,4789.29,3291.38,1168.94,6,4105.11,24,21,3,21,15,0
+MV-16175,Unisex Day Dresses Modern,CRM,Cognac,Ready-to-Wear,Unisex,Dresses,Day Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,449.44,117.63,1,623.32,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-47880,Women Shorts Relaxed,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,615.25,220.15,3,862.68,399.04,135.62,2,575.12,9,5,4,7,6,0
+MV-82512,Women Shorts Heritage,NVY,Navy,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,526.12,174.84,2,714.38,274.33,68.98,1,357.19,7,5,2,5,4,0
+MV-94675,Women Trousers Essential,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,12101.51,3158.21,22,15616.47,10288.75,2780.38,19,13486.95,75,58,17,59,35,0
+MV-20077,Men Chain Belts Slim,NOI,Noir,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1974.47,566.55,2,2405.84,1952.53,677.12,2,2405.84,5,3,2,6,5,0
+MV-47196,Women Wallets,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,967.65,318.06,1,1373.22,1098.6,364.11,1,1373.22,2,1,1,2,1,0
+MV-85965,Men Fedoras Signature,NVY,Navy,Accessories,Men,Hats,Fedoras,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,607.57,210.29,1,856.39,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-30730,Men High Top Luxe,ANT,Anthracite,Footwear,Men,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1915.57,717.15,4,2597.15,1306.63,409.88,3,1947.86,5,3,2,3,2,0
+MV-70258,Men Platform Slim,BRG,Bordeaux,Footwear,Men,Sneakers,Platform,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1729.34,504.3,5,2254.23,929.22,278.03,3,1352.54,18,12,6,14,10,0
+MV-17816,Women Trousers Slim,CRM,Creme,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,583.76,180.69,2,810.23,315.17,109.13,1,405.11,7,6,1,5,3,0
+MV-33703,Men Earrings Slim,BLU,Bleu Marine,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,559.98,183.92,3,741.09,331.83,104.05,2,494.06,5,4,1,4,3,0
+MV-47880,Women Shorts Relaxed,BLU,Bleu Marine,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,422.16,144.07,1,517.51,368.14,99.96,1,517.51,0,0,0,0,0,0
+MV-23434,Women Card Holders,CRM,Creme,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4500.38,1443.5,4,5823.13,5247.41,1885.38,5,7278.91,3,2,1,3,2,0
+MV-18799,Women Jeans Modern,TRP,Taupe,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,840.07,291.43,3,1167.67,899.81,244.43,3,1167.67,1,0,1,0,0,0
+MV-29597,Women Leather Belts,IVR,Ivoire,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,913.7,314.61,1,1314.32,934.6,331.5,1,1314.32,2,1,1,2,1,0
+MV-70443,Women Card Holders Heritage,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,937.17,248.73,1,1163.34,933.48,293.69,1,1163.34,3,2,1,3,2,0
+MV-37535,Men Shirts Relaxed,BRG,Bordeaux,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,578.13,159.45,1,801.24,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-20350,Women Card Holders Essential,VRT,Vert,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,498.31,176.53,1,675.86,516.45,146.31,1,675.86,0,0,0,0,0,0
+MV-42541,Women Blazers Slim,VRT,Vert,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2314.96,584.7,5,3109.23,1407.87,356.58,3,1865.54,19,17,2,11,8,0
+MV-62772,Men Tote Bags Signature,CRM,Cognac,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,752.47,198.21,1,952.34,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-47243,Men Boots Heritage,SBL,Sable,Footwear,Men,Heels,Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,442.6,129.34,1,666.08,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-94675,Women Trousers Essential,SBL,Sable,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,675.62,228.75,1,997.25,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-65851,Women Midi Dresses Slim,CRM,Creme,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,3331.5,972.93,17,3982.22,2267.98,763.88,11,2576.73,67,55,12,50,30,0
+MV-27961,Women Blouses Signature,ANT,Anthracite,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,4982.24,1801.78,10,6008.59,5562.15,2034.97,12,7210.31,10,9,1,13,12,0
+MV-76249,Men Clutches Luxe,TRP,Taupe,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,483.67,171.93,1,633.94,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-73736,Women Key Holders Relaxed,CRM,Cognac,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,760.96,258.54,2,993.69,715.69,249.32,2,993.69,3,2,1,3,2,0
+MV-42087,Men Slides Slim,BEG,Beige,Footwear,Men,Flats,Slides,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,377.63,125.44,1,491.73,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-68991,Unisex Pouches Heritage,CAM,Camel,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2762.48,1032.54,3,3349.88,1861.22,677.75,2,2233.25,2,1,1,2,1,0
+MV-60052,Unisex Evening Dresses,GRG,Greige,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,392.29,125.52,1,513.0,386.92,119.69,1,513.0,3,2,1,4,2,0
+MV-35272,Men Check-In Modern,CAM,Camel,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6190.26,1706.03,6,8693.97,6788.35,2369.09,6,8693.97,15,14,1,13,10,0
+MV-98501,Women Blouses Relaxed,BEG,Beige,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2226.13,647.84,4,2720.86,1625.19,426.7,3,2040.65,5,3,2,5,3,0
+MV-32527,Women Mules Luxe,NVY,Navy,Footwear,Women,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6403.04,1724.75,12,7723.09,5853.97,1476.5,12,7723.09,38,35,3,46,30,0
+MV-82924,Women Low Top Classic,BEG,Beige,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,503.81,170.88,1,630.6,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-92478,Women Blazers Classic,TAN,Tan,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2775.87,871.93,8,4118.04,3924.2,1304.71,10,5147.55,29,23,6,32,25,0
+MV-43681,Men Low Top Luxe,TAN,Tan,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,2998.7,876.68,8,4461.69,3226.97,832.57,8,4461.69,31,28,3,34,28,0
+MV-54725,Women Suit Trousers Classic,CRM,Cognac,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,337.31,98.91,1,480.83,328.99,90.26,1,480.83,3,1,2,2,1,0
+MV-85156,Women Chain Belts Essential,CHP,Champagne,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2010.32,625.45,2,2553.82,2119.91,546.04,2,2553.82,2,1,1,2,1,0
+MV-59391,Women Weekender Signature,ARG,Argent,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,851.38,238.51,1,1153.93,747.68,263.32,1,1153.93,2,1,1,2,1,0
+MV-14852,Men Loafers Slim,SBL,Sable,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,288.62,89.06,1,386.5,0.0,0.0,0,0.0,1,0,1,1,0,0
+MV-96341,Women Card Holders Signature,CAM,Camel,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,363.05,97.4,1,493.48,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-99381,Women Fedoras Signature,NOI,Noir,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1756.77,530.54,4,2147.42,889.33,326.21,2,1073.71,8,7,1,6,4,0
+MV-12260,Men Knee High Modern,NVY,Navy,Footwear,Men,Boots,Knee High,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1514.87,494.02,2,1906.36,704.53,208.11,1,953.18,7,6,1,5,4,0
+MV-67961,Men Wool Scarves Heritage,ANT,Anthracite,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,9272.18,2667.32,16,12003.34,7494.8,2479.91,13,9752.72,33,31,2,33,27,0
+MV-70443,Women Card Holders Heritage,NVY,Navy,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,539.54,155.64,1,643.34,511.81,167.01,1,643.34,0,0,0,0,0,0
+MV-49251,Men Slides Classic,BRG,Bordeaux,Footwear,Men,Flats,Slides,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,12900.41,3758.2,20,16503.45,13466.17,4081.61,23,18978.96,76,65,11,103,94,0
+MV-90356,Women Loafers Signature,VRT,Vert,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,540.63,194.75,1,648.73,512.04,175.2,1,648.73,0,0,0,0,0,0
+MV-77033,Women Weekender Modern,ANT,Anthracite,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,5342.4,2004.99,8,7374.54,5442.17,1575.89,8,7374.54,27,23,4,26,23,0
+MV-16839,Unisex Key Holders Luxe,RSE,Rose Poudre,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1186.69,339.27,2,1402.44,1200.01,332.77,2,1402.44,4,3,1,4,3,0
+MV-71669,Men Silk Scarves,ROG,Rouge,Accessories,Men,Scarves,Silk Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,509.89,156.26,1,697.11,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-83975,Unisex Baseball Caps Classic,IVR,Ivoire,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2282.67,731.61,10,3182.76,1944.12,680.94,8,2546.21,39,37,2,32,25,0
+MV-68838,Men Suit Trousers Signature,CHP,Champagne,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1356.66,388.65,2,1849.85,616.92,208.87,1,924.93,2,1,1,1,0,0
+MV-60052,Unisex Evening Dresses,CRM,Creme,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2770.11,702.66,5,3645.0,2464.98,824.98,5,3645.0,13,9,4,16,10,0
+MV-39389,Women Mules Modern,BRG,Bordeaux,Footwear,Women,Heels,Mules,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2208.75,701.13,4,2875.96,1775.55,519.03,3,2156.97,6,4,2,5,3,0
+MV-88366,Men Blazers Classic,TRP,Taupe,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1483.44,378.44,3,1870.57,1579.43,422.72,3,1870.57,11,9,2,10,7,0
+MV-75308,Men Ballet Flats,NOI,Noir,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,740.05,264.87,3,881.01,747.06,243.48,3,881.01,1,0,1,1,0,0
+MV-24530,Women Day Dresses Luxe,NVY,Navy,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3513.7,1193.47,7,4586.38,3131.07,798.28,6,3931.18,7,5,2,7,5,0
+MV-60052,Unisex Evening Dresses,CHP,Champagne,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,238.55,74.41,1,359.25,236.68,85.38,1,359.25,3,2,1,3,1,0
+MV-62034,Women Necklaces Luxe,TAN,Tan,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2733.43,896.31,6,3403.15,2406.74,858.62,5,2835.96,17,12,5,14,8,0
+MV-76237,Women Skirts Classic,TAN,Tan,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3638.56,955.11,12,4603.26,3065.33,801.77,10,3836.05,46,44,2,44,29,0
+MV-62196,Women Blazers,NVY,Navy,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,242.57,72.2,1,303.38,246.37,83.03,1,303.38,1,0,1,0,0,0
+MV-18163,Men Blazers Slim,BLU,Bleu Marine,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,681.52,218.91,1,919.24,626.58,187.09,1,919.24,2,1,1,2,1,0
+MV-82512,Women Shorts Heritage,NOI,Noir,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2197.05,683.0,6,2889.39,2483.67,747.19,6,2889.39,13,12,1,12,7,0
+MV-62296,Unisex Bracelets Signature,TAN,Tan,Accessories,Unisex,Jewelry,Bracelets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1282.04,468.87,3,1881.07,1280.21,478.4,3,1881.07,10,7,3,11,9,0
+MV-58434,Women Shoulder Bags Heritage,NOI,Noir,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,804.98,276.27,2,1045.34,382.1,107.44,1,522.67,4,2,2,3,2,0
+MV-24530,Women Day Dresses Luxe,BEG,Beige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,664.66,226.33,1,884.22,662.0,233.38,1,884.22,0,0,0,0,0,0
+MV-89963,Women Cat Eye Luxe,ROG,Rouge,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,841.89,251.56,3,1082.98,786.82,219.17,3,1082.98,5,3,2,7,4,0
+MV-56955,Women Ballet Flats Relaxed,CRM,Creme,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,762.27,253.59,1,996.17,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-84341,Men Sandals Signature,SBL,Sable,Footwear,Men,Heels,Sandals,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1182.91,438.3,3,1598.87,713.67,241.28,2,1065.91,6,3,3,4,3,0
+MV-65296,Women Ankle Boots Slim,CRM,Cognac,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4401.86,1485.95,7,5494.42,3497.04,1132.57,6,4709.51,9,8,1,7,5,0
+MV-39444,Men Key Holders Relaxed,GRG,Greige,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,474.07,153.19,1,679.23,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-92203,Men Clutches,ARG,Argent,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2752.77,1017.82,3,3741.81,1894.46,484.29,2,2494.54,11,8,3,6,4,0
+MV-59834,Women Skirts,TAN,Tan,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,12423.12,3123.86,26,17098.12,11440.9,3794.46,24,15782.88,36,30,6,28,17,0
+MV-44687,Men Card Holders Modern,NVY,Navy,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,3336.16,1046.21,6,4925.04,2644.14,958.24,5,4104.2,6,5,1,5,4,0
+MV-21164,Men Shorts Relaxed,GRG,Greige,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5993.34,1705.83,10,8542.44,4067.74,1541.6,7,5979.71,6,5,1,4,3,0
+MV-23979,Women Check-In Relaxed,CHP,Champagne,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1285.45,348.61,2,1679.78,677.79,189.83,1,839.89,3,2,1,2,1,0
+MV-42541,Women Blazers Slim,IVR,Ivoire,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4494.75,1289.35,8,6044.7,3645.04,1106.34,7,5289.11,8,7,1,8,7,0
+MV-70521,Men Mules Luxe,ECR,Ecru,Footwear,Men,Heels,Mules,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,462.11,134.08,1,625.36,499.87,143.57,1,625.36,1,0,1,1,0,0
+MV-78614,Women Trousers Signature,TRP,Taupe,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,633.44,233.94,1,847.2,588.52,202.57,1,847.2,3,2,1,3,2,0
+MV-86483,Women Wallets Luxe,ARG,Argent,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1075.28,384.23,1,1355.13,1083.48,346.78,1,1355.13,3,2,1,3,2,0
+MV-79924,Unisex Blazers Modern,ROG,Rouge,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1403.47,508.04,2,1643.01,1472.37,464.9,2,1643.01,1,0,1,1,0,0
+MV-11214,Men Coats Heritage,TAN,Tan,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4667.01,1488.01,10,6416.72,5402.23,1857.11,11,7058.39,21,17,4,20,14,0
+MV-20543,Men Check-In Classic,TAN,Tan,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1018.15,359.91,2,1261.48,546.48,168.57,1,630.74,3,2,1,1,0,0
+MV-13761,Women Evening Dresses Luxe,TRP,Taupe,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2920.83,990.72,5,3822.76,3039.61,994.16,5,3822.76,19,18,1,22,17,0
+MV-60181,Women Jackets Classic,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3426.33,1131.26,6,4696.12,3216.52,967.29,6,4696.12,6,4,2,6,3,0
+MV-33509,Unisex Fedoras Signature,BLU,Bleu Marine,Accessories,Unisex,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1147.37,332.7,4,1345.23,1362.56,405.81,5,1681.53,14,11,3,17,11,0
+MV-66531,Unisex Key Holders Modern,GRG,Greige,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1052.27,330.28,2,1494.27,1017.46,364.65,2,1494.27,4,3,1,5,3,0
+MV-40595,Women Day Dresses Heritage,NOI,Noir,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2039.93,681.11,4,2909.03,1882.86,476.44,4,2909.03,6,5,1,5,4,0
+MV-52415,Men Jeans Relaxed,TAN,Tan,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1023.16,298.34,2,1274.86,1078.28,295.65,2,1274.86,5,3,2,6,3,0
+MV-99353,Women Tote Bags,CAM,Camel,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,569.62,178.71,1,817.17,520.33,194.93,1,817.17,0,0,0,0,0,0
+MV-77033,Women Weekender Modern,BRG,Bordeaux,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,24124.65,7467.17,27,32841.65,23365.75,8502.3,29,35274.36,79,47,32,96,71,0
+MV-67961,Men Wool Scarves Heritage,IVR,Ivoire,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,373.34,135.34,1,532.45,355.26,97.31,1,532.45,1,0,1,1,0,0
+MV-27892,Men Suit Trousers Modern,ARG,Argent,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,244.48,81.21,1,327.93,230.73,65.35,1,327.93,1,0,1,0,0,0
+MV-51116,Unisex Tops Essential,BRG,Bordeaux,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,7082.96,2175.23,11,8977.39,5345.94,1469.44,9,7345.14,23,17,6,17,11,0
+MV-26704,Men Pouches Classic,CAM,Camel,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,730.4,228.06,1,1000.79,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-80143,Men Knitwear Classic,ANT,Anthracite,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2095.15,715.06,5,2873.31,1579.93,472.9,4,2298.65,4,2,2,3,2,0
+MV-74038,Women Pouches,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1732.11,537.7,2,2099.92,821.65,213.06,1,1049.96,1,0,1,0,0,0
+MV-23579,Men Cat Eye,SBL,Sable,Accessories,Men,Sunglasses,Cat Eye,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,457.75,147.73,2,562.33,250.97,71.31,1,281.16,4,3,1,3,1,0
+MV-73532,Women Midi Dresses Modern,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,257.58,71.83,1,363.99,239.32,67.55,1,363.99,2,1,1,2,1,0
+MV-44664,Women Shoulder Bags Modern,GRG,Greige,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1103.47,285.61,2,1459.98,1051.77,268.43,2,1459.98,6,5,1,6,5,0
+MV-99381,Women Fedoras Signature,IVR,Ivoire,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,422.79,125.65,2,572.1,189.45,62.12,1,286.05,4,3,1,3,2,0
+MV-47880,Women Shorts Relaxed,BLU,Bleu Marine,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1676.61,592.57,7,2060.27,1752.33,659.37,8,2354.59,23,19,4,33,24,0
+MV-82924,Women Low Top Classic,NVY,Navy,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,734.14,257.06,3,977.28,504.02,176.79,2,651.52,10,9,1,9,8,0
+MV-88222,Men Suit Trousers Heritage,BRG,Bordeaux,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,9678.26,3430.16,15,13485.87,8707.26,2544.08,13,11687.76,40,28,12,33,26,0
+MV-51116,Unisex Tops Essential,IVR,Ivoire,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,276.46,94.7,1,365.88,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-49472,Men Square Frames Modern,BLU,Bleu Marine,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1077.93,405.92,3,1415.27,763.51,201.15,2,943.51,5,3,2,3,2,0
+MV-20336,Men Blazers Heritage,VRT,Vert,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1381.67,423.11,4,1736.45,1852.79,612.71,5,2170.56,12,9,3,12,7,0
+MV-79615,Women Midi Dresses Slim,CRM,Cognac,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2967.77,976.66,13,4107.67,2021.93,715.18,9,2843.77,26,21,5,22,21,0
+MV-58434,Women Shoulder Bags Heritage,GRG,Greige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,333.33,100.8,1,435.07,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-80468,Men Blouses Relaxed,NOI,Noir,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2696.23,760.42,4,3775.3,2871.71,831.12,4,3775.3,3,2,1,3,1,0
+MV-17592,Men Coats Relaxed,RSE,Rose Poudre,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4906.41,1824.35,10,5891.42,5572.18,1695.06,12,7069.7,32,23,9,38,37,0
+MV-62383,Men Berets Relaxed,NVY,Navy,Accessories,Men,Hats,Berets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,419.25,122.05,1,556.11,381.54,130.04,1,556.11,3,1,2,3,2,0
+MV-49139,Men Wool Scarves Essential,CAM,Camel,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3896.04,1191.69,11,4976.86,3079.67,1052.75,8,3619.54,13,7,6,12,11,0
+MV-92203,Men Clutches,CHP,Champagne,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,346.44,111.14,1,501.9,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-90031,Women Loafers Heritage,BRG,Bordeaux,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4303.38,1155.53,7,5678.07,3566.72,894.11,6,4866.92,25,19,6,25,19,0
+MV-31632,Women Weekender Luxe,ARG,Argent,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,12199.21,4443.25,14,15225.08,10899.17,2943.73,13,14137.57,43,42,1,42,31,0
+MV-26704,Men Pouches Classic,CRM,Creme,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,5455.91,1559.37,5,7605.81,4419.59,1552.35,4,6084.65,19,14,5,18,17,0
+MV-62383,Men Berets Relaxed,CAM,Camel,Accessories,Men,Hats,Berets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,654.51,224.24,3,856.95,625.21,230.54,3,856.95,10,9,1,12,7,0
+MV-68493,Women Chain Belts Relaxed,ANT,Anthracite,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,820.1,217.54,1,1039.72,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-27961,Women Blouses Signature,IVR,Ivoire,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8366.63,2739.76,13,10378.29,5820.05,1497.38,9,7184.97,48,37,11,30,23,0
+MV-54725,Women Suit Trousers Classic,GRG,Greige,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,1540.24,449.31,3,2226.63,1462.6,503.85,3,2226.63,9,6,3,11,9,0
+MV-20745,Unisex Mini Bags Essential,TRP,Taupe,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,641.06,162.8,1,880.4,732.27,226.38,1,880.4,3,1,2,3,2,0
+MV-50213,Women Tops Slim,BRG,Bordeaux,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1909.59,510.38,6,2548.45,2205.88,628.39,7,2973.19,3,2,1,4,2,0
+MV-96341,Women Card Holders Signature,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,3036.32,1042.04,3,4130.37,2961.78,789.06,3,4130.37,6,4,2,8,7,0
+MV-83975,Unisex Baseball Caps Classic,BRG,Bordeaux,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,256.31,69.09,1,328.77,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-39444,Men Key Holders Relaxed,NOI,Noir,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,634.49,208.58,1,931.57,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-33647,Men Coats Heritage,NVY,Navy,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,389.51,106.47,1,570.78,419.95,106.17,1,570.78,1,0,1,1,0,0
+MV-16265,Women Chain Belts Signature,CAM,Camel,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3629.8,1051.9,4,4799.74,3057.29,771.74,3,3599.81,11,6,5,10,7,0
+MV-59391,Women Weekender Signature,SBL,Sable,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4803.75,1414.83,5,6323.59,5801.18,1863.03,6,7588.31,6,4,2,7,6,0
+MV-56019,Men Shorts Slim,ARG,Argent,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1342.74,399.87,3,2035.52,919.51,325.06,2,1357.02,7,5,2,4,3,0
+MV-62034,Women Necklaces Luxe,BRG,Bordeaux,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1733.86,591.94,9,2593.27,1507.91,463.94,7,2016.99,25,19,6,18,13,0
+MV-79924,Unisex Blazers Modern,CRM,Creme,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3867.16,974.54,10,5219.13,4360.5,1343.69,12,6262.96,8,5,3,11,6,0
+MV-58566,Men Leather Belts Relaxed,ANT,Anthracite,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2524.51,850.1,5,3374.53,3332.38,1055.07,6,4049.43,8,6,2,11,8,0
+MV-52415,Men Jeans Relaxed,TRP,Taupe,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,289.86,80.11,1,388.26,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-38047,Women Round Frames Relaxed,CRM,Cognac,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2459.58,774.24,6,3661.66,2952.98,1045.05,7,4271.94,18,16,2,20,14,0
+MV-96761,Men Jackets Essential,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,531.37,166.68,2,709.12,513.21,156.71,2,709.12,6,3,3,6,5,0
+MV-56955,Women Ballet Flats Relaxed,IVR,Ivoire,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2818.77,852.52,4,3717.92,2366.93,786.87,3,2788.44,11,10,1,8,6,0
+MV-38903,Men Coats Essential,TRP,Taupe,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1635.29,486.65,5,2070.7,1730.39,458.49,5,2070.7,3,2,1,3,2,0
+MV-67961,Men Wool Scarves Heritage,CAM,Camel,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,417.56,150.23,2,577.42,422.95,114.56,2,577.42,6,5,1,5,3,0
+MV-63843,Women Midi Dresses Essential,ARG,Argent,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,4735.16,1493.24,13,6701.2,4093.58,1260.68,12,6185.72,41,28,13,40,39,0
+MV-13396,Women Wallets Slim,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,808.6,306.32,1,1053.87,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-71669,Men Silk Scarves,CAM,Camel,Accessories,Men,Scarves,Silk Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2442.04,639.43,6,3055.43,1990.16,716.59,5,2546.19,8,5,3,7,4,0
+MV-87993,Women Fedoras Modern,CAM,Camel,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,336.61,91.78,1,415.32,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-89299,Men Bracelets Luxe,TAN,Tan,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,4079.81,1355.99,14,4930.33,4451.16,1470.19,15,5282.5,11,9,2,9,8,0
+MV-93283,Unisex Wallets Luxe,BRG,Bordeaux,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,840.74,215.33,1,1177.42,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-55830,Women Jeans Heritage,GRG,Greige,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,267.81,77.72,1,335.46,258.19,97.28,1,335.46,0,0,0,0,0,0
+MV-30730,Men High Top Luxe,CRM,Creme,Footwear,Men,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1477.01,426.3,2,2054.99,788.27,218.28,1,1027.49,4,3,1,2,1,0
+MV-20077,Men Chain Belts Slim,RSE,Rose Poudre,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2104.25,774.48,2,2731.74,1040.88,282.29,1,1365.87,4,3,1,3,2,0
+MV-63225,Unisex Key Holders,TRP,Taupe,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,410.01,135.16,1,480.06,354.34,131.72,1,480.06,3,1,2,4,3,0
+MV-91830,Women Bracelets,TRP,Taupe,Accessories,Women,Jewelry,Bracelets,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1074.87,329.2,4,1456.27,1161.21,394.47,4,1456.27,12,7,5,15,14,0
+MV-47243,Men Boots Heritage,CHP,Champagne,Footwear,Men,Heels,Boots,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1055.71,320.04,3,1463.72,753.72,189.62,2,975.81,11,8,3,7,4,0
+MV-84341,Men Sandals Signature,BRG,Bordeaux,Footwear,Men,Heels,Sandals,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,825.27,246.96,1,1036.3,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-86484,Men Blazers Essential,ECR,Ecru,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,510.06,188.85,2,758.13,247.54,71.11,1,379.06,4,3,1,2,1,0
+MV-30253,Men Weekender Essential,CAM,Camel,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,7461.59,2638.51,9,10419.29,5012.17,1416.64,6,6946.19,7,6,1,5,3,0
+MV-98815,Men Check-In,ROG,Rouge,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4807.19,1297.61,6,6367.02,5129.55,1687.29,6,6367.02,16,12,4,16,13,0
+MV-69473,Women Chain Belts Heritage,ECR,Ecru,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,2235.48,843.65,7,3038.29,1998.49,513.67,6,2604.25,6,5,1,5,3,0
+MV-30257,Women Weekender Relaxed,BLU,Bleu Marine,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3826.81,1235.1,6,4826.64,3225.53,933.84,5,4022.2,16,10,6,17,11,0
+MV-69692,Women Suit Sets Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,608.39,209.22,2,791.12,303.75,91.21,1,395.56,7,5,2,6,4,0
+MV-26912,Men Suit Sets Essential,ANT,Anthracite,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,560.9,176.65,1,798.93,557.46,139.96,1,798.93,1,0,1,1,0,0
+MV-86484,Men Blazers Essential,VRT,Vert,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,274.66,90.71,1,342.95,284.16,84.3,1,342.95,0,0,0,0,0,0
+MV-20745,Unisex Mini Bags Essential,TRP,Taupe,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,7011.21,2075.91,9,9382.08,8962.32,2289.9,11,11466.99,32,28,4,33,23,0
+MV-31581,Men Key Holders Slim,TRP,Taupe,Leather Goods,Men,Small Leather Goods,Key Holders,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,20227.26,6564.73,21,29226.17,26296.84,7110.65,26,36184.79,45,28,17,54,45,0
+MV-89507,Women Blazers Essential,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1543.28,562.13,3,2057.71,1443.09,370.37,3,2057.71,6,5,1,6,3,0
+MV-47880,Women Shorts Relaxed,CRM,Creme,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,187.12,47.49,1,267.77,204.39,72.56,1,267.77,3,2,1,3,2,0
+MV-57942,Women Chelsea Boots Modern,TRP,Taupe,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,755.14,193.42,1,919.89,774.31,276.6,1,919.89,2,1,1,2,1,0
+MV-79924,Unisex Blazers Modern,IVR,Ivoire,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,921.21,308.61,2,1105.14,496.05,163.83,1,552.57,2,1,1,1,0,0
+MV-65851,Women Midi Dresses Slim,VRT,Vert,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1227.99,378.34,4,1814.51,1040.97,326.45,3,1360.88,4,3,1,4,3,0
+MV-92203,Men Clutches,CRM,Cognac,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1018.66,364.97,1,1388.59,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-67961,Men Wool Scarves Heritage,BRG,Bordeaux,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5187.2,1704.38,15,6720.98,4620.21,1379.93,12,5376.78,38,25,13,30,27,0
+MV-40005,Men Silk Scarves Classic,SBL,Sable,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1238.4,344.88,2,1652.45,648.43,215.1,1,826.22,3,2,1,3,2,0
+MV-12260,Men Knee High Modern,NOI,Noir,Footwear,Men,Boots,Knee High,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,4804.79,1825.5,13,6272.24,4681.79,1663.6,13,6272.24,27,16,11,25,18,0
+MV-14877,Women Necklaces Heritage,CRM,Creme,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3251.67,1138.07,8,4688.79,3379.84,985.39,8,4688.79,27,21,6,29,27,0
+MV-29597,Women Leather Belts,NOI,Noir,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3688.2,1178.26,7,5097.64,3456.35,1146.62,7,5097.64,17,13,4,19,16,0
+MV-96275,Women Coats Essential,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1789.33,598.31,5,2419.76,1917.84,544.76,5,2419.76,14,9,5,13,8,0
+MV-40595,Women Day Dresses Heritage,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3371.97,1219.18,5,4500.43,3004.0,972.58,5,4500.43,7,5,2,6,4,0
+MV-47880,Women Shorts Relaxed,VRT,Vert,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1741.23,544.65,5,2099.71,1896.52,529.16,5,2099.71,13,9,4,15,11,0
+MV-67905,Women High Top Luxe,SBL,Sable,Footwear,Women,Sneakers,High Top,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2088.7,755.69,5,3068.07,2264.72,636.5,5,3068.07,19,18,1,18,16,0
+MV-74038,Women Pouches,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,4167.19,1269.91,4,5769.31,3191.4,1035.49,3,4326.98,11,10,1,7,4,0
+MV-36143,Unisex Weekender Heritage,BEG,Beige,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,9041.19,2859.62,23,11695.35,9246.5,3051.6,21,10678.37,80,68,12,84,79,0
+MV-39102,Men Day Dresses Luxe,SBL,Sable,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2379.78,657.62,7,3499.91,2854.68,794.16,8,3999.9,25,18,7,36,27,0
+MV-54089,Unisex Blazers,IVR,Ivoire,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4405.52,1604.34,8,6509.66,3410.1,857.75,6,4882.25,19,16,3,16,11,0
+MV-27892,Men Suit Trousers Modern,VRT,Vert,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3389.68,1274.48,11,4485.51,3967.0,995.72,13,5301.06,22,13,9,24,17,0
+MV-71797,Men Shoulder Bags Classic,BEG,Beige,Leather Goods,Men,Handbags,Shoulder Bags,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,477.32,146.49,1,692.0,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-51116,Unisex Tops Essential,SBL,Sable,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,315.55,117.9,1,425.16,285.91,84.31,1,425.16,0,0,0,0,0,0
+MV-59672,Women Shoulder Bags Classic,BEG,Beige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2166.84,763.06,3,3077.3,2234.53,710.84,3,3077.3,5,3,2,6,4,0
+MV-72031,Women Blazers,TRP,Taupe,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1840.19,580.41,3,2414.84,1917.76,631.6,3,2414.84,5,3,2,6,5,0
+MV-12180,Men High Top Signature,RSE,Rose Poudre,Footwear,Men,Sneakers,High Top,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,3615.59,1060.93,9,4981.23,4895.8,1517.54,11,6088.17,25,15,10,28,25,0
+MV-20336,Men Blazers Heritage,SBL,Sable,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1689.24,461.11,3,2360.5,1603.55,516.38,3,2360.5,5,3,2,6,5,0
+MV-40007,Women Tote Bags Modern,NOI,Noir,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1763.91,665.13,4,2480.56,1401.17,475.67,3,1860.42,8,4,4,6,3,0
+MV-80468,Men Blouses Relaxed,BLU,Bleu Marine,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,2042.38,690.8,4,2649.49,1448.76,428.58,3,1987.12,10,9,1,9,6,0
+MV-59015,Unisex Baseball Caps Relaxed,ANT,Anthracite,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,483.47,176.68,1,652.24,447.62,117.87,1,652.24,2,1,1,2,1,0
+MV-54657,Women Evening Dresses Slim,VRT,Vert,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2669.52,754.96,5,3640.03,2625.96,948.91,5,3640.03,18,12,6,16,11,0
+MV-17331,Women Key Holders Relaxed,BEG,Beige,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3412.76,1083.75,9,4707.15,3386.91,910.99,9,4707.15,16,12,4,17,12,0
+MV-72031,Women Blazers,TAN,Tan,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,446.18,147.8,1,547.83,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-80807,Men Ballet Flats Heritage,BEG,Beige,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2676.81,936.8,4,3741.65,2234.05,791.77,3,2806.24,6,4,2,4,2,0
+MV-71474,Men Loafers Relaxed,TRP,Taupe,Footwear,Men,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2507.33,844.89,4,3006.46,2608.48,873.35,4,3006.46,9,6,3,9,6,0
+MV-57942,Women Chelsea Boots Modern,NVY,Navy,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,341.01,106.73,1,482.1,315.62,111.9,1,482.1,3,2,1,2,1,0
+MV-53064,Men Skirts Slim,GRG,Greige,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,618.14,226.93,1,783.85,705.2,234.44,1,783.85,1,0,1,1,0,0
+MV-39444,Men Key Holders Relaxed,GRG,Greige,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,19337.71,6563.19,21,27877.98,20210.74,6787.41,23,30533.02,54,51,3,64,57,0
+MV-90209,Men Suit Sets Modern,VRT,Vert,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1115.33,398.23,2,1476.74,619.61,172.5,1,738.37,7,4,3,6,4,0
+MV-44335,Women Slides Slim,SBL,Sable,Footwear,Women,Flats,Slides,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,396.7,143.01,1,500.19,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-26074,Women Fedoras Slim,CAM,Camel,Accessories,Women,Hats,Fedoras,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,388.67,127.77,1,465.03,412.97,126.14,1,465.03,1,0,1,1,0,0
+MV-31632,Women Weekender Luxe,TRP,Taupe,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1909.6,659.84,6,2346.21,1576.06,534.48,5,1955.17,10,8,2,9,7,0
+MV-25043,Men Loafers,ECR,Ecru,Footwear,Men,Flats,Loafers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,2558.31,716.43,5,3437.14,2479.57,688.36,5,3437.14,19,11,8,19,12,0
+MV-90031,Women Loafers Heritage,TAN,Tan,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1306.45,345.72,5,1624.87,1063.96,292.74,4,1299.9,12,7,5,9,5,0
+MV-49251,Men Slides Classic,TRP,Taupe,Footwear,Men,Flats,Slides,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,393.73,99.75,1,457.5,367.17,136.7,1,457.5,2,1,1,2,1,0
+MV-44664,Women Shoulder Bags Modern,SBL,Sable,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,12677.52,3233.08,12,16183.18,10168.94,2581.36,10,13485.98,36,22,14,29,28,0
+MV-49472,Men Square Frames Modern,RSE,Rose Poudre,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,333.36,85.56,2,488.53,315.48,79.73,2,488.53,7,5,2,6,5,0
+MV-20682,Men Loafers Slim,BEG,Beige,Footwear,Men,Flats,Loafers,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1530.55,495.13,2,2239.41,864.06,321.21,1,1119.71,2,1,1,1,0,0
+MV-63843,Women Midi Dresses Essential,CRM,Cognac,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1542.92,481.21,3,2248.67,1092.18,330.55,2,1499.11,9,8,1,7,6,0
+MV-38903,Men Coats Essential,BRG,Bordeaux,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,592.31,158.16,2,762.97,631.09,188.75,2,762.97,7,6,1,7,4,0
+MV-26683,Women Blazers Relaxed,CRM,Creme,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,4323.64,1112.12,10,6160.46,4168.34,1215.67,9,5544.42,39,30,9,43,37,0
+MV-81364,Unisex Crossbody Bags Signature,IVR,Ivoire,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,12484.8,3732.62,14,17880.49,11649.57,3030.89,12,15326.13,52,34,18,40,26,0
+MV-85914,Women Wallets,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,793.91,295.84,1,1096.14,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-85914,Women Wallets,NVY,Navy,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,7126.25,2554.57,11,9183.73,7221.75,2733.01,11,9183.73,32,30,2,36,26,0
+MV-51704,Women Fedoras Luxe,CRM,Cognac,Accessories,Women,Hats,Fedoras,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,2440.03,695.34,8,3603.47,2090.68,722.57,6,2702.6,9,6,3,8,6,0
+MV-19862,Men Pumps Slim,BRG,Bordeaux,Footwear,Men,Heels,Pumps,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,6433.45,1842.65,14,8917.68,7292.49,2082.21,15,9554.66,52,34,18,48,44,0
+MV-48177,Women Card Holders Essential,BEG,Beige,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,644.98,244.71,1,931.07,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-68529,Men Ankle Boots,ROG,Rouge,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,1855.8,606.46,4,2615.4,1805.33,537.79,4,2615.4,6,4,2,5,4,0
+MV-80807,Men Ballet Flats Heritage,ECR,Ecru,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,340.53,85.51,1,434.83,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-78614,Women Trousers Signature,CAM,Camel,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,6411.54,1676.41,9,7958.03,6467.92,2221.12,10,8842.25,26,20,6,34,30,0
+MV-23238,Women Knitwear Essential,ANT,Anthracite,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,573.84,185.01,1,724.0,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-93717,Women Leather Belts Heritage,TRP,Taupe,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1552.11,568.45,4,2029.24,1103.16,295.08,3,1521.93,8,4,4,6,4,0
+MV-40007,Women Tote Bags Modern,VRT,Vert,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1661.94,567.94,2,2130.12,1674.85,540.39,2,2130.12,5,4,1,5,3,0
+MV-92203,Men Clutches,SBL,Sable,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,1064.58,334.52,2,1374.68,1059.93,311.29,2,1374.68,5,3,2,5,3,0
+MV-48504,Women Slides Signature,CAM,Camel,Footwear,Women,Flats,Slides,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,3549.12,968.73,5,4287.19,3133.32,872.07,5,4287.19,15,10,5,16,9,0
+MV-68929,Women Crossbody Bags Relaxed,TAN,Tan,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8290.18,3057.1,10,10233.48,8058.97,2805.65,10,10233.48,31,26,5,26,25,0
+MV-15958,Men Pumps Heritage,NOI,Noir,Footwear,Men,Heels,Pumps,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1868.81,612.56,5,2214.54,1658.25,554.11,5,2214.54,5,3,2,4,3,0
+MV-92345,Women Leather Belts Modern,BEG,Beige,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,5938.09,1780.87,10,8120.95,5812.81,2193.8,11,8933.04,8,5,3,7,6,0
+MV-58566,Men Leather Belts Relaxed,ARG,Argent,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,1006.61,325.37,1,1243.61,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-52415,Men Jeans Relaxed,ECR,Ecru,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1208.82,371.37,4,1660.11,923.29,335.73,3,1245.08,5,4,1,4,3,0
+MV-40595,Women Day Dresses Heritage,CRM,Creme,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1751.31,622.68,3,2376.63,1665.59,548.99,3,2376.63,8,5,3,8,7,0
+MV-77033,Women Weekender Modern,ROG,Rouge,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,378.85,96.37,1,536.17,364.91,131.53,1,536.17,2,1,1,2,1,0
+MV-78614,Women Trousers Signature,TAN,Tan,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1786.09,581.56,4,2204.63,1166.33,370.34,3,1653.48,13,10,3,8,7,0
+MV-20328,Men Clutches,CRM,Cognac,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3789.22,1303.54,5,4757.04,3556.25,1108.12,5,4757.04,11,7,4,13,12,0
+MV-30253,Men Weekender Essential,CHP,Champagne,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1356.85,428.81,4,1961.09,1510.36,562.71,4,1961.09,15,11,4,14,9,0
+MV-54089,Unisex Blazers,RSE,Rose Poudre,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,3573.94,1037.38,7,4779.45,2522.96,833.6,5,3413.89,8,4,4,5,4,0
+MV-47243,Men Boots Heritage,CRM,Cognac,Footwear,Men,Heels,Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,3286.61,1116.34,4,4463.65,3417.91,1254.06,4,4463.65,6,3,3,8,6,0
+MV-82135,Women Trousers Slim,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,661.03,167.53,1,895.32,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-96200,Women Suit Sets,TAN,Tan,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,495.97,152.99,1,618.5,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-66531,Unisex Key Holders Modern,SBL,Sable,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1671.13,523.41,5,2034.04,1201.96,316.29,4,1627.23,11,10,1,9,6,0
+MV-25043,Men Loafers,CAM,Camel,Footwear,Men,Flats,Loafers,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,724.32,247.72,1,1001.24,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-78955,Women Pouches Modern,TAN,Tan,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,527.96,179.77,1,621.12,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-40595,Women Day Dresses Heritage,SBL,Sable,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,785.19,234.71,3,936.49,721.45,204.33,3,936.49,10,9,1,11,9,0
+MV-29597,Women Leather Belts,CRM,Creme,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,2316.29,876.87,4,2938.68,1670.26,607.41,3,2204.01,4,3,1,3,1,0
+MV-58434,Women Shoulder Bags Heritage,BEG,Beige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,300,30,EU_F07M,MV Flagship Paris,2102.21,615.05,2,2814.49,1045.44,332.71,1,1407.24,4,2,2,3,2,0
+MV-40005,Men Silk Scarves Classic,ECR,Ecru,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,1645.24,511.25,7,2270.62,1972.66,691.02,9,2919.37,9,5,4,11,7,0
+MV-63225,Unisex Key Holders,TRP,Taupe,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,4659.8,1522.38,5,5660.19,3598.71,1366.17,4,4528.15,12,10,2,13,11,0
+MV-14877,Women Necklaces Heritage,IVR,Ivoire,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,824.95,245.03,2,1145.92,848.76,237.75,2,1145.92,7,4,3,7,4,0
+MV-64524,Women Check-In Modern,RSE,Rose Poudre,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,6725.0,2114.72,7,8932.18,6021.03,1565.15,6,7656.15,4,2,2,4,3,0
+MV-78146,Men Day Dresses,NOI,Noir,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,2277.82,607.07,5,2760.74,2364.52,679.52,5,2760.74,16,12,4,18,14,0
+MV-41358,Men Chelsea Boots Heritage,TRP,Taupe,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,3520.75,1183.42,5,4926.03,2790.56,939.36,4,3940.83,8,6,2,6,5,0
+MV-90031,Women Loafers Heritage,BEG,Beige,Footwear,Women,Flats,Loafers,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1566.87,444.34,4,2321.33,748.18,225.43,2,1160.67,9,8,1,6,3,0
+MV-46559,Men Ballet Flats Luxe,SBL,Sable,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,662.6,232.42,1,917.7,615.64,196.05,1,917.7,2,1,1,2,1,0
+MV-31632,Women Weekender Luxe,ECR,Ecru,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,5249.89,1316.75,6,7562.29,4162.38,1217.52,5,6301.91,22,13,9,20,19,0
+MV-26683,Women Blazers Relaxed,ARG,Argent,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,1321.7,358.09,2,1665.68,1335.18,414.21,2,1665.68,6,4,2,7,5,0
+MV-76039,Women Boots Relaxed,CAM,Camel,Footwear,Women,Heels,Boots,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,9077.8,3262.59,15,10910.9,10698.64,3763.32,17,12365.69,20,14,6,22,16,0
+MV-76249,Men Clutches Luxe,NVY,Navy,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,8315.7,2528.39,9,11764.41,6651.33,2363.7,8,10457.25,19,14,5,18,11,0
+MV-76132,Unisex Leather Belts Slim,CAM,Camel,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1695.51,531.81,4,2107.0,1351.22,427.28,3,1580.25,13,9,4,8,6,0
+MV-96760,Women Blouses Signature,SBL,Sable,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,300,50,EU_F07M,MV Flagship Paris,321.47,103.08,1,438.01,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-94323,Women Round Frames Classic,IVR,Ivoire,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,300,30,EU_F07M,MV Flagship Paris,488.83,163.45,1,642.17,539.74,146.24,1,642.17,2,1,1,1,0,0
+MV-41358,Men Chelsea Boots Heritage,NVY,Navy,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,1430.22,453.24,2,1898.64,1630.24,428.05,2,1898.64,1,0,1,1,0,0
+MV-78955,Women Pouches Modern,BEG,Beige,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,3164.4,978.37,3,4680.8,2130.86,760.93,2,3120.53,4,2,2,3,1,0
+MV-77538,Men Check-In Signature,BLU,Bleu Marine,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,300,20,EU_F07M,MV Flagship Paris,302.35,78.26,1,407.19,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-96341,Women Card Holders Signature,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,1921.78,544.18,3,2406.73,2100.73,569.79,3,2406.73,2,1,1,2,1,0
+MV-71057,Women Boots,SBL,Sable,Footwear,Women,Heels,Boots,MVS,MV Signature,300,20,EU_F07M,MV Flagship Paris,849.96,291.64,1,1109.05,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-44664,Women Shoulder Bags Modern,ROG,Rouge,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,300,50,EU_F07M,MV Flagship Paris,20284.99,6466.94,20,28800.91,22548.72,6087.77,20,28800.91,16,14,2,13,10,0
+MV-26683,Women Blazers Relaxed,TAN,Tan,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,300,70,EU_F07M,MV Flagship Paris,529.42,164.4,1,778.89,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-52176,Women Check-In Relaxed,ARG,Argent,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,300,70,EU_F07M,MV Flagship Paris,9722.07,2568.64,14,13808.98,11318.91,3104.28,15,14795.34,13,8,5,13,11,0

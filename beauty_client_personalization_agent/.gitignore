@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+temporary/
+.DS_Store
+
+# Local Claude Code config and history
+.claude/
+
+# Original (pre-rebrand) raw data — kept locally, not for public repo
+SyntheticCustomerData/
+
+# Editor/IDE clutter
+*.tmp.*
+.vscode/
+.idea/

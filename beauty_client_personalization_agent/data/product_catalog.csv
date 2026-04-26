@@ -1,0 +1,27 @@
+product_id,product_name,category,price_usd,description,target_segment,is_bestseller,launch_year
+MS-FRA-9576,Éclat de Printemps,Fragrance,216.79,A signature fragrance product from Maison Solène.,High Value,True,2021
+MS-FRA-3007,Mademoiselle de Solène,Fragrance,378.49,A signature fragrance product from Maison Solène.,Active,False,2022
+MS-FRA-5100,Solène Nº3,Fragrance,281.15,A signature fragrance product from Maison Solène.,High Value,False,2019
+MS-FRA-6875,Céleste,Fragrance,195.82,A signature fragrance product from Maison Solène.,VIP,False,2021
+MS-FRA-4361,Cobalt Nuit,Fragrance,198.06,A signature fragrance product from Maison Solène.,All,True,2023
+MS-FRA-9294,Empire Homme,Fragrance,406.17,A signature fragrance product from Maison Solène.,High Value,True,2018
+MS-FRA-9610,Éclat d'Aurore,Fragrance,277.5,A signature fragrance product from Maison Solène.,VIP,False,2019
+MS-FRA-8269,Solène Nº3 L'Eau,Fragrance,148.8,A signature fragrance product from Maison Solène.,All,False,2025
+MS-FRA-5480,Velours Noir,Fragrance,280.63,A signature fragrance product from Maison Solène.,VIP,True,2023
+MS-FRA-8100,Platine Ardent,Fragrance,206.23,A signature fragrance product from Maison Solène.,Active,False,2018
+MS-SKI-8349,Renaissance Crème Nº1,Skincare,284.14,A signature skincare product from Maison Solène.,High Value,False,2025
+MS-SKI-9124,Éternelle Crème,Skincare,371.99,A signature skincare product from Maison Solène.,High Value,True,2019
+MS-SKI-8371,Raffermissant Sérum,Skincare,318.17,A signature skincare product from Maison Solène.,VIP,False,2021
+MS-SKI-3119,Source Hydra Gel,Skincare,162.61,A signature skincare product from Maison Solène.,All,False,2019
+MS-SKI-1189,Bouclier Jour SPF50,Skincare,334.14,A signature skincare product from Maison Solène.,All,False,2020
+MS-MAK-2870,Rouge Solène Velours,Makeup,117.96,A signature makeup product from Maison Solène.,Active,False,2022
+MS-MAK-7904,Voile Naturel Foundation,Makeup,86.45,A signature makeup product from Maison Solène.,VIP,True,2024
+MS-MAK-2455,Lumière Aqua,Makeup,104.52,A signature makeup product from Maison Solène.,High Value,False,2019
+MS-MAK-7362,Ombre Royale Eyeshadow,Makeup,63.0,A signature makeup product from Maison Solène.,All,False,2018
+MS-MAK-9085,Volume Sculpté Mascara,Makeup,43.77,A signature makeup product from Maison Solène.,High Value,False,2023
+MS-HAI-2900,Huile de Rose Hair Oil,Hair Care,109.93,A signature hair care product from Maison Solène.,Active,False,2020
+MS-HAI-4911,Masque Nocturne,Hair Care,124.96,A signature hair care product from Maison Solène.,Active,False,2024
+MS-HAI-2068,Sérum Cheveux Éclat,Hair Care,135.01,A signature hair care product from Maison Solène.,All,True,2025
+MS-BOD-5451,Mademoiselle de Solène Body Cream,Body Care,153.81,A signature body care product from Maison Solène.,High Value,True,2023
+MS-BOD-3644,Solène Nº3 Body Lotion,Body Care,92.25,A signature body care product from Maison Solène.,Active,False,2019
+MS-BOD-4571,Céleste Body Oil,Body Care,67.48,A signature body care product from Maison Solène.,High Value,False,2021

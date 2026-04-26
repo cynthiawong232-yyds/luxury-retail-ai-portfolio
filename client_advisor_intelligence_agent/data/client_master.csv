@@ -1,0 +1,501 @@
+client_id,first_name,last_name,age,nationality,preferred_store,store_name,preferred_channel,join_date,last_visit_date,days_since_last_visit,true_segment
+MVC-00001,Emma,Tanaka,59,Italian,A800,MV SOHO New York,Digital,2023-09-08,2025-10-03,177,Lapsing
+MVC-00002,Elena,Bernard,60,American,A800,MV SOHO New York,Digital,2023-01-31,2026-03-17,12,High Value
+MVC-00003,Camille,Wang,35,Korean,J347,MV Flagship Tokyo,Boutique,2024-04-04,2026-01-12,76,High Value
+MVC-00004,Yuna,Tanaka,47,French,J347,MV Flagship Tokyo,Boutique,2023-06-09,2025-10-05,175,Lapsing
+MVC-00005,Yuki,Bernard,30,French,EU_F07M,MV Flagship Paris,Phone,2025-01-17,2023-12-15,835,Dormant
+MVC-00006,Keiko,Park,43,French,A800,MV SOHO New York,Boutique,2023-07-16,2025-06-02,300,Lapsing
+MVC-00007,Thomas,Dubois,48,Chinese,J347,MV Flagship Tokyo,Boutique,2024-01-25,2024-06-18,649,Dormant
+MVC-00008,Sakura,Sharma,71,Chinese,A800,MV SOHO New York,Boutique,2024-11-30,2026-01-05,83,Active
+MVC-00009,Priya,Williams,28,Chinese,EU_F07M,MV Flagship Paris,Digital,2023-10-04,2026-01-06,82,High Value
+MVC-00010,Isabelle,Smith,70,American,A800,MV SOHO New York,Phone,2024-02-15,2026-02-22,35,High Value
+MVC-00011,Min,Williams,60,American,A800,MV SOHO New York,Boutique,2024-10-20,2026-01-29,59,Active
+MVC-00012,Elena,Park,56,Australian,A800,MV SOHO New York,Boutique,2024-02-13,2026-02-10,47,Active
+MVC-00013,Charlotte,Dubois,29,Italian,A800,MV SOHO New York,Boutique,2023-06-06,2026-01-07,81,High Value
+MVC-00014,Priya,Rodriguez,59,British,A800,MV SOHO New York,Boutique,2023-09-15,2026-01-17,71,Active
+MVC-00015,Yuna,Dubois,71,Japanese,A800,MV SOHO New York,Event,2023-10-28,2025-08-10,231,Lapsing
+MVC-00016,Oliver,Rodriguez,63,American,EU_F07M,MV Flagship Paris,Digital,2023-04-19,2025-12-07,112,Active
+MVC-00017,Keiko,Simon,32,Chinese,A800,MV SOHO New York,Boutique,2024-07-06,2026-01-20,68,High Value
+MVC-00018,Hana,Wang,56,Brazilian,EU_F07M,MV Flagship Paris,Boutique,2023-03-01,2024-07-26,611,Dormant
+MVC-00019,James,Moreau,63,American,EU_F07M,MV Flagship Paris,Boutique,2024-11-06,2023-11-29,851,Dormant
+MVC-00020,Edward,Kim,67,American,EU_F07M,MV Flagship Paris,Boutique,2025-02-12,2025-12-25,94,Active
+MVC-00021,Natasha,Rodriguez,62,American,A800,MV SOHO New York,Boutique,2024-04-07,2025-10-30,150,Lapsing
+MVC-00022,Thomas,Martin,27,French,EU_F07M,MV Flagship Paris,Boutique,2023-03-14,2025-06-01,301,Lapsing
+MVC-00023,Amélie,Rodriguez,71,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-09-01,2024-06-17,650,Dormant
+MVC-00024,Ling,Wang,52,American,J347,MV Flagship Tokyo,Boutique,2025-03-14,2023-12-01,849,Dormant
+MVC-00025,Camille,Davis,28,British,EU_F07M,MV Flagship Paris,Digital,2025-01-16,2026-03-22,7,Active
+MVC-00026,Yuna,Dubois,36,Chinese,A800,MV SOHO New York,Boutique,2023-09-12,2026-03-04,25,Active
+MVC-00027,Charles,Laurent,59,French,EU_F07M,MV Flagship Paris,Digital,2024-03-29,2025-12-15,104,Active
+MVC-00028,Claire,Wang,28,Chinese,J347,MV Flagship Tokyo,Phone,2023-06-20,2024-02-07,781,Dormant
+MVC-00029,Sophie,Williams,60,Japanese,J347,MV Flagship Tokyo,Event,2023-09-29,2026-01-29,59,High Value
+MVC-00030,Min,Moreau,59,Australian,A800,MV SOHO New York,Boutique,2023-07-14,2025-09-15,195,Lapsing
+MVC-00031,Rina,Bernard,35,Chinese,J347,MV Flagship Tokyo,Phone,2023-02-21,2026-02-19,38,VIP
+MVC-00032,Claire,Simon,32,British,A800,MV SOHO New York,Boutique,2023-03-12,2026-02-18,39,VIP
+MVC-00033,Charles,Park,61,French,EU_F07M,MV Flagship Paris,Digital,2024-08-31,2025-02-17,405,Dormant
+MVC-00034,Yuki,Chen,67,American,J347,MV Flagship Tokyo,Boutique,2024-11-16,2025-12-27,92,Active
+MVC-00035,Priya,Smith,61,French,A800,MV SOHO New York,Digital,2025-02-08,2025-04-04,359,Lapsing
+MVC-00036,Amélie,Kim,29,French,J347,MV Flagship Tokyo,Boutique,2023-08-07,2023-10-28,883,Dormant
+MVC-00037,Keiko,Yamamoto,66,British,EU_F07M,MV Flagship Paris,Digital,2023-06-11,2024-01-06,813,Dormant
+MVC-00038,Hana,Patel,72,American,A800,MV SOHO New York,Phone,2023-04-17,2025-12-06,113,Active
+MVC-00039,Sakura,Yamamoto,41,American,EU_F07M,MV Flagship Paris,Digital,2024-09-11,2025-10-07,173,Lapsing
+MVC-00040,Yuki,Bernard,46,Korean,J347,MV Flagship Tokyo,Boutique,2023-04-05,2026-01-06,82,Active
+MVC-00041,Yuki,Simon,32,British,EU_F07M,MV Flagship Paris,Boutique,2025-01-29,2025-08-08,233,Lapsing
+MVC-00042,William,Kim,33,Chinese,J347,MV Flagship Tokyo,Boutique,2023-02-06,2026-02-03,54,VIP
+MVC-00043,Keiko,Bernard,60,American,EU_F07M,MV Flagship Paris,Boutique,2024-01-02,2026-03-15,14,VIP
+MVC-00044,Camille,Lee,36,Emirati,A800,MV SOHO New York,Event,2025-02-06,2024-10-22,523,Dormant
+MVC-00045,Emma,Simon,40,Korean,J347,MV Flagship Tokyo,Phone,2025-01-24,2024-04-23,705,Dormant
+MVC-00046,Lucie,Williams,54,American,J347,MV Flagship Tokyo,Digital,2023-02-09,2025-12-09,110,Active
+MVC-00047,Thomas,Wang,29,Japanese,A800,MV SOHO New York,Boutique,2023-01-25,2026-01-03,85,Active
+MVC-00048,Sakura,Johnson,46,British,J347,MV Flagship Tokyo,Digital,2024-10-18,2023-10-25,886,Dormant
+MVC-00049,Marie,Tanaka,71,French,A800,MV SOHO New York,Boutique,2023-07-02,2024-07-01,636,Dormant
+MVC-00050,Elena,Lee,27,Emirati,J347,MV Flagship Tokyo,Boutique,2024-06-07,2025-10-31,149,Lapsing
+MVC-00051,Sophie,Rodriguez,67,British,EU_F07M,MV Flagship Paris,Digital,2025-04-05,2025-07-15,257,Lapsing
+MVC-00052,Elena,Laurent,71,American,EU_F07M,MV Flagship Paris,Digital,2024-11-11,2026-02-14,43,High Value
+MVC-00053,Hana,Patel,37,British,J347,MV Flagship Tokyo,Boutique,2024-02-23,2024-04-29,699,Dormant
+MVC-00054,Valentina,Patel,60,Chinese,A800,MV SOHO New York,Boutique,2025-02-05,2025-12-03,116,Active
+MVC-00055,Hana,Yamamoto,53,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-08-04,2024-01-14,805,Dormant
+MVC-00056,Edward,Rodriguez,57,American,EU_F07M,MV Flagship Paris,Boutique,2024-04-29,2025-12-17,102,Active
+MVC-00057,Yuna,Laurent,37,British,A800,MV SOHO New York,Boutique,2025-04-18,2025-03-31,363,Lapsing
+MVC-00058,Isabelle,Wang,61,Japanese,A800,MV SOHO New York,Phone,2024-05-01,2026-01-09,79,High Value
+MVC-00059,Valentina,Garcia,31,British,A800,MV SOHO New York,Boutique,2024-02-14,2026-02-25,32,High Value
+MVC-00060,Thomas,Simon,40,Chinese,EU_F07M,MV Flagship Paris,Boutique,2025-04-03,2025-03-29,365,Lapsing
+MVC-00061,Marie,Davis,45,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-05-17,2023-12-10,840,Dormant
+MVC-00062,Natasha,Lee,35,Korean,J347,MV Flagship Tokyo,Boutique,2025-04-14,2023-10-30,881,Dormant
+MVC-00063,Ling,Davis,58,Korean,A800,MV SOHO New York,Boutique,2023-09-23,2025-05-21,312,Lapsing
+MVC-00064,Charles,Tanaka,45,American,EU_F07M,MV Flagship Paris,Boutique,2024-03-26,2026-03-19,10,Active
+MVC-00065,Claire,Moreau,29,British,J347,MV Flagship Tokyo,Digital,2023-06-04,2024-08-05,601,Dormant
+MVC-00066,Yuna,Kim,62,American,A800,MV SOHO New York,Boutique,2024-04-22,2026-02-03,54,Active
+MVC-00067,Emma,Park,49,Brazilian,A800,MV SOHO New York,Boutique,2024-01-25,2023-11-27,853,Dormant
+MVC-00068,Camille,Kim,26,American,J347,MV Flagship Tokyo,Boutique,2025-02-04,2024-08-16,590,Dormant
+MVC-00069,Isabella,Simon,50,Australian,A800,MV SOHO New York,Boutique,2025-05-10,2026-01-28,60,Active
+MVC-00070,Emma,Laurent,41,Emirati,A800,MV SOHO New York,Boutique,2024-10-20,2025-08-12,229,Lapsing
+MVC-00071,Edward,Davis,51,American,J347,MV Flagship Tokyo,Event,2023-12-01,2026-02-13,44,Active
+MVC-00072,Claire,Garcia,39,French,EU_F07M,MV Flagship Paris,Event,2023-01-20,2025-12-23,96,Active
+MVC-00073,Isabelle,Martin,55,Chinese,A800,MV SOHO New York,Boutique,2023-09-11,2025-10-09,171,Lapsing
+MVC-00074,Edward,Davis,72,American,J347,MV Flagship Tokyo,Digital,2024-12-17,2025-09-25,185,Lapsing
+MVC-00075,Alexander,Yamamoto,49,Brazilian,A800,MV SOHO New York,Boutique,2023-04-21,2025-07-04,268,Lapsing
+MVC-00076,Henry,Laurent,44,American,EU_F07M,MV Flagship Paris,Digital,2024-08-29,2025-12-30,89,Active
+MVC-00077,Marie,Park,29,Chinese,J347,MV Flagship Tokyo,Digital,2025-03-12,2025-02-15,407,Dormant
+MVC-00078,Yuna,Martin,65,French,J347,MV Flagship Tokyo,Event,2025-05-19,2026-02-03,54,Active
+MVC-00079,Priya,Sharma,42,Italian,A800,MV SOHO New York,Event,2023-06-06,2024-01-09,810,Dormant
+MVC-00080,Ling,Davis,40,Chinese,EU_F07M,MV Flagship Paris,Boutique,2024-03-22,2025-05-02,331,Lapsing
+MVC-00081,Claire,Tanaka,46,Chinese,J347,MV Flagship Tokyo,Digital,2024-04-06,2024-07-23,614,Dormant
+MVC-00082,Rina,Simon,63,Italian,J347,MV Flagship Tokyo,Boutique,2024-05-14,2026-03-15,14,VIP
+MVC-00083,Sakura,Kim,56,French,A800,MV SOHO New York,Digital,2023-01-11,2025-07-20,252,Lapsing
+MVC-00084,Charles,Sharma,30,Chinese,EU_F07M,MV Flagship Paris,Digital,2024-05-02,2025-06-17,285,Lapsing
+MVC-00085,Isabella,Sharma,58,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-09-07,2026-02-17,40,Active
+MVC-00086,Yuna,Johnson,71,American,J347,MV Flagship Tokyo,Boutique,2024-12-20,2026-01-29,59,Active
+MVC-00087,Marie,Kim,42,American,A800,MV SOHO New York,Digital,2025-02-19,2025-12-30,89,High Value
+MVC-00088,Mei,Dubois,25,American,J347,MV Flagship Tokyo,Boutique,2025-05-02,2025-10-11,169,Lapsing
+MVC-00089,James,Tanaka,65,American,EU_F07M,MV Flagship Paris,Phone,2023-02-16,2025-11-16,133,Lapsing
+MVC-00090,Min,Dubois,28,Chinese,J347,MV Flagship Tokyo,Boutique,2023-01-13,2024-06-11,656,Dormant
+MVC-00091,Ling,Dubois,68,Chinese,J347,MV Flagship Tokyo,Boutique,2025-04-21,2026-03-20,9,Active
+MVC-00092,William,Park,63,French,A800,MV SOHO New York,Digital,2023-11-08,2026-03-23,6,VIP
+MVC-00093,Thomas,Rodriguez,52,American,J347,MV Flagship Tokyo,Boutique,2024-01-25,2025-08-06,235,Lapsing
+MVC-00094,Charlotte,Lee,30,Chinese,A800,MV SOHO New York,Boutique,2025-01-27,2026-03-16,13,Active
+MVC-00095,Oliver,Kim,55,Japanese,A800,MV SOHO New York,Digital,2023-03-18,2026-03-08,21,High Value
+MVC-00096,Thomas,Yamamoto,39,Korean,EU_F07M,MV Flagship Paris,Boutique,2024-12-24,2026-02-20,37,Active
+MVC-00097,Henry,Brown,34,French,EU_F07M,MV Flagship Paris,Boutique,2023-04-28,2024-08-11,595,Dormant
+MVC-00098,Alexander,Yamamoto,54,Brazilian,EU_F07M,MV Flagship Paris,Boutique,2024-09-01,2026-02-09,48,VIP
+MVC-00099,Isabella,Tanaka,52,Japanese,J347,MV Flagship Tokyo,Boutique,2024-05-27,2025-07-14,258,Lapsing
+MVC-00100,Yuki,Martin,26,Korean,EU_F07M,MV Flagship Paris,Boutique,2023-04-04,2025-10-02,178,Lapsing
+MVC-00101,Sakura,Park,42,Chinese,J347,MV Flagship Tokyo,Boutique,2023-02-11,2024-10-01,544,Dormant
+MVC-00102,Elena,Nguyen,45,Chinese,A800,MV SOHO New York,Boutique,2025-04-13,2026-01-25,63,High Value
+MVC-00103,Alexander,Smith,60,American,J347,MV Flagship Tokyo,Phone,2024-02-26,2025-06-05,297,Lapsing
+MVC-00104,Claire,Smith,57,Australian,A800,MV SOHO New York,Boutique,2023-09-16,2026-03-08,21,VIP
+MVC-00105,Sophie,Patel,64,French,J347,MV Flagship Tokyo,Boutique,2024-07-09,2023-12-12,838,Dormant
+MVC-00106,Natasha,Bernard,69,French,EU_F07M,MV Flagship Paris,Boutique,2023-07-28,2025-09-22,188,Lapsing
+MVC-00107,Emma,Nguyen,25,British,A800,MV SOHO New York,Boutique,2024-09-15,2025-12-16,103,Active
+MVC-00108,Claire,Wang,34,Japanese,A800,MV SOHO New York,Boutique,2025-05-11,2025-04-10,353,Lapsing
+MVC-00109,Mei,Rodriguez,40,Korean,J347,MV Flagship Tokyo,Event,2024-12-23,2026-02-22,35,Active
+MVC-00110,William,Williams,29,Chinese,EU_F07M,MV Flagship Paris,Phone,2023-07-15,2025-12-01,118,Active
+MVC-00111,Camille,Smith,44,Korean,J347,MV Flagship Tokyo,Boutique,2025-03-17,2026-01-23,65,Active
+MVC-00112,Min,Moreau,49,American,J347,MV Flagship Tokyo,Digital,2024-04-02,2023-11-20,860,Dormant
+MVC-00113,Rina,Chen,51,Japanese,EU_F07M,MV Flagship Paris,Phone,2024-12-15,2026-02-26,31,Active
+MVC-00114,Ling,Sharma,66,Australian,J347,MV Flagship Tokyo,Digital,2025-04-10,2026-03-04,25,VIP
+MVC-00115,Min,Bernard,53,American,EU_F07M,MV Flagship Paris,Boutique,2023-05-10,2023-11-01,879,Dormant
+MVC-00116,Priya,Martin,29,Emirati,J347,MV Flagship Tokyo,Event,2025-01-09,2026-03-10,19,High Value
+MVC-00117,Yuki,Smith,68,Chinese,J347,MV Flagship Tokyo,Phone,2024-09-30,2025-12-30,89,Active
+MVC-00118,Valentina,Smith,65,French,EU_F07M,MV Flagship Paris,Boutique,2024-10-03,2023-11-16,864,Dormant
+MVC-00119,Mei,Wang,70,Australian,J347,MV Flagship Tokyo,Digital,2025-02-03,2025-11-06,143,Lapsing
+MVC-00120,Natasha,Simon,43,French,A800,MV SOHO New York,Digital,2024-12-11,2024-05-27,671,Dormant
+MVC-00121,Elena,Moreau,35,Chinese,J347,MV Flagship Tokyo,Digital,2023-09-08,2026-01-20,68,Active
+MVC-00122,Valentina,Lee,54,Brazilian,J347,MV Flagship Tokyo,Boutique,2024-11-30,2026-02-26,31,High Value
+MVC-00123,Priya,Tanaka,35,Emirati,J347,MV Flagship Tokyo,Digital,2024-11-13,2025-11-27,122,Lapsing
+MVC-00124,Aiko,Park,44,British,J347,MV Flagship Tokyo,Boutique,2023-11-03,2026-02-16,41,VIP
+MVC-00125,Valentina,Garcia,69,Chinese,J347,MV Flagship Tokyo,Boutique,2023-04-20,2026-02-26,31,High Value
+MVC-00126,Isabella,Tanaka,63,Italian,EU_F07M,MV Flagship Paris,Event,2023-01-09,2026-01-15,73,Active
+MVC-00127,Mei,Wang,41,American,J347,MV Flagship Tokyo,Boutique,2024-09-13,2025-05-08,325,Lapsing
+MVC-00128,James,Nguyen,53,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-04-10,2025-04-12,351,Lapsing
+MVC-00129,Keiko,Moreau,37,American,J347,MV Flagship Tokyo,Boutique,2023-04-03,2026-01-29,59,VIP
+MVC-00130,Keiko,Rodriguez,55,American,A800,MV SOHO New York,Digital,2024-05-28,2026-02-22,35,High Value
+MVC-00131,Mei,Smith,39,Australian,J347,MV Flagship Tokyo,Boutique,2025-04-03,2024-12-02,482,Dormant
+MVC-00132,Isabella,Kim,54,French,J347,MV Flagship Tokyo,Boutique,2024-01-10,2024-12-27,457,Dormant
+MVC-00133,Yuki,Park,39,Brazilian,EU_F07M,MV Flagship Paris,Boutique,2024-01-26,2025-12-13,106,Active
+MVC-00134,Rina,Lee,69,Chinese,A800,MV SOHO New York,Boutique,2023-08-15,2026-01-05,83,Active
+MVC-00135,Camille,Dubois,31,American,A800,MV SOHO New York,Boutique,2023-05-24,2026-03-23,6,Active
+MVC-00136,James,Williams,59,Brazilian,EU_F07M,MV Flagship Paris,Digital,2024-04-09,2026-02-09,48,High Value
+MVC-00137,William,Brown,42,Chinese,J347,MV Flagship Tokyo,Phone,2024-11-01,2026-03-16,13,Active
+MVC-00138,Keiko,Chen,68,Korean,A800,MV SOHO New York,Boutique,2024-03-30,2026-02-28,29,VIP
+MVC-00139,Aiko,Bernard,54,Australian,A800,MV SOHO New York,Phone,2024-02-12,2026-02-21,36,Active
+MVC-00140,Edward,Nguyen,33,French,A800,MV SOHO New York,Boutique,2024-10-16,2026-01-11,77,High Value
+MVC-00141,Edward,Laurent,39,American,EU_F07M,MV Flagship Paris,Boutique,2025-04-29,2025-05-18,315,Lapsing
+MVC-00142,William,Lee,36,Australian,A800,MV SOHO New York,Boutique,2023-01-03,2026-02-21,36,Active
+MVC-00143,Emma,Moreau,41,Chinese,A800,MV SOHO New York,Boutique,2023-01-16,2026-02-11,46,High Value
+MVC-00144,Camille,Rodriguez,57,Chinese,A800,MV SOHO New York,Digital,2023-04-27,2026-02-09,48,VIP
+MVC-00145,Natasha,Rodriguez,67,French,EU_F07M,MV Flagship Paris,Digital,2023-08-15,2025-04-01,362,Lapsing
+MVC-00146,Priya,Nguyen,31,Korean,J347,MV Flagship Tokyo,Boutique,2023-02-01,2026-03-21,8,Active
+MVC-00147,Natasha,Laurent,64,French,EU_F07M,MV Flagship Paris,Boutique,2023-03-24,2026-02-15,42,Active
+MVC-00148,Rina,Williams,31,Japanese,J347,MV Flagship Tokyo,Digital,2024-09-03,2025-07-17,255,Lapsing
+MVC-00149,Marie,Nguyen,53,British,EU_F07M,MV Flagship Paris,Boutique,2024-10-28,2025-04-19,344,Lapsing
+MVC-00150,Camille,Smith,52,Japanese,J347,MV Flagship Tokyo,Boutique,2025-04-27,2023-12-21,829,Dormant
+MVC-00151,Yuki,Johnson,30,French,J347,MV Flagship Tokyo,Digital,2023-06-06,2025-12-31,88,Active
+MVC-00152,Keiko,Moreau,67,Brazilian,EU_F07M,MV Flagship Paris,Boutique,2024-07-23,2026-03-21,8,Active
+MVC-00153,Aiko,Patel,44,French,EU_F07M,MV Flagship Paris,Boutique,2025-02-07,2026-02-02,55,High Value
+MVC-00154,Edward,Moreau,60,Korean,A800,MV SOHO New York,Boutique,2024-11-03,2026-01-26,62,Active
+MVC-00155,Sakura,Park,64,Korean,J347,MV Flagship Tokyo,Event,2023-08-20,2025-12-15,104,Active
+MVC-00156,Emma,Lee,69,American,EU_F07M,MV Flagship Paris,Boutique,2024-11-04,2025-05-01,332,Lapsing
+MVC-00157,Yuna,Johnson,34,Chinese,A800,MV SOHO New York,Boutique,2023-01-07,2025-10-14,166,Lapsing
+MVC-00158,Emma,Laurent,35,Japanese,A800,MV SOHO New York,Boutique,2025-02-03,2025-07-17,255,Lapsing
+MVC-00159,Rina,Park,28,American,A800,MV SOHO New York,Digital,2024-09-02,2026-03-18,11,Active
+MVC-00160,Sakura,Davis,38,Chinese,J347,MV Flagship Tokyo,Boutique,2024-11-08,2025-08-13,228,Lapsing
+MVC-00161,Marie,Johnson,58,British,J347,MV Flagship Tokyo,Boutique,2024-03-16,2025-11-01,148,Lapsing
+MVC-00162,Isabelle,Wang,38,French,A800,MV SOHO New York,Boutique,2024-02-09,2025-06-29,273,Lapsing
+MVC-00163,Yuki,Yamamoto,33,Chinese,A800,MV SOHO New York,Boutique,2023-12-02,2025-10-30,150,Lapsing
+MVC-00164,Thomas,Rodriguez,72,Korean,EU_F07M,MV Flagship Paris,Boutique,2024-07-26,2025-12-12,107,Active
+MVC-00165,Emma,Davis,70,Chinese,J347,MV Flagship Tokyo,Boutique,2023-03-21,2026-02-01,56,VIP
+MVC-00166,Mei,Dubois,54,American,J347,MV Flagship Tokyo,Phone,2024-02-19,2025-11-24,125,Lapsing
+MVC-00167,Keiko,Laurent,30,Japanese,A800,MV SOHO New York,Boutique,2024-03-23,2024-12-11,473,Dormant
+MVC-00168,Hana,Smith,58,French,A800,MV SOHO New York,Digital,2023-08-15,2026-02-14,43,Active
+MVC-00169,Aiko,Johnson,34,Korean,EU_F07M,MV Flagship Paris,Boutique,2025-01-14,2025-12-14,105,Active
+MVC-00170,Oliver,Lee,65,French,EU_F07M,MV Flagship Paris,Event,2023-06-06,2025-12-21,98,Active
+MVC-00171,Natasha,Patel,65,Australian,EU_F07M,MV Flagship Paris,Boutique,2024-08-01,2026-01-05,83,Active
+MVC-00172,Natasha,Laurent,28,American,EU_F07M,MV Flagship Paris,Boutique,2024-04-25,2026-01-31,57,Active
+MVC-00173,Amélie,Yamamoto,29,French,A800,MV SOHO New York,Digital,2024-04-17,2026-01-30,58,Active
+MVC-00174,Claire,Lee,72,Japanese,J347,MV Flagship Tokyo,Boutique,2024-08-31,2025-07-23,249,Lapsing
+MVC-00175,Natasha,Park,28,Chinese,J347,MV Flagship Tokyo,Boutique,2024-10-29,2024-09-18,557,Dormant
+MVC-00176,Yuna,Sharma,53,American,EU_F07M,MV Flagship Paris,Boutique,2023-03-28,2026-01-23,65,Active
+MVC-00177,Alexander,Johnson,63,Japanese,J347,MV Flagship Tokyo,Boutique,2024-01-17,2024-06-13,654,Dormant
+MVC-00178,Yuna,Laurent,71,British,EU_F07M,MV Flagship Paris,Boutique,2023-12-04,2026-03-22,7,VIP
+MVC-00179,William,Smith,67,American,J347,MV Flagship Tokyo,Digital,2023-03-25,2024-11-05,509,Dormant
+MVC-00180,Claire,Yamamoto,67,Italian,EU_F07M,MV Flagship Paris,Digital,2024-07-26,2026-02-08,49,Active
+MVC-00181,Claire,Nguyen,36,Japanese,EU_F07M,MV Flagship Paris,Boutique,2024-11-17,2025-08-13,228,Lapsing
+MVC-00182,Yuna,Garcia,31,American,A800,MV SOHO New York,Boutique,2023-07-16,2024-08-10,596,Dormant
+MVC-00183,Isabelle,Patel,35,French,EU_F07M,MV Flagship Paris,Boutique,2023-12-11,2025-12-06,113,Active
+MVC-00184,Alexander,Davis,53,British,J347,MV Flagship Tokyo,Boutique,2023-02-14,2026-02-04,53,High Value
+MVC-00185,Natasha,Wang,37,Australian,J347,MV Flagship Tokyo,Digital,2024-06-30,2025-09-29,181,Lapsing
+MVC-00186,Natasha,Davis,35,Chinese,J347,MV Flagship Tokyo,Boutique,2025-02-26,2026-02-20,37,Active
+MVC-00187,James,Tanaka,58,Chinese,J347,MV Flagship Tokyo,Boutique,2023-02-23,2023-11-23,857,Dormant
+MVC-00188,Mei,Laurent,52,Japanese,J347,MV Flagship Tokyo,Boutique,2025-02-20,2024-10-16,529,Dormant
+MVC-00189,Thomas,Davis,40,French,J347,MV Flagship Tokyo,Boutique,2023-12-24,2026-03-25,4,High Value
+MVC-00190,Claire,Johnson,66,Brazilian,J347,MV Flagship Tokyo,Digital,2023-08-18,2026-03-25,4,Active
+MVC-00191,William,Moreau,70,British,J347,MV Flagship Tokyo,Boutique,2023-02-09,2026-02-20,37,Active
+MVC-00192,Sophie,Laurent,71,Korean,A800,MV SOHO New York,Boutique,2023-01-20,2026-02-24,33,Active
+MVC-00193,Elena,Dubois,51,American,A800,MV SOHO New York,Boutique,2025-03-05,2025-09-17,193,Lapsing
+MVC-00194,Priya,Laurent,57,Chinese,J347,MV Flagship Tokyo,Boutique,2023-04-24,2025-04-29,334,Lapsing
+MVC-00195,William,Yamamoto,36,Japanese,EU_F07M,MV Flagship Paris,Boutique,2024-03-15,2025-11-29,120,Lapsing
+MVC-00196,Claire,Rodriguez,57,Chinese,EU_F07M,MV Flagship Paris,Digital,2024-01-05,2025-11-12,137,Lapsing
+MVC-00197,Valentina,Garcia,26,Australian,J347,MV Flagship Tokyo,Boutique,2023-02-14,2025-06-20,282,Lapsing
+MVC-00198,Amélie,Johnson,72,Chinese,EU_F07M,MV Flagship Paris,Digital,2023-09-04,2025-12-25,94,Active
+MVC-00199,James,Bernard,68,Korean,J347,MV Flagship Tokyo,Boutique,2023-12-27,2025-07-13,259,Lapsing
+MVC-00200,Ling,Nguyen,54,French,A800,MV SOHO New York,Digital,2023-07-06,2025-12-15,104,Active
+MVC-00201,Henry,Bernard,50,American,A800,MV SOHO New York,Boutique,2025-03-21,2026-03-16,13,VIP
+MVC-00202,Ling,Tanaka,66,Japanese,J347,MV Flagship Tokyo,Digital,2023-02-07,2024-09-15,560,Dormant
+MVC-00203,Marie,Johnson,49,Italian,J347,MV Flagship Tokyo,Phone,2024-03-23,2025-12-05,114,Active
+MVC-00204,Oliver,Garcia,30,Brazilian,J347,MV Flagship Tokyo,Boutique,2024-12-09,2026-01-24,64,Active
+MVC-00205,Claire,Brown,30,Chinese,A800,MV SOHO New York,Boutique,2024-09-08,2025-05-03,330,Lapsing
+MVC-00206,Mei,Yamamoto,47,Japanese,EU_F07M,MV Flagship Paris,Digital,2024-04-01,2026-01-10,78,Active
+MVC-00207,Aiko,Lee,29,Australian,EU_F07M,MV Flagship Paris,Phone,2024-03-21,2026-02-21,36,Active
+MVC-00208,Isabella,Johnson,34,British,EU_F07M,MV Flagship Paris,Event,2024-06-09,2025-05-08,325,Lapsing
+MVC-00209,Natasha,Bernard,49,Italian,A800,MV SOHO New York,Boutique,2023-05-10,2025-01-20,433,Dormant
+MVC-00210,Isabelle,Lee,61,Japanese,J347,MV Flagship Tokyo,Digital,2023-06-07,2023-12-25,825,Dormant
+MVC-00211,Keiko,Williams,72,American,J347,MV Flagship Tokyo,Boutique,2023-11-18,2026-01-04,84,High Value
+MVC-00212,Valentina,Kim,64,British,J347,MV Flagship Tokyo,Boutique,2023-05-01,2026-02-23,34,High Value
+MVC-00213,Min,Chen,53,Japanese,A800,MV SOHO New York,Phone,2023-05-06,2026-03-11,18,Active
+MVC-00214,Rina,Patel,35,Chinese,EU_F07M,MV Flagship Paris,Phone,2023-12-22,2025-01-22,431,Dormant
+MVC-00215,Oliver,Johnson,40,Australian,A800,MV SOHO New York,Digital,2024-06-04,2025-10-03,177,Lapsing
+MVC-00216,Emma,Johnson,33,Japanese,J347,MV Flagship Tokyo,Event,2024-07-21,2025-07-06,266,Lapsing
+MVC-00217,Claire,Laurent,51,British,EU_F07M,MV Flagship Paris,Boutique,2023-11-13,2025-08-20,221,Lapsing
+MVC-00218,Amélie,Moreau,33,Japanese,J347,MV Flagship Tokyo,Boutique,2023-11-21,2025-01-13,440,Dormant
+MVC-00219,Oliver,Moreau,44,Korean,A800,MV SOHO New York,Boutique,2024-03-19,2023-11-01,879,Dormant
+MVC-00220,Rina,Sharma,41,Emirati,EU_F07M,MV Flagship Paris,Digital,2023-08-19,2026-02-12,45,High Value
+MVC-00221,Sakura,Moreau,35,Chinese,EU_F07M,MV Flagship Paris,Boutique,2024-10-02,2026-02-18,39,High Value
+MVC-00222,William,Simon,61,Emirati,EU_F07M,MV Flagship Paris,Boutique,2024-11-05,2025-06-23,279,Lapsing
+MVC-00223,Emma,Laurent,61,American,EU_F07M,MV Flagship Paris,Boutique,2023-02-16,2026-02-15,42,VIP
+MVC-00224,Emma,Garcia,40,Chinese,J347,MV Flagship Tokyo,Boutique,2024-10-04,2026-01-18,70,Active
+MVC-00225,Isabella,Yamamoto,55,French,EU_F07M,MV Flagship Paris,Boutique,2024-04-09,2025-01-14,439,Dormant
+MVC-00226,Yuna,Lee,47,American,EU_F07M,MV Flagship Paris,Event,2023-05-28,2026-02-16,41,Active
+MVC-00227,James,Johnson,53,American,J347,MV Flagship Tokyo,Boutique,2024-06-11,2024-12-11,473,Dormant
+MVC-00228,Lucie,Bernard,35,Japanese,EU_F07M,MV Flagship Paris,Event,2023-10-25,2026-02-07,50,High Value
+MVC-00229,Rina,Chen,44,Australian,J347,MV Flagship Tokyo,Boutique,2025-02-20,2024-10-17,528,Dormant
+MVC-00230,Claire,Williams,28,American,A800,MV SOHO New York,Boutique,2024-06-01,2026-01-29,59,Active
+MVC-00231,Ling,Yamamoto,71,Japanese,A800,MV SOHO New York,Phone,2024-07-03,2026-03-27,2,Active
+MVC-00232,Isabella,Johnson,60,Chinese,A800,MV SOHO New York,Boutique,2023-02-16,2026-02-05,52,Active
+MVC-00233,Valentina,Rodriguez,68,American,EU_F07M,MV Flagship Paris,Event,2024-04-06,2025-12-21,98,Active
+MVC-00234,James,Dubois,34,Chinese,J347,MV Flagship Tokyo,Boutique,2024-02-08,2025-08-26,215,Lapsing
+MVC-00235,Isabella,Rodriguez,55,French,A800,MV SOHO New York,Boutique,2023-02-11,2026-03-23,6,High Value
+MVC-00236,William,Lee,50,Brazilian,J347,MV Flagship Tokyo,Boutique,2024-06-11,2026-03-11,18,Active
+MVC-00237,Hana,Park,44,Chinese,EU_F07M,MV Flagship Paris,Digital,2023-12-11,2023-10-27,884,Dormant
+MVC-00238,Emma,Johnson,71,Australian,A800,MV SOHO New York,Boutique,2023-12-06,2026-01-01,87,Active
+MVC-00239,Emma,Lee,61,Italian,EU_F07M,MV Flagship Paris,Digital,2024-04-30,2024-07-01,636,Dormant
+MVC-00240,Charlotte,Park,49,Chinese,EU_F07M,MV Flagship Paris,Digital,2024-05-06,2026-03-07,22,High Value
+MVC-00241,Charles,Bernard,51,American,A800,MV SOHO New York,Boutique,2024-08-09,2025-12-29,90,High Value
+MVC-00242,Edward,Brown,28,Emirati,J347,MV Flagship Tokyo,Digital,2024-05-28,2026-01-09,79,High Value
+MVC-00243,Edward,Kim,36,Chinese,J347,MV Flagship Tokyo,Boutique,2023-11-29,2025-06-13,289,Lapsing
+MVC-00244,Yuna,Kim,41,British,EU_F07M,MV Flagship Paris,Digital,2023-12-29,2026-01-01,87,Active
+MVC-00245,Henry,Wang,44,American,J347,MV Flagship Tokyo,Event,2023-10-13,2025-07-10,262,Lapsing
+MVC-00246,Edward,Sharma,71,Chinese,J347,MV Flagship Tokyo,Boutique,2024-12-22,2025-07-27,245,Lapsing
+MVC-00247,Marie,Park,47,Emirati,J347,MV Flagship Tokyo,Boutique,2024-11-23,2026-01-18,70,Active
+MVC-00248,William,Yamamoto,66,French,EU_F07M,MV Flagship Paris,Phone,2023-02-13,2024-06-08,659,Dormant
+MVC-00249,Ling,Chen,42,American,EU_F07M,MV Flagship Paris,Boutique,2023-07-26,2025-12-13,106,Active
+MVC-00250,Charles,Wang,31,American,EU_F07M,MV Flagship Paris,Boutique,2023-02-21,2026-01-02,86,High Value
+MVC-00251,Ling,Dubois,35,French,A800,MV SOHO New York,Boutique,2024-11-28,2025-12-20,99,Active
+MVC-00252,Ling,Garcia,30,American,J347,MV Flagship Tokyo,Digital,2024-10-28,2026-03-03,26,Active
+MVC-00253,Thomas,Kim,36,Brazilian,A800,MV SOHO New York,Boutique,2025-01-26,2025-05-28,305,Lapsing
+MVC-00254,Isabelle,Williams,43,Brazilian,A800,MV SOHO New York,Event,2025-03-17,2023-11-08,872,Dormant
+MVC-00255,Sophie,Yamamoto,59,American,J347,MV Flagship Tokyo,Event,2024-08-04,2024-12-10,474,Dormant
+MVC-00256,James,Rodriguez,71,Korean,A800,MV SOHO New York,Boutique,2024-04-24,2026-02-22,35,Active
+MVC-00257,Yuki,Sharma,68,American,EU_F07M,MV Flagship Paris,Boutique,2023-07-10,2026-03-27,2,Active
+MVC-00258,Oliver,Lee,30,Korean,J347,MV Flagship Tokyo,Boutique,2025-05-26,2025-06-19,283,Lapsing
+MVC-00259,Lucie,Simon,49,Brazilian,J347,MV Flagship Tokyo,Boutique,2023-05-24,2026-01-26,62,Active
+MVC-00260,Sakura,Smith,48,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-11-06,2026-01-13,75,High Value
+MVC-00261,Charlotte,Patel,70,American,J347,MV Flagship Tokyo,Digital,2023-05-02,2025-08-02,239,Lapsing
+MVC-00262,Marie,Nguyen,55,American,EU_F07M,MV Flagship Paris,Event,2023-10-30,2025-08-27,214,Lapsing
+MVC-00263,Keiko,Brown,38,Italian,J347,MV Flagship Tokyo,Digital,2024-12-19,2026-01-17,71,High Value
+MVC-00264,Claire,Rodriguez,32,Japanese,EU_F07M,MV Flagship Paris,Phone,2024-04-02,2025-07-17,255,Lapsing
+MVC-00265,Henry,Park,32,American,A800,MV SOHO New York,Boutique,2024-07-03,2026-03-19,10,VIP
+MVC-00266,Min,Laurent,54,Japanese,A800,MV SOHO New York,Boutique,2024-06-06,2025-08-07,234,Lapsing
+MVC-00267,Priya,Patel,25,French,EU_F07M,MV Flagship Paris,Boutique,2025-04-06,2025-09-12,198,Lapsing
+MVC-00268,Amélie,Bernard,29,French,EU_F07M,MV Flagship Paris,Event,2024-03-09,2025-09-02,208,Lapsing
+MVC-00269,Ling,Bernard,71,Italian,A800,MV SOHO New York,Digital,2023-10-21,2024-02-05,783,Dormant
+MVC-00270,Camille,Johnson,67,Japanese,J347,MV Flagship Tokyo,Digital,2024-01-27,2025-08-07,234,Lapsing
+MVC-00271,James,Nguyen,58,American,A800,MV SOHO New York,Boutique,2025-05-30,2024-04-07,721,Dormant
+MVC-00272,Thomas,Martin,52,Japanese,J347,MV Flagship Tokyo,Digital,2025-02-13,2026-03-26,3,High Value
+MVC-00273,Thomas,Wang,71,American,A800,MV SOHO New York,Phone,2024-04-16,2026-02-12,45,Active
+MVC-00274,Isabelle,Patel,63,American,A800,MV SOHO New York,Boutique,2024-03-05,2025-06-25,277,Lapsing
+MVC-00275,Charlotte,Wang,28,Japanese,J347,MV Flagship Tokyo,Boutique,2025-01-28,2026-03-26,3,VIP
+MVC-00276,Mei,Wang,45,Chinese,J347,MV Flagship Tokyo,Digital,2025-04-15,2026-01-14,74,High Value
+MVC-00277,William,Patel,62,American,J347,MV Flagship Tokyo,Boutique,2024-06-17,2026-02-28,29,High Value
+MVC-00278,Oliver,Nguyen,66,Chinese,EU_F07M,MV Flagship Paris,Event,2024-11-26,2024-01-17,802,Dormant
+MVC-00279,Rina,Sharma,59,American,A800,MV SOHO New York,Boutique,2024-03-02,2025-08-17,224,Lapsing
+MVC-00280,Thomas,Yamamoto,60,Korean,A800,MV SOHO New York,Phone,2025-05-28,2025-12-28,91,Active
+MVC-00281,Camille,Kim,66,American,J347,MV Flagship Tokyo,Boutique,2024-06-26,2026-03-11,18,Active
+MVC-00282,Natasha,Johnson,49,Korean,EU_F07M,MV Flagship Paris,Boutique,2023-04-05,2026-02-22,35,VIP
+MVC-00283,Isabelle,Laurent,55,British,EU_F07M,MV Flagship Paris,Boutique,2023-07-12,2025-05-08,325,Lapsing
+MVC-00284,Yuna,Yamamoto,55,Australian,A800,MV SOHO New York,Boutique,2023-01-16,2026-03-01,28,High Value
+MVC-00285,Edward,Williams,47,Japanese,J347,MV Flagship Tokyo,Boutique,2023-09-03,2024-05-04,694,Dormant
+MVC-00286,Keiko,Rodriguez,45,Korean,A800,MV SOHO New York,Digital,2024-05-24,2026-01-28,60,Active
+MVC-00287,Keiko,Smith,26,Emirati,EU_F07M,MV Flagship Paris,Digital,2024-02-28,2025-02-11,411,Dormant
+MVC-00288,Camille,Yamamoto,40,American,J347,MV Flagship Tokyo,Boutique,2023-06-06,2026-03-03,26,Active
+MVC-00289,Yuna,Tanaka,56,Australian,J347,MV Flagship Tokyo,Digital,2025-02-20,2025-12-13,106,Active
+MVC-00290,Aiko,Simon,59,Chinese,EU_F07M,MV Flagship Paris,Phone,2023-05-24,2025-12-26,93,Active
+MVC-00291,Charlotte,Rodriguez,33,French,EU_F07M,MV Flagship Paris,Boutique,2023-02-04,2025-01-12,441,Dormant
+MVC-00292,Thomas,Laurent,28,American,A800,MV SOHO New York,Boutique,2024-12-25,2024-10-26,519,Dormant
+MVC-00293,Ling,Patel,26,Chinese,A800,MV SOHO New York,Boutique,2024-05-14,2025-11-25,124,Lapsing
+MVC-00294,Sakura,Kim,36,Korean,EU_F07M,MV Flagship Paris,Digital,2023-10-21,2026-03-26,3,Active
+MVC-00295,Lucie,Rodriguez,47,Chinese,A800,MV SOHO New York,Boutique,2023-06-02,2026-02-26,31,High Value
+MVC-00296,Isabella,Laurent,39,Chinese,J347,MV Flagship Tokyo,Event,2024-01-18,2026-02-05,52,Active
+MVC-00297,Claire,Nguyen,60,French,A800,MV SOHO New York,Boutique,2025-05-28,2026-01-04,84,Active
+MVC-00298,Sophie,Sharma,46,Korean,J347,MV Flagship Tokyo,Digital,2023-06-25,2026-03-18,11,Active
+MVC-00299,Lucie,Rodriguez,61,Emirati,A800,MV SOHO New York,Digital,2023-02-13,2025-10-02,178,Lapsing
+MVC-00300,Isabelle,Laurent,27,Emirati,J347,MV Flagship Tokyo,Boutique,2024-12-01,2025-11-30,119,Active
+MVC-00301,Rina,Martin,50,Italian,A800,MV SOHO New York,Digital,2023-08-01,2026-01-12,76,High Value
+MVC-00302,Hana,Simon,59,Korean,EU_F07M,MV Flagship Paris,Boutique,2024-07-31,2024-07-26,611,Dormant
+MVC-00303,James,Sharma,31,Italian,EU_F07M,MV Flagship Paris,Boutique,2025-01-11,2026-03-18,11,Active
+MVC-00304,Amélie,Smith,45,Brazilian,EU_F07M,MV Flagship Paris,Boutique,2024-09-11,2025-12-20,99,Active
+MVC-00305,Sakura,Davis,36,Chinese,J347,MV Flagship Tokyo,Boutique,2024-05-17,2026-03-14,15,VIP
+MVC-00306,Valentina,Laurent,30,Italian,J347,MV Flagship Tokyo,Digital,2025-03-01,2025-06-24,278,Lapsing
+MVC-00307,Valentina,Sharma,31,Italian,A800,MV SOHO New York,Boutique,2025-03-13,2026-01-06,82,Active
+MVC-00308,Hana,Davis,53,French,A800,MV SOHO New York,Boutique,2024-01-04,2026-02-22,35,High Value
+MVC-00309,Camille,Dubois,45,Chinese,J347,MV Flagship Tokyo,Boutique,2023-01-27,2025-11-07,142,Lapsing
+MVC-00310,Sophie,Yamamoto,40,British,A800,MV SOHO New York,Boutique,2024-02-28,2024-02-26,762,Dormant
+MVC-00311,Alexander,Patel,34,American,A800,MV SOHO New York,Boutique,2024-01-25,2025-10-17,163,Lapsing
+MVC-00312,Elena,Tanaka,40,Italian,J347,MV Flagship Tokyo,Boutique,2024-03-07,2026-03-09,20,VIP
+MVC-00313,Min,Lee,50,French,J347,MV Flagship Tokyo,Boutique,2024-09-23,2025-10-10,170,Lapsing
+MVC-00314,Valentina,Smith,63,Korean,J347,MV Flagship Tokyo,Phone,2024-03-26,2026-02-14,43,Active
+MVC-00315,Rina,Lee,45,American,J347,MV Flagship Tokyo,Event,2024-12-12,2026-03-03,26,High Value
+MVC-00316,Min,Park,50,Japanese,J347,MV Flagship Tokyo,Digital,2025-03-11,2026-02-25,32,Active
+MVC-00317,Henry,Park,71,Italian,EU_F07M,MV Flagship Paris,Boutique,2024-07-12,2026-03-05,24,Active
+MVC-00318,Edward,Davis,51,French,EU_F07M,MV Flagship Paris,Digital,2025-03-27,2026-02-19,38,Active
+MVC-00319,James,Nguyen,49,British,J347,MV Flagship Tokyo,Digital,2023-11-07,2025-09-29,181,Lapsing
+MVC-00320,Ling,Park,51,Brazilian,EU_F07M,MV Flagship Paris,Phone,2024-02-15,2026-02-22,35,VIP
+MVC-00321,Keiko,Sharma,40,Chinese,EU_F07M,MV Flagship Paris,Boutique,2025-04-11,2026-01-19,69,Active
+MVC-00322,Aiko,Simon,66,Chinese,A800,MV SOHO New York,Digital,2024-10-24,2025-06-26,276,Lapsing
+MVC-00323,Yuna,Brown,58,American,A800,MV SOHO New York,Boutique,2023-04-19,2026-03-27,2,Active
+MVC-00324,Thomas,Davis,57,Italian,J347,MV Flagship Tokyo,Boutique,2024-01-19,2025-08-21,220,Lapsing
+MVC-00325,Emma,Garcia,71,Brazilian,J347,MV Flagship Tokyo,Boutique,2023-04-18,2026-02-19,38,High Value
+MVC-00326,Hana,Smith,53,Chinese,EU_F07M,MV Flagship Paris,Boutique,2024-04-11,2026-03-02,27,High Value
+MVC-00327,Natasha,Smith,46,Korean,A800,MV SOHO New York,Boutique,2023-03-10,2025-09-14,196,Lapsing
+MVC-00328,Alexander,Wang,54,American,EU_F07M,MV Flagship Paris,Boutique,2024-06-12,2025-10-16,164,Lapsing
+MVC-00329,Isabella,Nguyen,72,British,EU_F07M,MV Flagship Paris,Boutique,2023-07-08,2026-03-05,24,High Value
+MVC-00330,Henry,Davis,42,French,J347,MV Flagship Tokyo,Boutique,2024-08-29,2025-08-12,229,Lapsing
+MVC-00331,Amélie,Park,54,American,EU_F07M,MV Flagship Paris,Boutique,2023-04-15,2025-05-09,324,Lapsing
+MVC-00332,Min,Rodriguez,32,Japanese,EU_F07M,MV Flagship Paris,Boutique,2024-10-16,2026-02-16,41,High Value
+MVC-00333,Priya,Lee,64,British,EU_F07M,MV Flagship Paris,Boutique,2023-06-26,2025-12-14,105,Active
+MVC-00334,James,Smith,34,French,J347,MV Flagship Tokyo,Boutique,2023-05-01,2025-09-29,181,Lapsing
+MVC-00335,Camille,Lee,59,Japanese,J347,MV Flagship Tokyo,Boutique,2023-05-22,2026-01-14,74,Active
+MVC-00336,Oliver,Kim,53,French,J347,MV Flagship Tokyo,Boutique,2023-06-20,2025-07-27,245,Lapsing
+MVC-00337,Aiko,Martin,57,Korean,A800,MV SOHO New York,Event,2024-05-11,2025-10-26,154,Lapsing
+MVC-00338,Camille,Patel,30,Korean,EU_F07M,MV Flagship Paris,Boutique,2024-05-18,2025-08-15,226,Lapsing
+MVC-00339,Thomas,Yamamoto,54,Chinese,A800,MV SOHO New York,Boutique,2023-02-03,2025-09-20,190,Lapsing
+MVC-00340,Min,Kim,48,French,EU_F07M,MV Flagship Paris,Digital,2024-06-07,2025-11-01,148,Lapsing
+MVC-00341,Isabelle,Davis,40,French,J347,MV Flagship Tokyo,Digital,2024-07-13,2026-03-01,28,Active
+MVC-00342,Isabelle,Davis,40,Japanese,A800,MV SOHO New York,Event,2023-09-27,2026-02-12,45,Active
+MVC-00343,Aiko,Sharma,38,American,J347,MV Flagship Tokyo,Boutique,2024-09-16,2026-01-07,81,High Value
+MVC-00344,Charlotte,Park,70,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-12-26,2024-06-15,652,Dormant
+MVC-00345,Sakura,Rodriguez,51,French,A800,MV SOHO New York,Digital,2024-11-26,2025-12-14,105,Active
+MVC-00346,Sakura,Nguyen,40,French,A800,MV SOHO New York,Boutique,2023-05-10,2024-11-14,500,Dormant
+MVC-00347,Isabella,Garcia,53,American,EU_F07M,MV Flagship Paris,Boutique,2023-05-26,2025-07-05,267,Lapsing
+MVC-00348,Claire,Williams,54,British,J347,MV Flagship Tokyo,Phone,2024-06-11,2026-02-09,48,VIP
+MVC-00349,Rina,Park,69,Australian,EU_F07M,MV Flagship Paris,Digital,2023-01-03,2024-12-24,460,Dormant
+MVC-00350,Amélie,Kim,45,Korean,J347,MV Flagship Tokyo,Boutique,2024-02-12,2026-03-01,28,Active
+MVC-00351,Yuna,Kim,68,Korean,EU_F07M,MV Flagship Paris,Digital,2024-08-14,2024-11-16,498,Dormant
+MVC-00352,Isabelle,Dubois,35,French,J347,MV Flagship Tokyo,Phone,2024-10-03,2025-05-13,320,Lapsing
+MVC-00353,Sophie,Brown,42,Emirati,A800,MV SOHO New York,Boutique,2023-07-27,2025-12-30,89,Active
+MVC-00354,Keiko,Tanaka,50,Emirati,EU_F07M,MV Flagship Paris,Boutique,2023-03-26,2026-02-09,48,High Value
+MVC-00355,Thomas,Brown,29,French,EU_F07M,MV Flagship Paris,Boutique,2024-11-02,2025-11-06,143,Lapsing
+MVC-00356,Thomas,Rodriguez,32,French,A800,MV SOHO New York,Boutique,2024-11-27,2026-01-31,57,High Value
+MVC-00357,Elena,Sharma,31,American,A800,MV SOHO New York,Boutique,2023-05-16,2023-11-26,854,Dormant
+MVC-00358,Keiko,Yamamoto,29,Chinese,A800,MV SOHO New York,Digital,2023-05-21,2026-02-08,49,High Value
+MVC-00359,Sophie,Lee,72,Japanese,J347,MV Flagship Tokyo,Boutique,2024-10-27,2026-03-07,22,Active
+MVC-00360,Camille,Lee,32,French,A800,MV SOHO New York,Boutique,2024-12-04,2026-01-31,57,High Value
+MVC-00361,Valentina,Johnson,40,American,A800,MV SOHO New York,Digital,2024-03-15,2025-09-10,200,Lapsing
+MVC-00362,Mei,Sharma,63,Emirati,EU_F07M,MV Flagship Paris,Boutique,2023-01-28,2025-04-26,337,Lapsing
+MVC-00363,Isabella,Yamamoto,56,Chinese,A800,MV SOHO New York,Boutique,2024-10-23,2026-03-22,7,Active
+MVC-00364,Amélie,Rodriguez,61,French,J347,MV Flagship Tokyo,Phone,2023-01-13,2025-08-29,212,Lapsing
+MVC-00365,Oliver,Garcia,38,Chinese,A800,MV SOHO New York,Boutique,2025-02-27,2026-03-19,10,Active
+MVC-00366,Charlotte,Williams,52,British,EU_F07M,MV Flagship Paris,Digital,2024-06-02,2026-03-10,19,VIP
+MVC-00367,Claire,Nguyen,30,American,EU_F07M,MV Flagship Paris,Boutique,2024-07-03,2025-07-15,257,Lapsing
+MVC-00368,Edward,Moreau,66,Chinese,J347,MV Flagship Tokyo,Digital,2024-07-03,2026-02-15,42,Active
+MVC-00369,Amélie,Yamamoto,40,Brazilian,EU_F07M,MV Flagship Paris,Boutique,2024-12-16,2025-08-10,231,Lapsing
+MVC-00370,Elena,Dubois,67,French,EU_F07M,MV Flagship Paris,Digital,2024-04-09,2026-01-09,79,High Value
+MVC-00371,Marie,Martin,47,French,EU_F07M,MV Flagship Paris,Boutique,2024-12-25,2025-10-25,155,Lapsing
+MVC-00372,Yuki,Simon,32,Italian,EU_F07M,MV Flagship Paris,Boutique,2024-01-16,2026-03-12,17,Active
+MVC-00373,Emma,Smith,61,Chinese,J347,MV Flagship Tokyo,Boutique,2025-04-06,2025-08-12,229,Lapsing
+MVC-00374,Min,Davis,48,Chinese,A800,MV SOHO New York,Boutique,2024-06-07,2025-08-29,212,Lapsing
+MVC-00375,Lucie,Park,25,Italian,A800,MV SOHO New York,Boutique,2024-11-21,2026-03-14,15,High Value
+MVC-00376,Ling,Johnson,60,Brazilian,A800,MV SOHO New York,Phone,2024-01-28,2026-03-09,20,High Value
+MVC-00377,Camille,Wang,29,Brazilian,J347,MV Flagship Tokyo,Boutique,2023-11-26,2024-07-18,619,Dormant
+MVC-00378,Marie,Rodriguez,27,American,A800,MV SOHO New York,Digital,2024-11-20,2025-04-13,350,Lapsing
+MVC-00379,Amélie,Davis,48,French,J347,MV Flagship Tokyo,Boutique,2023-10-17,2024-05-15,683,Dormant
+MVC-00380,Hana,Lee,37,Chinese,J347,MV Flagship Tokyo,Boutique,2023-09-06,2026-01-28,60,High Value
+MVC-00381,Charles,Moreau,65,French,J347,MV Flagship Tokyo,Boutique,2023-01-07,2025-04-05,358,Lapsing
+MVC-00382,Sophie,Smith,58,British,EU_F07M,MV Flagship Paris,Boutique,2023-01-02,2024-03-09,750,Dormant
+MVC-00383,Camille,Garcia,39,American,EU_F07M,MV Flagship Paris,Boutique,2023-03-03,2024-11-04,510,Dormant
+MVC-00384,Camille,Sharma,33,French,EU_F07M,MV Flagship Paris,Boutique,2024-01-17,2023-12-16,834,Dormant
+MVC-00385,Isabella,Laurent,40,Japanese,A800,MV SOHO New York,Event,2024-08-29,2025-07-07,265,Lapsing
+MVC-00386,Rina,Williams,39,American,EU_F07M,MV Flagship Paris,Boutique,2024-12-18,2025-12-12,107,Active
+MVC-00387,Henry,Moreau,53,French,EU_F07M,MV Flagship Paris,Boutique,2025-03-09,2026-02-07,50,VIP
+MVC-00388,Camille,Dubois,32,Japanese,A800,MV SOHO New York,Boutique,2024-07-02,2026-02-11,46,Active
+MVC-00389,Hana,Sharma,34,American,A800,MV SOHO New York,Phone,2024-12-14,2026-01-10,78,High Value
+MVC-00390,Charles,Johnson,36,British,A800,MV SOHO New York,Boutique,2024-02-10,2026-01-22,66,High Value
+MVC-00391,Isabella,Davis,33,American,EU_F07M,MV Flagship Paris,Boutique,2024-07-23,2026-02-09,48,VIP
+MVC-00392,Charlotte,Wang,66,Japanese,J347,MV Flagship Tokyo,Digital,2023-05-14,2026-03-03,26,High Value
+MVC-00393,Yuki,Laurent,33,Emirati,A800,MV SOHO New York,Boutique,2023-01-23,2026-03-20,9,High Value
+MVC-00394,Yuna,Dubois,71,American,A800,MV SOHO New York,Boutique,2023-02-13,2026-01-28,60,High Value
+MVC-00395,Emma,Williams,42,Japanese,A800,MV SOHO New York,Phone,2024-11-30,2026-02-02,55,Active
+MVC-00396,William,Bernard,51,American,EU_F07M,MV Flagship Paris,Boutique,2024-09-20,2026-01-08,80,Active
+MVC-00397,Ling,Bernard,58,French,J347,MV Flagship Tokyo,Boutique,2023-03-31,2024-06-16,651,Dormant
+MVC-00398,Emma,Williams,61,Chinese,J347,MV Flagship Tokyo,Boutique,2025-03-11,2026-02-11,46,High Value
+MVC-00399,Valentina,Tanaka,42,Chinese,J347,MV Flagship Tokyo,Boutique,2023-07-04,2026-03-25,4,Active
+MVC-00400,Ling,Rodriguez,31,Australian,EU_F07M,MV Flagship Paris,Event,2024-01-02,2026-02-07,50,VIP
+MVC-00401,Charles,Tanaka,49,Chinese,A800,MV SOHO New York,Event,2024-06-30,2026-03-21,8,High Value
+MVC-00402,Oliver,Simon,62,Korean,J347,MV Flagship Tokyo,Digital,2023-08-31,2026-01-12,76,Active
+MVC-00403,Aiko,Park,56,Brazilian,EU_F07M,MV Flagship Paris,Digital,2024-07-31,2026-03-19,10,VIP
+MVC-00404,Oliver,Garcia,58,American,A800,MV SOHO New York,Boutique,2023-02-08,2026-03-17,12,Active
+MVC-00405,Yuna,Lee,45,American,A800,MV SOHO New York,Boutique,2023-07-26,2025-12-15,104,Active
+MVC-00406,William,Park,48,Italian,A800,MV SOHO New York,Digital,2024-12-22,2026-01-29,59,VIP
+MVC-00407,Keiko,Sharma,33,French,EU_F07M,MV Flagship Paris,Boutique,2024-11-09,2024-02-18,770,Dormant
+MVC-00408,Elena,Nguyen,64,British,A800,MV SOHO New York,Boutique,2024-05-13,2024-05-09,689,Dormant
+MVC-00409,Thomas,Patel,43,Japanese,A800,MV SOHO New York,Digital,2024-08-26,2025-05-05,328,Lapsing
+MVC-00410,Sophie,Sharma,64,French,EU_F07M,MV Flagship Paris,Digital,2024-08-09,2026-02-06,51,High Value
+MVC-00411,Lucie,Garcia,45,French,EU_F07M,MV Flagship Paris,Boutique,2023-05-25,2026-02-14,43,High Value
+MVC-00412,Claire,Sharma,41,Emirati,EU_F07M,MV Flagship Paris,Boutique,2024-11-17,2026-01-06,82,High Value
+MVC-00413,Amélie,Johnson,71,French,EU_F07M,MV Flagship Paris,Boutique,2023-09-20,2026-03-15,14,High Value
+MVC-00414,Alexander,Brown,55,Japanese,J347,MV Flagship Tokyo,Boutique,2024-05-19,2025-12-06,113,Active
+MVC-00415,Thomas,Simon,31,American,A800,MV SOHO New York,Boutique,2024-04-07,2025-11-11,138,Lapsing
+MVC-00416,Alexander,Williams,30,Chinese,A800,MV SOHO New York,Phone,2023-06-14,2026-02-10,47,VIP
+MVC-00417,Ling,Sharma,35,American,EU_F07M,MV Flagship Paris,Phone,2023-02-01,2026-02-01,56,Active
+MVC-00418,Yuna,Chen,59,Chinese,EU_F07M,MV Flagship Paris,Phone,2023-07-14,2026-03-02,27,VIP
+MVC-00419,Mei,Yamamoto,56,Japanese,A800,MV SOHO New York,Boutique,2023-09-01,2026-03-16,13,Active
+MVC-00420,Keiko,Martin,55,Korean,J347,MV Flagship Tokyo,Digital,2024-03-13,2026-03-17,12,High Value
+MVC-00421,Emma,Chen,32,Australian,J347,MV Flagship Tokyo,Boutique,2023-06-24,2026-01-06,82,High Value
+MVC-00422,Isabella,Garcia,49,American,EU_F07M,MV Flagship Paris,Digital,2024-05-15,2025-12-04,115,Active
+MVC-00423,Valentina,Johnson,39,American,A800,MV SOHO New York,Boutique,2023-07-11,2026-01-30,58,High Value
+MVC-00424,Charlotte,Moreau,51,British,A800,MV SOHO New York,Digital,2025-02-09,2024-12-20,464,Dormant
+MVC-00425,Thomas,Kim,55,Japanese,EU_F07M,MV Flagship Paris,Boutique,2023-03-04,2024-02-27,761,Dormant
+MVC-00426,Charles,Garcia,57,Emirati,J347,MV Flagship Tokyo,Digital,2023-11-03,2025-11-09,140,Lapsing
+MVC-00427,William,Dubois,38,Brazilian,A800,MV SOHO New York,Boutique,2025-02-14,2025-08-07,234,Lapsing
+MVC-00428,James,Bernard,65,Japanese,EU_F07M,MV Flagship Paris,Event,2024-03-09,2025-01-08,445,Dormant
+MVC-00429,Yuki,Smith,45,Japanese,A800,MV SOHO New York,Boutique,2025-01-14,2026-03-20,9,High Value
+MVC-00430,Priya,Martin,61,French,J347,MV Flagship Tokyo,Boutique,2025-03-16,2023-10-11,900,Dormant
+MVC-00431,Lucie,Dubois,47,Italian,A800,MV SOHO New York,Phone,2024-07-30,2025-05-14,319,Lapsing
+MVC-00432,Yuki,Williams,42,Chinese,EU_F07M,MV Flagship Paris,Boutique,2024-11-01,2023-11-18,862,Dormant
+MVC-00433,Isabella,Bernard,55,British,J347,MV Flagship Tokyo,Boutique,2024-02-10,2025-12-05,114,Active
+MVC-00434,Keiko,Martin,69,American,J347,MV Flagship Tokyo,Boutique,2023-12-12,2024-05-23,675,Dormant
+MVC-00435,Thomas,Moreau,71,Italian,J347,MV Flagship Tokyo,Boutique,2023-11-04,2025-05-23,310,Lapsing
+MVC-00436,Claire,Chen,48,Italian,J347,MV Flagship Tokyo,Digital,2024-03-28,2026-03-01,28,Active
+MVC-00437,Alexander,Laurent,61,French,J347,MV Flagship Tokyo,Phone,2023-11-15,2023-10-28,883,Dormant
+MVC-00438,Henry,Chen,48,French,A800,MV SOHO New York,Boutique,2025-05-07,2026-03-25,4,VIP
+MVC-00439,Sakura,Johnson,68,Japanese,EU_F07M,MV Flagship Paris,Phone,2025-04-23,2025-08-03,238,Lapsing
+MVC-00440,Keiko,Garcia,60,Australian,A800,MV SOHO New York,Boutique,2024-08-31,2026-02-28,29,VIP
+MVC-00441,Alexander,Tanaka,28,French,EU_F07M,MV Flagship Paris,Boutique,2025-02-05,2025-12-12,107,Active
+MVC-00442,Edward,Wang,57,American,EU_F07M,MV Flagship Paris,Digital,2024-10-24,2026-02-28,29,High Value
+MVC-00443,Sophie,Garcia,41,Chinese,A800,MV SOHO New York,Boutique,2023-05-16,2026-02-15,42,VIP
+MVC-00444,Hana,Sharma,47,Japanese,J347,MV Flagship Tokyo,Boutique,2024-12-27,2025-06-18,284,Lapsing
+MVC-00445,Edward,Davis,31,Korean,EU_F07M,MV Flagship Paris,Boutique,2023-11-06,2026-01-01,87,Active
+MVC-00446,Keiko,Kim,55,American,EU_F07M,MV Flagship Paris,Digital,2024-10-24,2026-02-18,39,VIP
+MVC-00447,Sakura,Nguyen,66,American,J347,MV Flagship Tokyo,Digital,2023-11-29,2026-02-01,56,VIP
+MVC-00448,William,Rodriguez,63,Korean,A800,MV SOHO New York,Digital,2025-02-22,2026-02-26,31,Active
+MVC-00449,Rina,Patel,41,British,A800,MV SOHO New York,Event,2023-05-24,2025-12-26,93,Active
+MVC-00450,Isabella,Williams,37,British,EU_F07M,MV Flagship Paris,Boutique,2025-01-24,2025-02-21,401,Dormant
+MVC-00451,Thomas,Patel,57,Emirati,J347,MV Flagship Tokyo,Digital,2024-07-01,2026-01-06,82,Active
+MVC-00452,Alexander,Patel,41,French,J347,MV Flagship Tokyo,Boutique,2024-07-25,2026-03-05,24,Active
+MVC-00453,Oliver,Patel,44,American,A800,MV SOHO New York,Boutique,2023-12-10,2025-06-15,287,Lapsing
+MVC-00454,Yuna,Johnson,28,Japanese,J347,MV Flagship Tokyo,Boutique,2023-09-24,2026-01-13,75,Active
+MVC-00455,Amélie,Garcia,44,Emirati,A800,MV SOHO New York,Boutique,2023-07-19,2023-11-03,877,Dormant
+MVC-00456,William,Moreau,54,Australian,J347,MV Flagship Tokyo,Phone,2023-07-25,2026-02-13,44,Active
+MVC-00457,Oliver,Laurent,28,Australian,EU_F07M,MV Flagship Paris,Boutique,2024-05-14,2026-02-14,43,High Value
+MVC-00458,Sakura,Chen,30,Chinese,A800,MV SOHO New York,Boutique,2025-02-18,2026-02-07,50,VIP
+MVC-00459,Elena,Nguyen,27,Australian,J347,MV Flagship Tokyo,Boutique,2024-03-15,2026-02-05,52,High Value
+MVC-00460,Keiko,Martin,65,American,EU_F07M,MV Flagship Paris,Digital,2023-11-26,2025-12-22,97,Active
+MVC-00461,Thomas,Sharma,44,French,A800,MV SOHO New York,Boutique,2023-12-19,2025-09-11,199,Lapsing
+MVC-00462,Isabelle,Yamamoto,52,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-10-25,2026-01-29,59,High Value
+MVC-00463,James,Smith,50,American,A800,MV SOHO New York,Phone,2024-05-16,2024-03-27,732,Dormant
+MVC-00464,Thomas,Moreau,48,Chinese,A800,MV SOHO New York,Boutique,2023-08-05,2026-02-10,47,VIP
+MVC-00465,Isabelle,Williams,28,Chinese,EU_F07M,MV Flagship Paris,Boutique,2024-10-17,2025-09-25,185,Lapsing
+MVC-00466,Emma,Bernard,41,Japanese,J347,MV Flagship Tokyo,Boutique,2024-12-07,2025-10-31,149,Lapsing
+MVC-00467,William,Chen,31,French,EU_F07M,MV Flagship Paris,Boutique,2024-12-12,2025-12-31,88,Active
+MVC-00468,Sakura,Lee,57,Japanese,A800,MV SOHO New York,Phone,2024-09-12,2025-06-03,299,Lapsing
+MVC-00469,Marie,Yamamoto,41,Chinese,A800,MV SOHO New York,Digital,2023-04-27,2025-05-13,320,Lapsing
+MVC-00470,Henry,Johnson,38,American,J347,MV Flagship Tokyo,Boutique,2024-12-21,2024-02-04,784,Dormant
+MVC-00471,Ling,Smith,61,British,A800,MV SOHO New York,Phone,2023-08-29,2025-11-29,120,Lapsing
+MVC-00472,William,Laurent,41,British,A800,MV SOHO New York,Boutique,2025-03-09,2025-07-22,250,Lapsing
+MVC-00473,Priya,Yamamoto,27,French,A800,MV SOHO New York,Boutique,2023-09-28,2025-08-03,238,Lapsing
+MVC-00474,Keiko,Patel,27,French,EU_F07M,MV Flagship Paris,Phone,2023-11-17,2024-01-18,801,Dormant
+MVC-00475,James,Patel,64,Japanese,J347,MV Flagship Tokyo,Boutique,2024-10-24,2026-03-18,11,VIP
+MVC-00476,Claire,Johnson,54,French,A800,MV SOHO New York,Boutique,2025-04-14,2026-02-13,44,Active
+MVC-00477,Valentina,Sharma,32,Chinese,J347,MV Flagship Tokyo,Digital,2025-05-21,2026-01-26,62,Active
+MVC-00478,Charlotte,Simon,53,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-04-17,2026-02-03,54,High Value
+MVC-00479,Valentina,Johnson,33,Emirati,EU_F07M,MV Flagship Paris,Digital,2024-09-18,2026-03-25,4,High Value
+MVC-00480,Min,Dubois,25,French,A800,MV SOHO New York,Digital,2024-02-26,2026-01-31,57,Active
+MVC-00481,Thomas,Patel,52,British,EU_F07M,MV Flagship Paris,Digital,2023-12-13,2025-07-20,252,Lapsing
+MVC-00482,Charles,Garcia,60,Chinese,EU_F07M,MV Flagship Paris,Boutique,2023-12-21,2025-06-13,289,Lapsing
+MVC-00483,Charlotte,Martin,35,Korean,EU_F07M,MV Flagship Paris,Phone,2024-10-20,2024-10-20,525,Dormant
+MVC-00484,Min,Smith,66,French,J347,MV Flagship Tokyo,Boutique,2023-09-04,2026-03-07,22,VIP
+MVC-00485,Charles,Laurent,53,Japanese,EU_F07M,MV Flagship Paris,Phone,2024-04-15,2026-01-31,57,Active
+MVC-00486,Min,Nguyen,25,Japanese,J347,MV Flagship Tokyo,Boutique,2023-01-19,2026-03-15,14,Active
+MVC-00487,Hana,Rodriguez,48,British,EU_F07M,MV Flagship Paris,Event,2024-07-29,2024-08-30,576,Dormant
+MVC-00488,Thomas,Davis,32,British,EU_F07M,MV Flagship Paris,Digital,2023-12-06,2023-12-01,849,Dormant
+MVC-00489,Thomas,Martin,58,Australian,EU_F07M,MV Flagship Paris,Boutique,2023-12-16,2026-02-11,46,High Value
+MVC-00490,Lucie,Bernard,51,Korean,A800,MV SOHO New York,Digital,2023-06-18,2026-01-24,64,Active
+MVC-00491,Henry,Chen,70,Japanese,A800,MV SOHO New York,Digital,2023-05-04,2026-02-06,51,High Value
+MVC-00492,Camille,Bernard,53,Chinese,EU_F07M,MV Flagship Paris,Digital,2024-10-10,2025-12-11,108,Active
+MVC-00493,James,Garcia,62,French,EU_F07M,MV Flagship Paris,Phone,2023-01-05,2026-01-20,68,Active
+MVC-00494,Oliver,Sharma,67,Korean,EU_F07M,MV Flagship Paris,Boutique,2024-08-15,2026-03-06,23,Active
+MVC-00495,Rina,Rodriguez,42,Brazilian,EU_F07M,MV Flagship Paris,Digital,2024-01-29,2025-08-14,227,Lapsing
+MVC-00496,Yuna,Yamamoto,72,French,A800,MV SOHO New York,Digital,2024-04-08,2025-12-15,104,Active
+MVC-00497,Rina,Sharma,64,Chinese,EU_F07M,MV Flagship Paris,Boutique,2025-01-24,2025-11-29,120,Active
+MVC-00498,Aiko,Patel,59,Australian,EU_F07M,MV Flagship Paris,Boutique,2023-05-16,2025-06-01,301,Lapsing
+MVC-00499,Rina,Sharma,67,Chinese,J347,MV Flagship Tokyo,Boutique,2023-04-29,2025-05-19,314,Lapsing
+MVC-00500,Mei,Brown,28,French,EU_F07M,MV Flagship Paris,Boutique,2025-04-07,2025-11-26,123,Lapsing

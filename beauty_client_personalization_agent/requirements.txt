@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+python-dotenv
+plotly
+# Note: copy_tool.py calls the Groq HTTPS API via the system `curl` binary
+# (shipped with Windows 10+ / macOS / most Linux). The `groq` Python SDK is
+# intentionally not used because some Python installs have a broken `ssl`
+# module; curl has its own TLS stack.

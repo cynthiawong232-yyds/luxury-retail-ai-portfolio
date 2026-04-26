@@ -1,0 +1,16 @@
+# Environment variables (keep API keys out of git)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Note: data/ is intentionally NOT gitignored — those synthetic CSVs are
+# what the deployed Streamlit Cloud app loads. If you ever drop REAL client
+# data into data/, switch this back to "data/" and use a separate location
+# for synthetic demo data.
+
+# OS
+.DS_Store
+Thumbs.db

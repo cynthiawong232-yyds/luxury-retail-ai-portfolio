@@ -1,0 +1,1001 @@
+plm_style_code,style_description,color_code,colorway_short_description,gmh_sector_text,gmh_gender_text,gmh_category_text,gmh_sub_category_text,gmh_sub_brand_code,gmh_sub_brand_text,company_code,distribution_channel_code,site_number,site_text,netslsamt_cy,netslscstmerch_cy,netslsqty_cy,netmsrpamt_cy,netslsamt_ly,netslscstmerch_ly,netslsqty_ly,netmsrpamt_ly,eohttlqty_cy,eohstrqty_cy,intranqty_cy,eohttlqty_ly,eohstrqty_ly,intranqty_ly
+MV-59009,Women Earrings Slim,ROG,Rouge,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,2822.79,946.03,10,4034.96,2971.84,1117.05,10,4034.96,19,11,8,18,11,0
+MV-35203,Men Blazers Modern,BEG,Beige,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,4055.27,1146.4,13,4855.6,3005.13,876.93,10,3735.08,33,27,6,31,24,0
+MV-13761,Women Evening Dresses Luxe,TAN,Tan,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,22517.74,8309.05,41,29669.04,20414.38,6916.91,36,26050.86,163,104,59,147,137,0
+MV-78955,Women Pouches Modern,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2570.1,722.58,8,3719.48,3140.49,1045.23,9,4184.41,8,7,1,10,6,0
+MV-54589,Women Carry-On Slim,ARG,Argent,Leather Goods,Women,Luggage,Carry-On,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,44343.79,13809.65,43,57378.05,35678.91,13452.1,34,45368.69,167,157,10,140,130,0
+MV-22097,Men Leather Belts Essential,CRM,Creme,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,729.77,198.81,1,924.88,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-69459,Women Rings Signature,GRG,Greige,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16932.05,4999.8,32,22941.49,19365.72,6463.09,36,25809.17,89,83,6,82,71,0
+MV-68929,Women Crossbody Bags Relaxed,ARG,Argent,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,25837.43,8877.47,40,35688.75,31908.81,11686.06,46,41042.07,98,87,11,118,89,0
+MV-55830,Women Jeans Heritage,IVR,Ivoire,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,824.46,264.54,4,1025.78,674.76,187.02,3,769.34,10,8,2,10,7,0
+MV-98188,Women Knee High Heritage,IVR,Ivoire,Footwear,Women,Boots,Knee High,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8233.11,2068.89,12,10932.69,9576.13,3284.92,13,11843.75,26,22,4,32,19,0
+MV-67104,Men Sandals Essential,CRM,Cognac,Footwear,Men,Heels,Sandals,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1880.55,513.32,3,2169.72,1312.69,345.06,2,1446.48,7,4,3,7,5,0
+MV-21164,Men Shorts Relaxed,CHP,Champagne,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11775.98,3358.25,26,16434.06,7665.33,2398.41,19,12009.51,79,70,9,49,32,0
+MV-68493,Women Chain Belts Relaxed,BRG,Bordeaux,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12858.77,3817.76,16,16426.62,13930.11,5127.17,17,17453.29,33,23,10,37,33,0
+MV-14705,Men Baseball Caps Modern,ROG,Rouge,Accessories,Men,Hats,Baseball Caps,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4990.21,1893.9,21,7287.97,4773.63,1341.51,21,7287.97,49,34,15,55,36,0
+MV-50768,Men Knitwear Modern,TRP,Taupe,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,2495.93,944.82,4,2981.29,2571.98,834.15,4,2981.29,2,1,1,2,1,0
+MV-14877,Women Necklaces Heritage,GRG,Greige,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2034.34,685.99,5,2624.33,2218.21,614.86,6,3149.2,14,10,4,17,13,0
+MV-40005,Men Silk Scarves Classic,ROG,Rouge,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,502.2,141.24,1,662.28,439.63,111.0,1,662.28,1,0,1,1,0,0
+MV-33509,Unisex Fedoras Signature,GRG,Greige,Accessories,Unisex,Hats,Fedoras,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1853.19,471.39,8,2717.94,1802.29,459.23,7,2378.2,27,20,7,27,19,0
+MV-12665,Women Suit Trousers Essential,SBL,Sable,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,12360.58,3464.43,17,17185.45,13414.4,5068.39,19,19207.27,57,38,19,68,44,0
+MV-27961,Women Blouses Signature,RSE,Rose Poudre,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,21152.15,5889.01,41,29829.87,28979.24,8178.24,50,36377.89,103,82,21,111,84,0
+MV-98815,Men Check-In,CRM,Creme,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,19628.57,6553.99,23,27200.78,18986.89,4898.96,22,26018.14,21,16,5,20,16,0
+MV-57942,Women Chelsea Boots Modern,CRM,Creme,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,7344.56,2461.14,12,10266.84,9638.97,3640.34,14,11977.98,46,32,14,45,32,0
+MV-97684,Unisex Bracelets Luxe,ECR,Ecru,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,34784.36,8853.39,65,43387.81,25673.7,8554.92,50,33375.24,133,123,10,113,108,0
+MV-26912,Men Suit Sets Essential,BRG,Bordeaux,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,6846.34,2495.44,27,9285.95,8109.22,2448.77,29,9973.8,42,41,1,52,46,0
+MV-70521,Men Mules Luxe,GRG,Greige,Footwear,Men,Heels,Mules,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,22400.47,5843.05,57,27365.63,23449.15,7267.63,58,27845.73,207,173,34,169,135,0
+MV-40005,Men Silk Scarves Classic,ANT,Anthracite,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,9722.21,3605.01,16,12293.67,7631.7,2461.45,12,9220.25,56,42,14,38,27,0
+MV-56346,Women Clutches Essential,BLU,Bleu Marine,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3244.58,884.79,6,4767.35,3544.34,919.96,7,5561.91,14,8,6,14,13,0
+MV-20682,Men Loafers Slim,CAM,Camel,Footwear,Men,Flats,Loafers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,566.83,185.7,1,818.63,596.68,197.61,1,818.63,2,1,1,2,1,0
+MV-51704,Women Fedoras Luxe,CRM,Cognac,Accessories,Women,Hats,Fedoras,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,17732.86,4902.92,27,23429.09,11229.69,3599.84,19,16487.14,44,28,16,29,17,0
+MV-69446,Unisex Evening Dresses Modern,CAM,Camel,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,492.87,140.44,2,716.41,449.98,162.5,2,716.41,5,4,1,4,3,0
+MV-90301,Men High Top,ARG,Argent,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,4621.09,1396.21,7,6426.22,4168.7,1425.49,7,6426.22,17,15,2,20,19,0
+MV-68838,Men Suit Trousers Signature,CRM,Creme,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7583.6,2322.41,16,9443.13,9106.1,3309.62,17,10033.33,42,32,10,39,34,0
+MV-40595,Women Day Dresses Heritage,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,9585.91,2757.34,17,12691.69,10686.7,2985.16,17,12691.69,24,15,9,21,17,0
+MV-79924,Unisex Blazers Modern,SBL,Sable,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12709.17,3192.87,19,18525.26,10782.25,3802.36,17,16575.23,31,26,5,33,21,0
+MV-92345,Women Leather Belts Modern,RSE,Rose Poudre,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2993.83,900.39,3,3810.94,2921.19,1087.16,3,3810.94,11,10,1,12,9,0
+MV-49251,Men Slides Classic,RSE,Rose Poudre,Footwear,Men,Flats,Slides,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7299.25,2186.49,10,8915.38,5324.37,1963.91,8,7132.31,19,17,2,13,7,0
+MV-74866,Women Wool Scarves Luxe,BEG,Beige,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,10328.89,3408.17,20,12370.23,11143.3,3268.44,22,13607.25,64,44,20,81,57,0
+MV-31632,Women Weekender Luxe,CRM,Creme,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,50479.2,12700.72,74,65012.68,50234.64,15507.5,74,65012.68,135,87,48,115,100,0
+MV-47880,Women Shorts Relaxed,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,8468.83,2143.85,27,12032.11,10645.96,4022.81,32,14260.28,29,18,11,37,35,0
+MV-48177,Women Card Holders Essential,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,41803.1,14461.29,54,56780.71,37296.39,13543.31,51,53626.23,186,147,39,191,151,0
+MV-23434,Women Card Holders,NOI,Noir,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,35692.36,12032.99,30,45610.7,24992.16,6955.99,24,36488.56,16,10,6,10,6,0
+MV-84531,Women Check-In Classic,CRM,Cognac,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,19893.41,7177.09,19,27038.82,12624.09,4048.56,14,19923.34,70,55,15,45,29,0
+MV-12665,Women Suit Trousers Essential,TAN,Tan,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1808.14,470.49,4,2606.59,1262.56,448.34,3,1954.94,7,6,1,7,5,0
+MV-30866,Women Loafers Modern,TRP,Taupe,Footwear,Women,Flats,Loafers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,9099.91,3059.17,23,11498.47,7991.86,2163.08,23,11498.47,87,84,3,99,61,0
+MV-25396,Women Clutches Slim,BEG,Beige,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,21169.44,6751.22,20,30487.36,17266.8,5398.82,16,24389.89,31,28,3,24,16,0
+MV-35272,Men Check-In Modern,CAM,Camel,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,20646.82,6532.39,19,26838.2,14427.72,3895.38,13,18362.98,69,64,5,41,26,0
+MV-30253,Men Weekender Essential,TAN,Tan,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,15854.61,4873.46,14,22959.49,17676.96,4478.69,17,27879.38,28,24,4,32,22,0
+MV-51704,Women Fedoras Luxe,BRG,Bordeaux,Accessories,Women,Hats,Fedoras,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,10409.72,3556.94,16,14242.05,9614.28,2420.23,17,15132.17,22,14,8,20,14,0
+MV-67939,Women Weekender Classic,TAN,Tan,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3495.78,1299.9,8,4500.9,3975.23,1123.17,9,5063.51,8,6,2,9,6,0
+MV-71057,Women Boots,RSE,Rose Poudre,Footwear,Women,Heels,Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,11178.49,3637.52,15,15773.11,13326.64,4462.89,18,18927.73,40,33,7,53,45,0
+MV-76237,Women Skirts Classic,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1088.99,346.12,4,1532.02,889.06,234.09,3,1149.01,3,2,1,2,1,0
+MV-88222,Men Suit Trousers Heritage,VRT,Vert,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,9228.62,3506.29,35,12074.74,7540.83,2542.59,30,10349.78,41,37,4,33,22,0
+MV-52176,Women Check-In Relaxed,CRM,Cognac,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2259.03,793.55,4,3172.77,2214.16,664.61,4,3172.77,11,6,5,10,6,0
+MV-22097,Men Leather Belts Essential,IVR,Ivoire,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1124.31,294.93,1,1569.25,1208.94,308.98,1,1569.25,3,2,1,3,2,0
+MV-90031,Women Loafers Heritage,CRM,Creme,Footwear,Women,Flats,Loafers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,10615.66,3598.31,12,13690.26,11976.99,3239.08,14,15971.97,23,22,1,24,16,0
+MV-92478,Women Blazers Classic,SBL,Sable,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,11547.3,4048.33,23,15145.01,15036.98,4385.38,29,19095.88,75,60,15,88,75,0
+MV-48462,Women Ankle Boots Relaxed,BRG,Bordeaux,Footwear,Women,Boots,Ankle Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5274.29,1396.08,12,7643.4,6131.03,1793.67,14,8917.3,31,22,9,33,32,0
+MV-70443,Women Card Holders Heritage,VRT,Vert,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3699.86,1394.89,6,4556.97,3181.03,826.66,5,3797.48,8,7,1,8,6,0
+MV-14877,Women Necklaces Heritage,BRG,Bordeaux,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,8430.09,3084.39,17,9948.77,10519.9,2772.89,21,12289.65,30,20,10,39,28,0
+MV-41029,Women Ballet Flats Luxe,ECR,Ecru,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,5631.65,2128.64,9,8106.31,4049.2,1396.66,6,5404.2,35,33,2,20,15,0
+MV-70931,Men Chain Belts Essential,BEG,Beige,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,18461.94,6633.82,57,24358.28,16431.48,6111.15,51,21794.25,109,93,16,112,100,0
+MV-41029,Women Ballet Flats Luxe,ECR,Ecru,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,31946.03,10220.08,54,39515.69,23986.6,6052.13,40,29270.88,185,112,73,150,110,0
+MV-23133,Men Trousers Essential,ANT,Anthracite,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,10387.06,3220.07,14,13044.73,8741.91,2419.3,13,12112.96,12,11,1,12,10,0
+MV-96760,Women Blouses Signature,CHP,Champagne,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1841.13,564.18,8,2418.79,1767.52,476.79,7,2116.44,23,18,5,21,13,0
+MV-99173,Women Card Holders Modern,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,26739.91,8673.7,28,34949.15,21644.46,7846.9,26,32452.78,107,92,15,111,91,0
+MV-49251,Men Slides Classic,GRG,Greige,Footwear,Men,Flats,Slides,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,696.66,176.94,1,899.13,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-95191,Women Coats Signature,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7611.84,2733.17,13,10891.31,7930.04,1989.1,12,10053.52,20,14,6,19,17,0
+MV-21542,Women Clutches Signature,CRM,Creme,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3660.12,1369.4,8,4623.23,4079.78,1291.63,9,5201.13,29,25,4,40,25,0
+MV-18163,Men Blazers Slim,TAN,Tan,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,16429.6,4674.07,54,21714.51,17379.65,4493.82,53,21312.39,173,114,59,198,181,0
+MV-49139,Men Wool Scarves Essential,ANT,Anthracite,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,358.8,104.06,1,508.68,392.84,144.44,1,508.68,1,0,1,0,0,0
+MV-30253,Men Weekender Essential,VRT,Vert,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,5635.3,1636.94,17,7789.83,4262.81,1150.18,13,5956.93,23,19,4,18,11,0
+MV-47512,Men Tops Relaxed,GRG,Greige,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,13607.95,4595.66,28,20136.49,17873.16,6547.69,34,24451.45,82,55,27,81,53,0
+MV-47243,Men Boots Heritage,ARG,Argent,Footwear,Men,Heels,Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11511.24,3251.28,14,14890.81,8653.5,2373.41,11,11699.92,50,41,9,43,31,0
+MV-44335,Women Slides Slim,ECR,Ecru,Footwear,Women,Flats,Slides,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,238.17,83.54,1,301.13,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-68493,Women Chain Belts Relaxed,ARG,Argent,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,76812.79,25277.21,76,103024.78,64018.93,18065.52,62,84046.53,217,157,60,165,152,0
+MV-69459,Women Rings Signature,CHP,Champagne,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3175.67,1143.05,15,4133.08,3569.01,1017.59,15,4133.08,50,43,7,51,36,0
+MV-99181,Women Blazers Modern,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,11987.91,3441.31,20,15913.26,14917.6,3919.22,22,17504.59,49,31,18,54,34,0
+MV-94675,Women Trousers Essential,NVY,Navy,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2443.97,917.14,5,2934.79,2928.21,882.34,6,3521.75,5,3,2,5,3,0
+MV-73736,Women Key Holders Relaxed,BEG,Beige,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8447.15,2845.47,14,12349.61,7965.45,1995.86,13,11467.5,24,20,4,27,19,0
+MV-85914,Women Wallets,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4027.42,1485.93,12,5641.68,3135.35,898.83,10,4701.4,30,29,1,30,26,0
+MV-28776,Women Sandals Essential,CRM,Creme,Footwear,Women,Heels,Sandals,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,833.41,259.13,1,1161.15,915.52,288.53,1,1161.15,2,1,1,1,0,0
+MV-43586,Women Jeans Signature,BRG,Bordeaux,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1366.36,488.14,2,1766.05,599.18,163.03,1,883.02,6,4,2,3,2,0
+MV-79615,Women Midi Dresses Slim,NOI,Noir,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,8663.37,2329.15,38,11540.2,9290.9,2924.88,46,13969.71,114,78,36,149,106,0
+MV-44687,Men Card Holders Modern,NOI,Noir,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,5055.83,1802.37,5,6712.8,3064.93,889.16,3,4027.68,12,9,3,9,8,0
+MV-52487,Men Mini Bags Luxe,CAM,Camel,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1911.37,502.49,4,2362.94,1748.1,614.66,4,2362.94,9,6,3,9,6,0
+MV-52176,Women Check-In Relaxed,BRG,Bordeaux,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10489.22,3897.34,15,13041.12,10646.06,4015.76,15,13041.12,32,21,11,32,24,0
+MV-96200,Women Suit Sets,SBL,Sable,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,17298.81,4427.54,31,23014.14,17114.2,4874.8,32,23756.53,39,36,3,43,36,0
+MV-26299,Men High Top Luxe,TAN,Tan,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,501.99,189.43,1,696.4,471.76,147.35,1,696.4,0,0,0,0,0,0
+MV-20336,Men Blazers Heritage,CHP,Champagne,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6133.13,2154.82,18,8394.81,4795.71,1203.49,14,6529.29,62,42,20,45,28,0
+MV-68493,Women Chain Belts Relaxed,ARG,Argent,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2005.73,567.99,2,2791.14,1864.62,559.14,2,2791.14,2,1,1,2,1,0
+MV-93717,Women Leather Belts Heritage,BLU,Bleu Marine,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,850.04,310.67,1,1187.59,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-51441,Women Jackets Modern,TRP,Taupe,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,518.41,165.02,1,649.56,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-96275,Women Coats Essential,TAN,Tan,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,22781.41,7185.69,38,30514.84,27238.45,8322.48,43,34529.95,22,20,2,24,21,0
+MV-28714,Men Trousers Luxe,CRM,Cognac,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1107.16,353.52,2,1395.84,1209.04,392.85,2,1395.84,5,3,2,5,4,0
+MV-54657,Women Evening Dresses Slim,NVY,Navy,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,304.53,87.76,1,365.55,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-69446,Unisex Evening Dresses Modern,CRM,Cognac,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6338.35,2016.94,12,8217.89,6702.11,1872.45,12,8217.89,16,11,5,13,11,0
+MV-12180,Men High Top Signature,RSE,Rose Poudre,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,24319.85,6503.93,39,29869.7,25275.52,6676.6,44,33699.15,117,104,13,151,132,0
+MV-49139,Men Wool Scarves Essential,ARG,Argent,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2077.95,687.97,6,2759.82,2233.02,565.35,6,2759.82,11,10,1,13,9,0
+MV-86483,Women Wallets Luxe,CAM,Camel,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,11464.49,3190.7,11,14519.05,10206.73,2799.26,10,13199.13,11,6,5,9,8,0
+MV-28776,Women Sandals Essential,ECR,Ecru,Footwear,Women,Heels,Sandals,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,399.39,134.36,1,500.62,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-19869,Women Wool Scarves Slim,NOI,Noir,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6155.19,1882.9,12,8508.04,7625.27,2030.64,13,9217.05,11,6,5,11,8,0
+MV-59009,Women Earrings Slim,BEG,Beige,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,10334.68,3774.68,18,14117.42,7461.15,2417.12,13,10195.92,49,35,14,38,27,0
+MV-78146,Men Day Dresses,CRM,Creme,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,10682.95,3205.46,18,14693.05,12045.6,3295.82,19,15509.33,66,65,1,79,65,0
+MV-99353,Women Tote Bags,IVR,Ivoire,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3078.72,1087.62,8,4000.93,2330.4,845.5,7,3500.81,9,6,3,8,7,0
+MV-59391,Women Weekender Signature,NOI,Noir,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6409.1,1998.03,8,9334.85,5417.77,1396.13,7,8167.99,20,17,3,18,14,0
+MV-94058,Women Chain Belts,SBL,Sable,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1394.1,356.55,2,1789.08,1299.15,467.93,2,1789.08,3,2,1,2,1,0
+MV-69692,Women Suit Sets Essential,CHP,Champagne,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2274.77,808.74,9,3237.53,2390.79,691.72,10,3597.26,13,11,2,15,9,0
+MV-62772,Men Tote Bags Signature,BEG,Beige,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,943.67,253.78,2,1139.47,511.32,131.42,1,569.74,4,3,1,2,1,0
+MV-38183,Men Suit Trousers Essential,CHP,Champagne,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12245.38,4253.37,31,15081.96,9323.21,3094.07,24,11676.36,17,12,5,11,6,0
+MV-79924,Unisex Blazers Modern,IVR,Ivoire,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,33695.73,10733.89,72,47824.92,42785.31,13081.29,88,58452.68,237,230,7,324,220,0
+MV-65296,Women Ankle Boots Slim,CAM,Camel,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,41096.34,15445.24,75,55701.77,40168.43,12351.9,81,60157.91,89,88,1,90,60,0
+MV-56019,Men Shorts Slim,BEG,Beige,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,28661.39,9023.87,42,34139.12,24808.61,9346.17,40,32513.45,24,16,8,26,21,0
+MV-84531,Women Check-In Classic,ANT,Anthracite,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,18871.79,6422.96,19,24424.05,15009.96,3875.8,14,17996.67,23,18,5,19,17,0
+MV-20682,Men Loafers Slim,BRG,Bordeaux,Footwear,Men,Flats,Loafers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,20412.62,5956.7,25,27823.46,23988.49,8150.46,29,32275.21,60,37,23,58,47,0
+MV-16175,Unisex Day Dresses Modern,SBL,Sable,Ready-to-Wear,Unisex,Dresses,Day Dresses,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,2955.31,950.35,7,4060.09,3333.63,1212.97,8,4640.1,27,22,5,27,17,0
+MV-70648,Women Tops,ROG,Rouge,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,14990.8,3956.85,21,18038.69,13050.82,4926.7,17,14602.75,35,29,6,23,20,0
+MV-39102,Men Day Dresses Luxe,VRT,Vert,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4681.54,1449.96,13,7043.22,6082.65,1780.29,15,8126.79,15,12,3,20,17,0
+MV-26299,Men High Top Luxe,CHP,Champagne,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,8498.92,2615.83,14,11024.02,6933.87,2114.06,13,10236.59,26,21,5,22,18,0
+MV-60181,Women Jackets Classic,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,11954.37,3636.17,30,15523.04,10854.56,2947.01,27,13970.74,99,86,13,98,82,0
+MV-49139,Men Wool Scarves Essential,BEG,Beige,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1305.35,449.93,7,1625.69,1331.68,370.75,7,1625.69,9,6,3,7,4,0
+MV-49363,Unisex Cashmere Scarves,IVR,Ivoire,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1539.42,559.46,8,2203.38,1659.51,475.32,9,2478.8,16,14,2,15,11,0
+MV-62383,Men Berets Relaxed,SBL,Sable,Accessories,Men,Hats,Berets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,14776.75,5334.81,55,18131.57,15295.76,4120.27,53,17472.24,161,100,61,168,148,0
+MV-43681,Men Low Top Luxe,SBL,Sable,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,467.97,123.63,1,660.88,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-86484,Men Blazers Essential,TAN,Tan,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3495.24,1305.99,14,4732.35,2303.46,816.19,9,3042.23,23,17,6,18,17,0
+MV-36318,Women Ankle Boots Slim,BRG,Bordeaux,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,41393.02,10952.98,52,51525.7,48544.79,13160.27,58,57470.98,116,111,5,133,122,0
+MV-28776,Women Sandals Essential,CAM,Camel,Footwear,Women,Heels,Sandals,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8877.38,3130.8,20,12078.29,5760.4,1688.62,15,9058.72,36,35,1,30,20,0
+MV-92345,Women Leather Belts Modern,BRG,Bordeaux,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6527.97,1633.67,16,8573.57,6769.07,1965.47,18,9645.26,56,49,7,76,56,0
+MV-30257,Women Weekender Relaxed,ECR,Ecru,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2786.84,924.03,6,4053.6,2909.23,926.0,6,4053.6,3,2,1,2,1,0
+MV-24316,Women Low Top Relaxed,ANT,Anthracite,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6664.9,1965.5,9,8793.47,6026.36,1579.83,9,8793.47,19,17,2,23,22,0
+MV-71797,Men Shoulder Bags Classic,BRG,Bordeaux,Leather Goods,Men,Handbags,Shoulder Bags,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,18184.17,6012.98,40,22812.45,23953.83,8870.56,50,28515.56,110,106,4,113,86,0
+MV-67961,Men Wool Scarves Heritage,RSE,Rose Poudre,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8823.37,3194.76,17,11918.97,8212.61,2847.61,16,11217.85,12,7,5,9,5,0
+MV-43491,Women Earrings Heritage,BEG,Beige,Accessories,Women,Jewelry,Earrings,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,7913.82,2813.98,15,11449.45,7688.05,2436.68,14,10686.15,54,43,11,62,59,0
+MV-48177,Women Card Holders Essential,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,1552.9,432.0,2,2038.71,750.24,252.01,1,1019.35,6,5,1,4,2,0
+MV-70648,Women Tops,ANT,Anthracite,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,282.04,71.34,1,414.09,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-17816,Women Trousers Slim,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,32676.23,11694.84,71,45612.47,32700.67,11274.02,66,42400.33,156,135,21,156,144,0
+MV-99224,Men Day Dresses Relaxed,GRG,Greige,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,3317.69,929.04,10,4865.01,2545.77,891.83,8,3892.01,36,35,1,24,20,0
+MV-98815,Men Check-In,TRP,Taupe,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10687.73,3718.39,19,13976.9,11768.55,3863.04,21,15448.15,17,15,2,17,12,0
+MV-26912,Men Suit Sets Essential,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,350.71,101.6,1,423.5,317.24,111.79,1,423.5,2,1,1,2,1,0
+MV-44959,Women Blazers Modern,VRT,Vert,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,9989.13,2787.92,24,13187.68,7420.25,2119.87,19,10440.25,43,36,7,31,20,0
+MV-68838,Men Suit Trousers Signature,VRT,Vert,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,33978.38,9597.28,57,46918.41,36288.33,12777.78,68,55972.84,149,128,21,209,175,0
+MV-68929,Women Crossbody Bags Relaxed,IVR,Ivoire,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,17160.31,4595.23,18,24651.81,17623.86,5578.97,18,24651.81,48,33,15,47,29,0
+MV-79615,Women Midi Dresses Slim,TAN,Tan,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,605.87,224.99,2,797.63,297.15,111.07,1,398.81,1,0,1,0,0,0
+MV-69446,Unisex Evening Dresses Modern,NVY,Navy,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7278.43,2379.76,18,9126.66,7665.58,2340.99,19,9633.69,42,33,9,52,36,0
+MV-76132,Unisex Leather Belts Slim,ROG,Rouge,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,19667.44,5347.25,31,24051.31,18074.59,6679.27,32,24827.15,80,56,24,90,81,0
+MV-16895,Women Leather Belts Slim,IVR,Ivoire,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6250.1,2132.55,11,8618.72,5555.09,1893.47,9,7051.68,15,13,2,14,12,0
+MV-96760,Women Blouses Signature,SBL,Sable,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12111.55,3989.02,45,14867.48,8091.47,2069.96,33,10902.82,79,67,12,48,32,0
+MV-93283,Unisex Wallets Luxe,NVY,Navy,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,8349.71,2989.15,22,12606.64,7557.58,2161.55,21,12033.61,43,38,5,50,46,0
+MV-22833,Women Midi Dresses Classic,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,22942.45,6653.8,49,29774.19,21962.94,6223.79,49,29774.19,132,124,8,132,81,0
+MV-60181,Women Jackets Classic,ECR,Ecru,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,13708.36,3906.84,20,17495.0,15242.05,4664.92,20,17495.0,17,14,3,14,13,0
+MV-68838,Men Suit Trousers Signature,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,631.8,166.38,3,822.31,658.21,180.78,3,822.31,8,6,2,6,4,0
+MV-48504,Women Slides Signature,NOI,Noir,Footwear,Women,Flats,Slides,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,5767.6,2136.56,7,7785.6,5898.51,2196.62,7,7785.6,6,5,1,6,5,0
+MV-99224,Men Day Dresses Relaxed,BEG,Beige,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,871.71,285.06,4,1252.0,650.27,203.37,3,939.0,12,10,2,11,7,0
+MV-62383,Men Berets Relaxed,VRT,Vert,Accessories,Men,Hats,Berets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,24430.36,7011.23,51,36170.47,19442.09,6348.54,38,26950.55,182,114,68,113,79,0
+MV-59391,Women Weekender Signature,CRM,Creme,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,24638.53,7900.12,30,32035.3,32168.06,11899.17,37,39510.21,115,78,37,170,105,0
+MV-86556,Women Evening Dresses Classic,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,17839.77,6100.05,24,24134.36,14620.56,4837.34,22,22123.16,83,65,18,64,50,0
+MV-70648,Women Tops,BRG,Bordeaux,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3779.45,979.67,7,5212.05,4551.39,1602.81,8,5956.63,21,16,5,23,17,0
+MV-44687,Men Card Holders Modern,BEG,Beige,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4125.15,1386.58,4,4794.07,3833.56,1165.27,4,4794.07,7,5,2,6,5,0
+MV-57920,Women Blazers Slim,NOI,Noir,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16823.26,6385.82,30,25119.7,13908.38,4555.02,23,19258.44,24,23,1,16,9,0
+MV-50213,Women Tops Slim,ECR,Ecru,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4702.26,1580.06,13,6079.85,5502.25,1794.63,15,7015.21,26,25,1,30,24,0
+MV-84177,Men Leather Belts Classic,SBL,Sable,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,4831.34,1282.66,5,6056.02,4239.34,1512.72,4,4844.82,2,1,1,1,0,0
+MV-27139,Men Jackets Signature,ARG,Argent,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4575.26,1471.91,20,6332.17,5034.35,1458.19,25,7915.21,10,6,4,10,7,0
+MV-96870,Women Day Dresses Relaxed,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,616.95,192.12,1,787.1,672.88,194.96,1,787.1,3,2,1,3,2,0
+MV-78494,Men Suit Sets Essential,IVR,Ivoire,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5301.97,1974.18,8,6895.46,5755.12,2171.99,10,8619.33,8,7,1,11,7,0
+MV-99353,Women Tote Bags,BLU,Bleu Marine,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,6905.29,2229.06,13,8950.95,6153.81,2310.18,12,8262.42,17,11,6,16,10,0
+MV-49472,Men Square Frames Modern,GRG,Greige,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,1843.1,575.85,3,2504.47,1283.02,458.05,2,1669.65,11,8,3,11,10,0
+MV-10336,Men Blazers Heritage,IVR,Ivoire,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,35403.68,9265.87,89,43315.81,37788.03,10785.33,99,48182.76,134,119,15,158,146,0
+MV-15014,Women Bracelets Modern,BLU,Bleu Marine,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1696.12,555.47,5,2244.93,1421.77,509.99,4,1795.94,2,1,1,1,0,0
+MV-11214,Men Coats Heritage,CRM,Cognac,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,630.36,162.42,2,785.82,678.97,208.49,2,785.82,7,5,2,7,6,0
+MV-24316,Women Low Top Relaxed,CRM,Creme,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,2614.56,732.96,4,3334.79,3294.84,1052.23,5,4168.49,10,8,2,14,9,0
+MV-68838,Men Suit Trousers Signature,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7088.35,2090.8,31,10468.98,5861.74,1704.42,23,7767.31,25,20,5,21,14,0
+MV-82910,Men Shirts Signature,ARG,Argent,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6640.81,2281.42,11,8557.01,5749.86,1897.4,9,7001.19,29,27,2,24,23,0
+MV-70931,Men Chain Belts Essential,TAN,Tan,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,7575.08,1968.92,17,9520.78,6805.57,1871.94,15,8400.69,38,28,10,33,25,0
+MV-12128,Women Cat Eye Signature,TAN,Tan,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,465.26,148.43,1,657.52,427.39,114.49,1,657.52,2,1,1,2,1,0
+MV-62383,Men Berets Relaxed,ANT,Anthracite,Accessories,Men,Hats,Berets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,383.91,145.14,1,538.7,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-44099,Women Trousers Essential,NVY,Navy,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,4761.95,1466.34,12,6060.43,3512.09,1153.36,9,4545.32,16,11,5,12,11,0
+MV-53228,Women Shoulder Bags Essential,ECR,Ecru,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,37251.77,9941.87,36,46802.16,32469.73,11919.47,31,40301.86,93,67,26,88,81,0
+MV-74038,Women Pouches,GRG,Greige,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,15731.06,5719.59,46,21935.65,18545.19,6838.99,54,25750.55,87,83,4,95,87,0
+MV-10336,Men Blazers Heritage,GRG,Greige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,240.57,69.25,1,355.06,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-53064,Men Skirts Slim,CHP,Champagne,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8995.79,2652.29,16,11916.56,9845.16,2872.93,16,11916.56,43,34,9,41,31,0
+MV-62034,Women Necklaces Luxe,CRM,Cognac,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,20012.73,6589.15,52,27708.37,20280.57,6655.92,51,27175.52,115,105,10,94,87,0
+MV-33647,Men Coats Heritage,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3022.54,1013.5,10,3837.24,2361.41,873.5,8,3069.79,32,29,3,21,15,0
+MV-99381,Women Fedoras Signature,CAM,Camel,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,7021.96,2151.86,37,9617.08,8283.54,2780.29,46,11956.38,77,66,11,78,72,0
+MV-50768,Men Knitwear Modern,BEG,Beige,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1158.93,387.71,3,1570.98,1126.49,321.29,3,1570.98,7,5,2,7,6,0
+MV-42087,Men Slides Slim,GRG,Greige,Footwear,Men,Flats,Slides,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,31761.72,10738.04,58,42387.55,26653.5,8889.44,49,35810.17,188,114,74,183,111,0
+MV-59834,Women Skirts,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,18453.23,6077.62,29,27703.11,23467.14,8757.32,35,33434.79,96,60,36,117,78,0
+MV-78955,Women Pouches Modern,ECR,Ecru,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,57249.94,18307.11,60,79452.54,66277.41,18089.59,74,97991.47,191,139,52,222,178,0
+MV-28776,Women Sandals Essential,ECR,Ecru,Footwear,Women,Heels,Sandals,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7172.2,2717.01,24,8940.74,6822.97,2212.82,24,8940.74,19,13,6,17,13,0
+MV-49472,Men Square Frames Modern,BRG,Bordeaux,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,1776.74,590.92,9,2554.43,1470.54,479.5,7,1986.78,10,6,4,6,4,0
+MV-26505,Men Leather Belts Relaxed,SBL,Sable,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,56649.3,19862.26,59,72611.87,70840.14,24833.0,64,78765.42,162,153,9,187,128,0
+MV-38760,Unisex Rings Heritage,BEG,Beige,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1940.5,528.54,6,2467.4,1530.59,391.62,5,2056.17,22,21,1,21,15,0
+MV-77033,Women Weekender Modern,GRG,Greige,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,4890.87,1343.34,8,6034.61,4426.61,1322.98,8,6034.61,5,4,1,6,4,0
+MV-69634,Women Day Dresses Signature,BEG,Beige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,14776.58,5573.26,25,19519.3,15380.39,4315.05,26,20300.08,37,22,15,42,37,0
+MV-57052,Men Day Dresses Signature,CRM,Creme,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,19743.54,6934.38,31,28132.46,13712.43,4339.12,23,20872.47,110,108,2,73,64,0
+MV-14877,Women Necklaces Heritage,BRG,Bordeaux,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11523.98,4109.33,56,16408.96,13004.48,3848.33,60,17581.03,170,127,43,208,137,0
+MV-37460,Men Jackets Heritage,CHP,Champagne,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,1784.11,490.02,4,2336.35,1873.19,652.81,4,2336.35,15,12,3,17,11,0
+MV-68929,Women Crossbody Bags Relaxed,NVY,Navy,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,10690.21,3093.53,34,15194.92,8287.42,2382.74,28,12513.46,93,56,37,72,51,0
+MV-80282,Unisex Baseball Caps Signature,RSE,Rose Poudre,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,17615.47,6335.56,28,24206.4,17612.64,5548.58,27,23341.88,62,49,13,56,39,0
+MV-60432,Women Suit Sets Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,287.96,82.73,1,345.95,298.8,111.72,1,345.95,2,1,1,2,1,0
+MV-30644,Men Chain Belts Slim,CAM,Camel,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6125.72,2160.04,10,8455.04,6419.75,2019.04,11,9300.54,25,18,7,30,23,0
+MV-65255,Women Evening Dresses Heritage,CRM,Cognac,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1788.3,631.71,7,2250.85,1343.99,412.64,5,1607.75,4,2,2,2,1,0
+MV-31798,Women Shoulder Bags Essential,GRG,Greige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3602.67,1276.58,7,4270.58,2607.58,745.65,5,3050.41,22,16,6,16,11,0
+MV-79329,Men Suit Trousers Classic,IVR,Ivoire,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,35433.4,11918.17,87,47462.57,28106.03,8831.7,78,42552.65,240,170,70,236,149,0
+MV-40005,Men Silk Scarves Classic,BLU,Bleu Marine,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,9909.89,3387.8,22,12217.46,10685.91,3833.09,25,13883.48,74,68,6,94,68,0
+MV-99353,Women Tote Bags,SBL,Sable,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,25732.49,8377.69,27,32949.3,22837.76,6658.54,23,28067.93,55,33,22,47,43,0
+MV-94675,Women Trousers Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,19612.49,4933.21,80,25798.03,16456.68,4415.02,70,22573.27,244,178,66,236,211,0
+MV-44959,Women Blazers Modern,BEG,Beige,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,7015.88,2510.34,10,9137.06,4670.74,1590.71,7,6395.94,26,18,8,15,12,0
+MV-30253,Men Weekender Essential,ARG,Argent,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,14565.77,4213.64,34,18362.1,10975.63,3463.67,29,15661.79,133,129,4,136,83,0
+MV-89963,Women Cat Eye Luxe,NOI,Noir,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2923.36,736.76,12,4258.13,3122.91,1103.76,13,4612.98,38,26,12,36,33,0
+MV-95191,Women Coats Signature,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,18040.19,4659.4,43,24736.01,17801.85,5231.5,41,23585.5,69,46,23,70,59,0
+MV-98815,Men Check-In,BLU,Bleu Marine,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1784.35,641.03,4,2356.1,1896.11,646.99,4,2356.1,2,1,1,1,0,0
+MV-14852,Men Loafers Slim,CAM,Camel,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,49436.78,17092.89,63,67735.25,49397.6,16786.2,62,66660.09,71,58,13,70,52,0
+MV-25396,Women Clutches Slim,ROG,Rouge,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,3888.38,1304.82,5,5339.96,2896.42,1045.76,4,4271.97,8,5,3,8,6,0
+MV-31581,Men Key Holders Slim,TRP,Taupe,Leather Goods,Men,Small Leather Goods,Key Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,7585.89,2417.59,8,10779.18,7687.28,2546.77,9,12126.58,22,14,8,23,16,0
+MV-53655,Women Leather Belts Slim,ROG,Rouge,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,16000.03,5740.31,30,21927.67,17935.82,5848.53,37,27044.12,35,28,7,41,39,0
+MV-36318,Women Ankle Boots Slim,CRM,Creme,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7779.17,2082.09,10,9228.21,7815.26,1977.83,11,10151.03,31,22,9,40,25,0
+MV-67637,Men Midi Dresses Essential,BLU,Bleu Marine,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,9187.39,3253.11,20,12497.87,6577.52,1995.95,15,9373.4,76,67,9,61,37,0
+MV-49618,Men Square Frames Classic,NOI,Noir,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7259.3,2518.56,12,9519.09,9099.18,2601.89,14,11105.6,47,42,5,52,46,0
+MV-36318,Women Ankle Boots Slim,GRG,Greige,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,20854.56,5302.79,29,29866.41,21931.14,5491.23,27,27806.66,80,76,4,69,45,0
+MV-84177,Men Leather Belts Classic,TRP,Taupe,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5352.5,1338.3,5,7800.81,5635.86,1879.77,5,7800.81,7,5,2,9,5,0
+MV-26704,Men Pouches Classic,GRG,Greige,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,736.9,250.77,1,947.15,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-26551,Women Mules Luxe,CAM,Camel,Footwear,Women,Heels,Mules,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,4110.92,1086.36,7,5995.36,4511.92,1635.71,8,6851.84,25,22,3,35,21,0
+MV-56019,Men Shorts Slim,ROG,Rouge,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,4365.29,1581.12,13,5968.99,3573.47,1239.89,11,5050.69,16,13,3,17,16,0
+MV-58566,Men Leather Belts Relaxed,BEG,Beige,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2853.83,1023.3,3,3936.51,1893.33,612.2,2,2624.34,6,5,1,6,5,0
+MV-57943,Women Shorts Essential,IVR,Ivoire,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,4875.89,1682.52,9,6620.88,3463.71,1050.79,6,4413.92,25,18,7,17,14,0
+MV-80143,Men Knitwear Classic,BRG,Bordeaux,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3174.24,975.17,10,4351.15,2255.22,804.65,7,3045.81,35,27,8,26,24,0
+MV-76542,Men Suit Sets Modern,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,526.32,195.65,1,705.69,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-68838,Men Suit Trousers Signature,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6586.34,2105.09,18,9007.67,8040.04,2817.52,23,11509.8,16,11,5,17,15,0
+MV-25396,Women Clutches Slim,TAN,Tan,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,38597.74,14300.5,46,55759.56,28291.62,8294.27,33,40001.42,67,44,23,56,53,0
+MV-76237,Women Skirts Classic,NVY,Navy,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,1704.0,499.53,3,2263.11,1270.99,415.66,2,1508.74,3,2,1,2,1,0
+MV-53228,Women Shoulder Bags Essential,RSE,Rose Poudre,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,11673.2,3494.02,19,17097.04,14091.44,4378.51,21,18896.73,75,54,21,96,71,0
+MV-76542,Men Suit Sets Modern,BEG,Beige,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,16054.18,5442.56,23,21678.95,13126.05,4867.98,20,18851.26,13,8,5,13,11,0
+MV-65444,Women Berets,SBL,Sable,Accessories,Women,Hats,Berets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3655.36,1265.52,11,5183.07,4096.51,1277.75,13,6125.44,24,21,3,32,19,0
+MV-96761,Men Jackets Essential,ROG,Rouge,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5546.77,1564.05,25,8243.22,6403.85,1915.42,31,10221.59,82,53,29,104,95,0
+MV-68878,Men Carry-On Heritage,BRG,Bordeaux,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,6441.44,2001.73,11,7827.26,6760.29,2476.95,13,9250.4,16,10,6,19,16,0
+MV-26299,Men High Top Luxe,TRP,Taupe,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,5032.53,1295.07,15,6764.79,4905.05,1500.56,15,6764.79,7,5,2,6,5,0
+MV-81364,Unisex Crossbody Bags Signature,SBL,Sable,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,651.73,170.56,1,787.57,692.12,231.42,1,787.57,0,0,0,0,0,0
+MV-23979,Women Check-In Relaxed,RSE,Rose Poudre,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,27686.18,7173.81,25,34685.56,31792.62,9733.07,29,40235.25,29,18,11,32,30,0
+MV-76237,Women Skirts Classic,SBL,Sable,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,12321.54,3814.74,23,17242.28,15420.79,3975.99,28,20990.61,55,40,15,64,48,0
+MV-28191,Women Chelsea Boots Luxe,RSE,Rose Poudre,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,708.08,236.63,1,848.22,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-44718,Women Day Dresses Slim,RSE,Rose Poudre,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5863.59,2181.3,9,8038.23,6908.91,2226.33,11,9824.5,5,4,1,5,3,0
+MV-99353,Women Tote Bags,CRM,Cognac,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,82202.81,27347.41,82,106972.54,69016.4,25806.68,73,95231.65,182,175,7,193,123,0
+MV-70931,Men Chain Belts Essential,CHP,Champagne,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,8367.3,2644.86,11,12352.52,8317.82,2246.56,10,11229.56,20,12,8,22,14,0
+MV-68991,Unisex Pouches Heritage,BRG,Bordeaux,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,9227.91,2494.81,14,11215.52,11199.09,3130.67,18,14419.96,25,16,9,38,37,0
+MV-82135,Women Trousers Slim,VRT,Vert,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,15542.12,4316.62,51,19091.67,13047.62,4918.95,46,17219.94,131,111,20,105,67,0
+MV-29597,Women Leather Belts,SBL,Sable,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,23979.96,9053.26,27,28687.08,16695.73,4265.1,19,20187.2,59,53,6,42,27,0
+MV-96341,Women Card Holders Signature,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,6628.72,2422.77,18,8709.63,4643.71,1523.21,13,6290.29,30,18,12,18,14,0
+MV-39444,Men Key Holders Relaxed,SBL,Sable,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,31076.4,9366.27,34,40086.93,35675.5,9805.53,42,49519.15,75,61,14,88,55,0
+MV-39389,Women Mules Modern,BRG,Bordeaux,Footwear,Women,Heels,Mules,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,31666.18,10401.19,42,41556.2,40076.71,13638.2,49,48482.23,144,132,12,164,123,0
+MV-21542,Women Clutches Signature,NOI,Noir,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,5524.01,1906.22,13,6669.37,3683.6,1226.13,9,4617.26,39,31,8,32,22,0
+MV-88222,Men Suit Trousers Heritage,IVR,Ivoire,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6000.66,1633.25,13,7980.13,3907.84,1144.78,9,5524.71,38,32,6,23,18,0
+MV-85156,Women Chain Belts Essential,VRT,Vert,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,10273.49,3222.83,10,11876.33,8225.75,2971.46,8,9501.06,16,14,2,11,10,0
+MV-38760,Unisex Rings Heritage,RSE,Rose Poudre,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16160.15,4765.22,72,23186.09,15761.44,4155.8,77,24796.23,208,129,79,207,202,0
+MV-42087,Men Slides Slim,VRT,Vert,Footwear,Men,Flats,Slides,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16996.41,5728.22,25,21126.5,19617.52,7271.44,30,25351.8,54,40,14,60,38,0
+MV-93746,Women Blazers Essential,BEG,Beige,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,586.66,172.15,1,782.2,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-47243,Men Boots Heritage,BEG,Beige,Footwear,Men,Heels,Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,30654.64,8628.36,42,42307.42,37901.03,9550.2,50,50365.98,162,104,58,168,132,0
+MV-68493,Women Chain Belts Relaxed,SBL,Sable,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6307.04,2261.27,14,8113.8,7012.81,1771.11,14,8113.8,12,9,3,13,12,0
+MV-53655,Women Leather Belts Slim,CAM,Camel,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,413.1,120.28,1,552.67,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-15958,Men Pumps Heritage,CHP,Champagne,Footwear,Men,Heels,Pumps,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,13499.89,4152.12,17,16524.5,14237.31,4875.68,20,19440.59,35,29,6,48,31,0
+MV-80468,Men Blouses Relaxed,ROG,Rouge,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6866.68,1917.61,11,8364.32,5632.38,1593.63,9,6843.54,43,26,17,34,21,0
+MV-57052,Men Day Dresses Signature,ROG,Rouge,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,16046.74,4829.09,45,22169.53,16274.15,4363.4,47,23154.84,61,42,19,57,36,0
+MV-76542,Men Suit Sets Modern,BRG,Bordeaux,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2507.12,912.59,4,3072.45,1729.43,587.11,3,2304.34,2,1,1,1,0,0
+MV-69692,Women Suit Sets Essential,CAM,Camel,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,15703.21,5481.9,37,23442.91,11894.55,4152.17,29,18374.17,94,91,3,67,62,0
+MV-67104,Men Sandals Essential,NVY,Navy,Footwear,Men,Heels,Sandals,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7511.01,1932.75,17,9288.03,6926.05,2491.79,16,8741.67,43,31,12,45,29,0
+MV-72031,Women Blazers,CRM,Creme,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,458.97,155.14,1,564.42,425.61,155.27,1,564.42,3,2,1,2,1,0
+MV-20745,Unisex Mini Bags Essential,CRM,Creme,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,53268.37,14041.71,76,69503.72,53162.93,18249.91,75,68589.2,146,102,44,121,114,0
+MV-70443,Women Card Holders Heritage,CAM,Camel,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,11959.84,4502.55,15,15194.4,9923.73,3338.61,13,13168.48,24,16,8,18,16,0
+MV-82199,Men Shorts Classic,TAN,Tan,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,4700.48,1621.76,7,6467.68,3811.16,1318.16,6,5543.73,4,3,1,4,2,0
+MV-49139,Men Wool Scarves Essential,TRP,Taupe,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3024.63,976.07,13,3909.51,2887.71,790.84,12,3608.78,19,16,3,15,12,0
+MV-47243,Men Boots Heritage,ROG,Rouge,Footwear,Men,Heels,Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,34629.98,9906.05,41,51049.21,27649.04,7557.88,34,42333.49,37,35,2,27,22,0
+MV-41358,Men Chelsea Boots Heritage,BEG,Beige,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4165.87,1385.31,7,6041.85,3281.94,1241.52,5,4315.61,4,3,1,3,2,0
+MV-91830,Women Bracelets,SBL,Sable,Accessories,Women,Jewelry,Bracelets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1402.68,394.2,4,1795.01,1333.03,460.93,4,1795.01,2,1,1,1,0,0
+MV-44664,Women Shoulder Bags Modern,NOI,Noir,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,1272.8,375.63,2,1634.54,1245.26,357.16,2,1634.54,4,2,2,4,2,0
+MV-73242,Men Chain Belts Luxe,TRP,Taupe,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7601.61,2706.84,7,9922.23,7897.13,2544.67,8,11339.69,24,16,8,27,23,0
+MV-85914,Women Wallets,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,29119.53,10354.32,32,37636.41,29184.88,7550.04,30,35284.14,113,107,6,99,83,0
+MV-53655,Women Leather Belts Slim,IVR,Ivoire,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7753.06,2936.7,13,9753.2,6509.82,2122.78,11,8252.71,37,25,12,35,33,0
+MV-48504,Women Slides Signature,NOI,Noir,Footwear,Women,Flats,Slides,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2578.76,765.96,5,3009.89,3160.54,857.45,6,3611.87,14,10,4,14,13,0
+MV-30644,Men Chain Belts Slim,CAM,Camel,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2134.12,607.83,3,2711.22,1955.49,495.48,3,2711.22,9,7,2,9,7,0
+MV-87993,Women Fedoras Modern,CHP,Champagne,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4677.8,1539.88,8,6192.02,5237.29,1789.04,8,6192.02,4,2,2,4,3,0
+MV-20350,Women Card Holders Essential,RSE,Rose Poudre,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,63283.45,23241.7,60,77040.88,54607.5,17365.0,53,68052.78,78,68,10,80,48,0
+MV-79615,Women Midi Dresses Slim,TAN,Tan,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,3653.91,935.9,8,4802.71,4200.71,1271.72,9,5403.05,26,21,5,27,21,0
+MV-49618,Men Square Frames Classic,ANT,Anthracite,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,23048.91,8552.86,94,30222.92,27670.11,7568.01,114,36653.32,134,103,31,169,134,0
+MV-79924,Unisex Blazers Modern,CRM,Cognac,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5484.86,1958.16,14,6745.24,3444.69,1234.77,10,4818.03,50,38,12,35,29,0
+MV-23979,Women Check-In Relaxed,ECR,Ecru,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,4532.11,1541.26,4,6148.46,3443.75,992.52,3,4611.35,15,13,2,16,9,0
+MV-46559,Men Ballet Flats Luxe,VRT,Vert,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,22675.21,7460.93,47,30665.02,26781.6,7654.73,60,39146.83,127,111,16,180,159,0
+MV-32527,Women Mules Luxe,GRG,Greige,Footwear,Women,Heels,Mules,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,3917.43,1064.75,13,5028.18,4301.12,1394.58,14,5414.96,7,6,1,8,6,0
+MV-99224,Men Day Dresses Relaxed,VRT,Vert,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,13047.47,3896.19,26,18714.96,17216.71,6449.31,31,22313.99,91,76,15,90,73,0
+MV-27892,Men Suit Trousers Modern,ANT,Anthracite,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,26868.66,7364.61,88,33354.44,31561.18,11129.68,100,37902.77,145,103,42,197,121,0
+MV-65444,Women Berets,TRP,Taupe,Accessories,Women,Hats,Berets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,436.13,117.72,1,622.11,0.0,0.0,0,0.0,1,0,1,1,0,0
+MV-33703,Men Earrings Slim,BLU,Bleu Marine,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,936.9,292.22,2,1285.13,489.21,157.96,1,642.57,6,4,2,5,3,0
+MV-95191,Women Coats Signature,BEG,Beige,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,7751.17,2612.7,27,11169.67,5503.11,1899.39,19,7860.14,84,65,19,67,63,0
+MV-71797,Men Shoulder Bags Classic,CRM,Creme,Leather Goods,Men,Handbags,Shoulder Bags,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5118.2,1473.12,7,7224.56,4894.02,1275.46,7,7224.56,13,7,6,14,13,0
+MV-88366,Men Blazers Classic,CAM,Camel,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2635.94,998.38,4,3675.71,1901.15,658.68,3,2756.78,7,4,3,5,4,0
+MV-93283,Unisex Wallets Luxe,RSE,Rose Poudre,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,664.3,190.16,1,869.1,642.66,229.13,1,869.1,1,0,1,1,0,0
+MV-96760,Women Blouses Signature,ARG,Argent,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,736.11,239.99,1,984.79,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-54185,Men Trousers Heritage,CAM,Camel,Ready-to-Wear,Men,Bottoms,Trousers,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,15905.22,4049.04,31,20857.84,14383.93,4546.86,29,19512.17,54,38,16,55,35,0
+MV-31632,Women Weekender Luxe,ROG,Rouge,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1675.89,547.44,3,2275.86,1763.36,460.15,3,2275.86,3,2,1,3,2,0
+MV-53655,Women Leather Belts Slim,VRT,Vert,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12652.92,4128.76,13,15779.51,13190.75,4563.47,13,15779.51,19,11,8,19,13,0
+MV-27892,Men Suit Trousers Modern,ARG,Argent,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7584.88,2362.5,19,10130.63,9258.93,3270.03,23,12263.39,48,36,12,51,44,0
+MV-12665,Women Suit Trousers Essential,CRM,Creme,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4144.65,1051.92,11,5854.22,4065.93,1098.23,10,5322.02,30,23,7,27,21,0
+MV-76263,Women High Top Essential,CAM,Camel,Footwear,Women,Sneakers,High Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,426.78,156.8,1,523.98,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-39444,Men Key Holders Relaxed,CAM,Camel,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16386.81,4531.69,32,24287.02,16489.5,6026.99,30,22769.08,88,79,9,101,62,0
+MV-11214,Men Coats Heritage,CRM,Creme,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,533.82,181.42,1,692.24,514.27,160.24,1,692.24,2,1,1,2,1,0
+MV-56438,Men Boots Essential,NOI,Noir,Footwear,Men,Heels,Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,22900.2,8544.09,30,29787.85,25067.84,6864.02,33,32766.64,78,60,18,101,90,0
+MV-89928,Men Suit Trousers Slim,SBL,Sable,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,20940.19,5387.83,47,27784.84,24320.35,7743.73,50,29558.34,47,32,15,51,46,0
+MV-25043,Men Loafers,VRT,Vert,Footwear,Men,Flats,Loafers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,9024.56,2338.33,12,13391.28,6720.96,2529.52,8,8927.52,20,12,8,14,12,0
+MV-49576,Women Jackets Classic,CRM,Creme,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,8523.32,2914.59,16,11043.67,9955.65,3013.36,20,13804.59,54,44,10,69,42,0
+MV-76132,Unisex Leather Belts Slim,RSE,Rose Poudre,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,5312.86,1614.87,13,7664.2,5390.45,1971.42,14,8253.75,31,29,2,30,29,0
+MV-85156,Women Chain Belts Essential,RSE,Rose Poudre,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,8919.93,2961.2,10,11611.9,9597.03,3198.81,10,11611.9,19,13,6,19,18,0
+MV-81364,Unisex Crossbody Bags Signature,ANT,Anthracite,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,15415.04,4693.71,46,20720.47,18340.25,5583.77,58,26125.81,77,52,25,84,53,0
+MV-48462,Women Ankle Boots Relaxed,GRG,Greige,Footwear,Women,Boots,Ankle Boots,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,14596.42,5455.7,48,18203.66,12998.26,4188.53,41,15548.96,99,80,19,87,73,0
+MV-74866,Women Wool Scarves Luxe,ANT,Anthracite,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3317.17,1229.49,8,4000.99,3254.13,888.66,8,4000.99,18,11,7,22,13,0
+MV-86556,Women Evening Dresses Classic,GRG,Greige,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7892.29,2098.36,20,9459.28,6243.27,2137.13,17,8040.39,78,64,14,57,53,0
+MV-65444,Women Berets,ECR,Ecru,Accessories,Women,Hats,Berets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12271.19,3242.17,56,16352.62,9151.71,3470.19,42,12264.47,164,113,51,100,75,0
+MV-44687,Men Card Holders Modern,ANT,Anthracite,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,29290.65,8097.07,70,37192.95,29553.08,11196.7,78,41443.57,265,235,30,331,248,0
+MV-67961,Men Wool Scarves Heritage,ARG,Argent,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,9658.07,2676.45,15,12330.93,6966.71,1832.63,12,9864.75,39,26,13,33,22,0
+MV-51116,Unisex Tops Essential,BRG,Bordeaux,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6071.61,1550.32,12,8394.23,7516.83,2223.59,14,9793.27,44,33,11,43,40,0
+MV-85156,Women Chain Belts Essential,IVR,Ivoire,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4653.85,1184.88,6,5868.03,4847.19,1609.35,6,5868.03,21,19,2,22,20,0
+MV-80236,Women Coats Slim,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,19175.0,5319.78,68,24432.9,16716.96,5783.75,58,20839.83,184,125,59,150,99,0
+MV-14705,Men Baseball Caps Modern,TRP,Taupe,Accessories,Men,Hats,Baseball Caps,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1158.83,303.88,3,1431.46,1180.1,336.36,3,1431.46,3,2,1,3,2,0
+MV-46421,Women Knee High Slim,BEG,Beige,Footwear,Women,Boots,Knee High,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,5255.45,1925.55,18,7361.23,4956.88,1874.61,17,6952.27,11,7,4,9,8,0
+MV-89928,Men Suit Trousers Slim,ANT,Anthracite,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4591.38,1700.69,7,6349.72,4449.68,1319.5,7,6349.72,23,20,3,29,19,0
+MV-27139,Men Jackets Signature,ROG,Rouge,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4491.68,1158.94,7,6292.58,3792.31,1301.38,6,5393.64,14,11,3,13,9,0
+MV-96275,Women Coats Essential,CRM,Cognac,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7363.61,2259.62,11,9572.12,5730.16,1496.57,8,6961.54,12,10,2,9,7,0
+MV-53025,Men Loafers Heritage,NVY,Navy,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,120305.28,35493.49,143,153907.73,114119.08,32636.51,128,137763.56,155,144,11,140,104,0
+MV-69692,Women Suit Sets Essential,GRG,Greige,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,623.27,183.93,1,795.07,680.94,233.69,1,795.07,3,2,1,3,2,0
+MV-80236,Women Coats Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4663.66,1538.62,18,5658.5,3320.29,1062.49,14,4401.05,55,41,14,37,27,0
+MV-24316,Women Low Top Relaxed,ECR,Ecru,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,450.28,119.74,1,642.96,454.07,142.61,1,642.96,2,1,1,2,1,0
+MV-62772,Men Tote Bags Signature,ANT,Anthracite,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,2790.93,873.2,3,3869.85,3102.83,1164.6,3,3869.85,7,5,2,6,3,0
+MV-37535,Men Shirts Relaxed,CAM,Camel,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5333.9,1866.81,12,7247.94,3844.17,1320.21,9,5435.96,26,21,5,25,16,0
+MV-43491,Women Earrings Heritage,ARG,Argent,Accessories,Women,Jewelry,Earrings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5980.95,1861.57,15,8516.36,5235.95,1643.03,14,7948.6,18,17,1,19,17,0
+MV-96760,Women Blouses Signature,ANT,Anthracite,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2238.12,571.17,6,2888.33,2650.31,849.72,7,3369.71,22,14,8,27,21,0
+MV-69692,Women Suit Sets Essential,BRG,Bordeaux,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2713.22,898.06,8,3443.66,2991.28,1104.26,9,3874.12,23,21,2,21,18,0
+MV-72722,Women Midi Dresses Slim,RSE,Rose Poudre,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,438.76,143.92,1,627.27,415.78,111.11,1,627.27,2,1,1,2,1,0
+MV-14877,Women Necklaces Heritage,TAN,Tan,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2888.96,758.43,7,3546.56,2535.44,732.43,6,3039.91,12,8,4,11,9,0
+MV-26683,Women Blazers Relaxed,NOI,Noir,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,17572.85,6076.3,72,25422.81,17152.49,6036.29,70,24716.62,193,153,40,190,129,0
+MV-88222,Men Suit Trousers Heritage,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,32011.18,9027.88,62,41390.88,38237.72,13620.72,76,50737.21,123,107,16,169,147,0
+MV-71537,Women Trousers Heritage,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4973.12,1618.46,8,7426.09,5794.51,1552.75,9,8354.35,7,6,1,8,7,0
+MV-97684,Unisex Bracelets Luxe,NOI,Noir,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11631.96,4284.69,18,14424.02,12996.46,3827.83,20,16026.69,24,22,2,23,16,0
+MV-37460,Men Jackets Heritage,CRM,Creme,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,10928.89,3251.09,51,14793.52,7912.54,2841.27,38,11022.62,152,124,28,109,70,0
+MV-10336,Men Blazers Heritage,ANT,Anthracite,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,707.8,244.83,1,829.51,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-70521,Men Mules Luxe,BEG,Beige,Footwear,Men,Heels,Mules,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,12356.37,3679.05,35,16736.0,11481.57,4304.94,34,16257.83,34,23,11,36,30,0
+MV-38903,Men Coats Essential,ROG,Rouge,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,36707.76,11961.6,63,47903.78,49200.23,17962.85,81,61590.57,179,146,33,232,155,0
+MV-16839,Unisex Key Holders Luxe,ECR,Ecru,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,2063.67,738.02,2,2588.83,1138.48,356.26,1,1294.41,6,4,2,4,3,0
+MV-40595,Women Day Dresses Heritage,BEG,Beige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2113.15,576.84,3,2874.91,1417.86,533.59,2,1916.61,10,7,3,7,6,0
+MV-76263,Women High Top Essential,TAN,Tan,Footwear,Women,Sneakers,High Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,56912.36,19379.13,69,73481.48,64630.26,23375.41,76,80936.12,38,29,9,47,28,0
+MV-24316,Women Low Top Relaxed,TRP,Taupe,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6134.77,2092.68,16,7415.44,6774.74,2131.91,18,8342.37,29,20,9,34,29,0
+MV-54657,Women Evening Dresses Slim,CAM,Camel,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,616.89,225.74,1,769.31,593.37,159.83,1,769.31,2,1,1,2,1,0
+MV-41358,Men Chelsea Boots Heritage,BEG,Beige,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3148.49,843.74,6,3836.51,2158.25,792.75,4,2557.67,7,5,2,5,4,0
+MV-12665,Women Suit Trousers Essential,GRG,Greige,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6037.99,1919.12,12,8550.53,4572.73,1361.22,9,6412.9,21,16,5,16,13,0
+MV-75308,Men Ballet Flats,CHP,Champagne,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,11398.93,3396.64,25,14933.02,8471.34,2192.11,18,10751.78,69,42,27,43,41,0
+MV-69829,Men Ballet Flats Slim,ECR,Ecru,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,17586.55,4981.19,28,22923.18,12109.28,3374.13,21,17192.39,88,75,13,79,55,0
+MV-57052,Men Day Dresses Signature,RSE,Rose Poudre,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,42570.84,12769.43,115,55981.62,33573.09,9253.16,93,45272.09,64,43,21,52,38,0
+MV-54725,Women Suit Trousers Classic,ECR,Ecru,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1902.96,720.13,7,2587.05,1943.96,560.43,7,2587.05,18,14,4,17,10,0
+MV-37460,Men Jackets Heritage,CAM,Camel,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11694.42,4202.09,16,14271.23,9001.85,2663.74,12,10703.42,16,13,3,13,8,0
+MV-71474,Men Loafers Relaxed,BEG,Beige,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6584.86,2463.61,16,8237.18,6343.48,1880.18,16,8237.18,34,26,8,34,30,0
+MV-78494,Men Suit Sets Essential,VRT,Vert,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5823.79,1990.66,11,8292.75,6005.11,1617.12,12,9046.64,17,13,4,19,14,0
+MV-71057,Women Boots,CRM,Creme,Footwear,Women,Heels,Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1290.17,333.28,3,1833.74,1430.01,370.39,3,1833.74,11,8,3,13,10,0
+MV-82924,Women Low Top Classic,BLU,Bleu Marine,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,64065.55,20050.64,81,95113.64,45274.74,11833.73,59,69280.3,209,201,8,174,113,0
+MV-12260,Men Knee High Modern,CHP,Champagne,Footwear,Men,Boots,Knee High,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,16051.33,4310.14,41,21761.73,13821.36,4678.61,33,17515.54,150,97,53,146,143,0
+MV-67961,Men Wool Scarves Heritage,BLU,Bleu Marine,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7254.81,2733.17,14,9568.85,5384.68,1503.6,9,6151.41,14,13,1,10,7,0
+MV-80143,Men Knitwear Classic,RSE,Rose Poudre,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12720.56,4079.73,19,15669.13,12871.66,3967.56,20,16493.82,33,23,10,42,25,0
+MV-76237,Women Skirts Classic,TRP,Taupe,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1478.32,428.45,5,1881.64,941.8,263.59,3,1128.98,19,16,3,15,9,0
+MV-93717,Women Leather Belts Heritage,VRT,Vert,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,17785.23,4833.63,16,24965.09,23188.55,8421.13,19,29646.05,18,16,2,19,17,0
+MV-28191,Women Chelsea Boots Luxe,NVY,Navy,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16898.97,4854.43,25,24743.72,18766.49,7117.38,28,27712.97,17,13,4,19,14,0
+MV-18799,Women Jeans Modern,NVY,Navy,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,4649.36,1199.47,15,6632.35,4870.51,1252.05,15,6632.35,50,33,17,46,38,0
+MV-76039,Women Boots Relaxed,NOI,Noir,Footwear,Women,Heels,Boots,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,84032.98,30387.92,99,118222.61,86974.69,32562.83,110,131358.46,393,374,19,504,348,0
+MV-54942,Men Square Frames Relaxed,BLU,Bleu Marine,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13027.51,3330.22,20,17522.26,11789.57,3288.57,19,16646.15,59,43,16,56,48,0
+MV-70521,Men Mules Luxe,ARG,Argent,Footwear,Men,Heels,Mules,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3399.08,1002.13,9,4123.82,2893.85,935.77,8,3665.62,23,14,9,20,17,0
+MV-80468,Men Blouses Relaxed,NOI,Noir,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,17447.74,4399.13,31,25954.56,20750.4,5846.21,35,29303.54,30,19,11,41,40,0
+MV-59672,Women Shoulder Bags Classic,CAM,Camel,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,2714.94,865.01,4,3252.15,2157.41,656.59,3,2439.11,12,9,3,8,5,0
+MV-80236,Women Coats Slim,NVY,Navy,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2793.03,844.12,10,3463.68,3136.73,804.9,11,3810.05,18,13,5,18,13,0
+MV-70258,Men Platform Slim,NVY,Navy,Footwear,Men,Sneakers,Platform,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,5749.88,2034.55,9,7203.04,6477.13,1939.09,10,8003.38,30,23,7,29,27,0
+MV-99381,Women Fedoras Signature,CRM,Creme,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,3402.92,1051.15,12,4401.27,4156.24,1254.03,13,4768.04,13,12,1,13,9,0
+MV-16265,Women Chain Belts Signature,TRP,Taupe,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,34277.1,13000.23,32,44998.2,37455.39,9701.14,33,46404.39,76,50,26,63,40,0
+MV-53655,Women Leather Belts Slim,NOI,Noir,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16191.22,5189.26,14,20267.61,16081.71,5970.87,16,23162.99,18,14,4,21,19,0
+MV-59015,Unisex Baseball Caps Relaxed,CHP,Champagne,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,19767.59,7222.28,33,29020.29,24411.08,8867.73,38,33417.3,99,75,24,113,96,0
+MV-53025,Men Loafers Heritage,ECR,Ecru,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9896.05,3086.52,18,13582.43,9002.43,3277.21,17,12827.85,23,18,5,22,20,0
+MV-46421,Women Knee High Slim,VRT,Vert,Footwear,Women,Boots,Knee High,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2550.15,859.61,8,3074.04,2470.79,871.12,8,3074.04,6,5,1,6,5,0
+MV-38683,Men Tops Slim,ROG,Rouge,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,15204.02,4994.81,35,20743.68,10832.55,3105.19,26,15409.59,83,74,9,51,40,0
+MV-73736,Women Key Holders Relaxed,CHP,Champagne,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2328.63,872.17,5,3087.51,2271.55,741.97,5,3087.51,8,5,3,9,5,0
+MV-93746,Women Blazers Essential,NOI,Noir,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1535.08,496.17,5,2111.0,1038.73,380.67,3,1266.6,13,9,4,10,6,0
+MV-93746,Women Blazers Essential,BRG,Bordeaux,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,4818.12,1300.86,15,6415.37,4899.23,1536.85,15,6415.37,23,22,1,21,17,0
+MV-67961,Men Wool Scarves Heritage,NVY,Navy,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2660.4,806.98,6,3607.8,3146.27,1090.73,7,4209.1,20,14,6,19,11,0
+MV-88222,Men Suit Trousers Heritage,ECR,Ecru,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,412.94,115.76,1,537.43,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-99173,Women Card Holders Modern,VRT,Vert,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,10286.03,3338.67,22,12713.76,11128.2,3266.25,25,14447.46,84,68,16,108,100,0
+MV-86483,Women Wallets Luxe,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,16716.3,5372.5,15,23594.52,13579.78,4117.68,13,20448.59,42,38,4,42,37,0
+MV-69692,Women Suit Sets Essential,TRP,Taupe,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6027.28,1755.8,12,7317.22,6892.16,1834.63,14,8536.76,20,14,6,22,18,0
+MV-94323,Women Round Frames Classic,TRP,Taupe,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,33656.97,11029.29,73,43183.91,29135.1,8720.2,60,35493.63,107,74,33,72,55,0
+MV-62044,Women Low Top Classic,NVY,Navy,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,15515.97,4728.04,18,19862.83,10026.96,2962.98,12,13241.89,68,55,13,42,38,0
+MV-80236,Women Coats Slim,CAM,Camel,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10255.45,3152.27,42,15060.66,10100.25,2738.65,37,13267.72,81,66,15,84,73,0
+MV-54725,Women Suit Trousers Classic,GRG,Greige,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1080.25,301.79,3,1271.73,996.1,309.69,3,1271.73,8,6,2,10,7,0
+MV-82924,Women Low Top Classic,ROG,Rouge,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,15270.28,4491.52,18,18461.47,9923.1,3129.95,13,13333.28,39,30,9,24,18,0
+MV-89507,Women Blazers Essential,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,19044.33,5126.64,43,28315.98,15861.78,5894.35,38,25023.43,91,72,19,80,60,0
+MV-17331,Women Key Holders Relaxed,CRM,Cognac,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,16247.88,6018.84,18,21381.55,14013.4,4507.11,16,19005.83,18,13,5,14,10,0
+MV-13396,Women Wallets Slim,ARG,Argent,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,25744.45,7462.37,27,35703.44,36507.78,9605.44,34,44959.88,40,29,11,46,43,0
+MV-39444,Men Key Holders Relaxed,GRG,Greige,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6437.35,2088.33,9,8388.0,6837.53,2515.21,10,9320.0,9,8,1,10,8,0
+MV-53064,Men Skirts Slim,TRP,Taupe,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,708.36,194.06,2,1024.35,704.84,267.35,2,1024.35,4,2,2,4,2,0
+MV-25396,Women Clutches Slim,ARG,Argent,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,7258.66,2626.5,13,9402.3,5992.32,1948.78,10,7232.54,38,30,8,31,29,0
+MV-23579,Men Cat Eye,ARG,Argent,Accessories,Men,Sunglasses,Cat Eye,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5692.52,2044.78,10,7242.16,7190.92,1889.58,12,8690.59,25,16,9,30,26,0
+MV-69048,Women Tops Luxe,IVR,Ivoire,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,26734.83,9314.21,43,38809.69,31602.22,10846.83,55,49640.3,72,71,1,100,92,0
+MV-86556,Women Evening Dresses Classic,ROG,Rouge,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2854.4,917.36,5,3989.35,2313.23,751.04,4,3191.48,6,5,1,5,3,0
+MV-66349,Women Crossbody Bags Modern,ARG,Argent,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,48725.16,17692.73,72,61253.24,55961.96,18484.02,77,65506.94,188,124,64,164,104,0
+MV-96275,Women Coats Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16778.69,4867.14,67,22388.78,13370.56,5056.77,52,17376.36,39,23,16,30,28,0
+MV-71537,Women Trousers Heritage,TAN,Tan,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2112.17,642.6,6,3008.75,1926.56,653.34,5,2507.29,20,14,6,16,13,0
+MV-68929,Women Crossbody Bags Relaxed,VRT,Vert,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,3153.73,870.65,9,4077.29,2964.4,1088.8,9,4077.29,33,24,9,31,20,0
+MV-50768,Men Knitwear Modern,IVR,Ivoire,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,30772.15,10097.64,48,41239.29,37670.9,12859.44,60,51549.11,186,172,14,262,256,0
+MV-80282,Unisex Baseball Caps Signature,NOI,Noir,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,41641.76,13553.64,72,58843.89,56966.36,18995.61,92,75189.41,125,124,1,161,129,0
+MV-53064,Men Skirts Slim,ROG,Rouge,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7627.59,2646.94,12,10574.98,8713.77,3033.59,14,12337.48,33,22,11,39,28,0
+MV-37535,Men Shirts Relaxed,ROG,Rouge,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,4307.25,1635.0,8,5430.4,3397.44,1003.93,7,4751.6,16,10,6,12,8,0
+MV-90301,Men High Top,ECR,Ecru,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6846.23,2134.51,15,9532.43,5562.88,1475.12,12,7625.95,39,24,15,29,19,0
+MV-95191,Women Coats Signature,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,12021.78,4486.43,24,16074.07,11802.21,4219.9,24,16074.07,50,39,11,52,41,0
+MV-42087,Men Slides Slim,CRM,Creme,Footwear,Men,Flats,Slides,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4919.25,1574.63,6,6657.21,5076.12,1420.86,6,6657.21,16,12,4,19,15,0
+MV-85914,Women Wallets,BEG,Beige,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,26124.65,8967.47,28,31739.94,20710.2,7427.14,22,24938.53,67,60,7,51,47,0
+MV-17331,Women Key Holders Relaxed,NOI,Noir,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,515.06,136.57,1,683.65,473.89,150.29,1,683.65,1,0,1,0,0,0
+MV-43681,Men Low Top Luxe,IVR,Ivoire,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,413.62,119.86,1,549.15,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-73736,Women Key Holders Relaxed,ECR,Ecru,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7859.01,2986.31,10,9088.0,8191.02,2905.74,10,9088.0,10,6,4,10,9,0
+MV-74038,Women Pouches,CRM,Cognac,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,9628.61,2744.09,9,12560.31,11410.33,3204.09,10,13955.9,29,18,11,26,22,0
+MV-86483,Women Wallets Luxe,TAN,Tan,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,8651.25,2669.78,8,11313.62,11699.39,2982.16,10,14142.03,21,15,6,29,21,0
+MV-50213,Women Tops Slim,RSE,Rose Poudre,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4769.87,1202.77,14,6213.24,5130.84,1549.97,15,6657.04,22,15,7,26,24,0
+MV-70258,Men Platform Slim,SBL,Sable,Footwear,Men,Sneakers,Platform,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,3476.59,1102.82,8,4790.45,2455.31,922.82,6,3592.84,23,19,4,21,20,0
+MV-26683,Women Blazers Relaxed,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2535.87,867.41,4,3389.6,2669.79,982.46,4,3389.6,3,2,1,3,1,0
+MV-69459,Women Rings Signature,ROG,Rouge,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3314.25,1109.62,7,4756.37,2228.36,704.0,5,3397.41,7,5,2,5,3,0
+MV-10336,Men Blazers Heritage,GRG,Greige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,26852.92,9765.67,78,38136.84,20942.38,7283.38,56,27380.29,53,47,6,30,23,0
+MV-30253,Men Weekender Essential,TAN,Tan,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12623.25,4512.01,11,14780.7,11233.22,4244.06,11,14780.7,8,5,3,8,7,0
+MV-76039,Women Boots Relaxed,CAM,Camel,Footwear,Women,Heels,Boots,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4224.42,1119.75,12,5874.83,4535.31,1483.96,13,6364.4,30,18,12,37,25,0
+MV-14852,Men Loafers Slim,CHP,Champagne,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13079.33,3778.26,18,17173.13,12794.7,3433.55,20,19081.26,14,13,1,18,13,0
+MV-18799,Women Jeans Modern,NVY,Navy,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,21898.88,5947.74,87,30009.76,22011.72,7985.58,90,31044.58,191,119,72,200,136,0
+MV-93283,Unisex Wallets Luxe,SBL,Sable,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,3912.25,1442.23,5,5734.17,3167.95,1079.35,4,4587.34,4,2,2,3,2,0
+MV-79942,Men Blazers Essential,TRP,Taupe,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,8392.93,2328.93,24,11839.17,6002.72,1787.33,16,7892.78,91,65,26,53,36,0
+MV-69459,Women Rings Signature,RSE,Rose Poudre,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8812.11,2380.16,26,12073.18,11530.93,4379.4,33,15323.65,87,59,28,129,78,0
+MV-86484,Men Blazers Essential,BRG,Bordeaux,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13327.55,3410.29,20,15909.51,8926.52,3296.07,14,11136.66,57,39,18,34,25,0
+MV-38183,Men Suit Trousers Essential,ECR,Ecru,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,499.49,162.16,1,648.52,470.01,123.27,1,648.52,0,0,0,0,0,0
+MV-72722,Women Midi Dresses Slim,ARG,Argent,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,9803.83,3034.35,24,14478.5,9619.51,3594.34,24,14478.5,82,49,33,73,52,0
+MV-86484,Men Blazers Essential,CRM,Creme,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,423.53,141.71,1,566.99,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-21164,Men Shorts Relaxed,BRG,Bordeaux,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5919.02,1746.09,19,8218.53,7856.01,2481.02,24,10381.3,62,47,15,79,62,0
+MV-94675,Women Trousers Essential,BLU,Bleu Marine,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,9750.25,3681.76,28,11262.44,6883.15,2277.4,21,8446.83,71,59,12,57,46,0
+MV-22833,Women Midi Dresses Classic,ARG,Argent,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1139.64,304.38,5,1626.14,856.49,257.39,4,1300.92,11,10,1,11,7,0
+MV-51704,Women Fedoras Luxe,VRT,Vert,Accessories,Women,Hats,Fedoras,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,17897.26,4796.3,39,24140.57,24146.11,9079.76,49,30330.46,112,88,24,141,124,0
+MV-99381,Women Fedoras Signature,NOI,Noir,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,422.76,147.69,1,594.02,436.51,118.99,1,594.02,2,1,1,2,1,0
+MV-18799,Women Jeans Modern,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,24637.56,8177.06,39,34582.43,26913.71,9231.35,45,39902.8,137,93,44,135,128,0
+MV-43491,Women Earrings Heritage,TAN,Tan,Accessories,Women,Jewelry,Earrings,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,6657.35,2306.34,13,9252.0,6560.83,1883.25,13,9252.0,46,33,13,56,48,0
+MV-66531,Unisex Key Holders Modern,SBL,Sable,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4529.69,1586.62,5,6177.91,2433.39,708.31,3,3706.75,12,9,3,7,4,0
+MV-59834,Women Skirts,NVY,Navy,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2032.78,678.03,3,2894.79,1306.52,399.6,2,1929.86,4,3,1,3,1,0
+MV-17816,Women Trousers Slim,NVY,Navy,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,33643.19,9323.8,65,45481.51,45477.42,16664.61,82,57376.67,47,28,19,68,51,0
+MV-89928,Men Suit Trousers Slim,CRM,Cognac,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,431.45,134.61,1,608.67,430.52,128.0,1,608.67,3,2,1,3,2,0
+MV-38760,Unisex Rings Heritage,CRM,Creme,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1374.62,388.03,4,1877.98,705.99,199.31,2,938.99,15,12,3,13,11,0
+MV-19869,Women Wool Scarves Slim,RSE,Rose Poudre,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,5264.38,1705.06,9,6978.52,4631.42,1205.81,8,6203.13,13,10,3,11,7,0
+MV-26704,Men Pouches Classic,NVY,Navy,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,8469.52,2993.1,20,9954.17,7070.85,2581.59,16,7963.33,17,13,4,13,12,0
+MV-20543,Men Check-In Classic,NOI,Noir,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,18090.09,4980.43,16,23099.98,21676.37,5928.71,19,27431.23,53,50,3,65,52,0
+MV-41358,Men Chelsea Boots Heritage,RSE,Rose Poudre,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,976.07,336.29,2,1267.09,436.43,157.26,1,633.54,2,1,1,1,0,0
+MV-25043,Men Loafers,CAM,Camel,Footwear,Men,Flats,Loafers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2459.6,824.04,7,3583.54,1817.08,683.76,5,2559.67,19,12,7,12,10,0
+MV-69459,Women Rings Signature,NOI,Noir,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,1466.65,477.79,5,1922.01,1806.26,526.12,6,2306.41,13,9,4,18,17,0
+MV-78614,Women Trousers Signature,BEG,Beige,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2524.6,827.43,5,3350.89,2671.71,1001.19,5,3350.89,16,10,6,21,14,0
+MV-43681,Men Low Top Luxe,NOI,Noir,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,3810.33,1277.57,11,5045.67,4577.08,1371.44,12,5504.37,21,17,4,22,16,0
+MV-27961,Women Blouses Signature,RSE,Rose Poudre,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13843.87,4634.81,26,18915.56,12318.47,3588.39,26,18915.56,94,67,27,94,68,0
+MV-60181,Women Jackets Classic,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1304.08,467.79,5,1683.5,838.84,306.5,3,1010.1,11,10,1,9,8,0
+MV-53064,Men Skirts Slim,TAN,Tan,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,4934.17,1424.51,9,6406.13,5985.26,1545.32,10,7117.92,13,8,5,15,14,0
+MV-65296,Women Ankle Boots Slim,NOI,Noir,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4509.55,1426.48,10,6044.92,4673.61,1641.16,10,6044.92,5,3,2,4,3,0
+MV-32527,Women Mules Luxe,RSE,Rose Poudre,Footwear,Women,Heels,Mules,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,52198.39,13493.86,80,75610.94,66127.07,19264.56,95,89788.0,243,160,83,241,198,0
+MV-79924,Unisex Blazers Modern,TAN,Tan,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,49133.82,14041.33,66,67365.22,34694.26,13059.25,54,55116.99,139,130,9,128,86,0
+MV-47512,Men Tops Relaxed,NOI,Noir,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,21613.76,5816.62,34,30892.08,24921.22,8314.16,37,33617.86,124,83,41,143,119,0
+MV-30253,Men Weekender Essential,BRG,Bordeaux,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1808.64,594.5,5,2627.25,1571.32,443.82,4,2101.8,8,6,2,8,6,0
+MV-66881,Men Trousers Modern,ROG,Rouge,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,283.06,87.87,1,402.74,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-27961,Women Blouses Signature,ECR,Ecru,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3916.01,1053.89,8,5238.24,4786.5,1517.88,10,6547.8,31,30,1,32,22,0
+MV-82512,Women Shorts Heritage,BEG,Beige,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,3878.02,1301.86,6,4922.61,2277.09,584.66,4,3281.74,10,7,3,8,6,0
+MV-15513,Unisex Shorts Heritage,VRT,Vert,Ready-to-Wear,Unisex,Bottoms,Shorts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,7981.55,3032.19,15,9607.19,7535.62,2815.78,15,9607.19,47,46,1,47,33,0
+MV-69459,Women Rings Signature,TAN,Tan,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8910.85,2729.46,32,11591.12,6401.25,1619.59,22,7968.89,78,62,16,51,47,0
+MV-69048,Women Tops Luxe,ANT,Anthracite,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,18178.1,5516.06,41,26693.02,20709.84,5828.81,43,27995.11,59,47,12,59,40,0
+MV-94675,Women Trousers Essential,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,23167.47,6255.79,39,28919.66,16448.41,4596.48,28,20762.83,117,100,17,79,52,0
+MV-54725,Women Suit Trousers Classic,CRM,Cognac,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5491.04,1952.66,9,7781.88,6682.27,2492.72,11,9511.18,16,12,4,19,17,0
+MV-71953,Women Suit Trousers Relaxed,ECR,Ecru,Ready-to-Wear,Women,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12587.4,4085.06,24,18017.57,13822.02,4069.23,25,18768.3,49,41,8,52,50,0
+MV-80236,Women Coats Slim,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1874.96,510.22,8,2179.0,2154.93,596.94,9,2451.37,25,15,10,29,26,0
+MV-50768,Men Knitwear Modern,ECR,Ecru,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,696.83,186.81,1,1021.27,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-30644,Men Chain Belts Slim,NVY,Navy,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,20127.84,6666.6,25,29963.57,20277.4,7375.92,23,27566.48,52,43,9,44,34,0
+MV-35272,Men Check-In Modern,CHP,Champagne,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,845.85,215.7,1,1112.53,874.69,230.36,1,1112.53,3,2,1,3,2,0
+MV-24530,Women Day Dresses Luxe,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6419.56,1991.27,11,8828.4,7353.99,2591.77,12,9630.98,25,18,7,29,27,0
+MV-78614,Women Trousers Signature,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,5459.27,1999.87,8,7477.93,3453.55,1294.71,5,4673.71,19,16,3,14,12,0
+MV-26074,Women Fedoras Slim,BRG,Bordeaux,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10660.21,2699.97,25,14981.64,9908.89,2921.66,26,15580.91,27,25,2,27,22,0
+MV-20328,Men Clutches,SBL,Sable,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,31530.19,9853.59,31,42845.53,37836.12,14214.84,39,53902.44,26,22,4,37,24,0
+MV-84341,Men Sandals Signature,NOI,Noir,Footwear,Men,Heels,Sandals,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2648.1,788.48,7,3297.3,2934.32,779.38,8,3768.34,14,12,2,13,12,0
+MV-27486,Women Mules Classic,VRT,Vert,Footwear,Women,Heels,Mules,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,24066.39,8119.92,35,29578.77,26732.8,8579.3,40,33804.3,122,109,13,118,117,0
+MV-23434,Women Card Holders,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4826.17,1498.66,7,6655.48,4869.93,1296.98,7,6655.48,20,16,4,19,12,0
+MV-60432,Women Suit Sets Essential,BLU,Bleu Marine,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,8458.77,3078.59,12,12009.3,5735.97,1789.42,8,8006.2,8,6,2,5,3,0
+MV-49618,Men Square Frames Classic,BEG,Beige,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6116.55,1591.11,27,7687.29,6178.03,1997.1,28,7972.0,32,25,7,34,27,0
+MV-97782,Women Leather Belts Signature,BEG,Beige,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13213.93,4009.59,25,16313.12,11109.23,3284.7,23,15008.07,43,40,3,35,23,0
+MV-67961,Men Wool Scarves Heritage,ANT,Anthracite,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,32126.53,10569.11,93,43827.83,33436.1,8362.56,109,51368.11,319,318,1,396,354,0
+MV-12260,Men Knee High Modern,CAM,Camel,Footwear,Men,Boots,Knee High,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,4308.02,1628.34,5,5831.3,3988.67,1361.03,5,5831.3,8,6,2,10,7,0
+MV-56438,Men Boots Essential,ROG,Rouge,Footwear,Men,Heels,Boots,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,6845.71,2465.51,23,9155.29,6715.94,2331.62,23,9155.29,61,56,5,51,33,0
+MV-85156,Women Chain Belts Essential,ECR,Ecru,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,14939.14,4190.9,20,18412.01,11930.72,4452.91,17,15650.21,69,58,11,58,41,0
+MV-30253,Men Weekender Essential,IVR,Ivoire,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,21870.06,7478.33,52,27228.57,23585.93,7745.8,52,27228.57,201,160,41,194,157,0
+MV-47196,Women Wallets,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,2267.79,771.4,3,2732.54,1354.3,507.89,2,1821.7,9,6,3,7,5,0
+MV-65255,Women Evening Dresses Heritage,VRT,Vert,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,11299.27,3756.72,29,15872.58,8473.78,3147.09,24,13135.93,83,80,3,68,46,0
+MV-70258,Men Platform Slim,ECR,Ecru,Footwear,Men,Sneakers,Platform,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,14389.45,3860.62,17,19753.42,15085.14,4746.92,18,20915.38,42,39,3,42,28,0
+MV-79924,Unisex Blazers Modern,CHP,Champagne,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1542.03,444.06,6,2269.76,1657.48,601.2,6,2269.76,20,18,2,22,20,0
+MV-92345,Women Leather Belts Modern,RSE,Rose Poudre,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10087.94,2827.25,13,14430.58,10465.48,3718.45,14,15540.62,12,10,2,12,10,0
+MV-44959,Women Blazers Modern,BRG,Bordeaux,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,4774.79,1224.59,8,6075.75,4541.27,1177.44,8,6075.75,11,8,3,9,5,0
+MV-19869,Women Wool Scarves Slim,NVY,Navy,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4988.45,1629.23,18,6468.44,5485.27,1691.58,21,7546.51,47,40,7,63,46,0
+MV-77538,Men Check-In Signature,ANT,Anthracite,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,41613.38,13945.92,47,52175.02,43158.34,12493.75,49,54395.24,107,72,35,110,75,0
+MV-69829,Men Ballet Flats Slim,ROG,Rouge,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7068.05,1897.36,18,8938.79,8278.48,2288.82,21,10428.58,39,29,10,47,44,0
+MV-99224,Men Day Dresses Relaxed,BLU,Bleu Marine,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6467.5,2176.96,21,8678.75,6848.32,2301.4,24,9918.57,62,50,12,69,58,0
+MV-49576,Women Jackets Classic,TRP,Taupe,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9077.5,3335.16,15,12893.12,8942.56,3205.42,14,12033.58,12,9,3,12,11,0
+MV-20993,Men Wool Scarves Slim,BRG,Bordeaux,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,368.47,108.79,1,549.28,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-44718,Women Day Dresses Slim,TRP,Taupe,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1317.87,451.64,5,1914.72,1466.13,461.98,5,1914.72,8,7,1,7,4,0
+MV-79329,Men Suit Trousers Classic,CAM,Camel,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,3152.12,1116.33,14,4554.04,3417.43,1255.48,14,4554.04,37,33,4,38,29,0
+MV-19869,Women Wool Scarves Slim,NVY,Navy,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1586.59,556.8,7,2250.95,1761.28,601.31,7,2250.95,3,2,1,3,2,0
+MV-20993,Men Wool Scarves Slim,SBL,Sable,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2609.04,954.91,4,3462.54,1997.45,499.92,3,2596.9,15,13,2,12,9,0
+MV-96760,Women Blouses Signature,TRP,Taupe,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9479.59,3261.17,15,12842.97,11677.7,3432.13,19,16267.77,49,33,16,71,50,0
+MV-53655,Women Leather Belts Slim,RSE,Rose Poudre,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,6152.08,1551.41,8,7769.61,4034.23,1353.47,5,4856.01,20,19,1,12,10,0
+MV-28191,Women Chelsea Boots Luxe,NVY,Navy,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3522.55,1331.35,6,4862.05,3035.97,760.62,5,4051.71,4,3,1,3,2,0
+MV-55830,Women Jeans Heritage,BRG,Bordeaux,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7711.6,2109.2,13,9814.22,8358.51,3051.79,14,10569.16,48,31,17,55,44,0
+MV-19869,Women Wool Scarves Slim,VRT,Vert,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,728.79,214.13,3,990.13,488.47,164.99,2,660.09,9,7,2,7,6,0
+MV-35995,Unisex Check-In Modern,ANT,Anthracite,Leather Goods,Unisex,Luggage,Check-In,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,49676.73,16146.9,56,70573.0,42545.45,15705.84,44,55450.21,160,121,39,104,62,0
+MV-96200,Women Suit Sets,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,30094.47,7894.47,43,36861.11,40471.22,11903.13,55,47147.93,90,66,24,124,111,0
+MV-62772,Men Tote Bags Signature,VRT,Vert,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,14562.79,4707.38,26,18374.93,10683.82,3502.7,19,13427.83,93,57,36,80,59,0
+MV-76249,Men Clutches Luxe,GRG,Greige,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1337.63,334.62,2,1984.26,690.68,182.94,1,992.13,7,6,1,5,4,0
+MV-29597,Women Leather Belts,ARG,Argent,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,18022.23,4704.07,32,23881.64,14893.8,4016.04,28,20896.44,109,101,8,95,86,0
+MV-20336,Men Blazers Heritage,CAM,Camel,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,20403.08,7349.3,35,25568.52,16537.1,5004.17,27,19724.29,100,83,17,66,52,0
+MV-20350,Women Card Holders Essential,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,31228.7,10905.38,31,42773.38,29357.77,7659.07,33,45532.95,101,69,32,108,103,0
+MV-54313,Women Wallets Classic,SBL,Sable,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2014.47,703.01,2,2457.17,1871.34,619.57,2,2457.17,2,1,1,2,1,0
+MV-91830,Women Bracelets,CHP,Champagne,Accessories,Women,Jewelry,Bracelets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6392.65,1813.39,22,9162.47,7536.61,2582.84,26,10828.38,51,45,6,69,47,0
+MV-49363,Unisex Cashmere Scarves,TRP,Taupe,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,18970.46,6577.35,38,22780.2,15614.47,4222.21,34,20382.29,102,89,13,108,71,0
+MV-76039,Women Boots Relaxed,TRP,Taupe,Footwear,Women,Heels,Boots,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,6114.01,1664.87,18,7995.98,6433.25,1670.96,17,7551.76,47,32,15,36,34,0
+MV-48504,Women Slides Signature,NVY,Navy,Footwear,Women,Flats,Slides,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,7225.34,2736.47,22,10426.69,9535.43,3268.12,27,12796.39,56,33,23,74,47,0
+MV-79615,Women Midi Dresses Slim,CRM,Creme,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5467.95,1445.14,13,6969.96,6715.04,1868.45,16,8578.41,46,28,18,55,54,0
+MV-96275,Women Coats Essential,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,4264.34,1196.45,16,5486.6,3313.45,1147.22,12,4114.95,33,22,11,24,23,0
+MV-20745,Unisex Mini Bags Essential,ROG,Rouge,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,737.83,223.96,1,1069.73,775.61,206.5,1,1069.73,1,0,1,0,0,0
+MV-26505,Men Leather Belts Relaxed,BLU,Bleu Marine,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,21081.94,7640.6,21,29342.08,17745.38,5433.1,17,23753.12,32,26,6,31,30,0
+MV-21542,Women Clutches Signature,VRT,Vert,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,997.22,334.17,1,1276.85,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-52176,Women Check-In Relaxed,IVR,Ivoire,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10738.21,3458.61,12,13430.85,7126.33,2109.49,8,8953.9,41,32,9,28,26,0
+MV-17816,Women Trousers Slim,VRT,Vert,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3946.62,1488.88,7,5076.24,4257.92,1431.49,7,5076.24,5,3,2,5,4,0
+MV-15958,Men Pumps Heritage,NOI,Noir,Footwear,Men,Heels,Pumps,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,6681.19,1944.9,16,9354.94,5236.21,1786.53,14,8185.58,57,49,8,42,30,0
+MV-49576,Women Jackets Classic,ECR,Ecru,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2169.35,730.23,3,2550.28,1959.52,577.85,3,2550.28,11,9,2,11,8,0
+MV-12665,Women Suit Trousers Essential,CRM,Creme,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,17539.48,4630.16,25,23321.04,22735.15,8398.31,31,28918.09,99,66,33,113,97,0
+MV-83975,Unisex Baseball Caps Classic,IVR,Ivoire,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,20999.35,6610.3,33,26995.27,26739.71,8688.37,40,32721.53,48,44,4,61,55,0
+MV-80798,Men Chain Belts Modern,BEG,Beige,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1863.79,704.79,3,2683.57,2019.7,639.67,3,2683.57,11,10,1,15,12,0
+MV-92345,Women Leather Belts Modern,GRG,Greige,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2215.49,722.54,2,2585.54,1056.99,298.4,1,1292.77,5,4,1,4,3,0
+MV-43586,Women Jeans Signature,CRM,Creme,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1875.39,664.87,3,2504.14,1276.74,427.62,2,1669.42,3,2,1,2,1,0
+MV-90301,Men High Top,NOI,Noir,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,35578.93,12039.95,44,48103.16,38755.59,13298.53,47,51382.92,147,136,11,171,154,0
+MV-79942,Men Blazers Essential,CRM,Cognac,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10666.52,3760.44,16,14546.6,13044.95,3849.46,20,18183.25,20,15,5,27,21,0
+MV-77033,Women Weekender Modern,TRP,Taupe,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,13437.85,4294.71,13,18426.97,14575.24,5111.74,16,22679.35,35,29,6,37,35,0
+MV-97782,Women Leather Belts Signature,ANT,Anthracite,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1840.17,524.04,2,2443.19,949.56,310.89,1,1221.6,4,3,1,2,1,0
+MV-37460,Men Jackets Heritage,CRM,Creme,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11952.41,4435.6,22,16271.24,9424.04,2864.19,18,13312.84,27,25,2,22,14,0
+MV-92203,Men Clutches,NOI,Noir,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,31842.67,9642.73,43,41925.84,25418.11,8000.95,34,33150.66,162,136,26,130,87,0
+MV-65255,Women Evening Dresses Heritage,CAM,Camel,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,27466.92,8418.2,37,32596.73,22947.07,7972.05,31,27310.78,40,25,15,29,20,0
+MV-71474,Men Loafers Relaxed,VRT,Vert,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,8380.81,2700.66,21,11607.46,7155.61,2155.03,19,10501.99,60,59,1,53,44,0
+MV-42087,Men Slides Slim,RSE,Rose Poudre,Footwear,Men,Flats,Slides,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,468.56,132.32,1,636.81,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-77538,Men Check-In Signature,ECR,Ecru,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1594.32,498.49,2,2040.92,1672.34,506.59,2,2040.92,4,2,2,4,3,0
+MV-76249,Men Clutches Luxe,CAM,Camel,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,605.66,196.15,1,787.32,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-12671,Men Ballet Flats Slim,NOI,Noir,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4377.93,1373.91,6,5820.59,4644.04,1540.58,6,5820.59,16,12,4,18,11,0
+MV-80236,Women Coats Slim,BEG,Beige,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,868.72,263.32,3,1226.47,957.63,351.28,3,1226.47,11,7,4,11,9,0
+MV-57942,Women Chelsea Boots Modern,VRT,Vert,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1828.01,545.14,6,2186.53,2139.42,665.34,7,2550.95,11,8,3,15,9,0
+MV-44687,Men Card Holders Modern,CRM,Creme,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,9004.76,2450.06,10,12011.22,9852.6,2671.87,12,14413.47,16,11,5,20,13,0
+MV-76263,Women High Top Essential,BEG,Beige,Footwear,Women,Sneakers,High Top,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,39045.68,10701.61,61,51922.36,49643.56,16888.71,79,67243.71,162,136,26,228,187,0
+MV-69446,Unisex Evening Dresses Modern,CRM,Cognac,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,13930.96,3962.39,20,17718.66,10255.38,3378.7,15,13289.0,45,41,4,33,31,0
+MV-48504,Women Slides Signature,CAM,Camel,Footwear,Women,Flats,Slides,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,11684.58,4250.94,38,14312.49,10068.48,3602.31,35,13182.55,26,15,11,25,19,0
+MV-43681,Men Low Top Luxe,BEG,Beige,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,22460.97,7799.98,26,29588.92,14407.62,4246.5,18,20484.64,100,74,26,84,75,0
+MV-47512,Men Tops Relaxed,RSE,Rose Poudre,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,462.63,120.53,2,585.15,437.25,132.07,2,585.15,2,1,1,2,1,0
+MV-51116,Unisex Tops Essential,TAN,Tan,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11142.15,3790.18,28,16009.56,7961.69,3009.88,20,11435.4,58,45,13,50,41,0
+MV-38760,Unisex Rings Heritage,CRM,Cognac,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1324.64,486.05,6,1577.72,1331.74,427.12,6,1577.72,17,14,3,17,15,0
+MV-33703,Men Earrings Slim,CRM,Cognac,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,7944.48,2265.12,21,11467.89,7168.45,2125.75,20,10921.8,82,64,18,88,57,0
+MV-57920,Women Blazers Slim,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2568.96,881.3,8,3338.69,3039.74,1124.82,9,3756.03,7,6,1,8,5,0
+MV-48462,Women Ankle Boots Relaxed,CRM,Cognac,Footwear,Women,Boots,Ankle Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,99750.17,35088.92,129,148341.95,124218.05,35245.64,164,188589.76,505,478,27,698,496,0
+MV-51441,Women Jackets Modern,GRG,Greige,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3723.89,1300.09,6,5209.3,3657.24,1203.19,6,5209.3,9,5,4,8,7,0
+MV-99173,Women Card Holders Modern,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2212.12,594.76,7,3022.98,2357.87,624.09,7,3022.98,14,9,5,14,12,0
+MV-11214,Men Coats Heritage,CRM,Cognac,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,16441.82,5824.95,57,21535.26,15868.89,6027.3,58,21913.07,170,167,3,160,123,0
+MV-69473,Women Chain Belts Heritage,GRG,Greige,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,781.32,247.51,1,990.72,810.04,268.5,1,990.72,2,1,1,2,1,0
+MV-44335,Women Slides Slim,ROG,Rouge,Footwear,Women,Flats,Slides,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,14204.02,4578.54,25,20957.06,14703.94,4428.66,27,22633.62,52,47,5,67,43,0
+MV-99353,Women Tote Bags,ECR,Ecru,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,23139.99,6830.78,27,33665.62,24892.19,8667.69,30,37406.24,18,16,2,19,15,0
+MV-82924,Women Low Top Classic,NVY,Navy,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,14969.6,4933.93,38,19906.91,11769.11,3082.99,30,15715.98,89,59,30,77,62,0
+MV-76237,Women Skirts Classic,GRG,Greige,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,36908.65,10835.7,78,49755.17,42065.55,11630.36,88,56134.04,48,41,7,63,47,0
+MV-44718,Women Day Dresses Slim,ECR,Ecru,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,47473.96,13109.88,79,62506.69,52960.03,18519.19,81,64089.13,270,195,75,225,171,0
+MV-62044,Women Low Top Classic,ARG,Argent,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,682.63,238.19,1,876.94,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-60052,Unisex Evening Dresses,CRM,Cognac,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,26348.55,8607.38,36,36387.97,31516.32,8561.63,42,42452.63,37,25,12,51,46,0
+MV-82135,Women Trousers Slim,BEG,Beige,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,8672.82,2575.7,22,11630.8,8578.99,2708.22,23,12159.47,87,83,4,103,81,0
+MV-12671,Men Ballet Flats Slim,TRP,Taupe,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,16835.0,6302.39,22,20836.46,17920.92,4834.28,23,21783.57,73,57,16,93,76,0
+MV-30730,Men High Top Luxe,NVY,Navy,Footwear,Men,Sneakers,High Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,847.57,271.34,2,1189.36,854.21,245.58,2,1189.36,3,2,1,2,1,0
+MV-69446,Unisex Evening Dresses Modern,ECR,Ecru,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,15184.44,5461.74,22,19763.93,15174.38,4418.58,21,18865.57,14,12,2,13,9,0
+MV-79942,Men Blazers Essential,CHP,Champagne,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,18899.47,6743.84,86,24222.96,15165.91,5492.75,65,18308.05,238,207,31,209,152,0
+MV-62383,Men Berets Relaxed,ARG,Argent,Accessories,Men,Hats,Berets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,12935.16,4823.3,52,17114.64,12435.77,3722.63,53,17443.77,78,57,21,96,70,0
+MV-46421,Women Knee High Slim,CAM,Camel,Footwear,Women,Boots,Knee High,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3609.25,997.74,12,4515.29,2554.46,794.1,8,3010.19,44,40,4,34,20,0
+MV-33509,Unisex Fedoras Signature,CRM,Creme,Accessories,Unisex,Hats,Fedoras,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,232.18,60.71,1,306.62,214.39,56.33,1,306.62,1,0,1,1,0,0
+MV-57943,Women Shorts Essential,BEG,Beige,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5640.77,1668.93,9,7763.48,6130.81,2186.78,9,7763.48,15,13,2,15,12,0
+MV-20543,Men Check-In Classic,BRG,Bordeaux,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,26141.71,7180.34,37,33855.71,26664.07,6667.12,39,35685.75,55,44,11,55,34,0
+MV-44959,Women Blazers Modern,NVY,Navy,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5455.4,1975.0,25,7145.95,4978.0,1525.37,25,7145.95,65,58,7,53,50,0
+MV-37535,Men Shirts Relaxed,CHP,Champagne,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,2979.01,1088.54,13,4225.86,2275.81,801.25,10,3250.66,51,50,1,41,27,0
+MV-96760,Women Blouses Signature,BEG,Beige,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,681.9,206.74,1,800.37,681.58,258.01,1,800.37,0,0,0,0,0,0
+MV-87993,Women Fedoras Modern,RSE,Rose Poudre,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3711.52,1073.61,11,4544.55,3140.95,1150.72,10,4131.41,36,33,3,33,26,0
+MV-92203,Men Clutches,NOI,Noir,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9810.63,3671.04,13,12239.2,7884.67,2171.85,10,9414.77,35,32,3,27,17,0
+MV-44335,Women Slides Slim,CRM,Cognac,Footwear,Women,Flats,Slides,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,17648.7,4840.45,56,23844.53,19832.07,7376.57,61,25973.51,93,67,26,112,89,0
+MV-52487,Men Mini Bags Luxe,ROG,Rouge,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7556.35,2033.9,21,10095.94,8911.07,2454.2,24,11538.21,24,19,5,28,26,0
+MV-40595,Women Day Dresses Heritage,GRG,Greige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2951.49,877.78,7,3730.01,2832.15,791.94,7,3730.01,19,12,7,16,12,0
+MV-44687,Men Card Holders Modern,BLU,Bleu Marine,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,11020.44,3814.66,15,15966.05,10164.17,2565.09,14,14901.65,46,34,12,38,25,0
+MV-64377,Women Trousers Essential,BLU,Bleu Marine,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,360.78,103.1,1,464.96,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-14877,Women Necklaces Heritage,RSE,Rose Poudre,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,19623.2,6349.77,77,23926.15,13148.39,4193.48,55,17090.11,303,264,39,256,210,0
+MV-53064,Men Skirts Slim,RSE,Rose Poudre,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,4879.97,1450.79,9,6516.65,4397.74,1345.43,8,5792.57,27,26,1,29,23,0
+MV-97782,Women Leather Belts Signature,NOI,Noir,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,11844.95,4312.45,13,14577.38,7937.95,2209.39,10,11213.37,46,44,2,44,38,0
+MV-60052,Unisex Evening Dresses,SBL,Sable,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,2579.22,966.07,9,3540.09,3145.38,1175.58,10,3933.43,26,16,10,34,32,0
+MV-47880,Women Shorts Relaxed,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,11910.51,4386.93,24,17118.12,9869.56,2889.76,21,14978.35,86,68,18,73,46,0
+MV-57942,Women Chelsea Boots Modern,CRM,Creme,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,13006.64,4420.36,23,16718.1,15455.79,4517.05,25,18171.85,53,42,11,56,53,0
+MV-42087,Men Slides Slim,TAN,Tan,Footwear,Men,Flats,Slides,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,12367.64,3127.02,26,15996.09,15163.33,4075.58,32,19687.49,90,88,2,109,87,0
+MV-80468,Men Blouses Relaxed,GRG,Greige,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3126.6,975.36,6,4497.53,3181.64,1197.38,6,4497.53,9,7,2,8,5,0
+MV-27139,Men Jackets Signature,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,3566.46,1295.47,8,4517.19,3158.81,916.81,7,3952.54,14,9,5,10,9,0
+MV-10336,Men Blazers Heritage,GRG,Greige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,494.31,128.04,2,733.82,271.63,75.99,1,366.91,6,5,1,4,3,0
+MV-95918,Women Suit Sets Modern,IVR,Ivoire,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12251.11,4546.46,22,14977.87,11177.54,3948.57,19,12935.43,45,38,7,34,25,0
+MV-63225,Unisex Key Holders,ANT,Anthracite,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,807.07,265.56,1,1160.84,825.21,283.9,1,1160.84,2,1,1,1,0,0
+MV-64524,Women Check-In Modern,RSE,Rose Poudre,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,15190.14,5491.77,19,19434.47,11005.78,2751.69,14,14320.14,43,28,15,27,26,0
+MV-65851,Women Midi Dresses Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16543.9,6214.66,43,22611.14,11898.68,3220.76,31,16301.06,40,24,16,24,16,0
+MV-49363,Unisex Cashmere Scarves,BLU,Bleu Marine,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,11832.56,3631.19,47,16610.72,14769.19,5503.14,56,19791.49,81,75,6,91,63,0
+MV-47880,Women Shorts Relaxed,IVR,Ivoire,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,5060.26,1309.41,12,6158.09,3786.56,1207.48,10,5131.75,38,22,16,37,26,0
+MV-82924,Women Low Top Classic,CRM,Cognac,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9821.44,2739.1,13,13012.32,6865.75,2246.04,10,10009.48,51,31,20,45,43,0
+MV-19869,Women Wool Scarves Slim,GRG,Greige,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,626.09,183.05,1,921.25,691.13,253.11,1,921.25,3,2,1,2,1,0
+MV-78937,Men Carry-On Luxe,BEG,Beige,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,17013.37,4726.28,23,21910.65,21377.42,5562.25,28,26673.84,53,37,16,74,50,0
+MV-16839,Unisex Key Holders Luxe,ECR,Ecru,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,36263.48,12720.73,36,46841.69,45810.84,13189.74,44,57250.95,62,52,10,72,57,0
+MV-52415,Men Jeans Relaxed,NVY,Navy,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2966.53,1093.83,6,4398.64,3024.49,947.65,6,4398.64,9,8,1,9,5,0
+MV-88366,Men Blazers Classic,BLU,Bleu Marine,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,4314.93,1110.75,11,5896.7,2825.06,792.38,8,4288.51,17,15,2,12,11,0
+MV-43586,Women Jeans Signature,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,15308.7,5652.75,39,19850.18,16503.61,5198.08,45,22904.06,41,29,12,49,31,0
+MV-71953,Women Suit Trousers Relaxed,CAM,Camel,Ready-to-Wear,Women,Suits,Suit Trousers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,16541.23,5089.98,44,23278.79,15788.38,4523.92,40,21162.54,45,44,1,43,42,0
+MV-54589,Women Carry-On Slim,SBL,Sable,Leather Goods,Women,Luggage,Carry-On,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,3205.39,1197.56,5,4518.29,2991.59,935.55,5,4518.29,14,10,4,15,9,0
+MV-44335,Women Slides Slim,ROG,Rouge,Footwear,Women,Flats,Slides,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11548.75,3430.15,17,15972.91,9220.12,2476.6,13,12214.58,28,23,5,21,20,0
+MV-20350,Women Card Holders Essential,VRT,Vert,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3755.48,1050.78,4,4833.87,4792.0,1576.42,5,6042.34,10,6,4,10,9,0
+MV-95918,Women Suit Sets Modern,CAM,Camel,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,472.58,170.23,2,597.34,454.78,153.5,2,597.34,5,3,2,5,3,0
+MV-67961,Men Wool Scarves Heritage,VRT,Vert,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12184.91,4161.2,51,17845.37,9997.04,3197.12,43,15046.1,30,28,2,24,21,0
+MV-11214,Men Coats Heritage,BRG,Bordeaux,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12680.3,3951.38,36,15917.88,10605.24,3554.81,28,12380.57,49,30,19,37,24,0
+MV-20336,Men Blazers Heritage,BLU,Bleu Marine,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,18929.49,5063.81,30,24175.69,20291.13,6755.14,31,24981.55,109,108,1,134,107,0
+MV-99381,Women Fedoras Signature,CHP,Champagne,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,602.39,189.6,1,793.97,599.21,227.5,1,793.97,1,0,1,1,0,0
+MV-25396,Women Clutches Slim,ARG,Argent,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,42086.23,14366.41,39,58897.57,34153.77,12431.94,29,43795.63,55,50,5,47,30,0
+MV-68878,Men Carry-On Heritage,ROG,Rouge,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,11923.85,3371.39,12,15252.34,11912.27,3671.87,12,15252.34,31,23,8,27,24,0
+MV-71537,Women Trousers Heritage,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5523.21,1391.52,8,7117.47,6619.05,2349.91,9,8007.16,7,6,1,8,5,0
+MV-96760,Women Blouses Signature,BLU,Bleu Marine,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,5703.32,1917.01,16,6992.86,6311.44,2175.21,19,8304.02,25,24,1,30,22,0
+MV-50768,Men Knitwear Modern,ANT,Anthracite,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,759.94,229.44,2,1139.08,405.66,122.07,1,569.54,2,1,1,1,0,0
+MV-56019,Men Shorts Slim,VRT,Vert,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,14648.72,3964.85,30,17032.67,10674.86,2669.29,25,14193.89,92,91,1,83,62,0
+MV-98501,Women Blouses Relaxed,TAN,Tan,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,6289.9,1836.1,18,8376.64,4389.47,1528.08,13,6049.79,27,20,7,19,18,0
+MV-76237,Women Skirts Classic,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2280.35,799.91,4,3229.78,2165.33,769.16,4,3229.78,5,3,2,5,4,0
+MV-14705,Men Baseball Caps Modern,CRM,Creme,Accessories,Men,Hats,Baseball Caps,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1911.99,528.29,4,2789.8,1605.47,609.48,3,2092.35,11,9,2,12,10,0
+MV-85965,Men Fedoras Signature,CRM,Cognac,Accessories,Men,Hats,Fedoras,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1580.07,530.92,4,1916.77,2125.64,796.54,5,2395.96,3,2,1,3,2,0
+MV-62772,Men Tote Bags Signature,TRP,Taupe,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,922.45,243.17,1,1310.58,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-15513,Unisex Shorts Heritage,TAN,Tan,Ready-to-Wear,Unisex,Bottoms,Shorts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6452.66,1876.79,18,9285.33,8840.72,2465.19,22,11348.74,34,23,11,46,33,0
+MV-40595,Women Day Dresses Heritage,TAN,Tan,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,15497.95,4377.48,39,20210.03,11755.64,3518.92,29,15027.97,66,65,1,47,33,0
+MV-76263,Women High Top Essential,VRT,Vert,Footwear,Women,Sneakers,High Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,317.5,108.01,1,441.1,296.52,101.34,1,441.1,0,0,0,0,0,0
+MV-54942,Men Square Frames Relaxed,ROG,Rouge,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,457.91,136.81,1,650.16,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-38683,Men Tops Slim,TRP,Taupe,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,12488.87,3809.36,18,15515.85,12609.79,4303.61,20,17239.83,14,11,3,13,12,0
+MV-41358,Men Chelsea Boots Heritage,ROG,Rouge,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,20387.14,6612.43,36,25467.75,14780.68,3721.44,30,21223.13,86,83,3,67,45,0
+MV-30257,Women Weekender Relaxed,GRG,Greige,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,2494.94,680.39,8,3360.2,3176.1,1022.0,9,3780.23,10,7,3,12,11,0
+MV-38903,Men Coats Essential,BEG,Beige,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,2565.76,814.18,9,3177.28,2092.9,586.21,8,2824.24,13,10,3,11,7,0
+MV-43681,Men Low Top Luxe,TAN,Tan,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,14351.14,5372.92,19,18212.07,17784.28,6624.66,23,22046.2,39,29,10,44,30,0
+MV-65444,Women Berets,BRG,Bordeaux,Accessories,Women,Hats,Berets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2335.64,652.06,6,3173.02,1619.81,503.92,4,2115.35,6,4,2,3,2,0
+MV-57942,Women Chelsea Boots Modern,SBL,Sable,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,299.95,95.87,1,370.9,305.21,89.02,1,370.9,2,1,1,2,1,0
+MV-10336,Men Blazers Heritage,NOI,Noir,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,19045.03,6825.44,28,25932.9,17923.05,6042.12,26,24080.55,90,87,3,87,61,0
+MV-88366,Men Blazers Classic,SBL,Sable,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9560.71,2772.11,21,12561.57,8257.57,2656.03,18,10767.06,72,56,16,68,58,0
+MV-75308,Men Ballet Flats,ROG,Rouge,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,9736.65,3151.69,18,13516.22,13289.21,3971.16,23,17270.72,71,56,15,88,76,0
+MV-54657,Women Evening Dresses Slim,CAM,Camel,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7030.16,2092.45,28,8603.13,5414.05,1819.08,24,7374.11,89,56,33,76,74,0
+MV-98501,Women Blouses Relaxed,NVY,Navy,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,11101.4,2809.75,24,14129.57,12630.44,3460.39,25,14718.3,58,50,8,61,42,0
+MV-69634,Women Day Dresses Signature,VRT,Vert,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,970.75,358.23,4,1212.03,916.31,265.71,4,1212.03,14,12,2,17,10,0
+MV-74866,Women Wool Scarves Luxe,VRT,Vert,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2088.84,560.71,9,2838.95,2069.81,592.74,9,2838.95,20,14,6,18,13,0
+MV-68838,Men Suit Trousers Signature,ROG,Rouge,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,656.93,176.42,2,847.85,340.53,92.53,1,423.93,1,0,1,0,0,0
+MV-17816,Women Trousers Slim,CRM,Creme,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,745.33,271.56,2,1032.31,378.07,107.84,1,516.16,2,1,1,1,0,0
+MV-80468,Men Blouses Relaxed,CHP,Champagne,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,5400.93,1957.98,24,7538.54,4549.4,1382.52,20,6282.11,62,39,23,52,45,0
+MV-44959,Women Blazers Modern,GRG,Greige,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,22409.38,6360.18,41,30622.64,20119.43,7348.66,38,28381.96,85,53,32,86,71,0
+MV-83975,Unisex Baseball Caps Classic,CAM,Camel,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,26414.0,9251.34,70,31921.97,19618.95,6484.49,50,22801.4,214,205,9,138,123,0
+MV-98188,Women Knee High Heritage,TRP,Taupe,Footwear,Women,Boots,Knee High,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,12306.44,4149.69,21,14572.64,9427.04,2950.38,18,12490.83,78,74,4,71,52,0
+MV-82910,Men Shirts Signature,ECR,Ecru,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1816.37,518.61,4,2513.27,1519.53,435.32,3,1884.95,8,7,1,9,7,0
+MV-92478,Women Blazers Classic,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,848.17,246.98,2,1117.12,460.04,144.45,1,558.56,3,1,2,1,0,0
+MV-74451,Unisex Weekender Modern,BEG,Beige,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,39355.02,10461.39,35,54317.79,39629.22,14563.11,35,54317.79,23,21,2,28,24,0
+MV-90031,Women Loafers Heritage,CRM,Creme,Footwear,Women,Flats,Loafers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,9668.1,3201.18,18,13451.38,9018.04,2794.17,17,12704.08,15,10,5,14,11,0
+MV-70258,Men Platform Slim,ANT,Anthracite,Footwear,Men,Sneakers,Platform,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7552.55,2847.0,20,9599.15,8084.64,2183.84,22,10559.07,10,7,3,12,8,0
+MV-16839,Unisex Key Holders Luxe,NVY,Navy,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,32712.38,8515.31,32,37925.54,39224.23,14817.18,39,46221.76,123,121,2,162,138,0
+MV-49618,Men Square Frames Classic,CAM,Camel,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,17049.07,6345.49,26,22243.87,19187.76,6453.6,32,27377.07,50,47,3,57,46,0
+MV-84531,Women Check-In Classic,ECR,Ecru,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,14202.46,5017.59,38,16627.9,11102.71,3740.41,29,12689.71,54,33,21,41,28,0
+MV-13761,Women Evening Dresses Luxe,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,597.19,218.43,1,776.58,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-76542,Men Suit Sets Modern,ECR,Ecru,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,19649.76,6025.61,29,25732.5,18917.01,5120.39,28,24845.17,38,35,3,35,25,0
+MV-31632,Women Weekender Luxe,CRM,Cognac,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,33647.73,12192.81,40,44093.6,25987.11,8934.12,31,34172.54,156,106,50,148,145,0
+MV-64377,Women Trousers Essential,SBL,Sable,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4842.0,1297.67,7,7041.04,4656.67,1236.31,6,6035.18,3,2,1,2,1,0
+MV-80236,Women Coats Slim,BEG,Beige,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4689.01,1397.27,21,6809.93,5074.95,1583.57,22,7134.21,72,65,7,88,69,0
+MV-43681,Men Low Top Luxe,ANT,Anthracite,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5662.23,1648.08,8,7343.27,6345.42,1614.65,9,8261.18,6,4,2,7,6,0
+MV-85156,Women Chain Belts Essential,VRT,Vert,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,55869.2,16387.81,67,80765.21,57034.29,19408.79,69,83176.12,109,73,36,110,107,0
+MV-70648,Women Tops,ANT,Anthracite,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,300.25,90.35,1,392.24,273.28,83.56,1,392.24,3,2,1,3,2,0
+MV-24316,Women Low Top Relaxed,CAM,Camel,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,8456.49,3166.51,18,11866.14,9176.65,3065.67,18,11866.14,58,35,23,55,37,0
+MV-44687,Men Card Holders Modern,IVR,Ivoire,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,2467.14,662.64,3,3546.37,1845.69,669.52,2,2364.25,4,3,1,2,1,0
+MV-12665,Women Suit Trousers Essential,ARG,Argent,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,11433.86,3234.11,26,14458.46,13549.06,5063.94,30,16682.84,37,24,13,43,40,0
+MV-76542,Men Suit Sets Modern,ARG,Argent,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1815.68,565.2,4,2249.91,1480.86,472.49,3,1687.43,8,4,4,6,4,0
+MV-84531,Women Check-In Classic,TRP,Taupe,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5433.0,1718.73,5,7086.41,5763.91,2155.24,5,7086.41,5,3,2,5,4,0
+MV-60181,Women Jackets Classic,VRT,Vert,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,6417.24,2193.98,14,8885.38,6418.93,2401.19,15,9520.04,35,25,10,33,20,0
+MV-51116,Unisex Tops Essential,RSE,Rose Poudre,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,27699.08,10513.92,52,37196.36,40128.18,13735.67,67,47926.08,36,33,3,53,33,0
+MV-79942,Men Blazers Essential,ANT,Anthracite,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,2353.66,751.64,5,3121.02,1944.96,725.48,4,2496.81,15,11,4,13,11,0
+MV-26912,Men Suit Sets Essential,NOI,Noir,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1121.37,425.54,3,1443.23,1264.32,369.91,3,1443.23,4,2,2,3,2,0
+MV-25043,Men Loafers,CRM,Cognac,Footwear,Men,Flats,Loafers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,8863.16,2681.49,30,10649.55,10418.07,2872.0,34,12069.49,23,17,6,29,21,0
+MV-48177,Women Card Holders Essential,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,6692.57,1709.66,14,9989.37,4723.41,1426.08,10,7135.27,40,29,11,32,25,0
+MV-68878,Men Carry-On Heritage,NOI,Noir,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,23518.86,7768.41,52,31158.86,22490.12,6320.13,45,26964.4,122,80,42,126,98,0
+MV-35995,Unisex Check-In Modern,TRP,Taupe,Leather Goods,Unisex,Luggage,Check-In,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1842.1,583.37,3,2181.33,1101.76,327.06,2,1454.22,7,5,2,4,3,0
+MV-51116,Unisex Tops Essential,NVY,Navy,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,15682.87,4177.84,22,22182.85,17194.57,6491.14,23,23191.16,51,41,10,61,38,0
+MV-69446,Unisex Evening Dresses Modern,GRG,Greige,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,2828.24,993.87,5,3962.37,2364.5,635.83,4,3169.89,11,9,2,7,6,0
+MV-63225,Unisex Key Holders,NOI,Noir,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1640.2,522.85,3,2230.6,1029.3,314.06,2,1487.07,4,2,2,3,2,0
+MV-96341,Women Card Holders Signature,SBL,Sable,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,20356.41,7368.11,24,25316.31,21503.82,6008.52,25,26371.16,15,9,6,17,12,0
+MV-49618,Men Square Frames Classic,CRM,Creme,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5346.51,1837.64,19,6793.11,5597.57,1474.88,22,7865.7,28,21,7,38,33,0
+MV-68838,Men Suit Trousers Signature,NVY,Navy,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,17029.57,6061.23,30,21079.47,12654.25,3576.45,21,14755.63,40,36,4,31,22,0
+MV-52415,Men Jeans Relaxed,CAM,Camel,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,3753.52,1398.14,7,5399.22,2517.19,653.73,5,3856.59,13,9,4,8,5,0
+MV-72722,Women Midi Dresses Slim,GRG,Greige,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,3252.3,1015.34,12,4026.62,3251.27,1222.79,13,4362.17,37,36,1,36,35,0
+MV-94323,Women Round Frames Classic,IVR,Ivoire,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,6519.69,2371.78,11,8240.42,7754.37,2147.4,13,9738.68,36,31,5,47,31,0
+MV-68838,Men Suit Trousers Signature,CHP,Champagne,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,41332.17,15542.6,88,50424.2,41922.28,15533.64,84,48132.19,280,231,49,257,187,0
+MV-90031,Women Loafers Heritage,TAN,Tan,Footwear,Women,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4942.18,1406.84,7,6971.69,4998.3,1623.96,7,6971.69,21,13,8,26,18,0
+MV-73242,Men Chain Belts Luxe,TAN,Tan,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,3652.28,1295.63,7,4806.26,3956.78,1204.82,7,4806.26,3,1,2,3,2,0
+MV-37535,Men Shirts Relaxed,BEG,Beige,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,6412.68,1635.45,9,8954.3,7784.25,2505.99,11,10944.15,25,24,1,26,21,0
+MV-93746,Women Blazers Essential,CAM,Camel,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,8162.68,2208.85,17,10502.98,5025.09,1855.31,12,7413.87,49,42,7,32,31,0
+MV-24530,Women Day Dresses Luxe,CAM,Camel,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2778.64,708.32,6,3825.17,2364.28,618.55,5,3187.64,20,16,4,17,14,0
+MV-48177,Women Card Holders Essential,SBL,Sable,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,40309.67,14933.11,52,53107.88,48207.84,14668.95,63,64342.24,86,51,35,96,95,0
+MV-12180,Men High Top Signature,VRT,Vert,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,3277.44,1209.34,6,4095.62,2197.66,602.94,4,2730.41,22,19,3,17,14,0
+MV-67637,Men Midi Dresses Essential,CRM,Creme,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,25481.84,9492.46,48,34608.0,33838.24,9922.3,62,44702.0,104,75,29,146,110,0
+MV-23238,Women Knitwear Essential,VRT,Vert,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1269.07,405.69,2,1849.94,690.94,236.83,1,924.97,4,3,1,3,2,0
+MV-74038,Women Pouches,ARG,Argent,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,24040.94,7370.53,22,34590.95,21186.43,6725.32,19,29874.0,14,12,2,11,8,0
+MV-82910,Men Shirts Signature,ROG,Rouge,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16153.97,6106.23,50,21364.45,19372.24,6741.11,59,25210.05,131,127,4,131,82,0
+MV-94675,Women Trousers Essential,SBL,Sable,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1772.85,620.78,3,2402.54,1639.28,500.25,3,2402.54,5,4,1,6,4,0
+MV-75308,Men Ballet Flats,CRM,Creme,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,63214.41,21959.87,73,81564.92,45140.69,14147.08,51,56983.71,179,110,69,138,88,0
+MV-78955,Women Pouches Modern,CRM,Creme,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6884.43,2561.1,12,10272.04,4993.11,1641.38,9,7704.03,22,14,8,19,17,0
+MV-89299,Men Bracelets Luxe,VRT,Vert,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,16169.61,5369.45,62,24035.61,17269.77,4793.8,58,22484.93,162,159,3,179,153,0
+MV-77033,Women Weekender Modern,CAM,Camel,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,22776.65,6599.31,24,33441.25,20107.28,5968.16,22,30654.48,92,71,21,104,94,0
+MV-49363,Unisex Cashmere Scarves,RSE,Rose Poudre,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2790.96,1028.04,7,3568.76,2548.12,938.34,6,3058.94,12,8,4,9,8,0
+MV-26551,Women Mules Luxe,GRG,Greige,Footwear,Women,Heels,Mules,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,1796.93,662.72,4,2265.83,2425.92,806.88,5,2832.29,14,11,3,18,11,0
+MV-17331,Women Key Holders Relaxed,CHP,Champagne,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,7335.08,2196.07,7,9373.96,5481.43,2077.63,6,8034.83,8,7,1,6,5,0
+MV-93283,Unisex Wallets Luxe,NVY,Navy,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,707.09,257.75,2,844.01,314.17,79.17,1,422.0,7,6,1,6,4,0
+MV-28776,Women Sandals Essential,ROG,Rouge,Footwear,Women,Heels,Sandals,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,863.08,308.06,3,1087.65,572.58,200.45,2,725.1,10,7,3,7,4,0
+MV-74451,Unisex Weekender Modern,NVY,Navy,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1985.34,585.11,2,2775.59,1985.57,641.11,2,2775.59,4,3,1,4,3,0
+MV-40007,Women Tote Bags Modern,NVY,Navy,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11225.54,3627.78,11,15280.51,8880.99,2736.44,9,12502.24,13,11,2,9,6,0
+MV-60432,Women Suit Sets Essential,TRP,Taupe,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,22662.63,6624.43,34,28852.66,15739.25,4889.65,25,21215.19,23,18,5,19,18,0
+MV-57943,Women Shorts Essential,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,905.17,293.12,3,1176.86,946.16,340.24,3,1176.86,2,1,1,2,1,0
+MV-71537,Women Trousers Heritage,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,1339.43,411.7,2,1907.41,598.79,186.0,1,953.7,1,0,1,0,0,0
+MV-68529,Men Ankle Boots,GRG,Greige,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6705.53,2252.11,22,8921.9,6426.93,2178.54,19,7705.28,63,46,17,53,44,0
+MV-78146,Men Day Dresses,BLU,Bleu Marine,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1859.9,542.28,4,2565.96,2030.48,530.49,4,2565.96,5,4,1,5,3,0
+MV-84341,Men Sandals Signature,BEG,Beige,Footwear,Men,Heels,Sandals,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,1423.35,515.31,2,1988.64,1354.09,469.38,2,1988.64,6,3,3,6,5,0
+MV-63843,Women Midi Dresses Essential,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1530.76,575.39,3,2036.58,1407.43,359.95,3,2036.58,9,8,1,13,12,0
+MV-27961,Women Blouses Signature,BEG,Beige,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,17967.13,4745.28,55,24778.46,20543.84,6754.23,61,27481.56,81,63,18,91,80,0
+MV-73242,Men Chain Belts Luxe,BLU,Bleu Marine,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,21991.05,7323.88,36,32180.43,19286.13,5492.12,33,29498.73,136,86,50,142,123,0
+MV-75308,Men Ballet Flats,NVY,Navy,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5642.45,1467.29,9,7618.82,3660.86,1067.96,6,5079.21,27,24,3,22,20,0
+MV-20993,Men Wool Scarves Slim,GRG,Greige,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13855.02,4458.96,22,16394.19,15759.45,5357.39,26,19374.96,47,44,3,57,46,0
+MV-53655,Women Leather Belts Slim,IVR,Ivoire,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,10955.38,3731.71,16,13919.43,11947.68,3202.76,16,13919.43,16,12,4,15,11,0
+MV-89963,Women Cat Eye Luxe,RSE,Rose Poudre,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,8306.96,2553.11,24,9799.27,8228.21,2546.69,23,9390.97,89,55,34,97,87,0
+MV-26551,Women Mules Luxe,CHP,Champagne,Footwear,Women,Heels,Mules,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,16369.03,5307.25,24,19060.23,11211.25,3612.49,16,12706.82,18,12,6,13,8,0
+MV-44687,Men Card Holders Modern,BRG,Bordeaux,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,10748.01,4069.13,21,13392.88,11052.83,3241.73,24,15306.15,46,37,9,53,42,0
+MV-33703,Men Earrings Slim,CAM,Camel,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1439.15,509.42,6,2003.88,1207.76,424.96,5,1669.9,9,8,1,8,6,0
+MV-78955,Women Pouches Modern,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,845.43,263.74,1,1118.61,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-56955,Women Ballet Flats Relaxed,RSE,Rose Poudre,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4072.88,1274.51,13,6022.88,4370.97,1614.27,13,6022.88,33,21,12,40,36,0
+MV-15958,Men Pumps Heritage,CHP,Champagne,Footwear,Men,Heels,Pumps,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,32905.25,10755.03,47,44296.02,25441.29,6586.5,34,32043.93,93,61,32,75,72,0
+MV-71057,Women Boots,RSE,Rose Poudre,Footwear,Women,Heels,Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,14172.49,4764.27,18,18892.53,17889.39,5470.34,22,23090.87,53,38,15,54,53,0
+MV-21164,Men Shorts Relaxed,BRG,Bordeaux,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,21351.92,5957.8,38,27112.19,15512.65,5004.79,30,21404.36,116,81,35,80,75,0
+MV-15958,Men Pumps Heritage,ANT,Anthracite,Footwear,Men,Heels,Pumps,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,75388.09,27319.68,102,111747.72,87348.42,28124.36,116,127085.64,262,239,23,318,254,0
+MV-29080,Men Jackets Relaxed,VRT,Vert,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1045.46,368.85,3,1337.57,702.47,257.47,2,891.71,3,1,2,2,1,0
+MV-27961,Women Blouses Signature,CRM,Cognac,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7176.67,1993.59,25,10308.55,7291.89,1925.22,26,10720.89,36,33,3,40,29,0
+MV-67961,Men Wool Scarves Heritage,ECR,Ecru,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,10919.61,3848.07,24,15283.68,12389.05,3452.28,27,17194.13,36,33,3,46,35,0
+MV-22097,Men Leather Belts Essential,ARG,Argent,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,47434.22,15028.81,83,60631.83,63810.45,21778.01,105,76702.92,93,62,31,113,69,0
+MV-38760,Unisex Rings Heritage,IVR,Ivoire,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,43530.46,13216.37,90,58476.26,48328.94,13891.99,97,63024.42,349,232,117,407,394,0
+MV-21542,Women Clutches Signature,VRT,Vert,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,22267.6,7140.98,24,26076.82,18280.46,5449.11,20,21730.68,41,25,16,41,40,0
+MV-81364,Unisex Crossbody Bags Signature,SBL,Sable,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2329.96,705.75,5,2750.27,1825.42,608.19,4,2200.22,13,8,5,12,10,0
+MV-85156,Women Chain Belts Essential,BEG,Beige,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,36259.78,13128.06,34,53992.96,29019.35,9095.85,26,41288.74,64,52,12,57,56,0
+MV-78955,Women Pouches Modern,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1134.22,317.21,2,1570.22,1272.33,396.32,2,1570.22,1,0,1,1,0,0
+MV-28714,Men Trousers Luxe,BLU,Bleu Marine,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8041.12,2110.8,32,10222.15,7080.1,2249.29,30,9583.26,56,44,12,60,42,0
+MV-26551,Women Mules Luxe,GRG,Greige,Footwear,Women,Heels,Mules,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,25669.43,6445.41,51,37086.43,26056.11,7900.89,52,37813.62,184,151,33,151,114,0
+MV-89299,Men Bracelets Luxe,CRM,Cognac,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5871.19,1998.54,10,8593.97,6715.48,2059.65,12,10312.76,13,8,5,19,18,0
+MV-62772,Men Tote Bags Signature,CHP,Champagne,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,20548.87,6758.84,21,26946.99,20656.64,7188.65,22,28230.18,35,22,13,33,28,0
+MV-44959,Women Blazers Modern,VRT,Vert,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,5572.91,1962.47,12,7128.23,6089.86,1991.59,12,7128.23,22,15,7,25,21,0
+MV-74866,Women Wool Scarves Luxe,TAN,Tan,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6345.32,2276.97,12,7725.64,7291.29,2318.83,13,8369.44,41,30,11,47,35,0
+MV-68991,Unisex Pouches Heritage,GRG,Greige,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,5289.97,1380.98,7,7354.42,5537.21,1532.43,7,7354.42,21,14,7,23,22,0
+MV-80798,Men Chain Belts Modern,BRG,Bordeaux,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,24393.92,9064.94,30,36566.74,23464.51,8304.56,27,32910.07,39,30,9,30,26,0
+MV-73242,Men Chain Belts Luxe,TRP,Taupe,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,31468.95,9999.97,58,44528.26,22898.09,6991.92,43,33012.33,136,121,15,110,81,0
+MV-38683,Men Tops Slim,CRM,Creme,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,18075.86,4689.39,60,23049.76,15467.24,3926.99,57,21897.27,170,108,62,166,134,0
+MV-19869,Women Wool Scarves Slim,CRM,Cognac,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,1651.16,426.32,4,2205.94,1163.71,421.64,3,1654.45,11,8,3,11,8,0
+MV-26505,Men Leather Belts Relaxed,IVR,Ivoire,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,14395.51,4923.18,44,19766.6,11188.84,2869.98,34,15274.19,61,43,18,51,48,0
+MV-76237,Women Skirts Classic,SBL,Sable,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,19030.69,6934.19,28,27815.04,23972.31,6187.36,33,32782.01,25,24,1,28,21,0
+MV-26505,Men Leather Belts Relaxed,ROG,Rouge,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,4063.16,1433.28,6,4856.38,2679.24,948.13,4,3237.59,19,15,4,14,13,0
+MV-76237,Women Skirts Classic,BEG,Beige,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,303.97,90.16,1,385.23,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-97684,Unisex Bracelets Luxe,CRM,Cognac,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1835.16,519.89,6,2714.91,2100.9,656.07,6,2714.91,8,5,3,9,7,0
+MV-28191,Women Chelsea Boots Luxe,NVY,Navy,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,36298.67,13207.09,52,49865.45,36524.44,11041.51,50,47947.55,78,48,30,66,61,0
+MV-16265,Women Chain Belts Signature,BRG,Bordeaux,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,23062.45,6187.06,21,26702.81,27759.41,7256.16,26,33060.63,41,36,5,61,49,0
+MV-98501,Women Blouses Relaxed,IVR,Ivoire,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,14714.92,4441.8,27,18125.45,15230.77,5477.06,29,19468.08,20,12,8,25,15,0
+MV-92345,Women Leather Belts Modern,ROG,Rouge,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3099.66,868.99,6,4646.42,3771.69,975.6,7,5420.82,3,2,1,3,1,0
+MV-65255,Women Evening Dresses Heritage,BEG,Beige,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,5560.76,1775.89,27,7830.28,5370.24,2015.06,26,7540.27,71,53,18,66,53,0
+MV-57052,Men Day Dresses Signature,TAN,Tan,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,702.67,218.45,1,879.69,677.45,217.02,1,879.69,2,1,1,2,1,0
+MV-62296,Unisex Bracelets Signature,VRT,Vert,Accessories,Unisex,Jewelry,Bracelets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2719.72,685.13,10,3890.84,2183.7,548.63,8,3112.67,31,27,4,28,24,0
+MV-85914,Women Wallets,SBL,Sable,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,18676.76,4771.01,21,23494.61,18164.81,5957.15,22,24613.4,77,64,13,78,56,0
+MV-44687,Men Card Holders Modern,ECR,Ecru,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1507.19,545.24,3,2015.77,967.65,298.9,2,1343.84,10,9,1,11,8,0
+MV-18163,Men Blazers Slim,BEG,Beige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,11869.58,3570.53,37,16262.82,8905.84,3088.07,30,13186.07,78,63,15,55,53,0
+MV-79924,Unisex Blazers Modern,NVY,Navy,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1737.63,657.24,5,2278.3,1488.06,432.32,4,1822.64,19,15,4,21,19,0
+MV-38683,Men Tops Slim,ECR,Ecru,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,6664.86,2207.38,22,7861.42,8482.74,2508.42,27,9648.11,22,18,4,27,18,0
+MV-62044,Women Low Top Classic,CRM,Creme,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,6535.12,1756.02,11,9319.64,5074.79,1918.61,8,6777.92,41,38,3,31,27,0
+MV-54185,Men Trousers Heritage,GRG,Greige,Ready-to-Wear,Men,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6779.69,1850.5,19,9782.02,6805.63,2155.24,18,9267.18,36,35,1,33,29,0
+MV-20077,Men Chain Belts Slim,NOI,Noir,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,1698.11,478.39,2,2374.31,963.26,343.62,1,1187.15,2,1,1,1,0,0
+MV-23238,Women Knitwear Essential,CRM,Creme,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,366.44,103.36,1,423.56,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-92478,Women Blazers Classic,BEG,Beige,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,33266.63,11711.97,51,42238.11,25689.15,8199.97,40,33127.93,172,116,56,153,130,0
+MV-57942,Women Chelsea Boots Modern,ECR,Ecru,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,1802.99,562.54,6,2394.47,1513.4,455.69,5,1995.39,11,10,1,11,10,0
+MV-53064,Men Skirts Slim,TAN,Tan,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,25077.52,7304.7,36,31736.2,30988.33,11762.18,41,36144.0,84,50,34,86,68,0
+MV-49618,Men Square Frames Classic,GRG,Greige,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,67618.56,24111.18,157,97413.51,74739.94,19148.96,162,100515.85,299,267,32,264,259,0
+MV-33703,Men Earrings Slim,IVR,Ivoire,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,3115.66,1008.48,5,4495.76,2636.92,787.99,4,3596.61,15,11,4,12,10,0
+MV-56019,Men Shorts Slim,BLU,Bleu Marine,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1789.56,452.25,6,2290.03,1185.31,378.37,4,1526.69,12,9,3,9,6,0
+MV-80282,Unisex Baseball Caps Signature,CAM,Camel,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,10040.99,3514.29,23,13747.64,8667.95,3234.86,20,11954.47,35,33,2,25,16,0
+MV-33647,Men Coats Heritage,BRG,Bordeaux,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,22734.74,6990.06,72,30274.59,29420.59,10839.48,90,37843.23,242,193,49,349,234,0
+MV-65851,Women Midi Dresses Slim,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12724.91,4186.46,53,16746.04,16559.58,6282.2,66,20853.56,76,66,10,88,62,0
+MV-76249,Men Clutches Luxe,VRT,Vert,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4538.93,1358.78,14,6147.07,5196.86,1384.77,15,6586.14,42,35,7,39,30,0
+MV-31581,Men Key Holders Slim,GRG,Greige,Leather Goods,Men,Small Leather Goods,Key Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,27281.51,7595.27,33,38250.1,31472.12,8926.79,35,40568.29,94,93,1,86,60,0
+MV-93283,Unisex Wallets Luxe,TAN,Tan,Leather Goods,Unisex,Small Leather Goods,Wallets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2111.95,637.97,3,2702.64,1475.37,522.23,2,1801.76,3,2,1,2,1,0
+MV-57943,Women Shorts Essential,BEG,Beige,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,19853.03,6488.62,81,27475.97,15020.08,5362.44,62,21030.99,116,76,40,93,60,0
+MV-80798,Men Chain Belts Modern,NVY,Navy,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,27269.2,6874.74,71,38353.42,22488.18,7144.45,58,31330.96,176,114,62,165,131,0
+MV-65296,Women Ankle Boots Slim,ROG,Rouge,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,862.4,295.29,3,1078.31,541.77,167.08,2,718.87,3,2,1,2,1,0
+MV-12671,Men Ballet Flats Slim,CAM,Camel,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4808.51,1397.58,7,6481.47,3040.3,773.23,5,4629.62,26,20,6,18,17,0
+MV-96200,Women Suit Sets,SBL,Sable,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,454.61,115.4,2,669.82,488.3,151.83,2,669.82,2,1,1,2,1,0
+MV-18799,Women Jeans Modern,VRT,Vert,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1495.6,532.67,6,2021.28,1118.95,366.38,5,1684.4,5,4,1,4,2,0
+MV-53228,Women Shoulder Bags Essential,IVR,Ivoire,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,24392.13,8708.47,36,33427.66,18103.17,5986.21,25,23213.65,44,43,1,32,19,0
+MV-80807,Men Ballet Flats Heritage,SBL,Sable,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6422.45,2141.07,10,8411.84,8369.32,3008.65,12,10094.2,17,16,1,19,18,0
+MV-68529,Men Ankle Boots,ECR,Ecru,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,803.91,260.39,1,1150.42,757.68,239.38,1,1150.42,1,0,1,0,0,0
+MV-71057,Women Boots,ANT,Anthracite,Footwear,Women,Heels,Boots,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,6115.95,1811.09,8,8224.74,4438.51,1589.57,6,6168.55,11,6,5,10,6,0
+MV-96761,Men Jackets Essential,TAN,Tan,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,53946.75,16302.4,85,72513.8,69669.71,25148.05,104,88722.77,168,145,23,198,173,0
+MV-37460,Men Jackets Heritage,BEG,Beige,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7672.12,2469.61,21,11215.28,9616.98,3172.84,25,13351.53,43,29,14,54,35,0
+MV-84177,Men Leather Belts Classic,IVR,Ivoire,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12510.85,4415.31,11,14691.15,11617.12,4062.21,11,14691.15,30,22,8,34,33,0
+MV-26704,Men Pouches Classic,ECR,Ecru,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,2852.31,907.59,3,4186.87,1995.61,664.62,2,2791.25,8,7,1,7,5,0
+MV-38183,Men Suit Trousers Essential,BRG,Bordeaux,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,32985.73,10416.25,91,46678.14,44781.11,16469.52,116,59501.81,151,131,20,180,133,0
+MV-14852,Men Loafers Slim,GRG,Greige,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,18302.65,5710.91,36,25741.8,13082.9,3640.53,27,19306.35,23,19,4,21,15,0
+MV-20077,Men Chain Belts Slim,ROG,Rouge,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2495.44,656.21,7,3206.8,2372.16,829.51,7,3206.8,27,25,2,29,24,0
+MV-14705,Men Baseball Caps Modern,BRG,Bordeaux,Accessories,Men,Hats,Baseball Caps,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,487.6,123.93,1,713.34,0.0,0.0,0,0.0,3,2,1,3,2,0
+MV-78146,Men Day Dresses,VRT,Vert,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,644.42,205.98,1,816.74,631.34,234.48,1,816.74,3,2,1,2,1,0
+MV-68878,Men Carry-On Heritage,ECR,Ecru,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1207.08,456.55,2,1714.39,579.77,173.56,1,857.2,7,6,1,7,5,0
+MV-53025,Men Loafers Heritage,CRM,Creme,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,11907.97,4290.89,18,14563.91,11943.07,3842.09,19,15373.02,53,33,20,56,55,0
+MV-18163,Men Blazers Slim,GRG,Greige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,38683.86,10181.91,56,55230.35,42637.86,13230.7,61,60161.63,210,145,65,264,233,0
+MV-89963,Women Cat Eye Luxe,ROG,Rouge,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6693.07,1835.88,14,8903.64,5853.58,2007.13,13,8267.66,51,33,18,52,34,0
+MV-74866,Women Wool Scarves Luxe,CRM,Creme,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,14799.37,4854.29,39,19783.27,13653.42,3954.91,35,17754.22,107,69,38,91,58,0
+MV-53025,Men Loafers Heritage,ANT,Anthracite,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5613.15,2067.27,12,7897.68,6932.95,1996.21,14,9213.96,30,18,12,42,39,0
+MV-69446,Unisex Evening Dresses Modern,BLU,Bleu Marine,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12371.57,3475.53,26,15451.74,10773.16,3412.58,22,13074.55,29,24,5,27,19,0
+MV-74866,Women Wool Scarves Luxe,SBL,Sable,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6150.28,1826.33,28,8086.94,6017.97,1888.01,26,7509.3,47,35,12,39,38,0
+MV-68878,Men Carry-On Heritage,ECR,Ecru,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2163.78,707.63,4,2733.88,2159.86,806.94,4,2733.88,2,1,1,2,1,0
+MV-68138,Women Tops Modern,ANT,Anthracite,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2753.45,953.61,9,3387.07,2890.07,954.64,9,3387.07,19,11,8,21,18,0
+MV-17592,Men Coats Relaxed,GRG,Greige,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10827.82,3814.91,21,14694.07,11223.46,2814.69,22,15393.79,40,38,2,35,29,0
+MV-23434,Women Card Holders,VRT,Vert,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,616.53,232.47,1,841.08,585.45,221.67,1,841.08,3,2,1,2,1,0
+MV-73532,Women Midi Dresses Modern,NVY,Navy,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3518.67,1320.66,9,5047.71,3773.98,1183.24,9,5047.71,17,11,6,15,9,0
+MV-57943,Women Shorts Essential,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,4499.01,1532.13,16,6643.47,3694.77,941.72,12,4982.6,38,27,11,32,23,0
+MV-65296,Women Ankle Boots Slim,ROG,Rouge,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,61000.39,21285.26,119,89223.23,51421.92,15942.12,98,73477.95,117,111,6,93,77,0
+MV-23979,Women Check-In Relaxed,CRM,Creme,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,14899.77,4147.98,13,20368.06,14645.99,3970.8,13,20368.06,21,15,6,25,21,0
+MV-49618,Men Square Frames Classic,BEG,Beige,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,20282.87,5554.68,36,26952.9,16989.56,6027.96,33,24706.83,38,27,11,33,26,0
+MV-26551,Women Mules Luxe,CRM,Creme,Footwear,Women,Heels,Mules,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4625.95,1703.51,12,6507.21,4546.49,1154.55,13,7049.47,46,45,1,63,59,0
+MV-86483,Women Wallets Luxe,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,23713.53,8988.57,34,31478.45,32645.44,11256.73,42,38885.14,98,80,18,120,109,0
+MV-66349,Women Crossbody Bags Modern,GRG,Greige,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,15247.76,3842.26,19,21545.05,15762.22,4686.92,19,21545.05,52,42,10,50,30,0
+MV-85914,Women Wallets,NVY,Navy,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,33928.54,10352.4,46,48789.78,46264.22,11683.15,59,62578.19,158,125,33,190,156,0
+MV-93746,Women Blazers Essential,NVY,Navy,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,6053.18,1821.52,11,7504.23,5051.06,1798.25,10,6822.03,28,26,2,30,27,0
+MV-14852,Men Loafers Slim,GRG,Greige,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,16430.03,5579.06,19,22304.76,13624.85,3498.24,17,19956.89,18,12,6,14,12,0
+MV-27139,Men Jackets Signature,ECR,Ecru,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,13596.94,3671.76,21,18606.91,12851.95,4101.72,19,16834.82,48,41,7,44,28,0
+MV-10336,Men Blazers Heritage,ECR,Ecru,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4172.57,1455.8,11,5114.24,3141.73,1008.19,9,4184.38,36,31,5,25,22,0
+MV-77538,Men Check-In Signature,CAM,Camel,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1913.47,590.86,3,2584.53,1392.15,457.1,2,1723.02,6,5,1,4,3,0
+MV-30730,Men High Top Luxe,BLU,Bleu Marine,Footwear,Men,Sneakers,High Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1324.21,475.12,2,1715.98,1363.25,395.0,2,1715.98,3,2,1,3,2,0
+MV-28714,Men Trousers Luxe,ANT,Anthracite,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,223.71,84.38,1,266.07,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-26074,Women Fedoras Slim,CRM,Creme,Accessories,Women,Hats,Fedoras,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,26552.4,10079.12,44,33558.72,32416.7,12185.78,56,42711.1,63,52,11,84,57,0
+MV-35272,Men Check-In Modern,CAM,Camel,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2039.5,590.74,5,2623.7,1927.27,651.0,5,2623.7,11,8,3,10,8,0
+MV-74038,Women Pouches,GRG,Greige,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,5498.87,1498.27,5,7033.96,4312.18,1387.96,4,5627.16,14,9,5,12,10,0
+MV-49618,Men Square Frames Classic,SBL,Sable,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,17993.91,5213.63,28,24597.75,14450.97,3954.33,21,18448.32,95,79,16,85,82,0
+MV-80143,Men Knitwear Classic,CRM,Cognac,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,4405.82,1136.08,8,5665.53,2846.23,953.59,6,4249.15,15,14,1,13,9,0
+MV-78494,Men Suit Sets Essential,CRM,Cognac,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,10489.84,3320.82,15,14167.44,8964.59,2636.57,13,12278.45,56,36,20,40,36,0
+MV-14705,Men Baseball Caps Modern,ECR,Ecru,Accessories,Men,Hats,Baseball Caps,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,942.77,357.28,3,1275.72,822.3,225.21,3,1275.72,7,6,1,10,9,0
+MV-12665,Women Suit Trousers Essential,ANT,Anthracite,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,48254.57,12109.68,68,67544.89,57598.26,19067.92,87,86417.73,208,194,14,253,197,0
+MV-51441,Women Jackets Modern,CRM,Cognac,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,26024.96,8641.38,40,38390.09,20616.47,5293.84,33,31671.82,108,77,31,88,60,0
+MV-54089,Unisex Blazers,CHP,Champagne,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,10047.71,3021.85,42,11984.1,11195.86,3453.58,47,13410.78,53,41,12,71,61,0
+MV-89928,Men Suit Trousers Slim,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,4955.38,1264.56,11,6643.58,3127.66,1075.84,8,4831.7,40,29,11,32,24,0
+MV-43681,Men Low Top Luxe,IVR,Ivoire,Footwear,Men,Sneakers,Low Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,15110.0,5378.58,30,19327.13,10915.08,2988.16,23,14817.47,51,39,12,47,32,0
+MV-91490,Women Midi Dresses,CRM,Cognac,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1489.53,419.64,3,1738.34,1341.88,400.28,3,1738.34,9,7,2,11,9,0
+MV-47880,Women Shorts Relaxed,CRM,Creme,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,429.6,157.04,1,565.5,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-85965,Men Fedoras Signature,ECR,Ecru,Accessories,Men,Hats,Fedoras,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,418.06,141.63,1,587.78,397.8,117.6,1,587.78,0,0,0,0,0,0
+MV-74038,Women Pouches,CRM,Creme,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13731.7,5001.39,18,17181.05,11305.69,4239.98,14,13363.04,69,67,2,66,63,0
+MV-54657,Women Evening Dresses Slim,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8455.55,2807.11,13,10183.09,9235.12,2970.8,14,10966.4,22,21,1,26,18,0
+MV-30644,Men Chain Belts Slim,BRG,Bordeaux,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,10582.81,3803.99,15,13473.19,11963.43,3002.33,17,15269.61,56,35,21,54,34,0
+MV-22833,Women Midi Dresses Classic,ECR,Ecru,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,404.96,146.04,1,518.43,367.19,117.33,1,518.43,0,0,0,0,0,0
+MV-39102,Men Day Dresses Luxe,ANT,Anthracite,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,5055.4,1485.01,11,7077.38,5938.55,1672.54,13,8364.17,23,19,4,25,16,0
+MV-91490,Women Midi Dresses,BEG,Beige,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5746.5,2115.52,27,7408.94,4210.66,1109.73,19,5213.7,18,11,7,12,8,0
+MV-71057,Women Boots,CAM,Camel,Footwear,Women,Heels,Boots,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,3426.57,1274.43,12,4736.38,4395.49,1579.72,15,5920.47,37,32,5,54,34,0
+MV-78146,Men Day Dresses,BEG,Beige,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,7722.71,2478.64,28,11096.1,6309.33,2372.98,21,8322.08,63,43,20,54,37,0
+MV-85965,Men Fedoras Signature,TAN,Tan,Accessories,Men,Hats,Fedoras,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1240.54,422.48,5,1848.85,709.66,253.14,3,1109.31,7,4,3,5,3,0
+MV-13761,Women Evening Dresses Luxe,RSE,Rose Poudre,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,11758.93,4303.29,35,14184.8,9213.18,2837.15,29,11753.12,37,36,1,31,27,0
+MV-65296,Women Ankle Boots Slim,SBL,Sable,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,8974.39,2983.46,19,11285.55,7459.94,1874.48,17,10097.59,51,40,11,51,49,0
+MV-78955,Women Pouches Modern,GRG,Greige,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2219.92,821.16,5,2823.13,1906.55,596.0,4,2258.5,11,7,4,13,10,0
+MV-79615,Women Midi Dresses Slim,SBL,Sable,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,3379.05,1094.45,5,4449.3,4191.39,1522.93,6,5339.16,8,6,2,11,8,0
+MV-89928,Men Suit Trousers Slim,IVR,Ivoire,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,9043.53,3246.85,21,12509.44,9126.95,3035.02,20,11913.75,18,17,1,20,17,0
+MV-99224,Men Day Dresses Relaxed,SBL,Sable,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,22224.1,6853.53,37,26923.71,18829.19,5092.41,30,21830.03,133,94,39,106,94,0
+MV-26704,Men Pouches Classic,CAM,Camel,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12255.31,4371.72,11,15311.91,10768.98,3558.55,9,12527.92,39,26,13,39,37,0
+MV-37460,Men Jackets Heritage,CAM,Camel,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2983.85,822.09,6,4001.31,2319.89,634.85,5,3334.42,9,5,4,9,7,0
+MV-47243,Men Boots Heritage,RSE,Rose Poudre,Footwear,Men,Heels,Boots,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,26220.01,7616.19,43,34350.1,29069.7,7669.85,45,35947.77,130,98,32,129,97,0
+MV-53228,Women Shoulder Bags Essential,TAN,Tan,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,14385.39,4958.53,23,18680.87,16446.4,5381.82,25,20305.29,52,43,9,46,29,0
+MV-65255,Women Evening Dresses Heritage,ECR,Ecru,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4631.71,1371.47,12,6070.75,5808.51,1741.76,14,7082.54,12,11,1,15,13,0
+MV-96200,Women Suit Sets,CRM,Creme,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,7772.55,2705.38,14,10625.74,9225.68,2745.93,17,12902.68,13,11,2,14,8,0
+MV-50213,Women Tops Slim,CRM,Creme,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1421.82,518.87,4,2079.9,729.8,238.55,2,1039.95,8,7,1,6,5,0
+MV-98815,Men Check-In,IVR,Ivoire,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,22127.04,7803.7,21,30582.04,15622.39,5792.79,16,23300.6,71,53,18,61,37,0
+MV-52487,Men Mini Bags Luxe,NOI,Noir,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,9021.39,3199.72,9,11940.12,8818.5,2410.67,8,10613.44,24,15,9,24,20,0
+MV-59834,Women Skirts,NOI,Noir,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,45470.09,15690.38,116,60148.03,48917.96,16052.03,122,63259.14,205,140,65,186,142,0
+MV-44718,Women Day Dresses Slim,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6855.09,2288.53,14,8092.51,6951.9,2170.73,16,9248.58,45,35,10,62,53,0
+MV-77538,Men Check-In Signature,GRG,Greige,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,9559.17,2430.29,14,11815.89,10916.35,3393.66,16,13503.87,13,10,3,16,9,0
+MV-30644,Men Chain Belts Slim,NVY,Navy,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,12026.34,3385.72,17,16538.56,10315.81,3452.29,15,14592.85,18,16,2,16,11,0
+MV-37535,Men Shirts Relaxed,CAM,Camel,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,34647.09,11000.63,53,41938.52,28761.35,7724.13,48,37982.05,130,112,18,97,59,0
+MV-47243,Men Boots Heritage,RSE,Rose Poudre,Footwear,Men,Heels,Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,20646.46,6663.8,34,26576.17,14556.41,5006.69,27,21104.6,97,76,21,77,61,0
+MV-36318,Women Ankle Boots Slim,CRM,Creme,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8662.62,2396.71,12,11281.11,10192.68,2648.84,15,14101.39,46,42,4,56,53,0
+MV-26551,Women Mules Luxe,BEG,Beige,Footwear,Women,Heels,Mules,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9916.89,3428.02,27,12625.08,6703.17,2214.89,19,8884.31,36,28,8,21,16,0
+MV-99224,Men Day Dresses Relaxed,TAN,Tan,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,10990.9,3676.79,18,15711.68,11343.81,3712.27,17,14838.81,49,43,6,50,35,0
+MV-54089,Unisex Blazers,CRM,Cognac,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5518.58,1647.89,14,7435.76,4353.89,1196.47,11,5842.38,10,7,3,9,5,0
+MV-70258,Men Platform Slim,BLU,Bleu Marine,Footwear,Men,Sneakers,Platform,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,3130.36,827.63,4,4085.97,2462.44,649.99,3,3064.48,8,6,2,7,4,0
+MV-23979,Women Check-In Relaxed,BRG,Bordeaux,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,10016.2,3603.94,13,11994.02,12621.44,3307.76,16,14761.87,37,24,13,39,31,0
+MV-36143,Unisex Weekender Heritage,TRP,Taupe,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2695.73,715.39,6,3575.56,1842.12,672.62,4,2383.71,23,20,3,19,11,0
+MV-99353,Women Tote Bags,GRG,Greige,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,44097.1,11369.02,52,56806.1,37330.16,13535.63,47,51343.98,91,77,14,69,67,0
+MV-46655,Women Cat Eye Heritage,TAN,Tan,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2917.5,880.95,8,4090.36,1846.49,489.3,5,2556.48,9,7,2,7,5,0
+MV-68529,Men Ankle Boots,ROG,Rouge,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,21565.84,6893.37,65,26500.23,18160.41,4841.9,57,23238.66,211,134,77,152,121,0
+MV-67961,Men Wool Scarves Heritage,SBL,Sable,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,9166.58,3367.91,16,11293.75,8704.13,3264.78,15,10587.89,63,49,14,54,37,0
+MV-92345,Women Leather Belts Modern,ECR,Ecru,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,14442.96,3892.18,21,20587.35,14140.92,5361.45,22,21567.7,71,57,14,83,61,0
+MV-81364,Unisex Crossbody Bags Signature,CRM,Cognac,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,12867.51,4438.51,16,18545.62,9957.35,3728.38,13,15068.31,40,35,5,27,26,0
+MV-68138,Women Tops Modern,BRG,Bordeaux,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,851.06,233.52,2,1054.61,477.66,158.77,1,527.3,6,5,1,6,3,0
+MV-38903,Men Coats Essential,BEG,Beige,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4864.52,1609.1,10,6094.19,5200.45,1377.67,11,6703.61,12,8,4,13,9,0
+MV-88222,Men Suit Trousers Heritage,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,566.74,186.77,2,730.71,568.34,191.16,2,730.71,3,2,1,3,1,0
+MV-86483,Women Wallets Luxe,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,12080.23,4180.09,20,16489.54,14808.13,5033.12,24,19787.45,62,51,11,86,78,0
+MV-53025,Men Loafers Heritage,TAN,Tan,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,9826.22,3703.95,12,12721.15,8975.57,3391.14,11,11661.05,25,24,1,27,25,0
+MV-96275,Women Coats Essential,TRP,Taupe,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7243.56,2070.31,32,9895.4,8144.9,2256.35,34,10513.86,105,86,19,118,86,0
+MV-56955,Women Ballet Flats Relaxed,TAN,Tan,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,2732.21,742.63,5,3808.99,2438.48,914.68,5,3808.99,9,7,2,9,5,0
+MV-38760,Unisex Rings Heritage,NVY,Navy,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1261.28,419.35,3,1739.05,1221.44,415.16,3,1739.05,11,7,4,11,8,0
+MV-91490,Women Midi Dresses,BEG,Beige,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,4553.09,1529.07,11,6074.77,5318.24,1420.11,13,7179.27,40,38,2,39,31,0
+MV-50213,Women Tops Slim,CRM,Creme,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,11480.16,3277.28,55,16543.33,16539.02,4371.01,70,21055.14,110,98,12,113,95,0
+MV-60052,Unisex Evening Dresses,CRM,Creme,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6823.25,2247.18,26,8574.01,7937.1,2770.93,28,9233.55,86,76,10,104,73,0
+MV-96200,Women Suit Sets,BRG,Bordeaux,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,4310.2,1592.45,11,6309.46,4015.4,1207.21,10,5735.88,29,23,6,31,21,0
+MV-53228,Women Shoulder Bags Essential,TRP,Taupe,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,8183.17,2103.14,15,11310.35,8000.85,2323.49,14,10556.33,30,29,1,29,23,0
+MV-74038,Women Pouches,SBL,Sable,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,740.43,271.74,1,871.66,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-67104,Men Sandals Essential,BLU,Bleu Marine,Footwear,Men,Heels,Sandals,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,26520.98,7307.88,89,33837.47,36626.76,10021.34,114,43342.38,55,46,9,59,51,0
+MV-39389,Women Mules Modern,TAN,Tan,Footwear,Women,Heels,Mules,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,9384.27,3288.55,23,10954.42,9817.9,2578.02,24,11430.7,18,14,4,21,19,0
+MV-86556,Women Evening Dresses Classic,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2258.9,836.53,7,3196.74,1573.95,522.05,5,2283.38,17,12,5,16,13,0
+MV-20328,Men Clutches,CRM,Cognac,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,20438.56,7584.26,18,25964.52,22286.16,5818.87,21,30291.94,59,41,18,63,42,0
+MV-45986,Women Chain Belts Classic,NVY,Navy,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,1616.38,605.58,2,2193.42,887.35,290.56,1,1096.71,5,3,2,4,2,0
+MV-33509,Unisex Fedoras Signature,NOI,Noir,Accessories,Unisex,Hats,Fedoras,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,45283.76,15909.88,72,59861.82,54797.01,15823.97,90,74827.28,104,101,3,139,97,0
+MV-15014,Women Bracelets Modern,ANT,Anthracite,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,1735.79,598.65,4,2360.82,1243.28,400.68,3,1770.61,9,6,3,6,4,0
+MV-79329,Men Suit Trousers Classic,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,11959.53,4417.72,22,16586.16,8207.03,2216.53,15,11308.75,68,50,18,54,35,0
+MV-85156,Women Chain Belts Essential,ECR,Ecru,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,6471.98,1661.56,6,8890.03,7154.88,2383.96,7,10371.7,14,10,4,18,13,0
+MV-99173,Women Card Holders Modern,TAN,Tan,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,23884.74,7693.66,27,30814.95,17774.13,5551.83,21,23967.19,26,18,8,17,16,0
+MV-57920,Women Blazers Slim,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,9866.04,3478.38,32,13791.96,10375.43,3026.55,32,13791.96,85,51,34,69,58,0
+MV-68138,Women Tops Modern,CRM,Cognac,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,8939.56,2551.78,23,12519.47,7757.55,2539.5,18,9797.84,73,60,13,57,43,0
+MV-31798,Women Shoulder Bags Essential,NOI,Noir,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6945.49,1839.04,20,9792.28,7281.09,2568.4,20,9792.28,30,25,5,34,31,0
+MV-64377,Women Trousers Essential,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,29257.73,10108.09,47,38433.08,19863.48,6929.19,34,27802.66,151,97,54,109,106,0
+MV-22097,Men Leather Belts Essential,ANT,Anthracite,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,728.93,267.01,1,968.92,729.48,247.23,1,968.92,3,2,1,3,2,0
+MV-38760,Unisex Rings Heritage,CRM,Creme,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1713.53,514.8,8,2496.11,1846.21,646.45,9,2808.12,14,10,4,16,9,0
+MV-54089,Unisex Blazers,CHP,Champagne,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3232.0,1134.02,6,3961.29,3272.46,984.93,6,3961.29,14,13,1,15,9,0
+MV-72031,Women Blazers,BLU,Bleu Marine,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,52852.65,16882.19,94,66485.98,44214.3,12521.11,71,50218.14,303,191,112,271,216,0
+MV-68138,Women Tops Modern,ECR,Ecru,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,2139.31,778.4,10,2952.5,1519.84,462.54,7,2066.75,8,6,2,5,3,0
+MV-78494,Men Suit Sets Essential,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,17555.11,4919.06,28,22804.5,19137.09,7053.47,32,26062.28,100,68,32,134,123,0
+MV-33647,Men Coats Heritage,TRP,Taupe,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,15016.04,4592.11,24,18936.74,15295.03,4984.57,24,18936.74,70,45,25,69,61,0
+MV-74038,Women Pouches,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,4918.67,1410.97,5,7065.8,4676.14,1328.04,5,7065.8,18,11,7,17,15,0
+MV-69473,Women Chain Belts Heritage,BRG,Bordeaux,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,3009.28,1057.41,5,4320.44,2202.45,601.16,4,3456.35,3,2,1,2,1,0
+MV-88366,Men Blazers Classic,NOI,Noir,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,3012.96,792.18,7,3741.8,2294.98,764.52,6,3207.26,22,18,4,22,17,0
+MV-44664,Women Shoulder Bags Modern,TAN,Tan,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,9220.6,2511.96,11,13608.78,11965.53,3241.32,13,16083.11,19,12,7,22,14,0
+MV-23979,Women Check-In Relaxed,NOI,Noir,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,3155.34,1160.13,5,3996.23,2087.75,669.15,3,2397.74,19,15,4,12,8,0
+MV-67905,Women High Top Luxe,VRT,Vert,Footwear,Women,Sneakers,High Top,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,414.02,139.65,1,570.2,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-33703,Men Earrings Slim,NVY,Navy,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,11085.28,3388.86,45,14060.57,8888.59,2648.52,38,11873.37,54,42,12,39,28,0
+MV-23238,Women Knitwear Essential,TAN,Tan,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,18559.75,4719.77,72,26311.91,15080.16,5300.67,59,21561.15,47,33,14,40,28,0
+MV-59672,Women Shoulder Bags Classic,NVY,Navy,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,3170.48,982.11,8,4476.56,2975.99,1113.02,7,3916.99,19,18,1,18,12,0
+MV-57942,Women Chelsea Boots Modern,IVR,Ivoire,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5111.39,1761.97,8,7141.03,2957.79,1013.27,5,4463.14,24,22,2,16,14,0
+MV-56346,Women Clutches Essential,VRT,Vert,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,841.9,266.73,1,1064.8,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-59308,Men Knitwear Essential,IVR,Ivoire,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,10918.73,2866.74,24,14569.48,9814.13,3647.93,24,14569.48,88,58,30,74,48,0
+MV-31632,Women Weekender Luxe,GRG,Greige,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,31391.23,7889.99,37,45860.71,38223.84,13938.48,46,57016.02,53,38,15,75,71,0
+MV-38760,Unisex Rings Heritage,NVY,Navy,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,1702.29,598.8,3,2398.9,1691.41,625.02,3,2398.9,9,8,1,12,8,0
+MV-69459,Women Rings Signature,GRG,Greige,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1337.11,404.22,3,1926.19,878.64,327.76,2,1284.13,3,2,1,2,1,0
+MV-74038,Women Pouches,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,27653.01,7517.98,33,35745.91,28850.55,10332.1,36,38995.53,106,78,28,138,96,0
+MV-20328,Men Clutches,SBL,Sable,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,17718.84,5821.04,20,26011.16,14110.18,3563.36,15,19508.37,29,23,6,18,15,0
+MV-69459,Women Rings Signature,ARG,Argent,Accessories,Women,Jewelry,Rings,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,237.23,82.65,1,322.28,264.58,68.92,1,322.28,2,1,1,2,1,0
+MV-68929,Women Crossbody Bags Relaxed,ROG,Rouge,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,22774.5,5864.32,20,31779.62,17296.71,4501.92,16,25423.7,12,7,5,9,8,0
+MV-46421,Women Knee High Slim,ROG,Rouge,Footwear,Women,Boots,Knee High,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3626.66,1079.89,7,4950.1,3070.39,813.98,6,4242.94,12,7,5,13,12,0
+MV-20328,Men Clutches,CAM,Camel,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,3700.37,937.56,9,5072.56,4646.81,1450.73,10,5636.17,30,26,4,40,35,0
+MV-92345,Women Leather Belts Modern,ARG,Argent,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,28590.38,9180.06,31,39452.44,32621.51,10493.16,35,44543.08,68,47,21,68,42,0
+MV-69446,Unisex Evening Dresses Modern,NOI,Noir,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,22228.68,7138.41,35,29124.0,24810.63,6916.84,41,34116.69,65,50,15,77,57,0
+MV-71474,Men Loafers Relaxed,BEG,Beige,Footwear,Men,Flats,Loafers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,4711.19,1269.69,10,6372.05,4562.81,1444.71,10,6372.05,38,23,15,44,31,0
+MV-50213,Women Tops Slim,ARG,Argent,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,28415.93,7834.71,62,35395.76,19700.03,5724.57,44,25119.57,169,132,37,141,127,0
+MV-77538,Men Check-In Signature,CAM,Camel,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,6947.27,1889.41,11,8110.48,7574.81,2173.3,12,8847.8,21,20,1,24,22,0
+MV-31632,Women Weekender Luxe,NVY,Navy,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,32213.06,9596.92,31,40182.89,40689.09,13596.05,39,50552.67,95,89,6,109,83,0
+MV-57942,Women Chelsea Boots Modern,TRP,Taupe,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5821.18,1517.27,14,7712.1,4941.81,1822.42,12,6610.38,31,23,8,26,17,0
+MV-98501,Women Blouses Relaxed,BRG,Bordeaux,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,22446.8,7460.34,48,30446.0,24332.32,8680.54,49,31080.29,135,83,52,147,116,0
+MV-63225,Unisex Key Holders,NVY,Navy,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,30597.35,9372.27,51,45789.0,38309.3,10560.64,61,54767.23,45,30,15,58,36,0
+MV-71057,Women Boots,BEG,Beige,Footwear,Women,Heels,Boots,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,870.16,272.24,1,1143.65,818.41,240.27,1,1143.65,1,0,1,0,0,0
+MV-62044,Women Low Top Classic,TAN,Tan,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,21947.01,7450.97,59,29186.91,17605.65,5590.4,50,24734.67,116,107,9,98,82,0
+MV-60432,Women Suit Sets Essential,ROG,Rouge,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,15338.22,3992.56,37,21783.18,10554.51,3792.33,27,15895.83,55,54,1,33,22,0
+MV-89928,Men Suit Trousers Slim,CRM,Creme,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,6635.68,2275.1,33,8321.76,7020.57,2391.84,33,8321.76,48,39,9,45,33,0
+MV-30866,Women Loafers Modern,BRG,Bordeaux,Footwear,Women,Flats,Loafers,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1142.53,375.29,4,1372.34,1044.3,291.7,4,1372.34,10,6,4,11,7,0
+MV-67905,Women High Top Luxe,BLU,Bleu Marine,Footwear,Women,Sneakers,High Top,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,29245.25,7383.23,35,39258.33,29646.1,10645.07,33,37015.0,57,51,6,62,61,0
+MV-14877,Women Necklaces Heritage,BEG,Beige,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,7876.27,1970.25,40,9835.09,7691.1,2234.23,37,9097.46,127,81,46,123,100,0
+MV-44664,Women Shoulder Bags Modern,CRM,Cognac,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,5524.78,1645.4,7,7829.33,3755.82,1278.61,5,5592.38,13,12,1,10,6,0
+MV-57920,Women Blazers Slim,CAM,Camel,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,39622.79,12830.4,65,48286.55,42760.57,15407.73,67,49772.29,180,157,23,158,126,0
+MV-79924,Unisex Blazers Modern,GRG,Greige,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,368.06,106.06,1,453.88,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-96341,Women Card Holders Signature,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2769.09,964.38,3,3716.73,2575.77,918.49,3,3716.73,11,7,4,14,9,0
+MV-85965,Men Fedoras Signature,CHP,Champagne,Accessories,Men,Hats,Fedoras,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,5343.49,1992.96,16,6877.38,4726.46,1564.43,14,6017.71,44,35,9,38,25,0
+MV-63843,Women Midi Dresses Essential,BEG,Beige,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,10612.29,3023.72,18,14598.48,10221.0,3276.83,17,13787.45,17,16,1,18,12,0
+MV-60052,Unisex Evening Dresses,ARG,Argent,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,5906.59,2006.01,22,7885.95,6456.36,2428.09,24,8602.86,17,10,7,18,17,0
+MV-21542,Women Clutches Signature,ARG,Argent,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,964.71,353.21,1,1371.36,1063.95,352.41,1,1371.36,1,0,1,0,0,0
+MV-85965,Men Fedoras Signature,IVR,Ivoire,Accessories,Men,Hats,Fedoras,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,30281.98,8572.55,69,44864.95,26731.31,8695.86,63,40963.65,139,89,50,133,98,0
+MV-52487,Men Mini Bags Luxe,GRG,Greige,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,848.77,296.56,1,1167.21,846.41,274.62,1,1167.21,2,1,1,2,1,0
+MV-26704,Men Pouches Classic,VRT,Vert,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,1798.13,478.19,3,2542.99,1314.03,446.57,2,1695.33,2,1,1,2,1,0
+MV-47512,Men Tops Relaxed,ECR,Ecru,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,200,50,J347,MV Flagship Tokyo,537.88,153.52,1,696.41,0.0,0.0,0,0.0,3,1,2,3,2,0
+MV-79924,Unisex Blazers Modern,CHP,Champagne,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,200,70,J347,MV Flagship Tokyo,10984.03,3415.03,17,15523.35,8855.6,3023.94,12,10957.66,24,20,4,16,11,0
+MV-13396,Women Wallets Slim,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,63837.99,20303.65,57,77552.46,48703.74,13482.45,41,55783.35,206,191,15,166,121,0
+MV-79942,Men Blazers Essential,BEG,Beige,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,12072.83,3389.74,23,17296.85,13599.53,3426.72,24,18048.89,65,45,20,64,62,0
+MV-62383,Men Berets Relaxed,VRT,Vert,Accessories,Men,Hats,Berets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,18063.02,6164.96,37,26795.5,25896.44,6620.23,46,33313.33,83,72,11,110,98,0
+MV-85914,Women Wallets,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,1053.67,327.98,1,1417.74,983.82,328.0,1,1417.74,1,0,1,1,0,0
+MV-23979,Women Check-In Relaxed,ARG,Argent,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,200,20,J347,MV Flagship Tokyo,13548.52,4734.58,16,18806.3,12967.5,3815.74,15,17630.9,60,46,14,57,35,0
+MV-90301,Men High Top,NVY,Navy,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,30,J347,MV Flagship Tokyo,7817.26,2813.38,13,10866.98,7785.5,2374.09,13,10866.98,43,36,7,43,34,0
+MV-96200,Women Suit Sets,GRG,Greige,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,2858.59,995.37,14,3575.71,1899.31,564.04,10,2554.08,41,33,8,29,20,0
+MV-59308,Men Knitwear Essential,RSE,Rose Poudre,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,515.03,187.61,1,721.08,553.5,138.61,1,721.08,3,2,1,4,2,0
+MV-96870,Women Day Dresses Relaxed,VRT,Vert,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,200,70,J347,MV Flagship Tokyo,8056.87,2769.97,24,11105.42,9516.97,2771.23,26,12030.87,55,51,4,73,46,0
+MV-26299,Men High Top Luxe,ECR,Ecru,Footwear,Men,Sneakers,High Top,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,11528.42,3722.31,14,16082.57,9495.41,3262.04,13,14933.81,34,33,1,30,25,0
+MV-82910,Men Shirts Signature,BEG,Beige,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,200,30,J347,MV Flagship Tokyo,12847.16,3672.48,31,16853.73,8820.54,2239.69,22,11960.71,64,51,13,43,28,0
+MV-47196,Women Wallets,BEG,Beige,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,200,20,J347,MV Flagship Tokyo,14661.64,4637.24,14,20072.24,11250.32,3468.65,11,15771.04,51,35,16,37,30,0
+MV-59672,Women Shoulder Bags Classic,BEG,Beige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,200,50,J347,MV Flagship Tokyo,2815.32,804.64,3,3604.48,1852.8,644.02,2,2402.98,4,2,2,3,2,0

@@ -1,0 +1,501 @@
+client_id,first_name,last_name,nationality,preferred_store,store_name,preferred_channel,days_since_last_visit,frequency,monetary_value,avg_order_value,favorite_category,recency_score,frequency_score,monetary_score,rfm_total_score,rfm_segment,join_date,last_visit_date
+MVC-00001,Emma,Tanaka,Italian,A800,MV SOHO New York,Digital,177,7,3205.57,457.94,Footwear,3,3,3,9,Active,2023-09-08,2025-10-03
+MVC-00002,Elena,Bernard,American,A800,MV SOHO New York,Digital,12,28,63550.86,2269.67,Small Leather Goods,5,5,5,15,VIP,2023-01-31,2026-03-17
+MVC-00003,Camille,Wang,Korean,J347,MV Flagship Tokyo,Boutique,76,42,82013.63,1952.71,Small Leather Goods,4,5,5,14,VIP,2024-04-04,2026-01-12
+MVC-00004,Yuna,Tanaka,French,J347,MV Flagship Tokyo,Boutique,175,16,4534.49,283.41,Ready-to-Wear,3,4,3,10,High Value,2023-06-09,2025-10-05
+MVC-00005,Yuki,Bernard,French,EU_F07M,MV Flagship Paris,Phone,835,6,1031.23,171.87,Small Leather Goods,1,3,2,6,Dormant,2025-01-17,2023-12-15
+MVC-00006,Keiko,Park,French,A800,MV SOHO New York,Boutique,300,12,5227.77,435.65,Handbags,2,4,4,10,High Value,2023-07-16,2025-06-02
+MVC-00007,Thomas,Dubois,Chinese,J347,MV Flagship Tokyo,Boutique,649,7,1122.38,160.34,Handbags,1,3,2,6,Dormant,2024-01-25,2024-06-18
+MVC-00008,Sakura,Sharma,Chinese,A800,MV SOHO New York,Boutique,83,11,8748.18,795.29,Handbags,4,3,4,11,High Value,2024-11-30,2026-01-05
+MVC-00009,Priya,Williams,Chinese,EU_F07M,MV Flagship Paris,Digital,82,30,45505.4,1516.85,Small Leather Goods,4,5,5,14,VIP,2023-10-04,2026-01-06
+MVC-00010,Isabelle,Smith,American,A800,MV SOHO New York,Phone,35,23,34555.47,1502.41,Handbags,4,5,5,14,VIP,2024-02-15,2026-02-22
+MVC-00011,Min,Williams,American,A800,MV SOHO New York,Boutique,59,15,7615.85,507.72,Small Leather Goods,4,4,4,12,High Value,2024-10-20,2026-01-29
+MVC-00012,Elena,Park,Australian,A800,MV SOHO New York,Boutique,47,23,12662.99,550.56,Handbags,4,5,4,13,VIP,2024-02-13,2026-02-10
+MVC-00013,Charlotte,Dubois,Italian,A800,MV SOHO New York,Boutique,81,23,59107.2,2569.88,Ready-to-Wear,4,5,5,14,VIP,2023-06-06,2026-01-07
+MVC-00014,Priya,Rodriguez,British,A800,MV SOHO New York,Boutique,71,17,14476.62,851.57,Handbags,4,4,4,12,High Value,2023-09-15,2026-01-17
+MVC-00015,Yuna,Dubois,Japanese,A800,MV SOHO New York,Event,231,17,5253.36,309.02,Jewelry,2,4,4,10,High Value,2023-10-28,2025-08-10
+MVC-00016,Oliver,Rodriguez,American,EU_F07M,MV Flagship Paris,Digital,112,17,13494.24,793.78,Handbags,3,4,4,11,High Value,2023-04-19,2025-12-07
+MVC-00017,Keiko,Simon,Chinese,A800,MV SOHO New York,Boutique,68,37,80282.74,2169.8,Small Leather Goods,4,5,5,14,VIP,2024-07-06,2026-01-20
+MVC-00018,Hana,Wang,Brazilian,EU_F07M,MV Flagship Paris,Boutique,611,6,1279.19,213.2,Jewelry,1,3,2,6,Dormant,2023-03-01,2024-07-26
+MVC-00019,James,Moreau,American,EU_F07M,MV Flagship Paris,Boutique,851,8,1347.89,168.49,Ready-to-Wear,1,3,2,6,Dormant,2024-11-06,2023-11-29
+MVC-00020,Edward,Kim,American,EU_F07M,MV Flagship Paris,Boutique,94,25,15849.74,633.99,Handbags,3,5,5,13,VIP,2025-02-12,2025-12-25
+MVC-00021,Natasha,Rodriguez,American,A800,MV SOHO New York,Boutique,150,9,4476.74,497.42,Handbags,3,3,3,9,Active,2024-04-07,2025-10-30
+MVC-00022,Thomas,Martin,French,EU_F07M,MV Flagship Paris,Boutique,301,15,5963.89,397.59,Ready-to-Wear,2,4,4,10,High Value,2023-03-14,2025-06-01
+MVC-00023,Amélie,Rodriguez,Chinese,EU_F07M,MV Flagship Paris,Boutique,650,4,846.73,211.68,Small Leather Goods,1,2,2,5,Dormant,2023-09-01,2024-06-17
+MVC-00024,Ling,Wang,American,J347,MV Flagship Tokyo,Boutique,849,3,1690.81,563.6,Small Leather Goods,1,2,3,6,Dormant,2025-03-14,2023-12-01
+MVC-00025,Camille,Davis,British,EU_F07M,MV Flagship Paris,Digital,7,8,2351.17,293.9,Footwear,5,3,3,11,High Value,2025-01-16,2026-03-22
+MVC-00026,Yuna,Dubois,Chinese,A800,MV SOHO New York,Boutique,25,17,16740.97,984.76,Ready-to-Wear,5,4,5,14,VIP,2023-09-12,2026-03-04
+MVC-00027,Charles,Laurent,French,EU_F07M,MV Flagship Paris,Digital,104,12,7650.64,637.55,Ready-to-Wear,3,4,4,11,High Value,2024-03-29,2025-12-15
+MVC-00028,Claire,Wang,Chinese,J347,MV Flagship Tokyo,Phone,781,8,2236.93,279.62,Handbags,1,3,3,7,Active,2023-06-20,2024-02-07
+MVC-00029,Sophie,Williams,Japanese,J347,MV Flagship Tokyo,Event,59,51,86979.78,1705.49,Handbags,4,5,5,14,VIP,2023-09-29,2026-01-29
+MVC-00030,Min,Moreau,Australian,A800,MV SOHO New York,Boutique,195,10,4643.39,464.34,Ready-to-Wear,2,3,3,8,Active,2023-07-14,2025-09-15
+MVC-00031,Rina,Bernard,Chinese,J347,MV Flagship Tokyo,Phone,38,31,213652.89,6892.03,Handbags,4,5,5,14,VIP,2023-02-21,2026-02-19
+MVC-00032,Claire,Simon,British,A800,MV SOHO New York,Boutique,39,76,455740.44,5996.58,Handbags,4,5,5,14,VIP,2023-03-12,2026-02-18
+MVC-00033,Charles,Park,French,EU_F07M,MV Flagship Paris,Digital,405,6,1830.21,305.04,Ready-to-Wear,1,3,3,7,Active,2024-08-31,2025-02-17
+MVC-00034,Yuki,Chen,American,J347,MV Flagship Tokyo,Boutique,92,29,18232.68,628.71,Small Leather Goods,3,5,5,13,VIP,2024-11-16,2025-12-27
+MVC-00035,Priya,Smith,French,A800,MV SOHO New York,Digital,359,12,4247.52,353.96,Small Leather Goods,2,4,3,9,Active,2025-02-08,2025-04-04
+MVC-00036,Amélie,Kim,French,J347,MV Flagship Tokyo,Boutique,883,1,684.71,684.71,Handbags,1,1,2,4,Dormant,2023-08-07,2023-10-28
+MVC-00037,Keiko,Yamamoto,British,EU_F07M,MV Flagship Paris,Digital,813,8,1994.48,249.31,Handbags,1,3,3,7,Active,2023-06-11,2024-01-06
+MVC-00038,Hana,Patel,American,A800,MV SOHO New York,Phone,113,10,5686.92,568.69,Ready-to-Wear,3,3,4,10,High Value,2023-04-17,2025-12-06
+MVC-00039,Sakura,Yamamoto,American,EU_F07M,MV Flagship Paris,Digital,173,5,3375.46,675.09,Ready-to-Wear,3,2,3,8,Active,2024-09-11,2025-10-07
+MVC-00040,Yuki,Bernard,Korean,J347,MV Flagship Tokyo,Boutique,82,25,12055.29,482.21,Handbags,4,5,4,13,VIP,2023-04-05,2026-01-06
+MVC-00041,Yuki,Simon,British,EU_F07M,MV Flagship Paris,Boutique,233,15,6283.5,418.9,Handbags,2,4,4,10,High Value,2025-01-29,2025-08-08
+MVC-00042,William,Kim,Chinese,J347,MV Flagship Tokyo,Boutique,54,31,191348.48,6172.53,Handbags,4,5,5,14,VIP,2023-02-06,2026-02-03
+MVC-00043,Keiko,Bernard,American,EU_F07M,MV Flagship Paris,Boutique,14,55,419463.04,7626.6,Handbags,5,5,5,15,VIP,2024-01-02,2026-03-15
+MVC-00044,Camille,Lee,Emirati,A800,MV SOHO New York,Event,523,4,1259.89,314.97,Handbags,1,2,2,5,Dormant,2025-02-06,2024-10-22
+MVC-00045,Emma,Simon,Korean,J347,MV Flagship Tokyo,Phone,705,4,827.58,206.9,Handbags,1,2,2,5,Dormant,2025-01-24,2024-04-23
+MVC-00046,Lucie,Williams,American,J347,MV Flagship Tokyo,Digital,110,22,14442.02,656.46,Small Leather Goods,3,5,4,12,High Value,2023-02-09,2025-12-09
+MVC-00047,Thomas,Wang,Japanese,A800,MV SOHO New York,Boutique,85,12,9648.96,804.08,Handbags,4,4,4,12,High Value,2023-01-25,2026-01-03
+MVC-00048,Sakura,Johnson,British,J347,MV Flagship Tokyo,Digital,886,11,1740.08,158.19,Handbags,1,3,3,7,Active,2024-10-18,2023-10-25
+MVC-00049,Marie,Tanaka,French,A800,MV SOHO New York,Boutique,636,7,1452.0,207.43,Ready-to-Wear,1,3,2,6,Dormant,2023-07-02,2024-07-01
+MVC-00050,Elena,Lee,Emirati,J347,MV Flagship Tokyo,Boutique,149,7,1753.96,250.57,Handbags,3,3,3,9,Active,2024-06-07,2025-10-31
+MVC-00051,Sophie,Rodriguez,British,EU_F07M,MV Flagship Paris,Digital,257,10,3218.54,321.85,Small Leather Goods,2,3,3,8,Active,2025-04-05,2025-07-15
+MVC-00052,Elena,Laurent,American,EU_F07M,MV Flagship Paris,Digital,43,37,86777.06,2345.33,Ready-to-Wear,4,5,5,14,VIP,2024-11-11,2026-02-14
+MVC-00053,Hana,Patel,British,J347,MV Flagship Tokyo,Boutique,699,11,1697.59,154.33,Small Leather Goods,1,3,3,7,Active,2024-02-23,2024-04-29
+MVC-00054,Valentina,Patel,Chinese,A800,MV SOHO New York,Boutique,116,14,13149.79,939.27,Handbags,3,4,4,11,High Value,2025-02-05,2025-12-03
+MVC-00055,Hana,Yamamoto,Chinese,EU_F07M,MV Flagship Paris,Boutique,805,5,1177.73,235.55,Handbags,1,2,2,5,Dormant,2023-08-04,2024-01-14
+MVC-00056,Edward,Rodriguez,American,EU_F07M,MV Flagship Paris,Boutique,102,28,17920.26,640.01,Handbags,3,5,5,13,VIP,2024-04-29,2025-12-17
+MVC-00057,Yuna,Laurent,British,A800,MV SOHO New York,Boutique,363,12,7117.36,593.11,Handbags,2,4,4,10,High Value,2025-04-18,2025-03-31
+MVC-00058,Isabelle,Wang,Japanese,A800,MV SOHO New York,Phone,79,30,42230.62,1407.69,Handbags,4,5,5,14,VIP,2024-05-01,2026-01-09
+MVC-00059,Valentina,Garcia,British,A800,MV SOHO New York,Boutique,32,14,23855.26,1703.95,Small Leather Goods,4,4,5,13,VIP,2024-02-14,2026-02-25
+MVC-00060,Thomas,Simon,Chinese,EU_F07M,MV Flagship Paris,Boutique,365,15,6938.38,462.56,Ready-to-Wear,2,4,4,10,High Value,2025-04-03,2025-03-29
+MVC-00061,Marie,Davis,Chinese,EU_F07M,MV Flagship Paris,Boutique,840,4,558.21,139.55,Small Leather Goods,1,2,2,5,Dormant,2023-05-17,2023-12-10
+MVC-00062,Natasha,Lee,Korean,J347,MV Flagship Tokyo,Boutique,881,1,744.61,744.61,Accessories,1,1,2,4,Dormant,2025-04-14,2023-10-30
+MVC-00063,Ling,Davis,Korean,A800,MV SOHO New York,Boutique,312,5,3322.17,664.43,Handbags,2,2,3,7,Active,2023-09-23,2025-05-21
+MVC-00064,Charles,Tanaka,American,EU_F07M,MV Flagship Paris,Boutique,10,14,12471.75,890.84,Small Leather Goods,5,4,4,13,VIP,2024-03-26,2026-03-19
+MVC-00065,Claire,Moreau,British,J347,MV Flagship Tokyo,Digital,601,2,485.08,242.54,Handbags,1,1,1,3,Dormant,2023-06-04,2024-08-05
+MVC-00066,Yuna,Kim,American,A800,MV SOHO New York,Boutique,54,11,9308.55,846.23,Jewelry,4,3,4,11,High Value,2024-04-22,2026-02-03
+MVC-00067,Emma,Park,Brazilian,A800,MV SOHO New York,Boutique,853,6,1042.17,173.7,Footwear,1,3,2,6,Dormant,2024-01-25,2023-11-27
+MVC-00068,Camille,Kim,American,J347,MV Flagship Tokyo,Boutique,590,1,954.87,954.87,Handbags,1,1,2,4,Dormant,2025-02-04,2024-08-16
+MVC-00069,Isabella,Simon,Australian,A800,MV SOHO New York,Boutique,60,21,13566.0,646.0,Footwear,4,5,4,13,VIP,2025-05-10,2026-01-28
+MVC-00070,Emma,Laurent,Emirati,A800,MV SOHO New York,Boutique,229,12,4644.37,387.03,Handbags,2,4,3,9,Active,2024-10-20,2025-08-12
+MVC-00071,Edward,Davis,American,J347,MV Flagship Tokyo,Event,44,14,8063.14,575.94,Ready-to-Wear,4,4,4,12,High Value,2023-12-01,2026-02-13
+MVC-00072,Claire,Garcia,French,EU_F07M,MV Flagship Paris,Event,96,23,13659.92,593.91,Handbags,3,5,4,12,High Value,2023-01-20,2025-12-23
+MVC-00073,Isabelle,Martin,Chinese,A800,MV SOHO New York,Boutique,171,6,5193.5,865.58,Accessories,3,3,4,10,High Value,2023-09-11,2025-10-09
+MVC-00074,Edward,Davis,American,J347,MV Flagship Tokyo,Digital,185,16,5374.33,335.9,Handbags,2,4,4,10,High Value,2024-12-17,2025-09-25
+MVC-00075,Alexander,Yamamoto,Brazilian,A800,MV SOHO New York,Boutique,268,2,3092.55,1546.28,Footwear,2,1,3,6,Dormant,2023-04-21,2025-07-04
+MVC-00076,Henry,Laurent,American,EU_F07M,MV Flagship Paris,Digital,89,24,16250.82,677.12,Jewelry,4,5,5,14,VIP,2024-08-29,2025-12-30
+MVC-00077,Marie,Park,Chinese,J347,MV Flagship Tokyo,Digital,407,5,1029.82,205.96,Small Leather Goods,1,2,2,5,Dormant,2025-03-12,2025-02-15
+MVC-00078,Yuna,Martin,French,J347,MV Flagship Tokyo,Event,54,17,12263.79,721.4,Small Leather Goods,4,4,4,12,High Value,2025-05-19,2026-02-03
+MVC-00079,Priya,Sharma,Italian,A800,MV SOHO New York,Event,810,8,2207.88,275.98,Handbags,1,3,3,7,Active,2023-06-06,2024-01-09
+MVC-00080,Ling,Davis,Chinese,EU_F07M,MV Flagship Paris,Boutique,331,6,2623.69,437.28,Small Leather Goods,2,3,3,8,Active,2024-03-22,2025-05-02
+MVC-00081,Claire,Tanaka,Chinese,J347,MV Flagship Tokyo,Digital,614,4,452.68,113.17,Handbags,1,2,1,4,Dormant,2024-04-06,2024-07-23
+MVC-00082,Rina,Simon,Italian,J347,MV Flagship Tokyo,Boutique,14,64,351493.64,5492.09,Handbags,5,5,5,15,VIP,2024-05-14,2026-03-15
+MVC-00083,Sakura,Kim,French,A800,MV SOHO New York,Digital,252,9,2870.48,318.94,Handbags,2,3,3,8,Active,2023-01-11,2025-07-20
+MVC-00084,Charles,Sharma,Chinese,EU_F07M,MV Flagship Paris,Digital,285,11,5517.09,501.55,Handbags,2,3,4,9,Active,2024-05-02,2025-06-17
+MVC-00085,Isabella,Sharma,Chinese,EU_F07M,MV Flagship Paris,Boutique,40,22,12405.15,563.87,Handbags,4,5,4,13,VIP,2023-09-07,2026-02-17
+MVC-00086,Yuna,Johnson,American,J347,MV Flagship Tokyo,Boutique,59,19,13301.4,700.07,Handbags,4,4,4,12,High Value,2024-12-20,2026-01-29
+MVC-00087,Marie,Kim,American,A800,MV SOHO New York,Digital,89,20,48961.91,2448.1,Handbags,4,5,5,14,VIP,2025-02-19,2025-12-30
+MVC-00088,Mei,Dubois,American,J347,MV Flagship Tokyo,Boutique,169,9,6302.25,700.25,Footwear,3,3,4,10,High Value,2025-05-02,2025-10-11
+MVC-00089,James,Tanaka,American,EU_F07M,MV Flagship Paris,Phone,133,3,2145.67,715.22,Handbags,3,2,3,8,Active,2023-02-16,2025-11-16
+MVC-00090,Min,Dubois,Chinese,J347,MV Flagship Tokyo,Boutique,656,2,403.02,201.51,Handbags,1,1,1,3,Dormant,2023-01-13,2024-06-11
+MVC-00091,Ling,Dubois,Chinese,J347,MV Flagship Tokyo,Boutique,9,10,2450.67,245.07,Handbags,5,3,3,11,High Value,2025-04-21,2026-03-20
+MVC-00092,William,Park,French,A800,MV SOHO New York,Digital,6,76,482878.28,6353.66,Small Leather Goods,5,5,5,15,VIP,2023-11-08,2026-03-23
+MVC-00093,Thomas,Rodriguez,American,J347,MV Flagship Tokyo,Boutique,235,6,3639.42,606.57,Small Leather Goods,2,3,3,8,Active,2024-01-25,2025-08-06
+MVC-00094,Charlotte,Lee,Chinese,A800,MV SOHO New York,Boutique,13,11,6122.22,556.57,Handbags,5,3,4,12,High Value,2025-01-27,2026-03-16
+MVC-00095,Oliver,Kim,Japanese,A800,MV SOHO New York,Digital,21,15,30623.65,2041.58,Ready-to-Wear,5,4,5,14,VIP,2023-03-18,2026-03-08
+MVC-00096,Thomas,Yamamoto,Korean,EU_F07M,MV Flagship Paris,Boutique,37,16,6943.96,434.0,Small Leather Goods,4,4,4,12,High Value,2024-12-24,2026-02-20
+MVC-00097,Henry,Brown,French,EU_F07M,MV Flagship Paris,Boutique,595,3,430.86,143.62,Accessories,1,2,1,4,Dormant,2023-04-28,2024-08-11
+MVC-00098,Alexander,Yamamoto,Brazilian,EU_F07M,MV Flagship Paris,Boutique,48,69,389367.31,5643.0,Ready-to-Wear,4,5,5,14,VIP,2024-09-01,2026-02-09
+MVC-00099,Isabella,Tanaka,Japanese,J347,MV Flagship Tokyo,Boutique,258,15,7830.08,522.01,Small Leather Goods,2,4,4,10,High Value,2024-05-27,2025-07-14
+MVC-00100,Yuki,Martin,Korean,EU_F07M,MV Flagship Paris,Boutique,178,11,5020.98,456.45,Handbags,3,3,4,10,High Value,2023-04-04,2025-10-02
+MVC-00101,Sakura,Park,Chinese,J347,MV Flagship Tokyo,Boutique,544,7,2909.4,415.63,Handbags,1,3,3,7,Active,2023-02-11,2024-10-01
+MVC-00102,Elena,Nguyen,Chinese,A800,MV SOHO New York,Boutique,63,23,28840.15,1253.92,Handbags,4,5,5,14,VIP,2025-04-13,2026-01-25
+MVC-00103,Alexander,Smith,American,J347,MV Flagship Tokyo,Phone,297,8,6190.21,773.78,Handbags,2,3,4,9,Active,2024-02-26,2025-06-05
+MVC-00104,Claire,Smith,Australian,A800,MV SOHO New York,Boutique,21,74,418803.43,5659.51,Handbags,5,5,5,15,VIP,2023-09-16,2026-03-08
+MVC-00105,Sophie,Patel,French,J347,MV Flagship Tokyo,Boutique,838,6,1700.51,283.42,Small Leather Goods,1,3,3,7,Active,2024-07-09,2023-12-12
+MVC-00106,Natasha,Bernard,French,EU_F07M,MV Flagship Paris,Boutique,188,17,6751.24,397.13,Ready-to-Wear,2,4,4,10,High Value,2023-07-28,2025-09-22
+MVC-00107,Emma,Nguyen,British,A800,MV SOHO New York,Boutique,103,17,10952.6,644.27,Ready-to-Wear,3,4,4,11,High Value,2024-09-15,2025-12-16
+MVC-00108,Claire,Wang,Japanese,A800,MV SOHO New York,Boutique,353,4,1692.97,423.24,Handbags,2,2,3,7,Active,2025-05-11,2025-04-10
+MVC-00109,Mei,Rodriguez,Korean,J347,MV Flagship Tokyo,Event,35,5,7429.46,1485.89,Accessories,4,2,4,10,High Value,2024-12-23,2026-02-22
+MVC-00110,William,Williams,Chinese,EU_F07M,MV Flagship Paris,Phone,118,28,19650.9,701.82,Accessories,3,5,5,13,VIP,2023-07-15,2025-12-01
+MVC-00111,Camille,Smith,Korean,J347,MV Flagship Tokyo,Boutique,65,19,15744.0,828.63,Handbags,4,4,5,13,VIP,2025-03-17,2026-01-23
+MVC-00112,Min,Moreau,American,J347,MV Flagship Tokyo,Digital,860,3,252.06,84.02,Handbags,1,2,1,4,Dormant,2024-04-02,2023-11-20
+MVC-00113,Rina,Chen,Japanese,EU_F07M,MV Flagship Paris,Phone,31,8,10890.2,1361.28,Handbags,4,3,4,11,High Value,2024-12-15,2026-02-26
+MVC-00114,Ling,Sharma,Australian,J347,MV Flagship Tokyo,Digital,25,87,543466.26,6246.74,Handbags,5,5,5,15,VIP,2025-04-10,2026-03-04
+MVC-00115,Min,Bernard,American,EU_F07M,MV Flagship Paris,Boutique,879,1,553.73,553.73,Small Leather Goods,1,1,2,4,Dormant,2023-05-10,2023-11-01
+MVC-00116,Priya,Martin,Emirati,J347,MV Flagship Tokyo,Event,19,18,40836.87,2268.72,Handbags,5,4,5,14,VIP,2025-01-09,2026-03-10
+MVC-00117,Yuki,Smith,Chinese,J347,MV Flagship Tokyo,Phone,89,7,3716.53,530.93,Small Leather Goods,4,3,3,10,High Value,2024-09-30,2025-12-30
+MVC-00118,Valentina,Smith,French,EU_F07M,MV Flagship Paris,Boutique,864,3,949.78,316.59,Ready-to-Wear,1,2,2,5,Dormant,2024-10-03,2023-11-16
+MVC-00119,Mei,Wang,Australian,J347,MV Flagship Tokyo,Digital,143,8,5077.05,634.63,Small Leather Goods,3,3,4,10,High Value,2025-02-03,2025-11-06
+MVC-00120,Natasha,Simon,French,A800,MV SOHO New York,Digital,671,2,329.46,164.73,Handbags,1,1,1,3,Dormant,2024-12-11,2024-05-27
+MVC-00121,Elena,Moreau,Chinese,J347,MV Flagship Tokyo,Digital,68,28,18211.76,650.42,Ready-to-Wear,4,5,5,14,VIP,2023-09-08,2026-01-20
+MVC-00122,Valentina,Lee,Brazilian,J347,MV Flagship Tokyo,Boutique,31,18,27518.11,1528.78,Ready-to-Wear,4,4,5,13,VIP,2024-11-30,2026-02-26
+MVC-00123,Priya,Tanaka,Emirati,J347,MV Flagship Tokyo,Digital,122,11,3987.03,362.46,Footwear,3,3,3,9,Active,2024-11-13,2025-11-27
+MVC-00124,Aiko,Park,British,J347,MV Flagship Tokyo,Boutique,41,80,432944.06,5411.8,Handbags,4,5,5,14,VIP,2023-11-03,2026-02-16
+MVC-00125,Valentina,Garcia,Chinese,J347,MV Flagship Tokyo,Boutique,31,13,38722.66,2978.67,Accessories,4,4,5,13,VIP,2023-04-20,2026-02-26
+MVC-00126,Isabella,Tanaka,Italian,EU_F07M,MV Flagship Paris,Event,73,9,9409.05,1045.45,Jewelry,4,3,4,11,High Value,2023-01-09,2026-01-15
+MVC-00127,Mei,Wang,American,J347,MV Flagship Tokyo,Boutique,325,13,6437.56,495.2,Handbags,2,4,4,10,High Value,2024-09-13,2025-05-08
+MVC-00128,James,Nguyen,Chinese,EU_F07M,MV Flagship Paris,Boutique,351,2,1838.61,919.3,Ready-to-Wear,2,1,3,6,Dormant,2023-04-10,2025-04-12
+MVC-00129,Keiko,Moreau,American,J347,MV Flagship Tokyo,Boutique,59,64,436334.74,6817.73,Handbags,4,5,5,14,VIP,2023-04-03,2026-01-29
+MVC-00130,Keiko,Rodriguez,American,A800,MV SOHO New York,Digital,35,42,73611.52,1752.66,Handbags,4,5,5,14,VIP,2024-05-28,2026-02-22
+MVC-00131,Mei,Smith,Australian,J347,MV Flagship Tokyo,Boutique,482,2,799.47,399.74,Jewelry,1,1,2,4,Dormant,2025-04-03,2024-12-02
+MVC-00132,Isabella,Kim,French,J347,MV Flagship Tokyo,Boutique,457,4,740.61,185.15,Handbags,1,2,2,5,Dormant,2024-01-10,2024-12-27
+MVC-00133,Yuki,Park,Brazilian,EU_F07M,MV Flagship Paris,Boutique,106,17,9345.29,549.72,Accessories,3,4,4,11,High Value,2024-01-26,2025-12-13
+MVC-00134,Rina,Lee,Chinese,A800,MV SOHO New York,Boutique,83,24,12245.09,510.21,Accessories,4,5,4,13,VIP,2023-08-15,2026-01-05
+MVC-00135,Camille,Dubois,American,A800,MV SOHO New York,Boutique,6,16,10206.16,637.88,Footwear,5,4,4,13,VIP,2023-05-24,2026-03-23
+MVC-00136,James,Williams,Brazilian,EU_F07M,MV Flagship Paris,Digital,48,15,22974.64,1531.64,Handbags,4,4,5,13,VIP,2024-04-09,2026-02-09
+MVC-00137,William,Brown,Chinese,J347,MV Flagship Tokyo,Phone,13,11,10868.81,988.07,Ready-to-Wear,5,3,4,12,High Value,2024-11-01,2026-03-16
+MVC-00138,Keiko,Chen,Korean,A800,MV SOHO New York,Boutique,29,73,376432.01,5156.6,Handbags,5,5,5,15,VIP,2024-03-30,2026-02-28
+MVC-00139,Aiko,Bernard,Australian,A800,MV SOHO New York,Phone,36,10,4427.19,442.72,Ready-to-Wear,4,3,3,10,High Value,2024-02-12,2026-02-21
+MVC-00140,Edward,Nguyen,French,A800,MV SOHO New York,Boutique,77,41,80570.82,1965.14,Small Leather Goods,4,5,5,14,VIP,2024-10-16,2026-01-11
+MVC-00141,Edward,Laurent,American,EU_F07M,MV Flagship Paris,Boutique,315,15,6268.11,417.87,Accessories,2,4,4,10,High Value,2025-04-29,2025-05-18
+MVC-00142,William,Lee,Australian,A800,MV SOHO New York,Boutique,36,13,5101.77,392.44,Small Leather Goods,4,4,4,12,High Value,2023-01-03,2026-02-21
+MVC-00143,Emma,Moreau,Chinese,A800,MV SOHO New York,Boutique,46,28,55472.52,1981.16,Handbags,4,5,5,14,VIP,2023-01-16,2026-02-11
+MVC-00144,Camille,Rodriguez,Chinese,A800,MV SOHO New York,Digital,48,77,460373.79,5978.88,Handbags,4,5,5,14,VIP,2023-04-27,2026-02-09
+MVC-00145,Natasha,Rodriguez,French,EU_F07M,MV Flagship Paris,Digital,362,11,6205.17,564.11,Small Leather Goods,2,3,4,9,Active,2023-08-15,2025-04-01
+MVC-00146,Priya,Nguyen,Korean,J347,MV Flagship Tokyo,Boutique,8,23,18496.95,804.22,Footwear,5,5,5,15,VIP,2023-02-01,2026-03-21
+MVC-00147,Natasha,Laurent,French,EU_F07M,MV Flagship Paris,Boutique,42,6,7929.24,1321.54,Handbags,4,3,4,11,High Value,2023-03-24,2026-02-15
+MVC-00148,Rina,Williams,Japanese,J347,MV Flagship Tokyo,Digital,255,5,3317.93,663.59,Accessories,2,2,3,7,Active,2024-09-03,2025-07-17
+MVC-00149,Marie,Nguyen,British,EU_F07M,MV Flagship Paris,Boutique,344,3,3404.83,1134.94,Ready-to-Wear,2,2,3,7,Active,2024-10-28,2025-04-19
+MVC-00150,Camille,Smith,Japanese,J347,MV Flagship Tokyo,Boutique,829,3,648.42,216.14,Small Leather Goods,1,2,2,5,Dormant,2025-04-27,2023-12-21
+MVC-00151,Yuki,Johnson,French,J347,MV Flagship Tokyo,Digital,88,9,7579.41,842.16,Small Leather Goods,4,3,4,11,High Value,2023-06-06,2025-12-31
+MVC-00152,Keiko,Moreau,Brazilian,EU_F07M,MV Flagship Paris,Boutique,8,14,11977.33,855.52,Handbags,5,4,4,13,VIP,2024-07-23,2026-03-21
+MVC-00153,Aiko,Patel,French,EU_F07M,MV Flagship Paris,Boutique,55,35,60793.36,1736.95,Handbags,4,5,5,14,VIP,2025-02-07,2026-02-02
+MVC-00154,Edward,Moreau,Korean,A800,MV SOHO New York,Boutique,62,13,9828.88,756.07,Handbags,4,4,4,12,High Value,2024-11-03,2026-01-26
+MVC-00155,Sakura,Park,Korean,J347,MV Flagship Tokyo,Event,104,6,7166.52,1194.42,Handbags,3,3,4,10,High Value,2023-08-20,2025-12-15
+MVC-00156,Emma,Lee,American,EU_F07M,MV Flagship Paris,Boutique,332,11,2220.79,201.89,Handbags,2,3,3,8,Active,2024-11-04,2025-05-01
+MVC-00157,Yuna,Johnson,Chinese,A800,MV SOHO New York,Boutique,166,7,4360.89,622.98,Handbags,3,3,3,9,Active,2023-01-07,2025-10-14
+MVC-00158,Emma,Laurent,Japanese,A800,MV SOHO New York,Boutique,255,10,4672.16,467.22,Small Leather Goods,2,3,3,8,Active,2025-02-03,2025-07-17
+MVC-00159,Rina,Park,American,A800,MV SOHO New York,Digital,11,10,7783.12,778.31,Ready-to-Wear,5,3,4,12,High Value,2024-09-02,2026-03-18
+MVC-00160,Sakura,Davis,Chinese,J347,MV Flagship Tokyo,Boutique,228,16,5661.47,353.84,Handbags,2,4,4,10,High Value,2024-11-08,2025-08-13
+MVC-00161,Marie,Johnson,British,J347,MV Flagship Tokyo,Boutique,148,11,6925.41,629.58,Handbags,3,3,4,10,High Value,2024-03-16,2025-11-01
+MVC-00162,Isabelle,Wang,French,A800,MV SOHO New York,Boutique,273,4,1910.05,477.51,Accessories,2,2,3,7,Active,2024-02-09,2025-06-29
+MVC-00163,Yuki,Yamamoto,Chinese,A800,MV SOHO New York,Boutique,150,13,6186.01,475.85,Small Leather Goods,3,4,4,11,High Value,2023-12-02,2025-10-30
+MVC-00164,Thomas,Rodriguez,Korean,EU_F07M,MV Flagship Paris,Boutique,107,4,5676.84,1419.21,Small Leather Goods,3,2,4,9,Active,2024-07-26,2025-12-12
+MVC-00165,Emma,Davis,Chinese,J347,MV Flagship Tokyo,Boutique,56,32,165050.35,5157.82,Ready-to-Wear,4,5,5,14,VIP,2023-03-21,2026-02-01
+MVC-00166,Mei,Dubois,American,J347,MV Flagship Tokyo,Phone,125,10,3722.84,372.28,Ready-to-Wear,3,3,3,9,Active,2024-02-19,2025-11-24
+MVC-00167,Keiko,Laurent,Japanese,A800,MV SOHO New York,Boutique,473,1,582.7,582.7,Small Leather Goods,1,1,2,4,Dormant,2024-03-23,2024-12-11
+MVC-00168,Hana,Smith,French,A800,MV SOHO New York,Digital,43,19,12609.33,663.65,Handbags,4,4,4,12,High Value,2023-08-15,2026-02-14
+MVC-00169,Aiko,Johnson,Korean,EU_F07M,MV Flagship Paris,Boutique,105,18,14139.88,785.55,Handbags,3,4,4,11,High Value,2025-01-14,2025-12-14
+MVC-00170,Oliver,Lee,French,EU_F07M,MV Flagship Paris,Event,98,7,5900.85,842.98,Ready-to-Wear,3,3,4,10,High Value,2023-06-06,2025-12-21
+MVC-00171,Natasha,Patel,Australian,EU_F07M,MV Flagship Paris,Boutique,83,18,11294.67,627.48,Handbags,4,4,4,12,High Value,2024-08-01,2026-01-05
+MVC-00172,Natasha,Laurent,American,EU_F07M,MV Flagship Paris,Boutique,57,12,13866.75,1155.56,Footwear,4,4,4,12,High Value,2024-04-25,2026-01-31
+MVC-00173,Amélie,Yamamoto,French,A800,MV SOHO New York,Digital,58,14,6779.38,484.24,Handbags,4,4,4,12,High Value,2024-04-17,2026-01-30
+MVC-00174,Claire,Lee,Japanese,J347,MV Flagship Tokyo,Boutique,249,7,2985.96,426.57,Handbags,2,3,3,8,Active,2024-08-31,2025-07-23
+MVC-00175,Natasha,Park,Chinese,J347,MV Flagship Tokyo,Boutique,557,4,568.28,142.07,Ready-to-Wear,1,2,2,5,Dormant,2024-10-29,2024-09-18
+MVC-00176,Yuna,Sharma,American,EU_F07M,MV Flagship Paris,Boutique,65,10,7427.32,742.73,Handbags,4,3,4,11,High Value,2023-03-28,2026-01-23
+MVC-00177,Alexander,Johnson,Japanese,J347,MV Flagship Tokyo,Boutique,654,2,262.39,131.2,Ready-to-Wear,1,1,1,3,Dormant,2024-01-17,2024-06-13
+MVC-00178,Yuna,Laurent,British,EU_F07M,MV Flagship Paris,Boutique,7,82,465299.86,5674.39,Handbags,5,5,5,15,VIP,2023-12-04,2026-03-22
+MVC-00179,William,Smith,American,J347,MV Flagship Tokyo,Digital,509,8,1743.07,217.88,Handbags,1,3,3,7,Active,2023-03-25,2024-11-05
+MVC-00180,Claire,Yamamoto,Italian,EU_F07M,MV Flagship Paris,Digital,49,12,9552.28,796.02,Accessories,4,4,4,12,High Value,2024-07-26,2026-02-08
+MVC-00181,Claire,Nguyen,Japanese,EU_F07M,MV Flagship Paris,Boutique,228,11,4571.5,415.59,Handbags,2,3,3,8,Active,2024-11-17,2025-08-13
+MVC-00182,Yuna,Garcia,American,A800,MV SOHO New York,Boutique,596,1,1026.5,1026.5,Jewelry,1,1,2,4,Dormant,2023-07-16,2024-08-10
+MVC-00183,Isabelle,Patel,French,EU_F07M,MV Flagship Paris,Boutique,113,17,8244.32,484.96,Small Leather Goods,3,4,4,11,High Value,2023-12-11,2025-12-06
+MVC-00184,Alexander,Davis,British,J347,MV Flagship Tokyo,Boutique,53,27,60842.83,2253.44,Handbags,4,5,5,14,VIP,2023-02-14,2026-02-04
+MVC-00185,Natasha,Wang,Australian,J347,MV Flagship Tokyo,Digital,181,9,2518.59,279.84,Small Leather Goods,2,3,3,8,Active,2024-06-30,2025-09-29
+MVC-00186,Natasha,Davis,Chinese,J347,MV Flagship Tokyo,Boutique,37,14,4475.05,319.65,Handbags,4,4,3,11,High Value,2025-02-26,2026-02-20
+MVC-00187,James,Tanaka,Chinese,J347,MV Flagship Tokyo,Boutique,857,3,1537.24,512.41,Small Leather Goods,1,2,3,6,Dormant,2023-02-23,2023-11-23
+MVC-00188,Mei,Laurent,Japanese,J347,MV Flagship Tokyo,Boutique,529,6,1832.18,305.36,Ready-to-Wear,1,3,3,7,Active,2025-02-20,2024-10-16
+MVC-00189,Thomas,Davis,French,J347,MV Flagship Tokyo,Boutique,4,25,59717.32,2388.69,Footwear,5,5,5,15,VIP,2023-12-24,2026-03-25
+MVC-00190,Claire,Johnson,Brazilian,J347,MV Flagship Tokyo,Digital,4,5,9695.35,1939.07,Small Leather Goods,5,2,4,11,High Value,2023-08-18,2026-03-25
+MVC-00191,William,Moreau,British,J347,MV Flagship Tokyo,Boutique,37,20,14970.92,748.55,Handbags,4,5,4,13,VIP,2023-02-09,2026-02-20
+MVC-00192,Sophie,Laurent,Korean,A800,MV SOHO New York,Boutique,33,18,9673.55,537.42,Ready-to-Wear,4,4,4,12,High Value,2023-01-20,2026-02-24
+MVC-00193,Elena,Dubois,American,A800,MV SOHO New York,Boutique,193,12,4133.5,344.46,Ready-to-Wear,2,4,3,9,Active,2025-03-05,2025-09-17
+MVC-00194,Priya,Laurent,Chinese,J347,MV Flagship Tokyo,Boutique,334,6,3664.01,610.67,Handbags,2,3,3,8,Active,2023-04-24,2025-04-29
+MVC-00195,William,Yamamoto,Japanese,EU_F07M,MV Flagship Paris,Boutique,120,5,3005.82,601.16,Small Leather Goods,3,2,3,8,Active,2024-03-15,2025-11-29
+MVC-00196,Claire,Rodriguez,Chinese,EU_F07M,MV Flagship Paris,Digital,137,10,7545.45,754.54,Accessories,3,3,4,10,High Value,2024-01-05,2025-11-12
+MVC-00197,Valentina,Garcia,Australian,J347,MV Flagship Tokyo,Boutique,282,9,3966.43,440.71,Footwear,2,3,3,8,Active,2023-02-14,2025-06-20
+MVC-00198,Amélie,Johnson,Chinese,EU_F07M,MV Flagship Paris,Digital,94,11,11268.09,1024.37,Handbags,3,3,4,10,High Value,2023-09-04,2025-12-25
+MVC-00199,James,Bernard,Korean,J347,MV Flagship Tokyo,Boutique,259,17,3644.57,214.39,Handbags,2,4,3,9,Active,2023-12-27,2025-07-13
+MVC-00200,Ling,Nguyen,French,A800,MV SOHO New York,Digital,104,18,11340.55,630.03,Handbags,3,4,4,11,High Value,2023-07-06,2025-12-15
+MVC-00201,Henry,Bernard,American,A800,MV SOHO New York,Boutique,13,72,382437.45,5311.63,Small Leather Goods,5,5,5,15,VIP,2025-03-21,2026-03-16
+MVC-00202,Ling,Tanaka,Japanese,J347,MV Flagship Tokyo,Digital,560,5,1102.57,220.51,Handbags,1,2,2,5,Dormant,2023-02-07,2024-09-15
+MVC-00203,Marie,Johnson,Italian,J347,MV Flagship Tokyo,Phone,114,10,8251.17,825.12,Footwear,3,3,4,10,High Value,2024-03-23,2025-12-05
+MVC-00204,Oliver,Garcia,Brazilian,J347,MV Flagship Tokyo,Boutique,64,15,5562.82,370.85,Handbags,4,4,4,12,High Value,2024-12-09,2026-01-24
+MVC-00205,Claire,Brown,Chinese,A800,MV SOHO New York,Boutique,330,10,4765.68,476.57,Handbags,2,3,3,8,Active,2024-09-08,2025-05-03
+MVC-00206,Mei,Yamamoto,Japanese,EU_F07M,MV Flagship Paris,Digital,78,13,5786.95,445.15,Ready-to-Wear,4,4,4,12,High Value,2024-04-01,2026-01-10
+MVC-00207,Aiko,Lee,Australian,EU_F07M,MV Flagship Paris,Phone,36,8,6208.19,776.02,Small Leather Goods,4,3,4,11,High Value,2024-03-21,2026-02-21
+MVC-00208,Isabella,Johnson,British,EU_F07M,MV Flagship Paris,Event,325,5,3828.38,765.68,Ready-to-Wear,2,2,3,7,Active,2024-06-09,2025-05-08
+MVC-00209,Natasha,Bernard,Italian,A800,MV SOHO New York,Boutique,433,4,1540.53,385.13,Handbags,1,2,3,6,Dormant,2023-05-10,2025-01-20
+MVC-00210,Isabelle,Lee,Japanese,J347,MV Flagship Tokyo,Digital,825,6,1968.05,328.01,Ready-to-Wear,1,3,3,7,Active,2023-06-07,2023-12-25
+MVC-00211,Keiko,Williams,American,J347,MV Flagship Tokyo,Boutique,84,41,72759.34,1774.62,Small Leather Goods,4,5,5,14,VIP,2023-11-18,2026-01-04
+MVC-00212,Valentina,Kim,British,J347,MV Flagship Tokyo,Boutique,34,44,86891.1,1974.8,Handbags,4,5,5,14,VIP,2023-05-01,2026-02-23
+MVC-00213,Min,Chen,Japanese,A800,MV SOHO New York,Phone,18,14,10318.4,737.03,Ready-to-Wear,5,4,4,13,VIP,2023-05-06,2026-03-11
+MVC-00214,Rina,Patel,Chinese,EU_F07M,MV Flagship Paris,Phone,431,9,1296.56,144.06,Accessories,1,3,2,6,Dormant,2023-12-22,2025-01-22
+MVC-00215,Oliver,Johnson,Australian,A800,MV SOHO New York,Digital,177,16,4844.82,302.8,Handbags,3,4,3,10,High Value,2024-06-04,2025-10-03
+MVC-00216,Emma,Johnson,Japanese,J347,MV Flagship Tokyo,Event,266,11,3482.35,316.58,Ready-to-Wear,2,3,3,8,Active,2024-07-21,2025-07-06
+MVC-00217,Claire,Laurent,British,EU_F07M,MV Flagship Paris,Boutique,221,15,5376.01,358.4,Handbags,2,4,4,10,High Value,2023-11-13,2025-08-20
+MVC-00218,Amélie,Moreau,Japanese,J347,MV Flagship Tokyo,Boutique,440,8,1720.81,215.1,Handbags,1,3,3,7,Active,2023-11-21,2025-01-13
+MVC-00219,Oliver,Moreau,Korean,A800,MV SOHO New York,Boutique,879,2,516.76,258.38,Accessories,1,1,2,4,Dormant,2024-03-19,2023-11-01
+MVC-00220,Rina,Sharma,Emirati,EU_F07M,MV Flagship Paris,Digital,45,40,73854.72,1846.37,Small Leather Goods,4,5,5,14,VIP,2023-08-19,2026-02-12
+MVC-00221,Sakura,Moreau,Chinese,EU_F07M,MV Flagship Paris,Boutique,39,24,50400.64,2100.03,Handbags,4,5,5,14,VIP,2024-10-02,2026-02-18
+MVC-00222,William,Simon,Emirati,EU_F07M,MV Flagship Paris,Boutique,279,9,3728.5,414.28,Ready-to-Wear,2,3,3,8,Active,2024-11-05,2025-06-23
+MVC-00223,Emma,Laurent,American,EU_F07M,MV Flagship Paris,Boutique,42,39,242945.34,6229.37,Footwear,4,5,5,14,VIP,2023-02-16,2026-02-15
+MVC-00224,Emma,Garcia,Chinese,J347,MV Flagship Tokyo,Boutique,70,22,13145.85,597.54,Small Leather Goods,4,5,4,13,VIP,2024-10-04,2026-01-18
+MVC-00225,Isabella,Yamamoto,French,EU_F07M,MV Flagship Paris,Boutique,439,3,2235.77,745.26,Handbags,1,2,3,6,Dormant,2024-04-09,2025-01-14
+MVC-00226,Yuna,Lee,American,EU_F07M,MV Flagship Paris,Event,41,14,9494.28,678.16,Handbags,4,4,4,12,High Value,2023-05-28,2026-02-16
+MVC-00227,James,Johnson,American,J347,MV Flagship Tokyo,Boutique,473,6,888.25,148.04,Handbags,1,3,2,6,Dormant,2024-06-11,2024-12-11
+MVC-00228,Lucie,Bernard,Japanese,EU_F07M,MV Flagship Paris,Event,50,44,80874.99,1838.07,Handbags,4,5,5,14,VIP,2023-10-25,2026-02-07
+MVC-00229,Rina,Chen,Australian,J347,MV Flagship Tokyo,Boutique,528,9,1309.73,145.53,Accessories,1,3,2,6,Dormant,2025-02-20,2024-10-17
+MVC-00230,Claire,Williams,American,A800,MV SOHO New York,Boutique,59,19,11950.77,628.99,Small Leather Goods,4,4,4,12,High Value,2024-06-01,2026-01-29
+MVC-00231,Ling,Yamamoto,Japanese,A800,MV SOHO New York,Phone,2,22,10892.96,495.13,Handbags,5,5,4,14,VIP,2024-07-03,2026-03-27
+MVC-00232,Isabella,Johnson,Chinese,A800,MV SOHO New York,Boutique,52,17,12975.45,763.26,Handbags,4,4,4,12,High Value,2023-02-16,2026-02-05
+MVC-00233,Valentina,Rodriguez,American,EU_F07M,MV Flagship Paris,Event,98,11,7086.38,644.22,Handbags,3,3,4,10,High Value,2024-04-06,2025-12-21
+MVC-00234,James,Dubois,Chinese,J347,MV Flagship Tokyo,Boutique,215,11,3750.54,340.96,Ready-to-Wear,2,3,3,8,Active,2024-02-08,2025-08-26
+MVC-00235,Isabella,Rodriguez,French,A800,MV SOHO New York,Boutique,6,38,66569.64,1751.83,Handbags,5,5,5,15,VIP,2023-02-11,2026-03-23
+MVC-00236,William,Lee,Brazilian,J347,MV Flagship Tokyo,Boutique,18,13,5956.0,458.15,Ready-to-Wear,5,4,4,13,VIP,2024-06-11,2026-03-11
+MVC-00237,Hana,Park,Chinese,EU_F07M,MV Flagship Paris,Digital,884,1,377.47,377.47,Handbags,1,1,1,3,Dormant,2023-12-11,2023-10-27
+MVC-00238,Emma,Johnson,Australian,A800,MV SOHO New York,Boutique,87,21,19827.03,944.14,Handbags,4,5,5,14,VIP,2023-12-06,2026-01-01
+MVC-00239,Emma,Lee,Italian,EU_F07M,MV Flagship Paris,Digital,636,8,1506.68,188.34,Accessories,1,3,3,7,Active,2024-04-30,2024-07-01
+MVC-00240,Charlotte,Park,Chinese,EU_F07M,MV Flagship Paris,Digital,22,23,47895.28,2082.4,Handbags,5,5,5,15,VIP,2024-05-06,2026-03-07
+MVC-00241,Charles,Bernard,American,A800,MV SOHO New York,Boutique,90,16,34965.84,2185.36,Handbags,4,4,5,13,VIP,2024-08-09,2025-12-29
+MVC-00242,Edward,Brown,Emirati,J347,MV Flagship Tokyo,Digital,79,18,28083.28,1560.18,Small Leather Goods,4,4,5,13,VIP,2024-05-28,2026-01-09
+MVC-00243,Edward,Kim,Chinese,J347,MV Flagship Tokyo,Boutique,289,7,3489.42,498.49,Accessories,2,3,3,8,Active,2023-11-29,2025-06-13
+MVC-00244,Yuna,Kim,British,EU_F07M,MV Flagship Paris,Digital,87,8,5122.06,640.26,Footwear,4,3,4,11,High Value,2023-12-29,2026-01-01
+MVC-00245,Henry,Wang,American,J347,MV Flagship Tokyo,Event,262,9,5335.87,592.87,Handbags,2,3,4,9,Active,2023-10-13,2025-07-10
+MVC-00246,Edward,Sharma,Chinese,J347,MV Flagship Tokyo,Boutique,245,8,5046.24,630.78,Small Leather Goods,2,3,4,9,Active,2024-12-22,2025-07-27
+MVC-00247,Marie,Park,Emirati,J347,MV Flagship Tokyo,Boutique,70,10,3650.74,365.07,Ready-to-Wear,4,3,3,10,High Value,2024-11-23,2026-01-18
+MVC-00248,William,Yamamoto,French,EU_F07M,MV Flagship Paris,Phone,659,3,852.54,284.18,Handbags,1,2,2,5,Dormant,2023-02-13,2024-06-08
+MVC-00249,Ling,Chen,American,EU_F07M,MV Flagship Paris,Boutique,106,24,12278.95,511.62,Ready-to-Wear,3,5,4,12,High Value,2023-07-26,2025-12-13
+MVC-00250,Charles,Wang,American,EU_F07M,MV Flagship Paris,Boutique,86,13,35253.27,2711.79,Handbags,4,4,5,13,VIP,2023-02-21,2026-01-02
+MVC-00251,Ling,Dubois,French,A800,MV SOHO New York,Boutique,99,15,9544.17,636.28,Ready-to-Wear,3,4,4,11,High Value,2024-11-28,2025-12-20
+MVC-00252,Ling,Garcia,American,J347,MV Flagship Tokyo,Digital,26,12,6405.62,533.8,Jewelry,5,4,4,13,VIP,2024-10-28,2026-03-03
+MVC-00253,Thomas,Kim,Brazilian,A800,MV SOHO New York,Boutique,305,9,2719.82,302.2,Handbags,2,3,3,8,Active,2025-01-26,2025-05-28
+MVC-00254,Isabelle,Williams,Brazilian,A800,MV SOHO New York,Event,872,4,578.27,144.57,Footwear,1,2,2,5,Dormant,2025-03-17,2023-11-08
+MVC-00255,Sophie,Yamamoto,American,J347,MV Flagship Tokyo,Event,474,8,2180.27,272.53,Handbags,1,3,3,7,Active,2024-08-04,2024-12-10
+MVC-00256,James,Rodriguez,Korean,A800,MV SOHO New York,Boutique,35,4,2532.74,633.18,Ready-to-Wear,4,2,3,9,Active,2024-04-24,2026-02-22
+MVC-00257,Yuki,Sharma,American,EU_F07M,MV Flagship Paris,Boutique,2,22,8881.49,403.7,Small Leather Goods,5,5,4,14,VIP,2023-07-10,2026-03-27
+MVC-00258,Oliver,Lee,Korean,J347,MV Flagship Tokyo,Boutique,283,8,3213.05,401.63,Footwear,2,3,3,8,Active,2025-05-26,2025-06-19
+MVC-00259,Lucie,Simon,Brazilian,J347,MV Flagship Tokyo,Boutique,62,27,18633.09,690.11,Handbags,4,5,5,14,VIP,2023-05-24,2026-01-26
+MVC-00260,Sakura,Smith,Chinese,EU_F07M,MV Flagship Paris,Boutique,75,36,90130.05,2503.61,Handbags,4,5,5,14,VIP,2023-11-06,2026-01-13
+MVC-00261,Charlotte,Patel,American,J347,MV Flagship Tokyo,Digital,239,10,5800.19,580.02,Ready-to-Wear,2,3,4,9,Active,2023-05-02,2025-08-02
+MVC-00262,Marie,Nguyen,American,EU_F07M,MV Flagship Paris,Event,214,11,6826.74,620.61,Handbags,2,3,4,9,Active,2023-10-30,2025-08-27
+MVC-00263,Keiko,Brown,Italian,J347,MV Flagship Tokyo,Digital,71,29,50464.23,1740.15,Small Leather Goods,4,5,5,14,VIP,2024-12-19,2026-01-17
+MVC-00264,Claire,Rodriguez,Japanese,EU_F07M,MV Flagship Paris,Phone,255,13,8513.16,654.86,Small Leather Goods,2,4,4,10,High Value,2024-04-02,2025-07-17
+MVC-00265,Henry,Park,American,A800,MV SOHO New York,Boutique,10,30,220056.54,7335.22,Small Leather Goods,5,5,5,15,VIP,2024-07-03,2026-03-19
+MVC-00266,Min,Laurent,Japanese,A800,MV SOHO New York,Boutique,234,4,2940.85,735.21,Handbags,2,2,3,7,Active,2024-06-06,2025-08-07
+MVC-00267,Priya,Patel,French,EU_F07M,MV Flagship Paris,Boutique,198,10,7712.73,771.27,Footwear,2,3,4,9,Active,2025-04-06,2025-09-12
+MVC-00268,Amélie,Bernard,French,EU_F07M,MV Flagship Paris,Event,208,4,1328.7,332.18,Ready-to-Wear,2,2,2,6,Dormant,2024-03-09,2025-09-02
+MVC-00269,Ling,Bernard,Italian,A800,MV SOHO New York,Digital,783,3,329.62,109.87,Small Leather Goods,1,2,1,4,Dormant,2023-10-21,2024-02-05
+MVC-00270,Camille,Johnson,Japanese,J347,MV Flagship Tokyo,Digital,234,12,5356.12,446.34,Handbags,2,4,4,10,High Value,2024-01-27,2025-08-07
+MVC-00271,James,Nguyen,American,A800,MV SOHO New York,Boutique,721,3,874.13,291.38,Accessories,1,2,2,5,Dormant,2025-05-30,2024-04-07
+MVC-00272,Thomas,Martin,Japanese,J347,MV Flagship Tokyo,Digital,3,39,72123.04,1849.31,Handbags,5,5,5,15,VIP,2025-02-13,2026-03-26
+MVC-00273,Thomas,Wang,American,A800,MV SOHO New York,Phone,45,18,12693.49,705.19,Ready-to-Wear,4,4,4,12,High Value,2024-04-16,2026-02-12
+MVC-00274,Isabelle,Patel,American,A800,MV SOHO New York,Boutique,277,6,3224.08,537.35,Handbags,2,3,3,8,Active,2024-03-05,2025-06-25
+MVC-00275,Charlotte,Wang,Japanese,J347,MV Flagship Tokyo,Boutique,3,63,367667.96,5836.0,Footwear,5,5,5,15,VIP,2025-01-28,2026-03-26
+MVC-00276,Mei,Wang,Chinese,J347,MV Flagship Tokyo,Digital,74,19,35629.32,1875.23,Handbags,4,4,5,13,VIP,2025-04-15,2026-01-14
+MVC-00277,William,Patel,American,J347,MV Flagship Tokyo,Boutique,29,20,49169.09,2458.45,Handbags,5,5,5,15,VIP,2024-06-17,2026-02-28
+MVC-00278,Oliver,Nguyen,Chinese,EU_F07M,MV Flagship Paris,Event,802,10,2432.59,243.26,Footwear,1,3,3,7,Active,2024-11-26,2024-01-17
+MVC-00279,Rina,Sharma,American,A800,MV SOHO New York,Boutique,224,6,2449.94,408.32,Handbags,2,3,3,8,Active,2024-03-02,2025-08-17
+MVC-00280,Thomas,Yamamoto,Korean,A800,MV SOHO New York,Phone,91,26,17831.96,685.84,Handbags,3,5,5,13,VIP,2025-05-28,2025-12-28
+MVC-00281,Camille,Kim,American,J347,MV Flagship Tokyo,Boutique,18,18,18473.96,1026.33,Small Leather Goods,5,4,5,14,VIP,2024-06-26,2026-03-11
+MVC-00282,Natasha,Johnson,Korean,EU_F07M,MV Flagship Paris,Boutique,35,53,293390.04,5535.66,Handbags,4,5,5,14,VIP,2023-04-05,2026-02-22
+MVC-00283,Isabelle,Laurent,British,EU_F07M,MV Flagship Paris,Boutique,325,5,1366.1,273.22,Footwear,2,2,2,6,Dormant,2023-07-12,2025-05-08
+MVC-00284,Yuna,Yamamoto,Australian,A800,MV SOHO New York,Boutique,28,31,53041.22,1711.01,Handbags,5,5,5,15,VIP,2023-01-16,2026-03-01
+MVC-00285,Edward,Williams,Japanese,J347,MV Flagship Tokyo,Boutique,694,8,1361.14,170.14,Small Leather Goods,1,3,2,6,Dormant,2023-09-03,2024-05-04
+MVC-00286,Keiko,Rodriguez,Korean,A800,MV SOHO New York,Digital,60,17,7188.85,422.87,Ready-to-Wear,4,4,4,12,High Value,2024-05-24,2026-01-28
+MVC-00287,Keiko,Smith,Emirati,EU_F07M,MV Flagship Paris,Digital,411,4,823.46,205.86,Handbags,1,2,2,5,Dormant,2024-02-28,2025-02-11
+MVC-00288,Camille,Yamamoto,American,J347,MV Flagship Tokyo,Boutique,26,14,14013.88,1000.99,Handbags,5,4,4,13,VIP,2023-06-06,2026-03-03
+MVC-00289,Yuna,Tanaka,Australian,J347,MV Flagship Tokyo,Digital,106,11,9541.47,867.41,Handbags,3,3,4,10,High Value,2025-02-20,2025-12-13
+MVC-00290,Aiko,Simon,Chinese,EU_F07M,MV Flagship Paris,Phone,93,20,14093.3,704.66,Handbags,3,5,4,12,High Value,2023-05-24,2025-12-26
+MVC-00291,Charlotte,Rodriguez,French,EU_F07M,MV Flagship Paris,Boutique,441,1,949.28,949.28,Handbags,1,1,2,4,Dormant,2023-02-04,2025-01-12
+MVC-00292,Thomas,Laurent,American,A800,MV SOHO New York,Boutique,519,3,548.57,182.86,Small Leather Goods,1,2,2,5,Dormant,2024-12-25,2024-10-26
+MVC-00293,Ling,Patel,Chinese,A800,MV SOHO New York,Boutique,124,12,4486.78,373.9,Ready-to-Wear,3,4,3,10,High Value,2024-05-14,2025-11-25
+MVC-00294,Sakura,Kim,Korean,EU_F07M,MV Flagship Paris,Digital,3,6,5044.54,840.76,Accessories,5,3,4,12,High Value,2023-10-21,2026-03-26
+MVC-00295,Lucie,Rodriguez,Chinese,A800,MV SOHO New York,Boutique,31,15,30987.1,2065.81,Ready-to-Wear,4,4,5,13,VIP,2023-06-02,2026-02-26
+MVC-00296,Isabella,Laurent,Chinese,J347,MV Flagship Tokyo,Event,52,16,11578.78,723.67,Handbags,4,4,4,12,High Value,2024-01-18,2026-02-05
+MVC-00297,Claire,Nguyen,French,A800,MV SOHO New York,Boutique,84,7,3573.22,510.46,Ready-to-Wear,4,3,3,10,High Value,2025-05-28,2026-01-04
+MVC-00298,Sophie,Sharma,Korean,J347,MV Flagship Tokyo,Digital,11,12,7817.78,651.48,Handbags,5,4,4,13,VIP,2023-06-25,2026-03-18
+MVC-00299,Lucie,Rodriguez,Emirati,A800,MV SOHO New York,Digital,178,4,2493.47,623.37,Handbags,3,2,3,8,Active,2023-02-13,2025-10-02
+MVC-00300,Isabelle,Laurent,Emirati,J347,MV Flagship Tokyo,Boutique,119,19,10665.08,561.32,Jewelry,3,4,4,11,High Value,2024-12-01,2025-11-30
+MVC-00301,Rina,Martin,Italian,A800,MV SOHO New York,Digital,76,36,66089.31,1835.81,Handbags,4,5,5,14,VIP,2023-08-01,2026-01-12
+MVC-00302,Hana,Simon,Korean,EU_F07M,MV Flagship Paris,Boutique,611,4,754.53,188.63,Jewelry,1,2,2,5,Dormant,2024-07-31,2024-07-26
+MVC-00303,James,Sharma,Italian,EU_F07M,MV Flagship Paris,Boutique,11,8,5282.97,660.37,Small Leather Goods,5,3,4,12,High Value,2025-01-11,2026-03-18
+MVC-00304,Amélie,Smith,Brazilian,EU_F07M,MV Flagship Paris,Boutique,99,26,16134.77,620.57,Handbags,3,5,5,13,VIP,2024-09-11,2025-12-20
+MVC-00305,Sakura,Davis,Chinese,J347,MV Flagship Tokyo,Boutique,15,44,250197.78,5686.31,Handbags,5,5,5,15,VIP,2024-05-17,2026-03-14
+MVC-00306,Valentina,Laurent,Italian,J347,MV Flagship Tokyo,Digital,278,17,5582.64,328.39,Handbags,2,4,4,10,High Value,2025-03-01,2025-06-24
+MVC-00307,Valentina,Sharma,Italian,A800,MV SOHO New York,Boutique,82,27,18086.84,669.88,Handbags,4,5,5,14,VIP,2025-03-13,2026-01-06
+MVC-00308,Hana,Davis,French,A800,MV SOHO New York,Boutique,35,17,38752.25,2279.54,Small Leather Goods,4,4,5,13,VIP,2024-01-04,2026-02-22
+MVC-00309,Camille,Dubois,Chinese,J347,MV Flagship Tokyo,Boutique,142,13,7284.34,560.33,Footwear,3,4,4,11,High Value,2023-01-27,2025-11-07
+MVC-00310,Sophie,Yamamoto,British,A800,MV SOHO New York,Boutique,762,5,1321.65,264.33,Jewelry,1,2,2,5,Dormant,2024-02-28,2024-02-26
+MVC-00311,Alexander,Patel,American,A800,MV SOHO New York,Boutique,163,8,3173.39,396.67,Handbags,3,3,3,9,Active,2024-01-25,2025-10-17
+MVC-00312,Elena,Tanaka,Italian,J347,MV Flagship Tokyo,Boutique,20,45,316174.35,7026.1,Handbags,5,5,5,15,VIP,2024-03-07,2026-03-09
+MVC-00313,Min,Lee,French,J347,MV Flagship Tokyo,Boutique,170,10,4091.33,409.13,Footwear,3,3,3,9,Active,2024-09-23,2025-10-10
+MVC-00314,Valentina,Smith,Korean,J347,MV Flagship Tokyo,Phone,43,12,9370.06,780.84,Handbags,4,4,4,12,High Value,2024-03-26,2026-02-14
+MVC-00315,Rina,Lee,American,J347,MV Flagship Tokyo,Event,26,43,58991.25,1371.89,Ready-to-Wear,5,5,5,15,VIP,2024-12-12,2026-03-03
+MVC-00316,Min,Park,Japanese,J347,MV Flagship Tokyo,Digital,32,27,18820.84,697.07,Ready-to-Wear,4,5,5,14,VIP,2025-03-11,2026-02-25
+MVC-00317,Henry,Park,Italian,EU_F07M,MV Flagship Paris,Boutique,24,24,16184.84,674.37,Handbags,5,5,5,15,VIP,2024-07-12,2026-03-05
+MVC-00318,Edward,Davis,French,EU_F07M,MV Flagship Paris,Digital,38,9,9377.51,1041.95,Handbags,4,3,4,11,High Value,2025-03-27,2026-02-19
+MVC-00319,James,Nguyen,British,J347,MV Flagship Tokyo,Digital,181,16,6665.64,416.6,Handbags,2,4,4,10,High Value,2023-11-07,2025-09-29
+MVC-00320,Ling,Park,Brazilian,EU_F07M,MV Flagship Paris,Phone,35,63,420667.45,6677.26,Handbags,4,5,5,14,VIP,2024-02-15,2026-02-22
+MVC-00321,Keiko,Sharma,Chinese,EU_F07M,MV Flagship Paris,Boutique,69,18,17855.11,991.95,Footwear,4,4,5,13,VIP,2025-04-11,2026-01-19
+MVC-00322,Aiko,Simon,Chinese,A800,MV SOHO New York,Digital,276,12,5969.93,497.49,Accessories,2,4,4,10,High Value,2024-10-24,2025-06-26
+MVC-00323,Yuna,Brown,American,A800,MV SOHO New York,Boutique,2,9,6240.47,693.39,Ready-to-Wear,5,3,4,12,High Value,2023-04-19,2026-03-27
+MVC-00324,Thomas,Davis,Italian,J347,MV Flagship Tokyo,Boutique,220,18,6478.04,359.89,Handbags,2,4,4,10,High Value,2024-01-19,2025-08-21
+MVC-00325,Emma,Garcia,Brazilian,J347,MV Flagship Tokyo,Boutique,38,25,55823.34,2232.93,Handbags,4,5,5,14,VIP,2023-04-18,2026-02-19
+MVC-00326,Hana,Smith,Chinese,EU_F07M,MV Flagship Paris,Boutique,27,33,56978.25,1726.61,Handbags,5,5,5,15,VIP,2024-04-11,2026-03-02
+MVC-00327,Natasha,Smith,Korean,A800,MV SOHO New York,Boutique,196,5,2500.01,500.0,Handbags,2,2,3,7,Active,2023-03-10,2025-09-14
+MVC-00328,Alexander,Wang,American,EU_F07M,MV Flagship Paris,Boutique,164,8,3782.75,472.84,Handbags,3,3,3,9,Active,2024-06-12,2025-10-16
+MVC-00329,Isabella,Nguyen,British,EU_F07M,MV Flagship Paris,Boutique,24,22,39110.86,1777.77,Footwear,5,5,5,15,VIP,2023-07-08,2026-03-05
+MVC-00330,Henry,Davis,French,J347,MV Flagship Tokyo,Boutique,229,7,1363.57,194.8,Small Leather Goods,2,3,2,7,Active,2024-08-29,2025-08-12
+MVC-00331,Amélie,Park,American,EU_F07M,MV Flagship Paris,Boutique,324,10,5380.37,538.04,Footwear,2,3,4,9,Active,2023-04-15,2025-05-09
+MVC-00332,Min,Rodriguez,Japanese,EU_F07M,MV Flagship Paris,Boutique,41,35,64800.09,1851.43,Ready-to-Wear,4,5,5,14,VIP,2024-10-16,2026-02-16
+MVC-00333,Priya,Lee,British,EU_F07M,MV Flagship Paris,Boutique,105,12,6782.1,565.18,Small Leather Goods,3,4,4,11,High Value,2023-06-26,2025-12-14
+MVC-00334,James,Smith,French,J347,MV Flagship Tokyo,Boutique,181,3,2283.64,761.21,Handbags,2,2,3,7,Active,2023-05-01,2025-09-29
+MVC-00335,Camille,Lee,Japanese,J347,MV Flagship Tokyo,Boutique,74,25,15530.26,621.21,Handbags,4,5,5,14,VIP,2023-05-22,2026-01-14
+MVC-00336,Oliver,Kim,French,J347,MV Flagship Tokyo,Boutique,245,9,3117.94,346.44,Footwear,2,3,3,8,Active,2023-06-20,2025-07-27
+MVC-00337,Aiko,Martin,Korean,A800,MV SOHO New York,Event,154,9,6857.4,761.93,Handbags,3,3,4,10,High Value,2024-05-11,2025-10-26
+MVC-00338,Camille,Patel,Korean,EU_F07M,MV Flagship Paris,Boutique,226,10,4757.94,475.79,Handbags,2,3,3,8,Active,2024-05-18,2025-08-15
+MVC-00339,Thomas,Yamamoto,Chinese,A800,MV SOHO New York,Boutique,190,5,2650.57,530.11,Small Leather Goods,2,2,3,7,Active,2023-02-03,2025-09-20
+MVC-00340,Min,Kim,French,EU_F07M,MV Flagship Paris,Digital,148,7,3610.73,515.82,Handbags,3,3,3,9,Active,2024-06-07,2025-11-01
+MVC-00341,Isabelle,Davis,French,J347,MV Flagship Tokyo,Digital,28,18,13777.43,765.41,Footwear,5,4,4,13,VIP,2024-07-13,2026-03-01
+MVC-00342,Isabelle,Davis,Japanese,A800,MV SOHO New York,Event,45,7,4227.62,603.95,Handbags,4,3,3,10,High Value,2023-09-27,2026-02-12
+MVC-00343,Aiko,Sharma,American,J347,MV Flagship Tokyo,Boutique,81,24,54179.25,2257.47,Ready-to-Wear,4,5,5,14,VIP,2024-09-16,2026-01-07
+MVC-00344,Charlotte,Park,Chinese,EU_F07M,MV Flagship Paris,Boutique,652,4,1671.4,417.85,Jewelry,1,2,3,6,Dormant,2023-12-26,2024-06-15
+MVC-00345,Sakura,Rodriguez,French,A800,MV SOHO New York,Digital,105,11,9558.46,868.95,Small Leather Goods,3,3,4,10,High Value,2024-11-26,2025-12-14
+MVC-00346,Sakura,Nguyen,French,A800,MV SOHO New York,Boutique,500,10,1804.18,180.42,Handbags,1,3,3,7,Active,2023-05-10,2024-11-14
+MVC-00347,Isabella,Garcia,American,EU_F07M,MV Flagship Paris,Boutique,267,12,6494.32,541.19,Handbags,2,4,4,10,High Value,2023-05-26,2025-07-05
+MVC-00348,Claire,Williams,British,J347,MV Flagship Tokyo,Phone,48,55,354659.85,6448.36,Handbags,4,5,5,14,VIP,2024-06-11,2026-02-09
+MVC-00349,Rina,Park,Australian,EU_F07M,MV Flagship Paris,Digital,460,7,1346.62,192.37,Jewelry,1,3,2,6,Dormant,2023-01-03,2024-12-24
+MVC-00350,Amélie,Kim,Korean,J347,MV Flagship Tokyo,Boutique,28,7,2671.91,381.7,Small Leather Goods,5,3,3,11,High Value,2024-02-12,2026-03-01
+MVC-00351,Yuna,Kim,Korean,EU_F07M,MV Flagship Paris,Digital,498,9,2260.21,251.13,Handbags,1,3,3,7,Active,2024-08-14,2024-11-16
+MVC-00352,Isabelle,Dubois,French,J347,MV Flagship Tokyo,Phone,320,10,6848.1,684.81,Handbags,2,3,4,9,Active,2024-10-03,2025-05-13
+MVC-00353,Sophie,Brown,Emirati,A800,MV SOHO New York,Boutique,89,27,17901.81,663.03,Handbags,4,5,5,14,VIP,2023-07-27,2025-12-30
+MVC-00354,Keiko,Tanaka,Emirati,EU_F07M,MV Flagship Paris,Boutique,48,33,61206.37,1854.74,Handbags,4,5,5,14,VIP,2023-03-26,2026-02-09
+MVC-00355,Thomas,Brown,French,EU_F07M,MV Flagship Paris,Boutique,143,4,2542.37,635.59,Handbags,3,2,3,8,Active,2024-11-02,2025-11-06
+MVC-00356,Thomas,Rodriguez,French,A800,MV SOHO New York,Boutique,57,20,33652.38,1682.62,Ready-to-Wear,4,5,5,14,VIP,2024-11-27,2026-01-31
+MVC-00357,Elena,Sharma,American,A800,MV SOHO New York,Boutique,854,4,418.06,104.52,Accessories,1,2,1,4,Dormant,2023-05-16,2023-11-26
+MVC-00358,Keiko,Yamamoto,Chinese,A800,MV SOHO New York,Digital,49,31,48716.33,1571.49,Handbags,4,5,5,14,VIP,2023-05-21,2026-02-08
+MVC-00359,Sophie,Lee,Japanese,J347,MV Flagship Tokyo,Boutique,22,5,6016.78,1203.36,Handbags,5,2,4,11,High Value,2024-10-27,2026-03-07
+MVC-00360,Camille,Lee,French,A800,MV SOHO New York,Boutique,57,51,78886.59,1546.8,Handbags,4,5,5,14,VIP,2024-12-04,2026-01-31
+MVC-00361,Valentina,Johnson,American,A800,MV SOHO New York,Digital,200,14,4247.14,303.37,Ready-to-Wear,2,4,3,9,Active,2024-03-15,2025-09-10
+MVC-00362,Mei,Sharma,Emirati,EU_F07M,MV Flagship Paris,Boutique,337,16,5775.91,360.99,Handbags,2,4,4,10,High Value,2023-01-28,2025-04-26
+MVC-00363,Isabella,Yamamoto,Chinese,A800,MV SOHO New York,Boutique,7,11,6753.81,613.98,Ready-to-Wear,5,3,4,12,High Value,2024-10-23,2026-03-22
+MVC-00364,Amélie,Rodriguez,French,J347,MV Flagship Tokyo,Phone,212,17,8113.55,477.27,Handbags,2,4,4,10,High Value,2023-01-13,2025-08-29
+MVC-00365,Oliver,Garcia,Chinese,A800,MV SOHO New York,Boutique,10,22,16761.58,761.89,Handbags,5,5,5,15,VIP,2025-02-27,2026-03-19
+MVC-00366,Charlotte,Williams,British,EU_F07M,MV Flagship Paris,Digital,19,95,505436.71,5320.39,Handbags,5,5,5,15,VIP,2024-06-02,2026-03-10
+MVC-00367,Claire,Nguyen,American,EU_F07M,MV Flagship Paris,Boutique,257,3,3247.6,1082.53,Handbags,2,2,3,7,Active,2024-07-03,2025-07-15
+MVC-00368,Edward,Moreau,Chinese,J347,MV Flagship Tokyo,Digital,42,28,13219.89,472.14,Accessories,4,5,4,13,VIP,2024-07-03,2026-02-15
+MVC-00369,Amélie,Yamamoto,Brazilian,EU_F07M,MV Flagship Paris,Boutique,231,9,4558.83,506.54,Small Leather Goods,2,3,3,8,Active,2024-12-16,2025-08-10
+MVC-00370,Elena,Dubois,French,EU_F07M,MV Flagship Paris,Digital,79,19,42304.37,2226.55,Handbags,4,4,5,13,VIP,2024-04-09,2026-01-09
+MVC-00371,Marie,Martin,French,EU_F07M,MV Flagship Paris,Boutique,155,7,1514.77,216.4,Ready-to-Wear,3,3,3,9,Active,2024-12-25,2025-10-25
+MVC-00372,Yuki,Simon,Italian,EU_F07M,MV Flagship Paris,Boutique,17,19,15674.22,824.96,Small Leather Goods,5,4,5,14,VIP,2024-01-16,2026-03-12
+MVC-00373,Emma,Smith,Chinese,J347,MV Flagship Tokyo,Boutique,229,6,1544.62,257.44,Footwear,2,3,3,8,Active,2025-04-06,2025-08-12
+MVC-00374,Min,Davis,Chinese,A800,MV SOHO New York,Boutique,212,10,3583.02,358.3,Small Leather Goods,2,3,3,8,Active,2024-06-07,2025-08-29
+MVC-00375,Lucie,Park,Italian,A800,MV SOHO New York,Boutique,15,21,50423.46,2401.12,Jewelry,5,5,5,15,VIP,2024-11-21,2026-03-14
+MVC-00376,Ling,Johnson,Brazilian,A800,MV SOHO New York,Phone,20,23,45463.36,1976.67,Small Leather Goods,5,5,5,15,VIP,2024-01-28,2026-03-09
+MVC-00377,Camille,Wang,Brazilian,J347,MV Flagship Tokyo,Boutique,619,4,209.9,52.48,Ready-to-Wear,1,2,1,4,Dormant,2023-11-26,2024-07-18
+MVC-00378,Marie,Rodriguez,American,A800,MV SOHO New York,Digital,350,10,3949.18,394.92,Ready-to-Wear,2,3,3,8,Active,2024-11-20,2025-04-13
+MVC-00379,Amélie,Davis,French,J347,MV Flagship Tokyo,Boutique,683,4,533.89,133.47,Handbags,1,2,2,5,Dormant,2023-10-17,2024-05-15
+MVC-00380,Hana,Lee,Chinese,J347,MV Flagship Tokyo,Boutique,60,32,60703.03,1896.97,Ready-to-Wear,4,5,5,14,VIP,2023-09-06,2026-01-28
+MVC-00381,Charles,Moreau,French,J347,MV Flagship Tokyo,Boutique,358,8,6491.95,811.49,Small Leather Goods,2,3,4,9,Active,2023-01-07,2025-04-05
+MVC-00382,Sophie,Smith,British,EU_F07M,MV Flagship Paris,Boutique,750,4,1207.6,301.9,Ready-to-Wear,1,2,2,5,Dormant,2023-01-02,2024-03-09
+MVC-00383,Camille,Garcia,American,EU_F07M,MV Flagship Paris,Boutique,510,6,1355.22,225.87,Small Leather Goods,1,3,2,6,Dormant,2023-03-03,2024-11-04
+MVC-00384,Camille,Sharma,French,EU_F07M,MV Flagship Paris,Boutique,834,1,864.9,864.9,Accessories,1,1,2,4,Dormant,2024-01-17,2023-12-16
+MVC-00385,Isabella,Laurent,Japanese,A800,MV SOHO New York,Event,265,19,6433.09,338.58,Handbags,2,4,4,10,High Value,2024-08-29,2025-07-07
+MVC-00386,Rina,Williams,American,EU_F07M,MV Flagship Paris,Boutique,107,16,11020.66,688.79,Handbags,3,4,4,11,High Value,2024-12-18,2025-12-12
+MVC-00387,Henry,Moreau,French,EU_F07M,MV Flagship Paris,Boutique,50,51,282062.71,5530.64,Handbags,4,5,5,14,VIP,2025-03-09,2026-02-07
+MVC-00388,Camille,Dubois,Japanese,A800,MV SOHO New York,Boutique,46,18,15118.81,839.93,Small Leather Goods,4,4,5,13,VIP,2024-07-02,2026-02-11
+MVC-00389,Hana,Sharma,American,A800,MV SOHO New York,Phone,78,39,75322.14,1931.34,Handbags,4,5,5,14,VIP,2024-12-14,2026-01-10
+MVC-00390,Charles,Johnson,British,A800,MV SOHO New York,Boutique,66,19,31261.5,1645.34,Handbags,4,4,5,13,VIP,2024-02-10,2026-01-22
+MVC-00391,Isabella,Davis,American,EU_F07M,MV Flagship Paris,Boutique,48,75,452171.22,6028.95,Ready-to-Wear,4,5,5,14,VIP,2024-07-23,2026-02-09
+MVC-00392,Charlotte,Wang,Japanese,J347,MV Flagship Tokyo,Digital,26,25,58035.79,2321.43,Handbags,5,5,5,15,VIP,2023-05-14,2026-03-03
+MVC-00393,Yuki,Laurent,Emirati,A800,MV SOHO New York,Boutique,9,36,92610.5,2572.51,Handbags,5,5,5,15,VIP,2023-01-23,2026-03-20
+MVC-00394,Yuna,Dubois,American,A800,MV SOHO New York,Boutique,60,14,30583.27,2184.52,Small Leather Goods,4,4,5,13,VIP,2023-02-13,2026-01-28
+MVC-00395,Emma,Williams,Japanese,A800,MV SOHO New York,Phone,55,16,10240.6,640.04,Small Leather Goods,4,4,4,12,High Value,2024-11-30,2026-02-02
+MVC-00396,William,Bernard,American,EU_F07M,MV Flagship Paris,Boutique,80,16,9672.88,604.55,Small Leather Goods,4,4,4,12,High Value,2024-09-20,2026-01-08
+MVC-00397,Ling,Bernard,French,J347,MV Flagship Tokyo,Boutique,651,3,222.89,74.3,Footwear,1,2,1,4,Dormant,2023-03-31,2024-06-16
+MVC-00398,Emma,Williams,Chinese,J347,MV Flagship Tokyo,Boutique,46,15,36260.93,2417.4,Handbags,4,4,5,13,VIP,2025-03-11,2026-02-11
+MVC-00399,Valentina,Tanaka,Chinese,J347,MV Flagship Tokyo,Boutique,4,22,16742.11,761.0,Handbags,5,5,5,15,VIP,2023-07-04,2026-03-25
+MVC-00400,Ling,Rodriguez,Australian,EU_F07M,MV Flagship Paris,Event,50,43,239998.96,5581.37,Handbags,4,5,5,14,VIP,2024-01-02,2026-02-07
+MVC-00401,Charles,Tanaka,Chinese,A800,MV SOHO New York,Event,8,34,76053.38,2236.86,Handbags,5,5,5,15,VIP,2024-06-30,2026-03-21
+MVC-00402,Oliver,Simon,Korean,J347,MV Flagship Tokyo,Digital,76,20,13453.43,672.67,Small Leather Goods,4,5,4,13,VIP,2023-08-31,2026-01-12
+MVC-00403,Aiko,Park,Brazilian,EU_F07M,MV Flagship Paris,Digital,10,60,264422.91,4407.05,Handbags,5,5,5,15,VIP,2024-07-31,2026-03-19
+MVC-00404,Oliver,Garcia,American,A800,MV SOHO New York,Boutique,12,13,8941.73,687.83,Handbags,5,4,4,13,VIP,2023-02-08,2026-03-17
+MVC-00405,Yuna,Lee,American,A800,MV SOHO New York,Boutique,104,17,11353.94,667.88,Handbags,3,4,4,11,High Value,2023-07-26,2025-12-15
+MVC-00406,William,Park,Italian,A800,MV SOHO New York,Digital,59,58,348036.39,6000.63,Handbags,4,5,5,14,VIP,2024-12-22,2026-01-29
+MVC-00407,Keiko,Sharma,French,EU_F07M,MV Flagship Paris,Boutique,770,8,2001.5,250.19,Handbags,1,3,3,7,Active,2024-11-09,2024-02-18
+MVC-00408,Elena,Nguyen,British,A800,MV SOHO New York,Boutique,689,4,1499.33,374.83,Ready-to-Wear,1,2,2,5,Dormant,2024-05-13,2024-05-09
+MVC-00409,Thomas,Patel,Japanese,A800,MV SOHO New York,Digital,328,10,5082.03,508.2,Handbags,2,3,4,9,Active,2024-08-26,2025-05-05
+MVC-00410,Sophie,Sharma,French,EU_F07M,MV Flagship Paris,Digital,51,16,41079.31,2567.46,Small Leather Goods,4,4,5,13,VIP,2024-08-09,2026-02-06
+MVC-00411,Lucie,Garcia,French,EU_F07M,MV Flagship Paris,Boutique,43,32,59664.36,1864.51,Handbags,4,5,5,14,VIP,2023-05-25,2026-02-14
+MVC-00412,Claire,Sharma,Emirati,EU_F07M,MV Flagship Paris,Boutique,82,25,29851.53,1194.06,Ready-to-Wear,4,5,5,14,VIP,2024-11-17,2026-01-06
+MVC-00413,Amélie,Johnson,French,EU_F07M,MV Flagship Paris,Boutique,14,13,34396.87,2645.91,Handbags,5,4,5,14,VIP,2023-09-20,2026-03-15
+MVC-00414,Alexander,Brown,Japanese,J347,MV Flagship Tokyo,Boutique,113,20,14147.89,707.39,Ready-to-Wear,3,5,4,12,High Value,2024-05-19,2025-12-06
+MVC-00415,Thomas,Simon,American,A800,MV SOHO New York,Boutique,138,9,3926.18,436.24,Handbags,3,3,3,9,Active,2024-04-07,2025-11-11
+MVC-00416,Alexander,Williams,Chinese,A800,MV SOHO New York,Phone,47,66,387634.61,5873.25,Small Leather Goods,4,5,5,14,VIP,2023-06-14,2026-02-10
+MVC-00417,Ling,Sharma,American,EU_F07M,MV Flagship Paris,Phone,56,26,18808.84,723.42,Handbags,4,5,5,14,VIP,2023-02-01,2026-02-01
+MVC-00418,Yuna,Chen,Chinese,EU_F07M,MV Flagship Paris,Phone,27,53,272310.44,5137.93,Handbags,5,5,5,15,VIP,2023-07-14,2026-03-02
+MVC-00419,Mei,Yamamoto,Japanese,A800,MV SOHO New York,Boutique,13,25,19994.26,799.77,Handbags,5,5,5,15,VIP,2023-09-01,2026-03-16
+MVC-00420,Keiko,Martin,Korean,J347,MV Flagship Tokyo,Digital,12,40,77926.12,1948.15,Handbags,5,5,5,15,VIP,2024-03-13,2026-03-17
+MVC-00421,Emma,Chen,Australian,J347,MV Flagship Tokyo,Boutique,82,25,40640.42,1625.62,Handbags,4,5,5,14,VIP,2023-06-24,2026-01-06
+MVC-00422,Isabella,Garcia,American,EU_F07M,MV Flagship Paris,Digital,115,10,4608.5,460.85,Footwear,3,3,3,9,Active,2024-05-15,2025-12-04
+MVC-00423,Valentina,Johnson,American,A800,MV SOHO New York,Boutique,58,27,49553.09,1835.3,Ready-to-Wear,4,5,5,14,VIP,2023-07-11,2026-01-30
+MVC-00424,Charlotte,Moreau,British,A800,MV SOHO New York,Digital,464,1,278.89,278.89,Small Leather Goods,1,1,1,3,Dormant,2025-02-09,2024-12-20
+MVC-00425,Thomas,Kim,Japanese,EU_F07M,MV Flagship Paris,Boutique,761,3,440.08,146.69,Footwear,1,2,1,4,Dormant,2023-03-04,2024-02-27
+MVC-00426,Charles,Garcia,Emirati,J347,MV Flagship Tokyo,Digital,140,4,3768.56,942.14,Handbags,3,2,3,8,Active,2023-11-03,2025-11-09
+MVC-00427,William,Dubois,Brazilian,A800,MV SOHO New York,Boutique,234,13,8202.14,630.93,Handbags,2,4,4,10,High Value,2025-02-14,2025-08-07
+MVC-00428,James,Bernard,Japanese,EU_F07M,MV Flagship Paris,Event,445,1,874.97,874.97,Small Leather Goods,1,1,2,4,Dormant,2024-03-09,2025-01-08
+MVC-00429,Yuki,Smith,Japanese,A800,MV SOHO New York,Boutique,9,30,84399.83,2813.33,Handbags,5,5,5,15,VIP,2025-01-14,2026-03-20
+MVC-00430,Priya,Martin,French,J347,MV Flagship Tokyo,Boutique,900,5,1917.45,383.49,Handbags,1,2,3,6,Dormant,2025-03-16,2023-10-11
+MVC-00431,Lucie,Dubois,Italian,A800,MV SOHO New York,Phone,319,12,5176.77,431.4,Jewelry,2,4,4,10,High Value,2024-07-30,2025-05-14
+MVC-00432,Yuki,Williams,Chinese,EU_F07M,MV Flagship Paris,Boutique,862,4,1476.65,369.16,Ready-to-Wear,1,2,2,5,Dormant,2024-11-01,2023-11-18
+MVC-00433,Isabella,Bernard,British,J347,MV Flagship Tokyo,Boutique,114,12,7592.41,632.7,Handbags,3,4,4,11,High Value,2024-02-10,2025-12-05
+MVC-00434,Keiko,Martin,American,J347,MV Flagship Tokyo,Boutique,675,2,817.79,408.9,Accessories,1,1,2,4,Dormant,2023-12-12,2024-05-23
+MVC-00435,Thomas,Moreau,Italian,J347,MV Flagship Tokyo,Boutique,310,14,5739.63,409.97,Footwear,2,4,4,10,High Value,2023-11-04,2025-05-23
+MVC-00436,Claire,Chen,Italian,J347,MV Flagship Tokyo,Digital,28,16,11202.37,700.15,Ready-to-Wear,5,4,4,13,VIP,2024-03-28,2026-03-01
+MVC-00437,Alexander,Laurent,French,J347,MV Flagship Tokyo,Phone,883,6,1113.03,185.5,Ready-to-Wear,1,3,2,6,Dormant,2023-11-15,2023-10-28
+MVC-00438,Henry,Chen,French,A800,MV SOHO New York,Boutique,4,23,199970.12,8694.35,Handbags,5,5,5,15,VIP,2025-05-07,2026-03-25
+MVC-00439,Sakura,Johnson,Japanese,EU_F07M,MV Flagship Paris,Phone,238,7,1644.75,234.96,Footwear,2,3,3,8,Active,2025-04-23,2025-08-03
+MVC-00440,Keiko,Garcia,Australian,A800,MV SOHO New York,Boutique,29,28,192694.69,6881.95,Ready-to-Wear,5,5,5,15,VIP,2024-08-31,2026-02-28
+MVC-00441,Alexander,Tanaka,French,EU_F07M,MV Flagship Paris,Boutique,107,7,6462.53,923.22,Handbags,3,3,4,10,High Value,2025-02-05,2025-12-12
+MVC-00442,Edward,Wang,American,EU_F07M,MV Flagship Paris,Digital,29,24,54834.92,2284.79,Handbags,5,5,5,15,VIP,2024-10-24,2026-02-28
+MVC-00443,Sophie,Garcia,Chinese,A800,MV SOHO New York,Boutique,42,46,271887.36,5910.59,Small Leather Goods,4,5,5,14,VIP,2023-05-16,2026-02-15
+MVC-00444,Hana,Sharma,Japanese,J347,MV Flagship Tokyo,Boutique,284,15,5711.21,380.75,Small Leather Goods,2,4,4,10,High Value,2024-12-27,2025-06-18
+MVC-00445,Edward,Davis,Korean,EU_F07M,MV Flagship Paris,Boutique,87,14,8234.69,588.19,Accessories,4,4,4,12,High Value,2023-11-06,2026-01-01
+MVC-00446,Keiko,Kim,American,EU_F07M,MV Flagship Paris,Digital,39,60,300865.34,5014.42,Handbags,4,5,5,14,VIP,2024-10-24,2026-02-18
+MVC-00447,Sakura,Nguyen,American,J347,MV Flagship Tokyo,Digital,56,77,456083.58,5923.16,Handbags,4,5,5,14,VIP,2023-11-29,2026-02-01
+MVC-00448,William,Rodriguez,Korean,A800,MV SOHO New York,Digital,31,20,14873.93,743.7,Handbags,4,5,4,13,VIP,2025-02-22,2026-02-26
+MVC-00449,Rina,Patel,British,A800,MV SOHO New York,Event,93,12,6177.51,514.79,Ready-to-Wear,3,4,4,11,High Value,2023-05-24,2025-12-26
+MVC-00450,Isabella,Williams,British,EU_F07M,MV Flagship Paris,Boutique,401,6,2052.35,342.06,Ready-to-Wear,1,3,3,7,Active,2025-01-24,2025-02-21
+MVC-00451,Thomas,Patel,Emirati,J347,MV Flagship Tokyo,Digital,82,17,8212.67,483.1,Handbags,4,4,4,12,High Value,2024-07-01,2026-01-06
+MVC-00452,Alexander,Patel,French,J347,MV Flagship Tokyo,Boutique,24,24,19835.67,826.49,Ready-to-Wear,5,5,5,15,VIP,2024-07-25,2026-03-05
+MVC-00453,Oliver,Patel,American,A800,MV SOHO New York,Boutique,287,6,4015.86,669.31,Footwear,2,3,3,8,Active,2023-12-10,2025-06-15
+MVC-00454,Yuna,Johnson,Japanese,J347,MV Flagship Tokyo,Boutique,75,5,2903.45,580.69,Handbags,4,2,3,9,Active,2023-09-24,2026-01-13
+MVC-00455,Amélie,Garcia,Emirati,A800,MV SOHO New York,Boutique,877,11,2071.9,188.35,Accessories,1,3,3,7,Active,2023-07-19,2023-11-03
+MVC-00456,William,Moreau,Australian,J347,MV Flagship Tokyo,Phone,44,12,9212.26,767.69,Small Leather Goods,4,4,4,12,High Value,2023-07-25,2026-02-13
+MVC-00457,Oliver,Laurent,Australian,EU_F07M,MV Flagship Paris,Boutique,43,11,29911.02,2719.18,Footwear,4,3,5,12,High Value,2024-05-14,2026-02-14
+MVC-00458,Sakura,Chen,Chinese,A800,MV SOHO New York,Boutique,50,31,220900.99,7125.84,Handbags,4,5,5,14,VIP,2025-02-18,2026-02-07
+MVC-00459,Elena,Nguyen,Australian,J347,MV Flagship Tokyo,Boutique,52,35,56102.6,1602.93,Handbags,4,5,5,14,VIP,2024-03-15,2026-02-05
+MVC-00460,Keiko,Martin,American,EU_F07M,MV Flagship Paris,Digital,97,27,14630.2,541.86,Ready-to-Wear,3,5,4,12,High Value,2023-11-26,2025-12-22
+MVC-00461,Thomas,Sharma,French,A800,MV SOHO New York,Boutique,199,4,1912.69,478.17,Handbags,2,2,3,7,Active,2023-12-19,2025-09-11
+MVC-00462,Isabelle,Yamamoto,Chinese,EU_F07M,MV Flagship Paris,Boutique,59,43,71786.05,1669.44,Handbags,4,5,5,14,VIP,2023-10-25,2026-01-29
+MVC-00463,James,Smith,American,A800,MV SOHO New York,Phone,732,4,766.45,191.61,Handbags,1,2,2,5,Dormant,2024-05-16,2024-03-27
+MVC-00464,Thomas,Moreau,Chinese,A800,MV SOHO New York,Boutique,47,78,457057.67,5859.71,Ready-to-Wear,4,5,5,14,VIP,2023-08-05,2026-02-10
+MVC-00465,Isabelle,Williams,Chinese,EU_F07M,MV Flagship Paris,Boutique,185,9,5391.48,599.05,Ready-to-Wear,2,3,4,9,Active,2024-10-17,2025-09-25
+MVC-00466,Emma,Bernard,Japanese,J347,MV Flagship Tokyo,Boutique,149,18,4763.64,264.65,Handbags,3,4,3,10,High Value,2024-12-07,2025-10-31
+MVC-00467,William,Chen,French,EU_F07M,MV Flagship Paris,Boutique,88,10,6146.35,614.64,Handbags,4,3,4,11,High Value,2024-12-12,2025-12-31
+MVC-00468,Sakura,Lee,Japanese,A800,MV SOHO New York,Phone,299,15,6669.9,444.66,Ready-to-Wear,2,4,4,10,High Value,2024-09-12,2025-06-03
+MVC-00469,Marie,Yamamoto,Chinese,A800,MV SOHO New York,Digital,320,8,2595.83,324.48,Handbags,2,3,3,8,Active,2023-04-27,2025-05-13
+MVC-00470,Henry,Johnson,American,J347,MV Flagship Tokyo,Boutique,784,10,1450.7,145.07,Footwear,1,3,2,6,Dormant,2024-12-21,2024-02-04
+MVC-00471,Ling,Smith,British,A800,MV SOHO New York,Phone,120,15,7315.49,487.7,Handbags,3,4,4,11,High Value,2023-08-29,2025-11-29
+MVC-00472,William,Laurent,British,A800,MV SOHO New York,Boutique,250,7,3867.39,552.48,Ready-to-Wear,2,3,3,8,Active,2025-03-09,2025-07-22
+MVC-00473,Priya,Yamamoto,French,A800,MV SOHO New York,Boutique,238,4,2205.61,551.4,Handbags,2,2,3,7,Active,2023-09-28,2025-08-03
+MVC-00474,Keiko,Patel,French,EU_F07M,MV Flagship Paris,Phone,801,5,1114.12,222.82,Ready-to-Wear,1,2,2,5,Dormant,2023-11-17,2024-01-18
+MVC-00475,James,Patel,Japanese,J347,MV Flagship Tokyo,Boutique,11,39,268729.44,6890.5,Handbags,5,5,5,15,VIP,2024-10-24,2026-03-18
+MVC-00476,Claire,Johnson,French,A800,MV SOHO New York,Boutique,44,20,15904.0,795.2,Handbags,4,5,5,14,VIP,2025-04-14,2026-02-13
+MVC-00477,Valentina,Sharma,Chinese,J347,MV Flagship Tokyo,Digital,62,13,12903.52,992.58,Handbags,4,4,4,12,High Value,2025-05-21,2026-01-26
+MVC-00478,Charlotte,Simon,Chinese,EU_F07M,MV Flagship Paris,Boutique,54,13,33039.81,2541.52,Ready-to-Wear,4,4,5,13,VIP,2023-04-17,2026-02-03
+MVC-00479,Valentina,Johnson,Emirati,EU_F07M,MV Flagship Paris,Digital,4,30,45413.51,1513.78,Handbags,5,5,5,15,VIP,2024-09-18,2026-03-25
+MVC-00480,Min,Dubois,French,A800,MV SOHO New York,Digital,57,26,14315.9,550.61,Handbags,4,5,4,13,VIP,2024-02-26,2026-01-31
+MVC-00481,Thomas,Patel,British,EU_F07M,MV Flagship Paris,Digital,252,12,5916.96,493.08,Handbags,2,4,4,10,High Value,2023-12-13,2025-07-20
+MVC-00482,Charles,Garcia,Chinese,EU_F07M,MV Flagship Paris,Boutique,289,6,2662.78,443.8,Small Leather Goods,2,3,3,8,Active,2023-12-21,2025-06-13
+MVC-00483,Charlotte,Martin,Korean,EU_F07M,MV Flagship Paris,Phone,525,4,400.19,100.05,Ready-to-Wear,1,2,1,4,Dormant,2024-10-20,2024-10-20
+MVC-00484,Min,Smith,French,J347,MV Flagship Tokyo,Boutique,22,71,397584.42,5599.78,Handbags,5,5,5,15,VIP,2023-09-04,2026-03-07
+MVC-00485,Charles,Laurent,Japanese,EU_F07M,MV Flagship Paris,Phone,57,12,11380.07,948.34,Handbags,4,4,4,12,High Value,2024-04-15,2026-01-31
+MVC-00486,Min,Nguyen,Japanese,J347,MV Flagship Tokyo,Boutique,14,19,12004.15,631.8,Handbags,5,4,4,13,VIP,2023-01-19,2026-03-15
+MVC-00487,Hana,Rodriguez,British,EU_F07M,MV Flagship Paris,Event,576,3,662.48,220.83,Handbags,1,2,2,5,Dormant,2024-07-29,2024-08-30
+MVC-00488,Thomas,Davis,British,EU_F07M,MV Flagship Paris,Digital,849,3,504.84,168.28,Jewelry,1,2,2,5,Dormant,2023-12-06,2023-12-01
+MVC-00489,Thomas,Martin,Australian,EU_F07M,MV Flagship Paris,Boutique,46,34,69508.8,2044.38,Handbags,4,5,5,14,VIP,2023-12-16,2026-02-11
+MVC-00490,Lucie,Bernard,Korean,A800,MV SOHO New York,Digital,64,7,7007.46,1001.07,Footwear,4,3,4,11,High Value,2023-06-18,2026-01-24
+MVC-00491,Henry,Chen,Japanese,A800,MV SOHO New York,Digital,51,47,69148.56,1471.25,Handbags,4,5,5,14,VIP,2023-05-04,2026-02-06
+MVC-00492,Camille,Bernard,Chinese,EU_F07M,MV Flagship Paris,Digital,108,13,14085.73,1083.52,Handbags,3,4,4,11,High Value,2024-10-10,2025-12-11
+MVC-00493,James,Garcia,French,EU_F07M,MV Flagship Paris,Phone,68,9,5898.8,655.42,Footwear,4,3,4,11,High Value,2023-01-05,2026-01-20
+MVC-00494,Oliver,Sharma,Korean,EU_F07M,MV Flagship Paris,Boutique,23,23,17093.22,743.18,Handbags,5,5,5,15,VIP,2024-08-15,2026-03-06
+MVC-00495,Rina,Rodriguez,Brazilian,EU_F07M,MV Flagship Paris,Digital,227,6,4444.51,740.75,Footwear,2,3,3,8,Active,2024-01-29,2025-08-14
+MVC-00496,Yuna,Yamamoto,French,A800,MV SOHO New York,Digital,104,7,2828.42,404.06,Ready-to-Wear,3,3,3,9,Active,2024-04-08,2025-12-15
+MVC-00497,Rina,Sharma,Chinese,EU_F07M,MV Flagship Paris,Boutique,120,24,18687.6,778.65,Handbags,3,5,5,13,VIP,2025-01-24,2025-11-29
+MVC-00498,Aiko,Patel,Australian,EU_F07M,MV Flagship Paris,Boutique,301,7,3658.51,522.64,Small Leather Goods,2,3,3,8,Active,2023-05-16,2025-06-01
+MVC-00499,Rina,Sharma,Chinese,J347,MV Flagship Tokyo,Boutique,314,8,4214.2,526.78,Ready-to-Wear,2,3,3,8,Active,2023-04-29,2025-05-19
+MVC-00500,Mei,Brown,French,EU_F07M,MV Flagship Paris,Boutique,123,9,3578.31,397.59,Jewelry,3,3,3,9,Active,2025-04-07,2025-11-26

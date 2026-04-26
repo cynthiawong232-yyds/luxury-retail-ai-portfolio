@@ -1,0 +1,1001 @@
+plm_style_code,style_description,color_code,colorway_short_description,gmh_sector_text,gmh_gender_text,gmh_category_text,gmh_sub_category_text,gmh_sub_brand_code,gmh_sub_brand_text,company_code,distribution_channel_code,site_number,site_text,netslsamt_cy,netslscstmerch_cy,netslsqty_cy,netmsrpamt_cy,netslsamt_ly,netslscstmerch_ly,netslsqty_ly,netmsrpamt_ly,eohttlqty_cy,eohstrqty_cy,intranqty_cy,eohttlqty_ly,eohstrqty_ly,intranqty_ly
+MV-29080,Men Jackets Relaxed,CRM,Cognac,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,100,20,A800,MV SOHO New York,2285.44,580.46,5,3046.48,2032.86,720.39,5,3046.48,10,7,3,12,9,0
+MV-19869,Women Wool Scarves Slim,IVR,Ivoire,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,7862.88,2746.66,19,10053.39,11096.83,3291.38,24,12699.02,65,55,10,84,78,0
+MV-68929,Women Crossbody Bags Relaxed,BRG,Bordeaux,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,27745.07,8998.09,51,32978.77,35448.33,13168.63,61,39445.2,193,176,17,221,177,0
+MV-51704,Women Fedoras Luxe,GRG,Greige,Accessories,Women,Hats,Fedoras,MV,Maison Voss,100,20,A800,MV SOHO New York,11692.05,3838.22,33,16698.85,12696.24,4468.16,36,18216.92,27,23,4,33,27,0
+MV-20682,Men Loafers Slim,RSE,Rose Poudre,Footwear,Men,Flats,Loafers,MVS,MV Signature,100,20,A800,MV SOHO New York,25773.33,8464.24,41,34325.75,19207.78,5994.34,32,26790.83,94,59,35,60,52,0
+MV-94675,Women Trousers Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,50,A800,MV SOHO New York,9859.48,2942.76,27,14014.75,7527.41,2697.43,20,10381.3,17,13,4,13,7,0
+MV-39102,Men Day Dresses Luxe,CRM,Cognac,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,17833.5,6160.78,29,22562.67,18503.8,4778.38,34,26452.79,55,53,2,76,58,0
+MV-74866,Women Wool Scarves Luxe,CRM,Creme,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,100,20,A800,MV SOHO New York,12046.16,3266.73,47,14909.73,13467.87,4347.41,56,17764.78,77,68,9,103,62,0
+MV-89299,Men Bracelets Luxe,NVY,Navy,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,100,20,A800,MV SOHO New York,3079.55,951.09,7,4552.28,3035.79,794.5,7,4552.28,27,16,11,32,26,0
+MV-78494,Men Suit Sets Essential,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,3455.5,890.38,16,4758.54,4474.67,1186.24,20,5948.17,28,16,12,30,23,0
+MV-69829,Men Ballet Flats Slim,GRG,Greige,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,70,A800,MV SOHO New York,3751.59,1114.8,6,4681.46,2772.35,1034.39,5,3901.21,21,16,5,22,14,0
+MV-81364,Unisex Crossbody Bags Signature,CRM,Creme,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,36077.34,10221.99,110,49578.85,36492.25,12446.99,97,43719.54,435,276,159,387,353,0
+MV-59391,Women Weekender Signature,BEG,Beige,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,100,50,A800,MV SOHO New York,62820.31,19079.57,72,76668.97,66379.03,21386.88,78,83058.05,89,83,6,90,75,0
+MV-20077,Men Chain Belts Slim,RSE,Rose Poudre,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,100,70,A800,MV SOHO New York,942.17,298.58,1,1174.05,953.59,255.91,1,1174.05,2,1,1,2,1,0
+MV-18163,Men Blazers Slim,NVY,Navy,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,10554.64,3578.01,30,12860.32,11541.28,2988.43,34,14575.03,108,74,34,145,132,0
+MV-28714,Men Trousers Luxe,TRP,Taupe,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,29797.51,9502.19,65,40806.83,22204.3,6721.95,54,33901.06,94,76,18,64,49,0
+MV-30644,Men Chain Belts Slim,VRT,Vert,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,30,A800,MV SOHO New York,2269.7,625.03,5,3194.94,1868.44,540.86,4,2555.95,5,4,1,4,3,0
+MV-44718,Women Day Dresses Slim,TAN,Tan,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,5199.46,1486.89,21,6335.53,4431.21,1136.68,18,5430.46,36,30,6,30,22,0
+MV-20328,Men Clutches,IVR,Ivoire,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,43721.77,16059.04,62,63390.36,34584.5,10105.31,43,43964.28,40,34,6,26,15,0
+MV-77538,Men Check-In Signature,SBL,Sable,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,473.09,142.13,1,682.73,475.57,156.05,1,682.73,2,1,1,2,1,0
+MV-38683,Men Tops Slim,CHP,Champagne,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,100,50,A800,MV SOHO New York,5914.04,1763.7,30,8542.6,5183.49,1453.42,24,6834.08,100,97,3,86,54,0
+MV-40005,Men Silk Scarves Classic,BRG,Bordeaux,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,100,70,A800,MV SOHO New York,4691.62,1721.88,8,6164.83,3575.8,1060.06,6,4623.62,30,18,12,27,24,0
+MV-62296,Unisex Bracelets Signature,CRM,Creme,Accessories,Unisex,Jewelry,Bracelets,MVS,MV Signature,100,20,A800,MV SOHO New York,13339.98,5011.29,65,17270.99,16643.41,5577.34,73,19396.65,188,132,56,224,189,0
+MV-76263,Women High Top Essential,CRM,Creme,Footwear,Women,Sneakers,High Top,MV,Maison Voss,100,20,A800,MV SOHO New York,21441.26,5720.26,89,30377.38,15231.41,4985.92,67,22868.37,59,43,16,49,42,0
+MV-60181,Women Jackets Classic,NOI,Noir,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,100,70,A800,MV SOHO New York,38734.53,13095.37,72,52001.98,25554.75,7107.03,52,37556.99,112,99,13,71,68,0
+MV-74038,Women Pouches,GRG,Greige,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,100,20,A800,MV SOHO New York,9000.19,3067.58,16,13003.16,10778.75,3760.07,19,15441.25,11,8,3,14,13,0
+MV-49251,Men Slides Classic,BLU,Bleu Marine,Footwear,Men,Flats,Slides,MV,Maison Voss,100,70,A800,MV SOHO New York,21428.28,7474.09,49,27735.16,24378.66,6866.79,60,33961.41,88,72,16,93,69,0
+MV-54657,Women Evening Dresses Slim,NVY,Navy,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,16794.16,5445.59,46,23333.45,20118.81,7495.82,58,29420.44,169,138,31,177,133,0
+MV-75308,Men Ballet Flats,CHP,Champagne,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,2177.49,736.92,9,2997.88,1618.1,555.28,7,2331.68,34,29,5,29,20,0
+MV-36143,Unisex Weekender Heritage,CRM,Cognac,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,100,50,A800,MV SOHO New York,46889.66,16347.57,44,67091.36,33117.12,11923.7,31,47268.91,73,44,29,44,32,0
+MV-75308,Men Ballet Flats,NOI,Noir,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,357.21,94.21,1,444.8,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-76263,Women High Top Essential,CAM,Camel,Footwear,Women,Sneakers,High Top,MV,Maison Voss,100,20,A800,MV SOHO New York,7301.47,2367.66,22,9843.18,5901.53,1968.81,16,7158.68,79,73,6,48,33,0
+MV-89963,Women Cat Eye Luxe,BEG,Beige,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,100,30,A800,MV SOHO New York,2170.56,651.0,6,2640.1,1286.39,395.86,4,1760.07,19,16,3,10,9,0
+MV-71953,Women Suit Trousers Relaxed,ECR,Ecru,Ready-to-Wear,Women,Suits,Suit Trousers,MVS,MV Signature,100,70,A800,MV SOHO New York,2020.79,763.18,3,2530.1,1947.04,600.95,3,2530.1,10,9,1,9,7,0
+MV-44959,Women Blazers Modern,CRM,Cognac,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,50,A800,MV SOHO New York,694.73,246.31,2,872.39,330.41,90.3,1,436.2,1,0,1,0,0,0
+MV-67104,Men Sandals Essential,BRG,Bordeaux,Footwear,Men,Heels,Sandals,MV,Maison Voss,100,20,A800,MV SOHO New York,14936.78,4598.13,30,19467.86,9323.12,2440.87,21,13627.5,51,33,18,39,31,0
+MV-26704,Men Pouches Classic,BRG,Bordeaux,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,100,20,A800,MV SOHO New York,8575.01,2219.03,10,10536.9,8755.29,3221.05,10,10536.9,23,14,9,25,19,0
+MV-89963,Women Cat Eye Luxe,NOI,Noir,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,100,50,A800,MV SOHO New York,13332.0,3976.74,32,17438.58,14520.93,4668.93,37,20163.35,25,20,5,26,23,0
+MV-38047,Women Round Frames Relaxed,ANT,Anthracite,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,100,20,A800,MV SOHO New York,482.7,169.19,1,612.52,496.51,183.33,1,612.52,2,1,1,2,1,0
+MV-78614,Women Trousers Signature,NVY,Navy,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,3336.57,1182.75,9,4751.24,3573.71,1021.7,9,4751.24,34,24,10,28,17,0
+MV-70648,Women Tops,ROG,Rouge,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,9951.15,2868.83,19,13564.78,6632.71,1768.08,13,9281.16,71,70,1,42,41,0
+MV-97684,Unisex Bracelets Luxe,CRM,Creme,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,100,20,A800,MV SOHO New York,10863.97,3774.25,39,14786.92,8768.46,2790.45,33,12512.01,34,26,8,34,25,0
+MV-77033,Women Weekender Modern,SBL,Sable,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,100,50,A800,MV SOHO New York,7819.3,2599.34,9,10453.57,7856.53,2963.7,10,11615.08,13,11,2,12,11,0
+MV-65255,Women Evening Dresses Heritage,CAM,Camel,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,50,A800,MV SOHO New York,10683.27,3667.79,24,14544.81,7326.4,1871.06,18,10908.61,77,50,27,50,36,0
+MV-42541,Women Blazers Slim,CRM,Creme,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,19505.37,6384.76,54,24505.01,27200.24,10105.91,69,31311.95,110,86,24,136,113,0
+MV-98188,Women Knee High Heritage,SBL,Sable,Footwear,Women,Boots,Knee High,MV,Maison Voss,100,20,A800,MV SOHO New York,6845.53,2081.33,24,8627.92,5117.18,1867.0,17,6111.44,69,61,8,48,36,0
+MV-30730,Men High Top Luxe,SBL,Sable,Footwear,Men,Sneakers,High Top,MV,Maison Voss,100,20,A800,MV SOHO New York,4565.21,1158.62,6,6320.67,5967.33,1684.17,7,7374.12,23,18,5,26,22,0
+MV-90209,Men Suit Sets Modern,IVR,Ivoire,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,100,20,A800,MV SOHO New York,446.05,140.57,1,649.41,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-86483,Women Wallets Luxe,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,100,20,A800,MV SOHO New York,46326.49,12088.19,51,64615.09,45452.47,14389.29,47,59547.24,95,70,25,81,57,0
+MV-38183,Men Suit Trousers Essential,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,192.07,67.25,1,285.51,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-93717,Women Leather Belts Heritage,BRG,Bordeaux,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,21140.16,6097.19,52,25294.64,14464.9,3892.38,40,19457.42,65,49,16,43,40,0
+MV-62296,Unisex Bracelets Signature,ECR,Ecru,Accessories,Unisex,Jewelry,Bracelets,MVS,MV Signature,100,70,A800,MV SOHO New York,7114.57,2253.33,18,9485.74,7844.56,2864.97,19,10012.73,11,9,2,14,11,0
+MV-87993,Women Fedoras Modern,SBL,Sable,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,31651.95,10839.47,70,40303.16,35871.49,12036.39,75,43181.96,174,130,44,167,137,0
+MV-36318,Women Ankle Boots Slim,BLU,Bleu Marine,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,50,A800,MV SOHO New York,25822.69,9439.88,40,37346.11,24053.8,8098.25,34,31744.19,71,49,22,55,53,0
+MV-59308,Men Knitwear Essential,CRM,Creme,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,100,50,A800,MV SOHO New York,48190.81,14589.13,155,56798.43,56206.5,16783.38,186,68158.12,467,349,118,553,492,0
+MV-59672,Women Shoulder Bags Classic,CRM,Cognac,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,7020.86,2659.13,10,9618.29,6460.47,2221.28,9,8656.46,37,35,2,32,21,0
+MV-53228,Women Shoulder Bags Essential,BLU,Bleu Marine,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,26318.63,9237.83,36,38540.46,23968.98,7183.5,31,33187.62,119,91,28,119,77,0
+MV-62044,Women Low Top Classic,BRG,Bordeaux,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,100,20,A800,MV SOHO New York,5293.76,1968.17,12,7010.24,6653.02,2456.42,14,8178.62,18,11,7,20,18,0
+MV-28191,Women Chelsea Boots Luxe,SBL,Sable,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,10788.83,2855.47,16,14229.46,9528.14,3524.87,14,12450.77,8,7,1,6,4,0
+MV-59672,Women Shoulder Bags Classic,CRM,Cognac,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,70,A800,MV SOHO New York,11756.16,4396.51,24,15571.72,16511.43,5524.5,30,19464.65,61,42,19,89,86,0
+MV-22097,Men Leather Belts Essential,GRG,Greige,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,26901.75,7494.87,52,35956.98,31818.57,11141.0,58,40105.87,67,65,2,81,49,0
+MV-42541,Women Blazers Slim,BEG,Beige,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,30,A800,MV SOHO New York,55909.95,20750.96,104,75099.76,53456.62,13915.94,105,75821.87,317,246,71,376,309,0
+MV-59391,Women Weekender Signature,ECR,Ecru,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,100,20,A800,MV SOHO New York,21639.97,7958.31,36,30023.04,17683.77,6254.33,31,25853.18,50,46,4,45,39,0
+MV-62034,Women Necklaces Luxe,CRM,Creme,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,100,20,A800,MV SOHO New York,3381.45,1149.34,13,4670.81,3871.63,1174.73,15,5389.39,22,19,3,23,22,0
+MV-73532,Women Midi Dresses Modern,CHP,Champagne,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,5902.58,1561.18,13,7920.69,5122.21,1887.19,11,6702.12,35,21,14,34,29,0
+MV-12665,Women Suit Trousers Essential,CAM,Camel,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,21042.5,7061.38,33,25925.33,27284.75,6983.04,41,32210.26,19,12,7,27,18,0
+MV-51441,Women Jackets Modern,CAM,Camel,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,1588.92,522.04,6,2156.46,1883.56,526.4,7,2515.87,15,13,2,20,13,0
+MV-59672,Women Shoulder Bags Classic,IVR,Ivoire,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,1644.61,453.51,2,1930.39,1484.78,491.34,2,1930.39,3,1,2,4,2,0
+MV-16265,Women Chain Belts Signature,NOI,Noir,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,30,A800,MV SOHO New York,4945.71,1698.79,11,6644.06,5506.11,2068.24,13,7852.07,19,18,1,24,16,0
+MV-89928,Men Suit Trousers Slim,BLU,Bleu Marine,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,1987.3,727.69,8,2805.81,2351.79,772.42,9,3156.54,8,5,3,10,8,0
+MV-59672,Women Shoulder Bags Classic,BLU,Bleu Marine,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,3749.94,1166.38,8,4708.97,3588.33,939.83,7,4120.35,5,4,1,3,2,0
+MV-26299,Men High Top Luxe,SBL,Sable,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,4907.25,1251.42,6,6608.66,5209.71,1312.02,7,7710.1,5,3,2,5,4,0
+MV-65296,Women Ankle Boots Slim,BEG,Beige,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,768.48,277.94,1,1086.85,728.51,245.22,1,1086.85,3,2,1,3,2,0
+MV-86483,Women Wallets Luxe,RSE,Rose Poudre,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,100,50,A800,MV SOHO New York,646.03,242.96,1,859.32,631.85,175.76,1,859.32,2,1,1,2,1,0
+MV-44718,Women Day Dresses Slim,ROG,Rouge,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,24750.05,8344.38,110,34657.8,21936.1,7595.89,93,29301.6,114,105,9,116,98,0
+MV-66349,Women Crossbody Bags Modern,BRG,Bordeaux,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,15239.62,5777.3,14,19213.8,12954.72,3594.13,12,16468.97,39,37,2,32,30,0
+MV-42087,Men Slides Slim,ANT,Anthracite,Footwear,Men,Flats,Slides,MV,Maison Voss,100,50,A800,MV SOHO New York,4159.88,1468.8,12,6154.74,3197.69,914.06,9,4616.06,40,24,16,32,22,0
+MV-97782,Women Leather Belts Signature,BEG,Beige,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,70,A800,MV SOHO New York,24126.95,6720.99,28,34574.13,23367.95,7012.67,25,30869.76,53,33,20,52,45,0
+MV-49618,Men Square Frames Classic,BLU,Bleu Marine,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,30,A800,MV SOHO New York,2861.97,892.64,6,3978.39,2321.75,689.56,5,3315.33,8,5,3,6,5,0
+MV-24530,Women Day Dresses Luxe,NVY,Navy,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,29750.19,8761.1,75,40787.97,23486.51,7179.23,55,29911.18,41,39,2,25,22,0
+MV-30253,Men Weekender Essential,CRM,Cognac,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,100,70,A800,MV SOHO New York,29789.7,10558.83,38,37948.5,25671.79,9125.2,37,36949.86,21,14,7,24,20,0
+MV-51704,Women Fedoras Luxe,NVY,Navy,Accessories,Women,Hats,Fedoras,MV,Maison Voss,100,30,A800,MV SOHO New York,873.46,325.19,2,1114.87,875.76,284.01,2,1114.87,6,4,2,8,6,0
+MV-41358,Men Chelsea Boots Heritage,BEG,Beige,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,100,30,A800,MV SOHO New York,6332.3,1934.06,13,7675.8,7148.07,2617.02,16,9447.14,17,15,2,25,16,0
+MV-59391,Women Weekender Signature,CHP,Champagne,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,100,50,A800,MV SOHO New York,44739.57,14295.16,53,52968.93,60619.42,18899.32,67,66960.72,127,94,33,184,179,0
+MV-78614,Women Trousers Signature,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,70,A800,MV SOHO New York,36542.64,10697.71,72,48658.72,30674.14,8419.71,55,37169.86,276,239,37,236,201,0
+MV-63225,Unisex Key Holders,BRG,Bordeaux,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,5967.12,1762.59,15,7508.2,5479.59,1945.16,15,7508.2,21,14,7,23,21,0
+MV-35995,Unisex Check-In Modern,TAN,Tan,Leather Goods,Unisex,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,19826.5,5753.54,23,23652.8,17616.71,5928.02,21,21596.04,46,34,12,45,37,0
+MV-80282,Unisex Baseball Caps Signature,TAN,Tan,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,100,50,A800,MV SOHO New York,795.93,202.48,4,1134.82,629.3,227.51,3,851.12,2,1,1,1,0,0
+MV-26299,Men High Top Luxe,ANT,Anthracite,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,67251.73,20873.08,119,87838.42,54429.09,14166.81,102,75290.07,427,352,75,347,287,0
+MV-49363,Unisex Cashmere Scarves,IVR,Ivoire,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,1561.36,461.33,6,2098.85,1429.88,387.49,6,2098.85,6,4,2,5,3,0
+MV-57052,Men Day Dresses Signature,NVY,Navy,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,100,50,A800,MV SOHO New York,35275.9,10357.07,72,50112.1,38026.54,11451.74,77,53592.1,268,205,63,279,200,0
+MV-33509,Unisex Fedoras Signature,ECR,Ecru,Accessories,Unisex,Hats,Fedoras,MVS,MV Signature,100,50,A800,MV SOHO New York,14043.07,4944.89,26,20736.88,12734.14,4494.16,22,17546.59,40,25,15,35,29,0
+MV-95918,Women Suit Sets Modern,BLU,Bleu Marine,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,100,50,A800,MV SOHO New York,6772.93,1892.59,23,9536.22,8053.3,2935.58,27,11194.69,82,57,25,100,87,0
+MV-70648,Women Tops,BEG,Beige,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,5065.22,1742.74,18,7093.24,5495.34,1529.95,18,7093.24,45,41,4,47,44,0
+MV-54725,Women Suit Trousers Classic,CRM,Cognac,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,1795.89,582.28,6,2384.25,1358.5,362.42,4,1589.5,17,10,7,12,7,0
+MV-14877,Women Necklaces Heritage,ECR,Ecru,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,100,20,A800,MV SOHO New York,2226.67,654.12,4,2806.71,1607.17,569.01,3,2105.04,3,2,1,2,1,0
+MV-79329,Men Suit Trousers Classic,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,2294.88,742.75,6,3035.21,2836.5,1012.59,7,3541.08,5,4,1,5,3,0
+MV-65851,Women Midi Dresses Slim,GRG,Greige,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,3015.45,907.38,5,3926.26,2548.87,746.82,4,3141.01,8,6,2,7,4,0
+MV-30257,Women Weekender Relaxed,ARG,Argent,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,70,A800,MV SOHO New York,12766.66,4108.71,38,17923.85,11332.29,3111.73,31,14622.08,111,84,27,81,50,0
+MV-97684,Unisex Bracelets Luxe,BEG,Beige,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,100,30,A800,MV SOHO New York,1779.43,660.64,10,2297.49,2162.7,748.97,12,2756.98,6,4,2,6,4,0
+MV-35203,Men Blazers Modern,RSE,Rose Poudre,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,505.51,159.53,1,611.99,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-76039,Women Boots Relaxed,CRM,Creme,Footwear,Women,Heels,Boots,MVS,MV Signature,100,30,A800,MV SOHO New York,67224.65,24324.98,87,94660.24,54099.74,16207.51,77,83779.75,220,136,84,225,193,0
+MV-74451,Unisex Weekender Modern,ANT,Anthracite,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,26618.51,7756.89,54,36741.18,20925.4,5653.45,43,29256.87,128,117,11,98,60,0
+MV-69459,Women Rings Signature,BRG,Bordeaux,Accessories,Women,Jewelry,Rings,MV,Maison Voss,100,50,A800,MV SOHO New York,27876.17,9613.88,66,36571.03,27952.02,9727.47,61,33800.49,208,141,67,165,164,0
+MV-18163,Men Blazers Slim,SBL,Sable,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,24740.53,6842.57,133,29571.4,20250.85,5088.94,119,26458.62,76,51,25,65,50,0
+MV-54589,Women Carry-On Slim,GRG,Greige,Leather Goods,Women,Luggage,Carry-On,MV,Maison Voss,100,50,A800,MV SOHO New York,2397.54,643.64,4,3312.63,3375.4,1053.77,5,4140.78,10,9,1,11,10,0
+MV-38183,Men Suit Trousers Essential,CRM,Creme,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,6253.06,2160.51,12,7529.1,4335.78,1397.41,8,5019.4,16,12,4,10,6,0
+MV-12260,Men Knee High Modern,CAM,Camel,Footwear,Men,Boots,Knee High,MVS,MV Signature,100,20,A800,MV SOHO New York,19470.13,6885.25,35,24851.26,25235.89,9318.23,44,31241.59,19,14,5,20,13,0
+MV-97782,Women Leather Belts Signature,CAM,Camel,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,30447.8,8636.9,30,36178.65,37643.49,13732.45,35,42208.42,63,57,6,62,59,0
+MV-82910,Men Shirts Signature,ANT,Anthracite,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,100,20,A800,MV SOHO New York,1253.4,464.18,4,1521.92,1330.81,341.36,4,1521.92,7,5,2,8,7,0
+MV-25043,Men Loafers,CAM,Camel,Footwear,Men,Flats,Loafers,MVS,MV Signature,100,50,A800,MV SOHO New York,21795.7,6346.16,42,25848.7,19557.08,4991.23,42,25848.7,161,146,15,151,114,0
+MV-20328,Men Clutches,BEG,Beige,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,3082.61,1022.0,6,3914.9,2942.09,908.16,6,3914.9,19,11,8,19,12,0
+MV-90209,Men Suit Sets Modern,NVY,Navy,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,100,70,A800,MV SOHO New York,1399.68,475.17,6,1889.79,1393.59,423.75,6,1889.79,22,18,4,23,21,0
+MV-15014,Women Bracelets Modern,NVY,Navy,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,100,20,A800,MV SOHO New York,3338.65,932.55,19,4922.86,3024.51,815.52,16,4145.57,16,15,1,14,12,0
+MV-15958,Men Pumps Heritage,BRG,Bordeaux,Footwear,Men,Heels,Pumps,MVS,MV Signature,100,30,A800,MV SOHO New York,13881.54,5104.12,22,20591.67,9831.74,3666.21,16,14975.76,68,47,21,53,35,0
+MV-69634,Women Day Dresses Signature,NOI,Noir,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,6733.31,2393.14,21,8426.7,5946.56,1943.59,19,7624.15,57,53,4,46,31,0
+MV-54657,Women Evening Dresses Slim,NOI,Noir,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,50,A800,MV SOHO New York,1153.17,413.25,2,1471.26,632.6,183.21,1,735.63,6,4,2,5,4,0
+MV-26299,Men High Top Luxe,NOI,Noir,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,12016.53,3796.9,52,14751.21,14042.0,4148.24,63,17871.65,137,130,7,145,126,0
+MV-28714,Men Trousers Luxe,ANT,Anthracite,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,3775.67,1374.7,7,4629.17,2969.3,1028.39,6,3967.86,13,9,4,12,9,0
+MV-99381,Women Fedoras Signature,ECR,Ecru,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,50,A800,MV SOHO New York,696.29,205.69,3,905.38,504.13,131.52,2,603.59,9,5,4,7,5,0
+MV-29597,Women Leather Belts,BRG,Bordeaux,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,29709.96,8270.89,55,34607.01,37020.97,9985.02,68,42786.84,88,79,9,119,90,0
+MV-23434,Women Card Holders,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,62068.12,17910.73,78,90037.2,70798.86,24730.96,84,96963.14,88,67,21,79,68,0
+MV-47880,Women Shorts Relaxed,SBL,Sable,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,20,A800,MV SOHO New York,23926.63,8018.08,49,32982.98,17153.3,5983.7,37,24905.51,31,21,10,23,21,0
+MV-16839,Unisex Key Holders Luxe,BRG,Bordeaux,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,34356.3,8929.72,41,40906.16,23981.84,8331.14,32,31926.76,93,89,4,62,46,0
+MV-91830,Women Bracelets,CAM,Camel,Accessories,Women,Jewelry,Bracelets,MV,Maison Voss,100,50,A800,MV SOHO New York,10356.68,3617.22,26,14100.14,12097.11,3196.85,33,17896.33,42,34,8,44,31,0
+MV-26551,Women Mules Luxe,TAN,Tan,Footwear,Women,Heels,Mules,MV,Maison Voss,100,50,A800,MV SOHO New York,14205.54,4479.32,20,19658.95,10197.06,3785.32,14,13761.26,40,32,8,26,18,0
+MV-44959,Women Blazers Modern,ECR,Ecru,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,50,A800,MV SOHO New York,1368.62,480.06,2,1794.15,692.73,183.88,1,897.08,4,2,2,3,2,0
+MV-82924,Women Low Top Classic,SBL,Sable,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,100,20,A800,MV SOHO New York,9754.63,3313.87,13,14110.36,6993.36,1789.68,10,10854.13,13,9,4,9,8,0
+MV-63843,Women Midi Dresses Essential,TAN,Tan,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,7395.41,1935.42,11,10200.82,7659.35,2773.84,11,10200.82,22,20,2,22,18,0
+MV-67637,Men Midi Dresses Essential,SBL,Sable,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,3750.22,1205.48,7,4501.5,2422.23,623.51,5,3215.35,24,18,6,15,13,0
+MV-69692,Women Suit Sets Essential,BRG,Bordeaux,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,50,A800,MV SOHO New York,6529.3,2094.05,32,8697.53,5311.66,1458.11,26,7066.75,26,18,8,17,15,0
+MV-14705,Men Baseball Caps Modern,RSE,Rose Poudre,Accessories,Men,Hats,Baseball Caps,MVS,MV Signature,100,20,A800,MV SOHO New York,7100.58,1924.53,17,8564.9,7685.73,2339.0,19,9572.54,56,37,19,70,63,0
+MV-80468,Men Blouses Relaxed,CRM,Creme,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,100,20,A800,MV SOHO New York,754.88,212.67,2,1041.93,374.21,104.6,1,520.96,6,5,1,4,3,0
+MV-80282,Unisex Baseball Caps Signature,SBL,Sable,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,100,50,A800,MV SOHO New York,2877.32,998.74,6,3963.12,1825.31,576.32,4,2642.08,16,15,1,15,14,0
+MV-25974,Women Chain Belts,IVR,Ivoire,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,19102.23,7192.16,28,23034.8,16824.58,4621.43,28,23034.8,79,72,7,71,49,0
+MV-80807,Men Ballet Flats Heritage,SBL,Sable,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,20,A800,MV SOHO New York,602.7,186.8,1,875.36,669.12,219.48,1,875.36,3,2,1,3,2,0
+MV-96870,Women Day Dresses Relaxed,NOI,Noir,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,28759.83,9894.41,48,39877.09,23756.78,8488.72,36,29907.82,52,44,8,46,37,0
+MV-40005,Men Silk Scarves Classic,RSE,Rose Poudre,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,3480.15,1285.46,17,4099.89,3253.9,1107.38,18,4341.06,29,24,5,31,25,0
+MV-72722,Women Midi Dresses Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,5363.81,1914.07,16,7196.26,4341.42,1170.39,12,5397.19,29,21,8,27,20,0
+MV-20745,Unisex Mini Bags Essential,IVR,Ivoire,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,100,50,A800,MV SOHO New York,16482.36,4780.65,22,22033.94,20000.71,6319.02,26,26040.11,54,52,2,60,41,0
+MV-96341,Women Card Holders Signature,RSE,Rose Poudre,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,33309.44,12058.51,43,40872.74,30058.83,7602.53,41,38971.69,61,48,13,65,49,0
+MV-86556,Women Evening Dresses Classic,CRM,Cognac,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,70,A800,MV SOHO New York,3288.13,823.68,10,4622.08,3004.66,1056.56,10,4622.08,21,18,3,21,17,0
+MV-79822,Unisex Fedoras Slim,SBL,Sable,Accessories,Unisex,Hats,Fedoras,MV,Maison Voss,100,50,A800,MV SOHO New York,7868.5,2482.74,28,10300.39,10366.27,2998.91,35,12875.49,54,37,17,78,62,0
+MV-24530,Women Day Dresses Luxe,ECR,Ecru,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,12048.0,3927.12,21,15311.97,11002.06,2790.5,21,15311.97,31,18,13,32,27,0
+MV-54942,Men Square Frames Relaxed,ROG,Rouge,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,50,A800,MV SOHO New York,4023.57,1091.69,7,4989.39,3051.24,818.16,5,3563.85,14,10,4,10,8,0
+MV-80468,Men Blouses Relaxed,CRM,Creme,Ready-to-Wear,Men,Tops,Blouses,MVS,MV Signature,100,20,A800,MV SOHO New York,23626.7,6586.82,53,30379.82,26233.4,8455.46,63,36111.86,126,103,23,173,159,0
+MV-23979,Women Check-In Relaxed,ECR,Ecru,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,33168.38,11885.66,40,43870.11,26963.96,9347.24,33,36192.84,34,25,9,34,23,0
+MV-99353,Women Tote Bags,CAM,Camel,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,100,70,A800,MV SOHO New York,16562.35,4883.22,27,22534.44,11153.51,3354.41,19,15857.57,77,49,28,62,56,0
+MV-85914,Women Wallets,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,30,A800,MV SOHO New York,13892.05,4858.65,47,20457.08,12823.8,3525.34,42,18280.79,95,77,18,98,97,0
+MV-96761,Men Jackets Essential,ARG,Argent,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,10719.07,3419.45,50,14312.59,13157.6,3566.49,62,17747.61,178,164,14,180,153,0
+MV-93746,Women Blazers Essential,VRT,Vert,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,20163.36,7580.63,31,23817.62,14992.08,4004.36,25,19207.76,80,49,31,66,57,0
+MV-76039,Women Boots Relaxed,ARG,Argent,Footwear,Women,Heels,Boots,MVS,MV Signature,100,30,A800,MV SOHO New York,34113.34,9157.02,45,48889.93,28786.18,10108.42,41,44544.16,40,38,2,38,29,0
+MV-65255,Women Evening Dresses Heritage,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,20075.02,5039.41,30,26986.7,14345.71,4026.39,24,21589.36,112,96,16,83,76,0
+MV-19862,Men Pumps Slim,RSE,Rose Poudre,Footwear,Men,Heels,Pumps,MV,Maison Voss,100,20,A800,MV SOHO New York,14379.55,4711.42,28,18314.8,13626.49,4470.87,28,18314.8,45,28,17,52,36,0
+MV-66349,Women Crossbody Bags Modern,BLU,Bleu Marine,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,16030.47,4219.41,24,19896.77,11854.58,4044.75,18,14922.58,84,70,14,52,36,0
+MV-14852,Men Loafers Slim,CAM,Camel,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,50,A800,MV SOHO New York,28032.34,10372.18,35,39306.49,19489.01,6493.97,25,28076.06,95,74,21,60,54,0
+MV-39102,Men Day Dresses Luxe,BEG,Beige,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,100,30,A800,MV SOHO New York,2229.37,651.45,4,2956.61,2104.96,575.75,4,2956.61,11,7,4,12,7,0
+MV-54313,Women Wallets Classic,ECR,Ecru,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,20,A800,MV SOHO New York,20399.65,5245.08,53,26734.25,19583.99,7228.66,52,26229.83,124,105,19,116,97,0
+MV-27892,Men Suit Trousers Modern,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,17250.91,4629.26,51,22424.18,19119.61,5869.47,59,25941.7,119,106,13,150,96,0
+MV-23579,Men Cat Eye,CHP,Champagne,Accessories,Men,Sunglasses,Cat Eye,MVS,MV Signature,100,20,A800,MV SOHO New York,421.55,151.83,1,582.23,402.94,132.32,1,582.23,0,0,0,0,0,0
+MV-73532,Women Midi Dresses Modern,VRT,Vert,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,12950.46,4322.35,44,15517.43,13966.05,5159.03,51,17986.11,172,132,40,164,129,0
+MV-98501,Women Blouses Relaxed,BEG,Beige,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,100,50,A800,MV SOHO New York,1700.83,468.61,3,2354.49,1182.24,339.4,2,1569.66,7,4,3,6,4,0
+MV-27139,Men Jackets Signature,GRG,Greige,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,3470.64,1085.41,10,4266.26,3481.06,1234.91,10,4266.26,22,14,8,24,15,0
+MV-58566,Men Leather Belts Relaxed,ARG,Argent,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,100,50,A800,MV SOHO New York,14290.71,4951.73,34,18926.9,13533.63,5025.81,31,17256.88,87,66,21,94,93,0
+MV-24316,Women Low Top Relaxed,BLU,Bleu Marine,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,100,20,A800,MV SOHO New York,1885.05,576.64,4,2444.02,1861.38,700.47,4,2444.02,6,5,1,6,5,0
+MV-22833,Women Midi Dresses Classic,CRM,Creme,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,18882.69,5294.97,42,25080.74,18405.93,6829.45,41,24483.58,125,83,42,133,108,0
+MV-46655,Women Cat Eye Heritage,ARG,Argent,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,100,50,A800,MV SOHO New York,12738.23,4036.72,44,16381.83,14408.0,4569.81,47,17498.77,117,114,3,144,121,0
+MV-82135,Women Trousers Slim,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,30,A800,MV SOHO New York,7003.05,2049.91,17,9091.44,8602.61,2944.65,20,10695.82,29,23,6,41,36,0
+MV-22097,Men Leather Belts Essential,CRM,Cognac,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,412.08,151.08,1,527.74,411.56,148.14,1,527.74,3,2,1,2,1,0
+MV-74866,Women Wool Scarves Luxe,SBL,Sable,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,100,70,A800,MV SOHO New York,2872.45,829.86,8,3567.08,1856.12,697.0,5,2229.43,29,26,3,22,20,0
+MV-62044,Women Low Top Classic,VRT,Vert,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,100,20,A800,MV SOHO New York,16913.73,4629.11,24,20008.03,19194.9,5341.8,31,25843.71,14,11,3,17,13,0
+MV-68878,Men Carry-On Heritage,BEG,Beige,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,100,20,A800,MV SOHO New York,35323.88,10094.27,100,44596.06,45959.37,16965.29,129,57528.92,251,239,12,262,240,0
+MV-33703,Men Earrings Slim,CRM,Cognac,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,100,30,A800,MV SOHO New York,5659.36,1827.04,25,7269.62,5480.93,1673.21,24,6978.84,49,33,16,54,40,0
+MV-68929,Women Crossbody Bags Relaxed,ECR,Ecru,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,5263.42,1887.98,7,6063.65,4540.21,1322.99,7,6063.65,6,4,2,7,4,0
+MV-42087,Men Slides Slim,CRM,Cognac,Footwear,Men,Flats,Slides,MV,Maison Voss,100,20,A800,MV SOHO New York,14213.64,5373.02,25,17037.83,18807.25,5453.32,31,21126.91,69,50,19,74,65,0
+MV-30730,Men High Top Luxe,CRM,Creme,Footwear,Men,Sneakers,High Top,MV,Maison Voss,100,30,A800,MV SOHO New York,11493.4,3057.15,19,15347.04,11976.44,3435.36,19,15347.04,13,8,5,11,8,0
+MV-20328,Men Clutches,IVR,Ivoire,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,21370.68,6459.66,38,29380.71,24155.95,8912.38,44,34019.77,29,25,4,34,28,0
+MV-84531,Women Check-In Classic,CRM,Cognac,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,1084.92,316.61,2,1597.2,551.62,200.57,1,798.6,6,5,1,3,2,0
+MV-12180,Men High Top Signature,TAN,Tan,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,13515.92,4235.28,36,17845.88,14827.53,4065.29,43,21315.91,61,58,3,62,44,0
+MV-36143,Unisex Weekender Heritage,IVR,Ivoire,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,100,70,A800,MV SOHO New York,15404.5,4215.02,19,20197.11,17035.09,4321.16,22,23386.13,20,16,4,28,24,0
+MV-68138,Women Tops Modern,ARG,Argent,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,52229.06,13523.64,83,67350.19,50889.4,17385.01,84,68161.64,161,98,63,137,136,0
+MV-62196,Women Blazers,CHP,Champagne,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,3543.81,1023.98,10,4861.59,3157.89,1129.48,9,4375.43,6,4,2,4,2,0
+MV-79942,Men Blazers Essential,BEG,Beige,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,5970.87,1820.45,25,8947.8,4143.01,1538.6,17,6084.5,57,36,21,42,36,0
+MV-73242,Men Chain Belts Luxe,CHP,Champagne,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,58038.14,17616.26,67,75150.49,47591.69,16830.68,59,66177.3,131,99,32,125,118,0
+MV-45986,Women Chain Belts Classic,SBL,Sable,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,30,A800,MV SOHO New York,1684.24,481.98,2,2021.46,886.0,292.18,1,1010.73,4,2,2,2,1,0
+MV-38903,Men Coats Essential,GRG,Greige,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,100,50,A800,MV SOHO New York,21113.14,7599.92,69,29003.24,18043.71,4800.12,61,25640.55,98,66,32,92,70,0
+MV-40595,Women Day Dresses Heritage,BEG,Beige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,70,A800,MV SOHO New York,20165.7,7074.85,29,27251.49,23618.29,8255.46,33,31010.31,18,12,6,18,14,0
+MV-23579,Men Cat Eye,ROG,Rouge,Accessories,Men,Sunglasses,Cat Eye,MVS,MV Signature,100,70,A800,MV SOHO New York,396.19,125.42,1,488.37,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-44959,Women Blazers Modern,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,4660.79,1282.14,9,6551.68,5286.41,1889.19,9,6551.68,32,31,1,30,19,0
+MV-54657,Women Evening Dresses Slim,CAM,Camel,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,17017.92,6162.3,31,25656.71,23317.75,6534.65,38,31450.16,24,14,10,31,24,0
+MV-12671,Men Ballet Flats Slim,CAM,Camel,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,683.53,245.42,1,816.05,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-96341,Women Card Holders Signature,BEG,Beige,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,30,A800,MV SOHO New York,6764.8,1818.23,21,9307.57,7581.45,2635.2,22,9750.78,50,39,11,55,49,0
+MV-24316,Women Low Top Relaxed,ANT,Anthracite,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,100,20,A800,MV SOHO New York,4456.75,1330.41,10,5686.02,5056.48,1916.11,12,6823.22,34,31,3,37,22,0
+MV-80798,Men Chain Belts Modern,VRT,Vert,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,8415.82,2679.25,24,11768.3,8835.91,2322.94,25,12258.64,44,27,17,38,31,0
+MV-79924,Unisex Blazers Modern,CHP,Champagne,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,252.6,88.75,1,379.78,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-51441,Women Jackets Modern,VRT,Vert,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,22988.61,5926.26,51,27832.88,20007.72,6289.25,46,25104.16,49,48,1,45,27,0
+MV-99381,Women Fedoras Signature,CHP,Champagne,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,34158.79,8955.01,91,41961.21,36611.42,10124.71,106,48877.9,304,251,53,389,306,0
+MV-49251,Men Slides Classic,NVY,Navy,Footwear,Men,Flats,Slides,MV,Maison Voss,100,50,A800,MV SOHO New York,46108.48,17053.98,87,55668.47,30658.91,10747.53,62,39671.78,269,246,23,230,148,0
+MV-23434,Women Card Holders,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,36630.07,11095.91,34,44784.96,41613.68,15722.59,40,52688.19,34,23,11,37,34,0
+MV-86484,Men Blazers Essential,CAM,Camel,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,744.41,242.98,3,1030.12,475.45,165.55,2,686.75,2,1,1,1,0,0
+MV-30730,Men High Top Luxe,CRM,Cognac,Footwear,Men,Sneakers,High Top,MV,Maison Voss,100,20,A800,MV SOHO New York,24027.03,6077.36,35,30348.64,27078.47,9143.65,42,36418.37,69,58,11,77,53,0
+MV-65444,Women Berets,CAM,Camel,Accessories,Women,Hats,Berets,MVS,MV Signature,100,20,A800,MV SOHO New York,201.86,75.94,1,260.0,178.71,47.79,1,260.0,3,2,1,3,2,0
+MV-65851,Women Midi Dresses Slim,GRG,Greige,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,241.28,78.56,1,301.38,266.84,95.9,1,301.38,1,0,1,1,0,0
+MV-85914,Women Wallets,TAN,Tan,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,50,A800,MV SOHO New York,8415.67,3097.63,9,11893.94,6888.11,2182.02,7,9250.85,17,11,6,13,8,0
+MV-49363,Unisex Cashmere Scarves,NOI,Noir,Accessories,Unisex,Scarves,Cashmere Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,4643.39,1557.65,16,5953.27,3076.29,1159.56,11,4092.87,62,39,23,35,25,0
+MV-68493,Women Chain Belts Relaxed,CRM,Cognac,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,24155.81,8969.72,37,28573.22,22828.66,7987.97,34,26256.47,140,95,45,137,122,0
+MV-49472,Men Square Frames Modern,CAM,Camel,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,50,A800,MV SOHO New York,14098.97,4347.79,28,20853.45,12214.81,4563.16,24,17874.38,63,40,23,56,45,0
+MV-73532,Women Midi Dresses Modern,ECR,Ecru,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,3666.08,1270.86,14,5283.42,2299.38,721.81,9,3396.48,53,34,19,30,28,0
+MV-69692,Women Suit Sets Essential,NOI,Noir,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,50,A800,MV SOHO New York,4507.22,1591.62,8,5384.76,2734.39,947.99,5,3365.47,31,24,7,22,18,0
+MV-71537,Women Trousers Heritage,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,65889.37,23310.46,147,95501.59,82202.54,20797.95,191,124087.1,564,530,34,699,629,0
+MV-44099,Women Trousers Essential,CAM,Camel,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,50,A800,MV SOHO New York,3321.14,1059.95,13,4291.98,4056.34,1421.88,16,5282.44,39,34,5,51,38,0
+MV-38047,Women Round Frames Relaxed,BEG,Beige,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,100,50,A800,MV SOHO New York,4507.14,1659.83,15,6283.3,6044.66,1845.33,18,7539.96,59,44,15,58,35,0
+MV-47512,Men Tops Relaxed,SBL,Sable,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,100,50,A800,MV SOHO New York,2598.0,682.19,4,3540.99,2461.68,882.65,4,3540.99,15,9,6,13,12,0
+MV-27892,Men Suit Trousers Modern,ECR,Ecru,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,18480.39,5997.5,39,25595.78,19242.61,6824.03,43,28220.99,39,23,16,45,41,0
+MV-44718,Women Day Dresses Slim,NOI,Noir,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,8097.45,2419.18,29,11361.79,6967.77,2262.56,25,9794.65,75,53,22,75,53,0
+MV-46421,Women Knee High Slim,IVR,Ivoire,Footwear,Women,Boots,Knee High,MVS,MV Signature,100,20,A800,MV SOHO New York,1763.52,606.18,6,2220.28,1312.86,466.48,4,1480.18,17,13,4,10,8,0
+MV-56438,Men Boots Essential,CAM,Camel,Footwear,Men,Heels,Boots,MV,Maison Voss,100,50,A800,MV SOHO New York,1097.07,401.3,2,1413.88,974.5,261.45,2,1413.88,4,3,1,3,2,0
+MV-95191,Women Coats Signature,ECR,Ecru,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,100,70,A800,MV SOHO New York,12131.59,3284.87,28,16190.43,10161.69,3769.7,25,14455.74,47,36,11,34,21,0
+MV-44687,Men Card Holders Modern,SBL,Sable,Leather Goods,Men,Small Leather Goods,Card Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,23141.68,7851.06,26,33836.99,23767.5,8840.91,26,33836.99,70,64,6,85,62,0
+MV-22833,Women Midi Dresses Classic,NOI,Noir,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,4689.69,1305.98,8,6373.68,5630.4,1601.2,9,7170.39,15,9,6,15,10,0
+MV-23579,Men Cat Eye,CAM,Camel,Accessories,Men,Sunglasses,Cat Eye,MVS,MV Signature,100,20,A800,MV SOHO New York,12723.49,3391.19,75,18157.97,16536.89,5714.34,86,20821.14,280,215,65,302,196,0
+MV-42541,Women Blazers Slim,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,70,A800,MV SOHO New York,2136.73,799.66,4,2586.99,2075.43,727.12,4,2586.99,12,11,1,12,9,0
+MV-22833,Women Midi Dresses Classic,CRM,Creme,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,70,A800,MV SOHO New York,4630.19,1670.47,14,5796.82,4016.95,1160.82,11,4554.65,47,28,19,38,27,0
+MV-49618,Men Square Frames Classic,NOI,Noir,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,20,A800,MV SOHO New York,36587.91,13167.8,72,48938.86,42972.43,12192.63,92,62532.99,124,122,2,133,132,0
+MV-76542,Men Suit Sets Modern,BEG,Beige,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,8135.41,3041.45,13,11740.69,9026.5,2719.25,14,12643.82,51,40,11,66,58,0
+MV-54313,Women Wallets Classic,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,70,A800,MV SOHO New York,26757.27,6955.73,25,36064.0,30603.75,11337.4,31,44719.36,89,84,5,109,89,0
+MV-57942,Women Chelsea Boots Modern,ROG,Rouge,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,100,50,A800,MV SOHO New York,4682.37,1522.54,12,6146.03,4290.06,1428.95,11,5633.86,21,12,9,24,15,0
+MV-67939,Women Weekender Classic,ROG,Rouge,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,5702.18,1627.08,8,8580.06,7128.36,1976.21,10,10725.08,5,4,1,7,6,0
+MV-62772,Men Tote Bags Signature,BEG,Beige,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,38879.56,13451.28,104,47821.19,43646.82,12933.27,122,56097.94,181,150,31,184,181,0
+MV-99353,Women Tote Bags,RSE,Rose Poudre,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,10607.21,3719.25,13,12744.46,8202.99,2633.74,10,9803.43,10,6,4,6,5,0
+MV-60052,Unisex Evening Dresses,ARG,Argent,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,16390.45,5815.63,56,22442.32,20408.72,7023.09,65,26049.12,131,93,38,172,140,0
+MV-69473,Women Chain Belts Heritage,IVR,Ivoire,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,6071.94,1661.45,6,7089.65,7543.55,2043.77,7,8271.26,21,15,6,26,18,0
+MV-94058,Women Chain Belts,BRG,Bordeaux,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,1889.47,576.49,6,2573.28,1358.17,484.99,4,1715.52,8,5,3,6,5,0
+MV-99381,Women Fedoras Signature,ROG,Rouge,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,618.41,190.52,1,758.34,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-43586,Women Jeans Signature,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,20,A800,MV SOHO New York,5003.68,1738.92,26,6183.24,5661.63,1780.75,32,7610.15,22,20,2,30,24,0
+MV-94058,Women Chain Belts,CRM,Creme,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,50,A800,MV SOHO New York,4266.51,1587.94,11,5554.79,3913.54,1326.25,10,5049.81,29,26,3,22,17,0
+MV-36143,Unisex Weekender Heritage,GRG,Greige,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,100,30,A800,MV SOHO New York,25857.42,9561.15,50,37263.23,26583.32,8818.46,48,35772.7,38,37,1,34,24,0
+MV-92345,Women Leather Belts Modern,BRG,Bordeaux,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,100,50,A800,MV SOHO New York,4983.91,1584.57,16,7006.94,5227.94,1309.34,16,7006.94,15,11,4,17,15,0
+MV-77033,Women Weekender Modern,CHP,Champagne,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,100,20,A800,MV SOHO New York,53418.47,16618.36,86,69717.71,57643.9,20666.64,88,71339.05,82,55,27,87,78,0
+MV-21542,Women Clutches Signature,IVR,Ivoire,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,3346.82,1031.37,5,4184.54,2572.56,783.34,4,3347.63,17,16,1,11,10,0
+MV-59672,Women Shoulder Bags Classic,BEG,Beige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,44025.71,11186.59,51,59077.52,55914.93,15212.39,59,68344.58,71,67,4,72,65,0
+MV-15014,Women Bracelets Modern,VRT,Vert,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,100,50,A800,MV SOHO New York,21803.8,8266.49,37,27347.99,23793.34,7811.84,44,32521.94,117,96,21,159,111,0
+MV-20328,Men Clutches,ANT,Anthracite,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,34144.36,9627.62,37,47093.91,31811.5,11466.82,33,42002.68,136,101,35,136,129,0
+MV-52176,Women Check-In Relaxed,CAM,Camel,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,14960.87,3881.61,46,18763.47,13260.35,4143.12,43,17539.77,24,16,8,18,17,0
+MV-54657,Women Evening Dresses Slim,ROG,Rouge,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,50,A800,MV SOHO New York,23007.54,7606.3,36,27942.73,27984.53,10145.55,43,33376.04,90,64,26,124,99,0
+MV-54589,Women Carry-On Slim,BLU,Bleu Marine,Leather Goods,Women,Luggage,Carry-On,MV,Maison Voss,100,20,A800,MV SOHO New York,13092.29,3299.4,24,15579.44,10650.69,3850.86,22,14281.15,15,9,6,16,12,0
+MV-89928,Men Suit Trousers Slim,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,50,A800,MV SOHO New York,1596.04,446.96,3,2332.25,1706.27,619.04,3,2332.25,7,5,2,7,4,0
+MV-71537,Women Trousers Heritage,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,590.01,223.71,1,838.0,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-90031,Women Loafers Heritage,ECR,Ecru,Footwear,Women,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,35721.76,12508.18,63,44125.19,37036.34,13620.42,73,51129.19,231,169,62,224,155,0
+MV-82910,Men Shirts Signature,TRP,Taupe,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,100,50,A800,MV SOHO New York,9937.66,3310.57,24,12604.98,10103.43,3527.26,22,11554.56,80,62,18,65,48,0
+MV-85965,Men Fedoras Signature,CAM,Camel,Accessories,Men,Hats,Fedoras,MV,Maison Voss,100,20,A800,MV SOHO New York,11595.98,4064.52,40,16326.26,13478.9,4190.77,48,19591.51,25,15,10,25,19,0
+MV-66531,Unisex Key Holders Modern,CRM,Creme,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,10813.8,4102.09,16,13607.69,11817.54,4110.65,18,15308.65,34,30,4,35,27,0
+MV-94323,Women Round Frames Classic,TAN,Tan,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,100,70,A800,MV SOHO New York,1177.15,340.46,3,1675.13,1098.96,395.7,3,1675.13,8,6,2,9,5,0
+MV-80236,Women Coats Slim,BRG,Bordeaux,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,100,20,A800,MV SOHO New York,1777.48,487.33,3,2202.26,1829.33,580.09,3,2202.26,4,2,2,3,2,0
+MV-99173,Women Card Holders Modern,NOI,Noir,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,30349.61,10374.49,29,39828.45,23627.21,8803.51,22,30214.69,35,28,7,32,25,0
+MV-68493,Women Chain Belts Relaxed,CAM,Camel,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,5438.41,1396.45,14,7737.32,5022.9,1840.74,13,7184.65,41,37,4,39,38,0
+MV-44959,Women Blazers Modern,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,30,A800,MV SOHO New York,1465.17,367.44,5,1802.62,1124.65,396.4,4,1442.09,14,13,1,13,8,0
+MV-59308,Men Knitwear Essential,VRT,Vert,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,100,30,A800,MV SOHO New York,9700.15,2749.59,17,13483.93,8149.25,2046.67,15,11897.59,19,16,3,15,11,0
+MV-54942,Men Square Frames Relaxed,ANT,Anthracite,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,20,A800,MV SOHO New York,545.12,141.73,1,740.42,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-26074,Women Fedoras Slim,BRG,Bordeaux,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,11795.63,4031.77,21,15999.38,8224.4,2243.68,16,12190.01,57,45,12,37,23,0
+MV-15513,Unisex Shorts Heritage,CHP,Champagne,Ready-to-Wear,Unisex,Bottoms,Shorts,MVS,MV Signature,100,50,A800,MV SOHO New York,3705.27,1005.5,7,4680.9,3260.9,1145.64,7,4680.9,7,6,1,7,5,0
+MV-18163,Men Blazers Slim,BEG,Beige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,17544.93,5705.89,40,22070.91,14395.62,3986.91,32,17656.73,139,93,46,90,60,0
+MV-20336,Men Blazers Heritage,ARG,Argent,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,6348.26,1739.23,9,8458.87,4346.71,1311.31,6,5639.25,20,12,8,13,7,0
+MV-99181,Women Blazers Modern,NVY,Navy,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,9612.14,3557.46,15,12962.66,10252.59,3157.12,18,15555.19,48,45,3,64,62,0
+MV-51704,Women Fedoras Luxe,TAN,Tan,Accessories,Women,Hats,Fedoras,MV,Maison Voss,100,30,A800,MV SOHO New York,249.61,81.14,1,333.53,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-79329,Men Suit Trousers Classic,ARG,Argent,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,70,A800,MV SOHO New York,641.95,223.6,1,766.38,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-62521,Women Silk Scarves Luxe,BEG,Beige,Accessories,Women,Scarves,Silk Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,5504.8,2085.6,12,7174.58,5947.49,1868.25,12,7174.58,28,17,11,34,22,0
+MV-59009,Women Earrings Slim,IVR,Ivoire,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,100,20,A800,MV SOHO New York,7519.07,2691.51,16,9289.36,7476.63,2567.54,18,10450.53,33,28,5,43,33,0
+MV-90301,Men High Top,BRG,Bordeaux,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,30,A800,MV SOHO New York,8943.92,2917.77,23,13228.95,10033.42,2538.87,24,13804.12,69,55,14,73,52,0
+MV-51441,Women Jackets Modern,NOI,Noir,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,3547.57,1138.53,8,4415.53,2795.31,940.52,7,3863.59,29,23,6,31,20,0
+MV-69446,Unisex Evening Dresses Modern,CRM,Creme,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,17138.25,4815.26,29,23399.56,20099.17,5109.91,33,26627.08,40,33,7,37,25,0
+MV-20328,Men Clutches,BRG,Bordeaux,Leather Goods,Men,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,20935.75,5344.81,49,27103.05,14597.88,5185.84,34,18806.2,179,165,14,118,116,0
+MV-30730,Men High Top Luxe,GRG,Greige,Footwear,Men,Sneakers,High Top,MV,Maison Voss,100,30,A800,MV SOHO New York,25573.72,6504.44,38,35948.71,22359.07,8075.9,33,31218.61,96,88,8,93,66,0
+MV-38760,Unisex Rings Heritage,VRT,Vert,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,100,30,A800,MV SOHO New York,491.46,181.59,1,632.94,476.31,155.74,1,632.94,0,0,0,0,0,0
+MV-82199,Men Shorts Classic,BEG,Beige,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,100,70,A800,MV SOHO New York,4615.03,1250.77,16,5817.91,5633.55,1833.0,20,7272.38,32,23,9,42,30,0
+MV-62772,Men Tote Bags Signature,SBL,Sable,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,100,30,A800,MV SOHO New York,827.14,214.88,2,959.43,387.33,119.98,1,479.72,5,3,2,3,1,0
+MV-11214,Men Coats Heritage,BRG,Bordeaux,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,100,30,A800,MV SOHO New York,3828.75,1447.95,6,5006.86,3564.5,936.44,6,5006.86,5,3,2,4,2,0
+MV-59834,Women Skirts,ANT,Anthracite,Ready-to-Wear,Women,Bottoms,Skirts,MVS,MV Signature,100,20,A800,MV SOHO New York,61092.76,16473.59,108,72021.29,55455.17,20013.56,103,68686.97,291,221,70,264,253,0
+MV-23238,Women Knitwear Essential,CAM,Camel,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,100,50,A800,MV SOHO New York,1925.51,624.33,3,2450.26,1131.93,306.28,2,1633.5,9,7,2,7,6,0
+MV-52487,Men Mini Bags Luxe,RSE,Rose Poudre,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,6963.5,1749.87,17,8777.29,6102.24,1600.2,15,7744.67,20,18,2,15,12,0
+MV-59672,Women Shoulder Bags Classic,TAN,Tan,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,24027.84,6443.2,24,30661.96,21931.79,6811.97,23,29384.38,93,69,24,98,92,0
+MV-71537,Women Trousers Heritage,CAM,Camel,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,70,A800,MV SOHO New York,13091.59,4464.93,30,16274.41,15609.1,4997.43,35,18986.82,26,17,9,36,21,0
+MV-96275,Women Coats Essential,BEG,Beige,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,100,20,A800,MV SOHO New York,4044.41,1474.11,20,5311.86,3946.61,1375.32,18,4780.67,51,50,1,46,29,0
+MV-20350,Women Card Holders Essential,SBL,Sable,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,70,A800,MV SOHO New York,411.9,106.04,1,554.04,415.13,131.83,1,554.04,2,1,1,1,0,0
+MV-99224,Men Day Dresses Relaxed,VRT,Vert,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,4031.23,1078.54,9,5854.47,3817.78,1345.8,8,5203.97,5,4,1,4,2,0
+MV-84341,Men Sandals Signature,CRM,Cognac,Footwear,Men,Heels,Sandals,MV,Maison Voss,100,50,A800,MV SOHO New York,7909.45,2361.13,18,11164.7,8772.68,3089.26,21,13025.48,33,27,6,34,32,0
+MV-78614,Women Trousers Signature,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,932.04,324.72,2,1150.7,876.44,331.78,2,1150.7,4,3,1,4,3,0
+MV-49139,Men Wool Scarves Essential,BRG,Bordeaux,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,100,30,A800,MV SOHO New York,1976.31,567.94,10,2912.93,2129.63,691.15,11,3204.22,25,22,3,30,25,0
+MV-38683,Men Tops Slim,IVR,Ivoire,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,100,20,A800,MV SOHO New York,500.48,183.15,1,637.41,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-62196,Women Blazers,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,964.2,251.63,2,1213.14,527.41,146.91,1,606.57,3,2,1,2,1,0
+MV-56955,Women Ballet Flats Relaxed,TAN,Tan,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,100,50,A800,MV SOHO New York,3381.28,1029.88,12,4694.94,2545.14,643.32,9,3521.21,28,21,7,24,17,0
+MV-90209,Men Suit Sets Modern,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,100,20,A800,MV SOHO New York,1839.51,668.0,3,2670.43,2108.33,634.23,3,2670.43,3,2,1,4,2,0
+MV-94323,Women Round Frames Classic,CRM,Cognac,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,100,20,A800,MV SOHO New York,7734.61,2081.07,21,9721.8,7297.06,2035.74,20,9258.86,18,17,1,19,17,0
+MV-96760,Women Blouses Signature,GRG,Greige,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,100,20,A800,MV SOHO New York,18039.37,4831.63,29,25466.91,16000.85,4416.34,25,21954.23,24,17,7,24,17,0
+MV-71474,Men Loafers Relaxed,VRT,Vert,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,19501.27,7142.5,40,26984.23,19941.0,6934.82,37,24960.41,79,69,10,82,69,0
+MV-73736,Women Key Holders Relaxed,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,100,30,A800,MV SOHO New York,1550.26,456.12,5,2056.38,1251.37,396.07,4,1645.1,10,9,1,10,7,0
+MV-38183,Men Suit Trousers Essential,SBL,Sable,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,30,A800,MV SOHO New York,1029.59,317.0,4,1463.49,538.86,153.39,2,731.74,5,4,1,3,2,0
+MV-13761,Women Evening Dresses Luxe,ARG,Argent,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,1127.87,428.21,2,1532.16,586.19,159.16,1,766.08,7,6,1,6,4,0
+MV-89299,Men Bracelets Luxe,CAM,Camel,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,100,20,A800,MV SOHO New York,10122.6,3459.83,25,13258.51,9887.93,2553.25,24,12728.17,13,12,1,13,8,0
+MV-71474,Men Loafers Relaxed,ECR,Ecru,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,30,A800,MV SOHO New York,11618.16,3258.65,30,16782.51,10550.77,3707.86,25,13985.43,78,72,6,54,49,0
+MV-13761,Women Evening Dresses Luxe,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,321.7,111.25,1,406.33,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-37535,Men Shirts Relaxed,CHP,Champagne,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,100,20,A800,MV SOHO New York,38815.16,11476.96,69,45805.13,46944.58,14272.7,79,52443.55,250,234,16,245,232,0
+MV-64377,Women Trousers Essential,BLU,Bleu Marine,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,633.81,215.64,1,915.5,616.22,195.67,1,915.5,3,2,1,3,2,0
+MV-59308,Men Knitwear Essential,CAM,Camel,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,100,20,A800,MV SOHO New York,11606.17,3406.27,19,15152.61,14177.64,4829.98,22,17545.12,52,48,4,59,42,0
+MV-84341,Men Sandals Signature,BLU,Bleu Marine,Footwear,Men,Heels,Sandals,MV,Maison Voss,100,20,A800,MV SOHO New York,19740.49,6075.07,31,27056.89,18771.35,6925.32,27,23565.67,79,55,24,57,45,0
+MV-56346,Women Clutches Essential,CHP,Champagne,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,100,50,A800,MV SOHO New York,16200.53,6015.13,51,20292.45,16106.85,4409.97,57,22679.8,58,44,14,74,71,0
+MV-53655,Women Leather Belts Slim,RSE,Rose Poudre,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,24518.14,6824.47,31,33653.39,23060.28,8043.21,30,32567.8,88,81,7,69,54,0
+MV-91490,Women Midi Dresses,VRT,Vert,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,30,A800,MV SOHO New York,11303.98,4071.88,40,15462.46,9242.55,3218.92,32,12369.97,158,96,62,144,132,0
+MV-36318,Women Ankle Boots Slim,ECR,Ecru,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,50,A800,MV SOHO New York,6962.3,2152.77,10,9817.58,6671.14,1895.32,10,9817.58,34,26,8,38,23,0
+MV-86483,Women Wallets Luxe,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,100,50,A800,MV SOHO New York,27887.7,8430.13,42,35113.63,22982.2,6232.12,34,28425.32,157,136,21,148,116,0
+MV-48504,Women Slides Signature,CRM,Cognac,Footwear,Women,Flats,Slides,MVS,MV Signature,100,30,A800,MV SOHO New York,1375.46,439.8,2,1794.55,1370.11,370.98,2,1794.55,1,0,1,1,0,0
+MV-30253,Men Weekender Essential,VRT,Vert,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,100,50,A800,MV SOHO New York,27705.41,9888.24,56,32501.16,30109.1,8732.69,63,36563.81,79,60,19,82,50,0
+MV-92345,Women Leather Belts Modern,CRM,Cognac,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,20316.53,5942.35,19,25131.74,22902.25,7771.22,23,30422.64,52,45,7,54,40,0
+MV-39444,Men Key Holders Relaxed,CRM,Cognac,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,100,30,A800,MV SOHO New York,25321.12,9027.95,42,31566.17,24221.32,7438.24,38,28559.87,21,14,7,20,13,0
+MV-59009,Women Earrings Slim,RSE,Rose Poudre,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,100,20,A800,MV SOHO New York,8835.07,3009.74,15,11901.3,7907.99,2781.76,13,10314.46,43,39,4,30,26,0
+MV-49251,Men Slides Classic,GRG,Greige,Footwear,Men,Flats,Slides,MV,Maison Voss,100,20,A800,MV SOHO New York,12770.81,4293.96,25,18513.85,12230.77,4135.4,23,17032.74,42,36,6,40,36,0
+MV-51704,Women Fedoras Luxe,CRM,Creme,Accessories,Women,Hats,Fedoras,MV,Maison Voss,100,20,A800,MV SOHO New York,8529.57,3131.74,18,10338.85,9382.12,3143.26,20,11487.61,14,8,6,19,17,0
+MV-85914,Women Wallets,GRG,Greige,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,20,A800,MV SOHO New York,33548.13,8596.04,33,49451.86,31817.86,8083.05,31,46454.78,89,54,35,89,84,0
+MV-82199,Men Shorts Classic,NVY,Navy,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,100,20,A800,MV SOHO New York,755.6,274.37,2,1015.26,712.4,205.51,2,1015.26,3,2,1,3,1,0
+MV-33647,Men Coats Heritage,NOI,Noir,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,100,20,A800,MV SOHO New York,457.95,153.0,1,598.08,410.46,136.3,1,598.08,0,0,0,0,0,0
+MV-78614,Women Trousers Signature,GRG,Greige,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,4486.55,1198.88,7,5646.27,3052.99,984.5,5,4033.05,16,14,2,10,6,0
+MV-62772,Men Tote Bags Signature,CRM,Creme,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,100,30,A800,MV SOHO New York,3790.57,1085.92,4,5397.77,3008.43,837.5,3,4048.33,13,9,4,13,11,0
+MV-92478,Women Blazers Classic,ECR,Ecru,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,25420.81,8821.76,51,37642.44,29569.02,10507.82,63,46499.48,191,125,66,204,193,0
+MV-36143,Unisex Weekender Heritage,VRT,Vert,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,100,20,A800,MV SOHO New York,1900.13,536.45,6,2221.44,2102.39,575.51,7,2591.69,22,18,4,26,24,0
+MV-79329,Men Suit Trousers Classic,CRM,Creme,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,35690.56,10664.56,93,47627.01,22955.31,6135.6,65,33287.7,295,258,37,168,124,0
+MV-96275,Women Coats Essential,ARG,Argent,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,100,20,A800,MV SOHO New York,5730.89,1640.12,10,7657.94,6468.16,1630.72,11,8423.73,13,9,4,16,14,0
+MV-82135,Women Trousers Slim,ROG,Rouge,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,1256.77,374.55,5,1698.23,1136.99,423.05,5,1698.23,9,5,4,8,5,0
+MV-96275,Women Coats Essential,ARG,Argent,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,100,20,A800,MV SOHO New York,15582.76,5081.38,39,19584.55,16855.9,4497.41,45,22597.56,98,81,17,113,108,0
+MV-76263,Women High Top Essential,BRG,Bordeaux,Footwear,Women,Sneakers,High Top,MV,Maison Voss,100,20,A800,MV SOHO New York,6574.89,1994.79,27,8406.63,6435.39,2127.44,28,8717.99,14,10,4,12,9,0
+MV-41358,Men Chelsea Boots Heritage,CRM,Cognac,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,100,30,A800,MV SOHO New York,5742.35,2143.26,17,7793.93,5227.26,1753.48,15,6877.0,17,16,1,16,15,0
+MV-26912,Men Suit Sets Essential,BEG,Beige,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,7127.78,2211.88,20,9108.09,6538.24,2055.66,19,8652.68,52,38,14,57,34,0
+MV-72722,Women Midi Dresses Slim,GRG,Greige,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,14598.56,5192.75,32,17168.67,19103.19,5013.33,40,21460.84,38,30,8,42,38,0
+MV-51704,Women Fedoras Luxe,NVY,Navy,Accessories,Women,Hats,Fedoras,MV,Maison Voss,100,20,A800,MV SOHO New York,1255.46,420.34,6,1578.05,839.46,281.7,4,1052.03,12,9,3,9,8,0
+MV-26683,Women Blazers Relaxed,NVY,Navy,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,44693.92,16610.58,141,63897.71,37221.55,9647.57,117,53021.51,218,132,86,183,151,0
+MV-87993,Women Fedoras Modern,ECR,Ecru,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,41593.38,13882.85,92,55060.76,32063.79,11487.4,71,42492.54,169,112,57,146,142,0
+MV-71797,Men Shoulder Bags Classic,CAM,Camel,Leather Goods,Men,Handbags,Shoulder Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,7454.9,2090.05,26,10468.41,8647.5,3096.8,29,11676.3,15,14,1,20,15,0
+MV-23579,Men Cat Eye,GRG,Greige,Accessories,Men,Sunglasses,Cat Eye,MVS,MV Signature,100,30,A800,MV SOHO New York,1455.33,548.63,5,1993.15,1133.12,397.71,4,1594.52,18,17,1,13,12,0
+MV-43586,Women Jeans Signature,TRP,Taupe,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,20,A800,MV SOHO New York,6790.64,1700.11,28,8268.13,6807.93,2246.88,27,7972.84,54,52,2,51,37,0
+MV-91830,Women Bracelets,ANT,Anthracite,Accessories,Women,Jewelry,Bracelets,MV,Maison Voss,100,20,A800,MV SOHO New York,519.74,130.39,1,723.02,541.39,152.8,1,723.02,3,2,1,2,1,0
+MV-59672,Women Shoulder Bags Classic,BLU,Bleu Marine,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,70,A800,MV SOHO New York,841.82,216.13,1,1074.02,747.75,234.59,1,1074.02,1,0,1,1,0,0
+MV-16895,Women Leather Belts Slim,CRM,Creme,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,2614.93,767.11,7,3357.74,2321.91,768.23,7,3357.74,23,19,4,20,13,0
+MV-26074,Women Fedoras Slim,ANT,Anthracite,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,5704.16,1656.3,15,6901.56,6711.25,2416.46,17,7821.77,22,18,4,27,21,0
+MV-52487,Men Mini Bags Luxe,NOI,Noir,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,52328.77,19361.16,51,70162.5,45148.61,16480.65,39,53653.68,148,116,32,106,96,0
+MV-90209,Men Suit Sets Modern,SBL,Sable,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,100,20,A800,MV SOHO New York,13375.76,3965.2,32,16072.8,17559.46,5493.16,40,20091.0,42,36,6,60,50,0
+MV-38760,Unisex Rings Heritage,NVY,Navy,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,100,20,A800,MV SOHO New York,11733.1,3473.26,34,16414.37,8123.79,2032.48,24,11586.61,58,52,6,45,41,0
+MV-82512,Women Shorts Heritage,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,5220.51,1713.87,13,6690.62,5925.69,1571.53,15,7719.95,24,20,4,31,18,0
+MV-15958,Men Pumps Heritage,TAN,Tan,Footwear,Men,Heels,Pumps,MVS,MV Signature,100,20,A800,MV SOHO New York,3566.45,945.96,10,5115.21,2744.37,784.66,7,3580.65,5,4,1,3,2,0
+MV-36143,Unisex Weekender Heritage,BEG,Beige,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,100,20,A800,MV SOHO New York,3919.03,1061.44,11,5185.62,4147.64,1543.63,12,5657.04,33,22,11,34,31,0
+MV-51441,Women Jackets Modern,BEG,Beige,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,68521.59,21944.93,110,97667.52,78938.75,21289.92,122,108322.16,178,150,28,185,182,0
+MV-63225,Unisex Key Holders,IVR,Ivoire,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,652.05,198.4,1,861.17,617.78,170.51,1,861.17,3,2,1,3,2,0
+MV-60432,Women Suit Sets Essential,NOI,Noir,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,21533.3,7398.38,50,26306.42,22848.8,7509.61,58,30515.45,109,107,2,131,80,0
+MV-49251,Men Slides Classic,GRG,Greige,Footwear,Men,Flats,Slides,MV,Maison Voss,100,30,A800,MV SOHO New York,12523.52,3590.23,21,16405.34,14494.98,4042.74,23,17967.75,17,14,3,22,20,0
+MV-12180,Men High Top Signature,IVR,Ivoire,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,5575.86,1683.43,14,7411.0,4668.66,1280.34,12,6352.28,12,10,2,10,7,0
+MV-96341,Women Card Holders Signature,CHP,Champagne,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,25700.89,8690.9,32,32760.24,19638.85,6125.09,22,22522.66,122,90,32,79,62,0
+MV-65296,Women Ankle Boots Slim,CRM,Creme,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,50,A800,MV SOHO New York,10113.6,3111.88,16,13660.85,7026.29,1814.6,12,10245.64,29,18,11,23,16,0
+MV-73532,Women Midi Dresses Modern,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,30,A800,MV SOHO New York,21322.97,6460.17,52,28399.36,22074.95,6231.0,61,33314.64,153,127,26,211,157,0
+MV-79924,Unisex Blazers Modern,NOI,Noir,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,20787.38,6698.07,58,29896.77,18928.83,5835.67,51,26288.54,72,54,18,60,43,0
+MV-70521,Men Mules Luxe,CRM,Creme,Footwear,Men,Heels,Mules,MV,Maison Voss,100,20,A800,MV SOHO New York,2977.96,1027.46,13,4068.23,2627.36,959.83,12,3755.29,10,8,2,8,4,0
+MV-67961,Men Wool Scarves Heritage,BEG,Beige,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,100,30,A800,MV SOHO New York,1284.44,455.61,8,1674.73,778.7,218.69,5,1046.71,4,2,2,2,1,0
+MV-62044,Women Low Top Classic,BRG,Bordeaux,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,100,50,A800,MV SOHO New York,14833.2,4154.25,22,19569.53,13792.4,3649.12,20,17790.49,60,40,20,52,32,0
+MV-70521,Men Mules Luxe,BEG,Beige,Footwear,Men,Heels,Mules,MV,Maison Voss,100,20,A800,MV SOHO New York,18613.5,5367.87,61,26017.22,16247.79,4741.41,55,23458.14,203,201,2,191,125,0
+MV-86556,Women Evening Dresses Classic,ECR,Ecru,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,2389.67,625.55,5,3097.18,2166.09,698.49,5,3097.18,13,8,5,14,10,0
+MV-15958,Men Pumps Heritage,TRP,Taupe,Footwear,Men,Heels,Pumps,MVS,MV Signature,100,20,A800,MV SOHO New York,9107.52,2462.65,24,13061.07,8462.45,2300.29,20,10884.23,78,58,20,57,48,0
+MV-54089,Unisex Blazers,CRM,Creme,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,9504.64,3414.51,25,11539.97,13041.79,3785.35,32,14771.16,49,38,11,57,53,0
+MV-53064,Men Skirts Slim,CAM,Camel,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,100,50,A800,MV SOHO New York,20514.28,6104.57,33,27097.34,17331.75,5155.7,25,20528.28,24,23,1,20,12,0
+MV-35272,Men Check-In Modern,BLU,Bleu Marine,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,100,50,A800,MV SOHO New York,2290.58,675.93,3,2918.87,1567.26,481.47,2,1945.91,2,1,1,1,0,0
+MV-54313,Women Wallets Classic,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,30,A800,MV SOHO New York,16349.92,5671.69,31,22215.04,11195.52,3110.04,22,15765.51,89,64,25,76,73,0
+MV-69048,Women Tops Luxe,CRM,Cognac,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,31116.12,9901.54,60,39976.2,41761.63,13565.23,75,49970.25,113,111,2,167,156,0
+MV-33703,Men Earrings Slim,IVR,Ivoire,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,100,30,A800,MV SOHO New York,1383.77,474.29,4,1843.72,1147.33,360.65,3,1382.79,10,8,2,7,6,0
+MV-96761,Men Jackets Essential,TRP,Taupe,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,50,A800,MV SOHO New York,1257.74,391.94,6,1530.03,1018.49,351.41,5,1275.03,14,9,5,9,7,0
+MV-98188,Women Knee High Heritage,CRM,Cognac,Footwear,Women,Boots,Knee High,MV,Maison Voss,100,20,A800,MV SOHO New York,20004.89,5374.82,89,26557.24,21782.35,7446.1,88,26258.85,262,179,83,279,190,0
+MV-19869,Women Wool Scarves Slim,IVR,Ivoire,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,883.81,314.65,5,1275.17,1136.59,422.27,6,1530.2,18,14,4,23,19,0
+MV-93717,Women Leather Belts Heritage,BRG,Bordeaux,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,31334.78,10012.69,48,43879.02,30810.06,9056.9,51,46621.46,47,30,17,54,32,0
+MV-82924,Women Low Top Classic,GRG,Greige,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,100,20,A800,MV SOHO New York,13411.02,4252.83,17,16768.2,15468.09,4456.88,18,17754.56,21,15,6,23,19,0
+MV-54089,Unisex Blazers,ROG,Rouge,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,3496.76,1023.41,7,4743.47,3114.61,887.46,6,4065.83,11,10,1,8,7,0
+MV-90356,Women Loafers Signature,ECR,Ecru,Footwear,Women,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,33597.28,8415.83,51,43543.55,23882.99,8554.98,41,35005.6,166,164,2,120,79,0
+MV-54313,Women Wallets Classic,ARG,Argent,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,70,A800,MV SOHO New York,12087.24,3341.97,14,15035.69,8620.14,2239.57,10,10739.78,50,40,10,45,44,0
+MV-78937,Men Carry-On Luxe,IVR,Ivoire,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,100,70,A800,MV SOHO New York,14918.16,3831.08,18,18948.13,18528.22,5543.62,21,22106.15,11,9,2,11,8,0
+MV-35203,Men Blazers Modern,TAN,Tan,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,3552.5,1224.3,11,4922.83,2361.15,630.89,7,3132.71,24,14,10,18,13,0
+MV-31581,Men Key Holders Slim,TRP,Taupe,Leather Goods,Men,Small Leather Goods,Key Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,14460.12,4422.79,22,18100.28,13470.5,3647.64,20,16454.8,75,52,23,66,60,0
+MV-19869,Women Wool Scarves Slim,TRP,Taupe,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,100,30,A800,MV SOHO New York,2138.31,737.21,4,2982.41,2262.16,648.68,4,2982.41,8,5,3,9,7,0
+MV-56346,Women Clutches Essential,GRG,Greige,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,100,20,A800,MV SOHO New York,5644.33,2026.45,12,7467.64,6305.55,2156.81,13,8089.94,41,34,7,39,32,0
+MV-43586,Women Jeans Signature,ROG,Rouge,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,20,A800,MV SOHO New York,40523.78,13277.13,87,55955.06,39228.1,13888.97,77,49523.44,106,98,8,104,80,0
+MV-70521,Men Mules Luxe,VRT,Vert,Footwear,Men,Heels,Mules,MV,Maison Voss,100,20,A800,MV SOHO New York,4587.03,1240.35,7,6702.69,3071.03,986.56,5,4787.64,20,19,1,19,11,0
+MV-42087,Men Slides Slim,GRG,Greige,Footwear,Men,Flats,Slides,MV,Maison Voss,100,20,A800,MV SOHO New York,9624.52,2634.41,26,14494.98,8495.22,2621.25,21,11707.48,80,79,1,77,50,0
+MV-90209,Men Suit Sets Modern,VRT,Vert,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,100,50,A800,MV SOHO New York,5993.39,2191.4,9,8247.59,4357.31,1450.14,7,6414.79,15,13,2,14,12,0
+MV-17592,Men Coats Relaxed,NVY,Navy,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,100,50,A800,MV SOHO New York,20206.45,6740.56,37,27944.06,25830.49,8636.71,46,34741.26,25,21,4,37,26,0
+MV-53064,Men Skirts Slim,IVR,Ivoire,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,100,20,A800,MV SOHO New York,1138.73,379.79,3,1361.46,1062.01,320.84,3,1361.46,6,5,1,7,6,0
+MV-53228,Women Shoulder Bags Essential,RSE,Rose Poudre,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,77917.71,27330.09,88,100387.58,71345.67,21424.15,84,95824.51,316,258,58,359,338,0
+MV-49139,Men Wool Scarves Essential,CHP,Champagne,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,100,20,A800,MV SOHO New York,4871.5,1482.07,15,6267.3,6580.1,1973.67,18,7520.76,14,8,6,15,14,0
+MV-81364,Unisex Crossbody Bags Signature,CHP,Champagne,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,100,50,A800,MV SOHO New York,3835.48,1119.66,6,4669.64,3339.47,1161.16,5,3891.37,10,7,3,8,7,0
+MV-44335,Women Slides Slim,RSE,Rose Poudre,Footwear,Women,Flats,Slides,MV,Maison Voss,100,20,A800,MV SOHO New York,378.72,134.52,1,457.56,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-85914,Women Wallets,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,20,A800,MV SOHO New York,2271.58,795.23,4,2715.12,2087.08,681.5,4,2715.12,8,5,3,8,7,0
+MV-23133,Men Trousers Essential,VRT,Vert,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,6907.49,2012.68,18,9200.29,6168.12,1918.86,17,8689.16,11,6,5,8,5,0
+MV-82512,Women Shorts Heritage,VRT,Vert,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,20,A800,MV SOHO New York,5115.51,1552.34,10,6887.62,3938.82,1073.47,8,5510.1,32,23,9,22,18,0
+MV-14877,Women Necklaces Heritage,BEG,Beige,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,100,20,A800,MV SOHO New York,25448.0,8275.44,44,37077.42,21906.78,7139.52,38,32021.4,88,55,33,79,66,0
+MV-49472,Men Square Frames Modern,CRM,Cognac,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,50,A800,MV SOHO New York,3135.28,931.6,14,3954.27,3695.84,1216.75,18,5084.06,32,23,9,48,37,0
+MV-62383,Men Berets Relaxed,TRP,Taupe,Accessories,Men,Hats,Berets,MVS,MV Signature,100,50,A800,MV SOHO New York,2325.76,754.7,7,3189.85,2184.29,687.56,6,2734.16,19,13,6,15,9,0
+MV-52415,Men Jeans Relaxed,ECR,Ecru,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,100,30,A800,MV SOHO New York,12427.37,4265.56,24,15851.97,8004.23,2262.21,18,11888.98,24,22,2,21,19,0
+MV-35272,Men Check-In Modern,NVY,Navy,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,21414.7,7778.47,30,30853.73,16746.38,5206.85,23,23654.53,103,68,35,71,58,0
+MV-25043,Men Loafers,CHP,Champagne,Footwear,Men,Flats,Loafers,MVS,MV Signature,100,50,A800,MV SOHO New York,2016.67,533.97,4,2659.36,1632.44,473.63,3,1994.52,9,6,3,7,6,0
+MV-47880,Women Shorts Relaxed,ROG,Rouge,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,1081.29,380.91,4,1488.13,1146.82,364.23,4,1488.13,7,5,2,9,5,0
+MV-96870,Women Day Dresses Relaxed,ARG,Argent,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,499.8,148.38,1,631.68,527.19,169.4,1,631.68,3,2,1,3,2,0
+MV-76542,Men Suit Sets Modern,ANT,Anthracite,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,14015.15,4237.78,33,17708.44,16572.24,5960.13,42,22538.02,41,40,1,61,38,0
+MV-23238,Women Knitwear Essential,NVY,Navy,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,100,70,A800,MV SOHO New York,11972.47,3452.11,27,17094.83,13791.08,3710.75,31,19627.4,49,36,13,53,38,0
+MV-26505,Men Leather Belts Relaxed,SBL,Sable,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,14903.68,4005.71,16,21943.05,18983.17,6359.16,20,27428.81,14,11,3,20,12,0
+MV-25396,Women Clutches Slim,CAM,Camel,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,100,50,A800,MV SOHO New York,20634.15,7205.0,46,29640.82,23990.59,7333.77,48,30929.55,155,147,8,175,148,0
+MV-74038,Women Pouches,CHP,Champagne,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,100,20,A800,MV SOHO New York,40734.59,11557.78,41,52016.33,38539.61,12776.87,40,50747.64,84,67,17,76,63,0
+MV-70648,Women Tops,NVY,Navy,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,70,A800,MV SOHO New York,12996.83,3604.24,22,18203.6,14107.57,4469.91,23,19031.04,38,23,15,40,24,0
+MV-71057,Women Boots,CRM,Cognac,Footwear,Women,Heels,Boots,MVS,MV Signature,100,20,A800,MV SOHO New York,26328.59,8464.4,51,35993.45,29186.17,9214.62,57,40227.97,123,95,28,122,74,0
+MV-33509,Unisex Fedoras Signature,CAM,Camel,Accessories,Unisex,Hats,Fedoras,MVS,MV Signature,100,70,A800,MV SOHO New York,2373.84,649.13,5,3056.52,1462.24,543.42,3,1833.91,16,13,3,13,9,0
+MV-53025,Men Loafers Heritage,NVY,Navy,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,1421.33,474.25,2,1715.82,1411.95,508.52,2,1715.82,6,3,3,8,7,0
+MV-68138,Women Tops Modern,NOI,Noir,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,30,A800,MV SOHO New York,3046.93,776.25,7,4243.11,2782.45,738.45,6,3636.95,14,9,5,12,7,0
+MV-84177,Men Leather Belts Classic,BEG,Beige,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,760.23,281.94,1,1039.94,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-21542,Women Clutches Signature,ECR,Ecru,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,13401.1,4857.28,19,17007.17,14383.63,5459.32,20,17902.28,22,16,6,23,21,0
+MV-48462,Women Ankle Boots Relaxed,CHP,Champagne,Footwear,Women,Boots,Ankle Boots,MVS,MV Signature,100,20,A800,MV SOHO New York,19870.69,5801.8,69,23746.35,21166.81,6228.0,81,27876.14,44,41,3,48,41,0
+MV-89299,Men Bracelets Luxe,CRM,Creme,Accessories,Men,Jewelry,Bracelets,MV,Maison Voss,100,20,A800,MV SOHO New York,459.6,145.76,1,601.26,473.27,162.06,1,601.26,1,0,1,1,0,0
+MV-25974,Women Chain Belts,VRT,Vert,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,1094.47,373.44,3,1273.42,1078.95,375.29,3,1273.42,11,10,1,15,14,0
+MV-98188,Women Knee High Heritage,VRT,Vert,Footwear,Women,Boots,Knee High,MV,Maison Voss,100,20,A800,MV SOHO New York,12024.93,3840.71,15,14931.07,14090.96,3659.48,16,15926.47,9,7,2,11,8,0
+MV-36318,Women Ankle Boots Slim,CHP,Champagne,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,49341.53,14048.09,68,62190.92,57040.7,17421.7,73,66763.78,103,78,25,110,101,0
+MV-41029,Women Ballet Flats Luxe,NOI,Noir,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,100,70,A800,MV SOHO New York,7547.87,2686.08,9,10238.9,7066.4,1827.59,8,9101.25,11,7,4,9,6,0
+MV-83975,Unisex Baseball Caps Classic,ANT,Anthracite,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,100,20,A800,MV SOHO New York,4346.82,1604.89,17,5346.48,4306.73,1413.4,17,5346.48,50,32,18,51,32,0
+MV-19862,Men Pumps Slim,IVR,Ivoire,Footwear,Men,Heels,Pumps,MV,Maison Voss,100,70,A800,MV SOHO New York,684.83,220.99,1,851.94,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-76132,Unisex Leather Belts Slim,BRG,Bordeaux,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,2366.7,669.91,4,3410.33,1811.0,511.0,3,2557.75,8,6,2,8,7,0
+MV-76039,Women Boots Relaxed,TAN,Tan,Footwear,Women,Heels,Boots,MVS,MV Signature,100,20,A800,MV SOHO New York,46671.32,16175.88,108,63555.29,37982.07,12321.35,92,54139.69,259,222,37,258,205,0
+MV-19869,Women Wool Scarves Slim,SBL,Sable,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,15471.7,4900.98,84,19228.16,10495.42,2752.17,59,13505.49,207,130,77,166,118,0
+MV-29080,Men Jackets Relaxed,GRG,Greige,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,100,20,A800,MV SOHO New York,555.24,189.71,1,791.55,605.34,171.41,1,791.55,2,1,1,2,1,0
+MV-12665,Women Suit Trousers Essential,CAM,Camel,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,100,30,A800,MV SOHO New York,41674.9,15679.85,76,50485.94,42110.02,14746.28,71,47164.5,45,29,16,50,42,0
+MV-64524,Women Check-In Modern,NOI,Noir,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,30,A800,MV SOHO New York,19344.89,5881.43,25,26072.95,25158.13,7769.2,29,30244.63,23,20,3,32,24,0
+MV-99173,Women Card Holders Modern,NVY,Navy,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,54151.08,20026.34,51,76794.39,72671.49,19437.85,63,94863.66,177,115,62,237,234,0
+MV-47880,Women Shorts Relaxed,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,30,A800,MV SOHO New York,6934.35,2232.75,15,8260.66,9400.89,3439.25,19,10463.5,33,27,6,34,26,0
+MV-93746,Women Blazers Essential,CHP,Champagne,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,100,30,A800,MV SOHO New York,6126.95,1553.16,18,8407.04,4922.81,1335.79,15,7005.87,24,22,2,17,12,0
+MV-85156,Women Chain Belts Essential,IVR,Ivoire,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,70,A800,MV SOHO New York,10041.64,3227.85,16,12980.89,10992.64,3100.18,19,15414.81,50,37,13,50,41,0
+MV-31632,Women Weekender Luxe,TRP,Taupe,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,50,A800,MV SOHO New York,21349.58,7111.9,27,30833.09,24466.24,7662.23,29,33117.02,54,50,4,52,33,0
+MV-56346,Women Clutches Essential,SBL,Sable,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,100,20,A800,MV SOHO New York,1426.68,537.09,3,1956.64,1334.34,462.46,3,1956.64,5,3,2,6,4,0
+MV-69692,Women Suit Sets Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,50,A800,MV SOHO New York,641.47,236.3,1,812.32,601.62,168.29,1,812.32,0,0,0,0,0,0
+MV-65444,Women Berets,RSE,Rose Poudre,Accessories,Women,Hats,Berets,MVS,MV Signature,100,70,A800,MV SOHO New York,2543.26,827.66,9,3561.79,2851.78,786.34,10,3957.54,15,9,6,18,15,0
+MV-12180,Men High Top Signature,ROG,Rouge,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,17734.37,4465.79,30,21866.22,11302.04,3298.95,22,16035.23,40,31,9,28,17,0
+MV-40007,Women Tote Bags Modern,VRT,Vert,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,3411.18,1065.84,5,4596.23,2215.89,624.03,3,2757.74,7,5,2,4,3,0
+MV-18799,Women Jeans Modern,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,20,A800,MV SOHO New York,12303.86,4353.06,28,15350.1,11395.96,2963.98,30,16446.54,58,35,23,66,56,0
+MV-31798,Women Shoulder Bags Essential,ECR,Ecru,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,34095.09,12237.44,88,47847.73,41458.95,11134.32,105,57091.04,175,145,30,185,179,0
+MV-10336,Men Blazers Heritage,NVY,Navy,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,617.31,170.0,2,858.06,283.77,77.77,1,429.03,4,3,1,3,2,0
+MV-85965,Men Fedoras Signature,ECR,Ecru,Accessories,Men,Hats,Fedoras,MV,Maison Voss,100,70,A800,MV SOHO New York,4615.33,1211.33,28,6118.05,5897.24,2078.62,33,7210.56,16,12,4,15,10,0
+MV-56955,Women Ballet Flats Relaxed,RSE,Rose Poudre,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,8256.97,2332.43,14,9846.42,5606.88,2020.41,10,7033.15,32,20,12,27,19,0
+MV-41358,Men Chelsea Boots Heritage,CRM,Creme,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,100,70,A800,MV SOHO New York,18417.14,5508.78,51,26169.04,12600.55,4223.1,39,20011.62,42,36,6,34,21,0
+MV-47512,Men Tops Relaxed,NVY,Navy,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,100,20,A800,MV SOHO New York,1144.08,381.47,4,1514.2,799.22,237.58,3,1135.65,9,8,1,6,4,0
+MV-89928,Men Suit Trousers Slim,BLU,Bleu Marine,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,50,A800,MV SOHO New York,8712.39,2522.73,29,12539.65,7671.42,2417.09,27,11674.85,44,40,4,43,33,0
+MV-26074,Women Fedoras Slim,NOI,Noir,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,18485.71,6568.55,45,24985.13,13925.07,5202.38,36,19988.1,61,54,7,52,41,0
+MV-56955,Women Ballet Flats Relaxed,BLU,Bleu Marine,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,40790.02,12086.39,72,54776.25,38784.99,13905.55,65,49450.78,59,51,8,64,63,0
+MV-39444,Men Key Holders Relaxed,IVR,Ivoire,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,15921.92,4306.91,28,21899.8,13004.01,4582.35,24,18771.26,99,79,20,89,68,0
+MV-39102,Men Day Dresses Luxe,TAN,Tan,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,7010.5,2090.62,17,10250.37,5924.26,1703.29,14,8441.48,34,33,1,25,22,0
+MV-21164,Men Shorts Relaxed,ARG,Argent,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,12567.99,3808.15,24,15829.19,12815.29,4473.12,24,15829.19,85,70,15,101,90,0
+MV-44959,Women Blazers Modern,CAM,Camel,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,31535.07,9104.66,51,43443.18,40959.59,12043.68,65,55368.76,40,34,6,59,51,0
+MV-49251,Men Slides Classic,ARG,Argent,Footwear,Men,Flats,Slides,MV,Maison Voss,100,70,A800,MV SOHO New York,13604.14,3907.93,21,18610.85,12262.68,3940.11,17,15065.93,47,36,11,41,25,0
+MV-20077,Men Chain Belts Slim,GRG,Greige,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,728.7,253.42,1,915.66,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-68493,Women Chain Belts Relaxed,ROG,Rouge,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,41181.97,11606.3,67,56368.3,40389.94,12707.62,73,61416.21,82,53,29,73,63,0
+MV-76132,Unisex Leather Belts Slim,NOI,Noir,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,100,70,A800,MV SOHO New York,15380.66,3883.35,29,19902.59,18633.78,6829.48,34,23334.08,53,37,16,55,35,0
+MV-53228,Women Shoulder Bags Essential,GRG,Greige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,70,A800,MV SOHO New York,17465.05,4783.9,28,21215.46,19185.66,6398.76,32,24246.24,96,86,10,133,113,0
+MV-50768,Men Knitwear Modern,IVR,Ivoire,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,100,50,A800,MV SOHO New York,2031.84,629.47,6,2733.16,1338.77,464.88,4,1822.11,15,13,2,12,8,0
+MV-86484,Men Blazers Essential,VRT,Vert,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,13212.2,4405.79,27,16700.62,12468.26,4255.75,29,17937.71,49,35,14,52,44,0
+MV-28776,Women Sandals Essential,CHP,Champagne,Footwear,Women,Heels,Sandals,MV,Maison Voss,100,70,A800,MV SOHO New York,2697.98,713.4,12,3804.65,2621.05,691.0,12,3804.65,22,14,8,25,20,0
+MV-73242,Men Chain Belts Luxe,GRG,Greige,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,22621.93,5894.58,26,30100.7,19972.46,5581.0,22,25469.82,37,26,11,31,26,0
+MV-32527,Women Mules Luxe,ANT,Anthracite,Footwear,Women,Heels,Mules,MV,Maison Voss,100,50,A800,MV SOHO New York,651.04,210.44,2,930.01,616.51,218.02,2,930.01,2,1,1,2,1,0
+MV-31581,Men Key Holders Slim,ANT,Anthracite,Leather Goods,Men,Small Leather Goods,Key Holders,MVS,MV Signature,100,30,A800,MV SOHO New York,8239.04,3104.4,27,12442.94,10290.18,3346.21,33,15208.04,80,69,11,83,50,0
+MV-25043,Men Loafers,TAN,Tan,Footwear,Men,Flats,Loafers,MVS,MV Signature,100,50,A800,MV SOHO New York,144345.57,43915.67,187,204855.51,110772.58,33698.04,135,147890.34,171,165,6,148,133,0
+MV-80807,Men Ballet Flats Heritage,NVY,Navy,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,50,A800,MV SOHO New York,603.59,171.13,1,728.37,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-39102,Men Day Dresses Luxe,CRM,Creme,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,26653.76,8346.26,95,34593.09,30558.8,11370.85,106,38598.61,244,166,78,277,172,0
+MV-25974,Women Chain Belts,ECR,Ecru,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,4770.23,1276.42,13,6564.27,3107.88,1061.98,9,4544.49,33,23,10,28,16,0
+MV-10336,Men Blazers Heritage,CAM,Camel,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,21919.66,7346.96,51,29768.51,16662.0,4792.2,40,23347.85,46,43,3,36,30,0
+MV-38760,Unisex Rings Heritage,ECR,Ecru,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,100,20,A800,MV SOHO New York,14597.66,4553.55,38,19848.05,18293.77,5786.5,44,22981.96,84,60,24,94,79,0
+MV-98188,Women Knee High Heritage,BLU,Bleu Marine,Footwear,Women,Boots,Knee High,MV,Maison Voss,100,30,A800,MV SOHO New York,16351.33,5485.72,21,20175.07,19121.57,5722.39,22,21135.78,68,67,1,63,53,0
+MV-44664,Women Shoulder Bags Modern,GRG,Greige,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,34028.06,8734.39,33,39809.05,25210.7,8258.66,27,32571.04,66,57,9,53,40,0
+MV-78937,Men Carry-On Luxe,RSE,Rose Poudre,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,100,50,A800,MV SOHO New York,30019.61,10991.52,53,42847.61,24546.18,6142.98,42,33954.71,143,101,42,125,78,0
+MV-44664,Women Shoulder Bags Modern,CHP,Champagne,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,100,30,A800,MV SOHO New York,10368.03,3118.24,13,13473.04,9674.04,2773.57,13,13473.04,32,31,1,28,17,0
+MV-88222,Men Suit Trousers Heritage,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,6047.32,2232.74,9,8356.8,5875.99,1628.04,8,7428.27,15,12,3,15,14,0
+MV-20543,Men Check-In Classic,BRG,Bordeaux,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,22564.27,6829.35,27,30776.34,22353.66,5663.65,25,28496.61,49,29,20,37,22,0
+MV-22097,Men Leather Belts Essential,TAN,Tan,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,31610.36,9995.25,41,42189.31,42276.32,15821.65,49,50421.37,80,53,27,78,68,0
+MV-25974,Women Chain Belts,CHP,Champagne,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,13963.22,4473.74,36,16004.86,16723.82,4309.21,46,20450.65,52,51,1,73,57,0
+MV-64524,Women Check-In Modern,BEG,Beige,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,25580.33,9031.31,40,33058.91,25822.6,6997.25,40,33058.91,52,42,10,45,37,0
+MV-90301,Men High Top,TAN,Tan,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,5192.16,1696.99,14,6865.77,4629.77,1336.29,11,5394.54,7,4,3,6,4,0
+MV-62044,Women Low Top Classic,CHP,Champagne,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,100,30,A800,MV SOHO New York,12235.96,3611.0,42,15507.07,15209.06,3860.99,49,18091.58,146,132,14,149,147,0
+MV-44099,Women Trousers Essential,CHP,Champagne,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,70,A800,MV SOHO New York,820.43,304.24,3,1071.07,709.59,204.08,3,1071.07,8,7,1,7,5,0
+MV-80807,Men Ballet Flats Heritage,CRM,Creme,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,30,A800,MV SOHO New York,9435.73,2388.04,19,11841.75,7411.42,2142.0,14,8725.5,50,48,2,42,30,0
+MV-23434,Women Card Holders,TAN,Tan,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,554.92,205.81,1,770.39,599.39,170.31,1,770.39,2,1,1,2,1,0
+MV-94058,Women Chain Belts,CAM,Camel,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,30,A800,MV SOHO New York,4018.37,1205.99,9,5243.02,3640.76,1268.01,9,5243.02,20,19,1,23,22,0
+MV-62034,Women Necklaces Luxe,BLU,Bleu Marine,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,100,20,A800,MV SOHO New York,4548.55,1566.07,11,5749.38,3511.99,1206.14,8,4181.36,15,14,1,10,8,0
+MV-44959,Women Blazers Modern,SBL,Sable,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,30,A800,MV SOHO New York,4010.27,1196.55,12,5226.39,3389.92,1099.63,10,4355.32,35,21,14,34,22,0
+MV-38760,Unisex Rings Heritage,NOI,Noir,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,100,50,A800,MV SOHO New York,12801.84,3455.47,29,16426.93,13052.3,4294.28,31,17559.82,69,41,28,61,37,0
+MV-21542,Women Clutches Signature,ECR,Ecru,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,5733.43,1730.81,12,7570.85,4365.81,1173.12,10,6309.04,23,22,1,19,15,0
+MV-96760,Women Blouses Signature,TAN,Tan,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,100,30,A800,MV SOHO New York,6510.86,2033.07,15,8445.91,5230.68,1578.62,12,6756.73,39,33,6,36,25,0
+MV-69692,Women Suit Sets Essential,TAN,Tan,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,3700.83,1180.92,6,5082.52,2543.96,859.33,4,3388.35,8,5,3,5,3,0
+MV-44718,Women Day Dresses Slim,ROG,Rouge,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,2114.08,622.51,11,2629.72,2454.99,914.48,12,2868.79,20,12,8,22,15,0
+MV-52176,Women Check-In Relaxed,TAN,Tan,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,100,50,A800,MV SOHO New York,4535.34,1142.65,6,5475.62,3210.74,918.53,4,3650.41,10,6,4,9,6,0
+MV-49576,Women Jackets Classic,CAM,Camel,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,100,30,A800,MV SOHO New York,364.01,106.25,1,471.09,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-74451,Unisex Weekender Modern,CAM,Camel,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,100,30,A800,MV SOHO New York,13981.06,3675.58,23,19742.25,14873.54,4289.73,25,21458.97,24,15,9,22,15,0
+MV-44664,Women Shoulder Bags Modern,ARG,Argent,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,28325.53,10394.91,27,34604.42,20974.01,6286.3,20,25632.91,33,31,2,28,21,0
+MV-50213,Women Tops Slim,CAM,Camel,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,50,A800,MV SOHO New York,12979.0,3320.94,24,19244.41,9317.25,2973.26,18,14433.31,90,66,24,60,37,0
+MV-30253,Men Weekender Essential,GRG,Greige,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,100,50,A800,MV SOHO New York,4763.55,1493.96,15,6592.86,5356.5,1678.39,16,7032.38,39,23,16,44,29,0
+MV-33647,Men Coats Heritage,CRM,Cognac,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,100,30,A800,MV SOHO New York,4666.1,1577.2,12,6136.72,3709.6,1264.98,9,4602.54,8,7,1,6,5,0
+MV-52487,Men Mini Bags Luxe,NOI,Noir,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,36548.54,12841.43,50,50929.19,43875.95,15115.45,61,62133.61,196,128,68,217,213,0
+MV-35203,Men Blazers Modern,CHP,Champagne,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,10150.0,2917.44,18,14305.95,8462.9,2385.34,15,11921.62,9,8,1,8,7,0
+MV-26912,Men Suit Sets Essential,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,7926.79,2422.65,16,11131.01,10666.47,3250.01,20,13913.77,31,19,12,33,26,0
+MV-40007,Women Tote Bags Modern,ARG,Argent,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,319.14,99.57,1,415.53,318.35,81.86,1,415.53,2,1,1,2,1,0
+MV-79822,Unisex Fedoras Slim,BLU,Bleu Marine,Accessories,Unisex,Hats,Fedoras,MV,Maison Voss,100,20,A800,MV SOHO New York,2223.58,737.77,10,2814.01,1929.46,602.22,10,2814.01,19,13,6,16,10,0
+MV-99173,Women Card Holders Modern,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,6787.61,2332.63,12,8512.07,8233.9,2751.16,14,9930.74,21,14,7,25,15,0
+MV-31798,Women Shoulder Bags Essential,CAM,Camel,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,30,A800,MV SOHO New York,5169.27,1811.72,12,6418.65,7068.65,1992.9,15,8023.32,37,30,7,50,47,0
+MV-27961,Women Blouses Signature,NVY,Navy,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,100,20,A800,MV SOHO New York,6507.79,2145.22,21,8368.12,6652.73,1772.85,22,8766.6,45,44,1,53,33,0
+MV-69634,Women Day Dresses Signature,BEG,Beige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,10287.5,2853.14,19,12912.73,9593.17,3051.52,19,12912.73,12,7,5,11,10,0
+MV-41358,Men Chelsea Boots Heritage,IVR,Ivoire,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,100,50,A800,MV SOHO New York,7176.81,2612.27,23,9445.13,6743.75,2449.97,20,8213.15,41,37,4,35,34,0
+MV-70521,Men Mules Luxe,ECR,Ecru,Footwear,Men,Heels,Mules,MV,Maison Voss,100,70,A800,MV SOHO New York,13105.7,3944.72,36,17582.02,10169.66,3772.39,30,14651.68,66,51,15,54,43,0
+MV-50213,Women Tops Slim,ROG,Rouge,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,16631.39,5953.37,42,20483.14,20055.14,5070.31,49,23897.0,80,52,28,76,58,0
+MV-67104,Men Sandals Essential,CAM,Camel,Footwear,Men,Heels,Sandals,MV,Maison Voss,100,70,A800,MV SOHO New York,15005.48,5062.58,31,18770.26,16488.94,5979.35,38,23008.71,98,88,10,141,124,0
+MV-44335,Women Slides Slim,BRG,Bordeaux,Footwear,Women,Flats,Slides,MV,Maison Voss,100,30,A800,MV SOHO New York,27514.51,7799.32,78,35425.2,20600.37,7499.64,55,24979.31,275,173,102,202,145,0
+MV-90209,Men Suit Sets Modern,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,100,70,A800,MV SOHO New York,272.84,98.61,1,381.37,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-66531,Unisex Key Holders Modern,ANT,Anthracite,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,3414.49,1144.56,5,4675.99,2525.64,782.1,4,3740.79,6,5,1,5,3,0
+MV-67939,Women Weekender Classic,CHP,Champagne,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,30,A800,MV SOHO New York,987.04,329.54,1,1379.5,901.73,328.69,1,1379.5,2,1,1,2,1,0
+MV-62383,Men Berets Relaxed,NVY,Navy,Accessories,Men,Hats,Berets,MVS,MV Signature,100,50,A800,MV SOHO New York,8398.95,2787.76,26,11479.55,9252.34,3120.05,29,12804.11,90,82,8,115,88,0
+MV-98815,Men Check-In,NOI,Noir,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,58580.83,15018.45,57,87364.59,79944.57,29216.14,68,104224.42,163,116,47,227,147,0
+MV-67939,Women Weekender Classic,RSE,Rose Poudre,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,50,A800,MV SOHO New York,6688.23,2259.55,7,8613.84,9471.87,2837.14,9,11074.94,26,20,6,39,34,0
+MV-23434,Women Card Holders,SBL,Sable,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,55687.08,18555.77,65,76618.8,66818.37,18903.94,72,84870.05,241,230,11,310,260,0
+MV-55830,Women Jeans Heritage,NOI,Noir,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,30,A800,MV SOHO New York,377.43,103.57,1,476.57,337.02,95.71,1,476.57,1,0,1,1,0,0
+MV-41358,Men Chelsea Boots Heritage,TRP,Taupe,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,39714.7,11949.98,68,58797.35,27607.92,8607.46,47,40639.35,221,179,42,166,146,0
+MV-51116,Unisex Tops Essential,CRM,Creme,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,2059.69,711.81,10,2939.01,2364.05,678.86,11,3232.91,27,16,11,25,17,0
+MV-74038,Women Pouches,TRP,Taupe,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,100,20,A800,MV SOHO New York,2072.72,689.1,2,2577.42,1881.81,495.66,2,2577.42,4,2,2,4,2,0
+MV-98188,Women Knee High Heritage,ROG,Rouge,Footwear,Women,Boots,Knee High,MV,Maison Voss,100,20,A800,MV SOHO New York,3822.48,1145.16,16,5248.52,3144.62,969.04,12,3936.39,35,32,3,27,16,0
+MV-21542,Women Clutches Signature,SBL,Sable,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,6925.47,2356.11,7,9771.91,7140.7,2384.7,7,9771.91,8,7,1,8,5,0
+MV-44959,Women Blazers Modern,ROG,Rouge,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,70,A800,MV SOHO New York,3015.71,938.2,8,4391.13,3975.39,1423.62,10,5488.91,16,13,3,22,14,0
+MV-33703,Men Earrings Slim,VRT,Vert,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,100,20,A800,MV SOHO New York,1786.87,674.14,9,2443.64,1851.49,512.79,10,2715.16,10,7,3,11,9,0
+MV-86483,Women Wallets Luxe,ARG,Argent,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,100,20,A800,MV SOHO New York,35639.63,11590.2,40,45568.28,30873.76,10099.57,33,37593.83,126,83,43,92,69,0
+MV-84531,Women Check-In Classic,CAM,Camel,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,18356.0,5876.22,19,26449.23,17833.82,5079.05,17,23665.1,37,30,7,34,23,0
+MV-36143,Unisex Weekender Heritage,VRT,Vert,Leather Goods,Unisex,Luggage,Weekender,MVS,MV Signature,100,20,A800,MV SOHO New York,8539.99,2972.03,9,10629.72,6019.41,1841.34,7,8267.56,22,18,4,15,9,0
+MV-12665,Women Suit Trousers Essential,TRP,Taupe,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,12328.36,3765.59,23,15274.09,9902.64,3722.17,17,11289.54,11,8,3,9,8,0
+MV-85965,Men Fedoras Signature,NOI,Noir,Accessories,Men,Hats,Fedoras,MV,Maison Voss,100,20,A800,MV SOHO New York,13335.48,4660.99,31,16994.01,16244.69,4533.71,38,20831.36,109,102,7,158,144,0
+MV-49139,Men Wool Scarves Essential,ANT,Anthracite,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,100,20,A800,MV SOHO New York,4088.41,1191.67,8,5534.59,2864.58,974.32,6,4150.94,17,13,4,12,7,0
+MV-96761,Men Jackets Essential,SBL,Sable,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,5387.54,1542.05,13,6368.34,3767.89,1036.74,9,4408.85,37,29,8,31,30,0
+MV-10336,Men Blazers Heritage,TRP,Taupe,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,1326.56,438.4,3,1778.05,1162.4,430.82,3,1778.05,8,6,2,7,5,0
+MV-95918,Women Suit Sets Modern,ANT,Anthracite,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,100,20,A800,MV SOHO New York,1793.57,543.22,5,2450.57,1527.71,390.01,4,1960.46,13,11,2,11,7,0
+MV-75308,Men Ballet Flats,TAN,Tan,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,100,50,A800,MV SOHO New York,6104.22,1749.48,28,8553.13,6006.85,1609.8,25,7636.72,80,69,11,69,62,0
+MV-96760,Women Blouses Signature,SBL,Sable,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,100,20,A800,MV SOHO New York,2524.59,954.12,5,3247.5,1505.39,514.01,3,1948.5,10,7,3,6,5,0
+MV-44099,Women Trousers Essential,ARG,Argent,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,4101.61,1200.7,18,5645.03,4870.51,1689.48,19,5958.64,15,9,6,17,16,0
+MV-45986,Women Chain Belts Classic,ARG,Argent,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,21579.08,6128.78,31,26430.93,18225.27,5666.86,28,23873.1,51,39,12,47,44,0
+MV-82199,Men Shorts Classic,BLU,Bleu Marine,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,100,20,A800,MV SOHO New York,901.82,238.09,2,1195.93,442.49,143.44,1,597.96,4,2,2,3,2,0
+MV-96341,Women Card Holders Signature,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,70,A800,MV SOHO New York,23344.79,5905.83,21,29302.21,20577.03,5699.77,18,25116.18,79,77,2,74,68,0
+MV-70443,Women Card Holders Heritage,ARG,Argent,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,2845.99,1040.4,7,3769.47,2315.25,850.19,6,3230.97,27,21,6,20,12,0
+MV-24530,Women Day Dresses Luxe,CRM,Creme,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,44932.85,13010.09,83,61983.82,29383.15,10196.45,59,44060.79,270,196,74,199,163,0
+MV-27961,Women Blouses Signature,ECR,Ecru,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,100,20,A800,MV SOHO New York,9901.54,2548.78,16,12538.72,6681.35,2230.54,12,9404.04,48,47,1,34,26,0
+MV-47880,Women Shorts Relaxed,VRT,Vert,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,20,A800,MV SOHO New York,20920.45,5384.76,41,30967.72,19141.78,4879.3,33,24925.24,28,25,3,23,14,0
+MV-59009,Women Earrings Slim,CHP,Champagne,Accessories,Women,Jewelry,Earrings,MVS,MV Signature,100,20,A800,MV SOHO New York,10101.02,2753.07,20,13721.03,9093.51,3034.33,17,11662.88,76,55,21,79,49,0
+MV-71797,Men Shoulder Bags Classic,BEG,Beige,Leather Goods,Men,Handbags,Shoulder Bags,MVS,MV Signature,100,50,A800,MV SOHO New York,777.45,287.7,1,956.24,726.65,248.38,1,956.24,2,1,1,1,0,0
+MV-33703,Men Earrings Slim,IVR,Ivoire,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,100,20,A800,MV SOHO New York,13757.51,4645.49,25,17317.34,18269.9,5586.6,29,20088.11,18,16,2,24,19,0
+MV-82910,Men Shirts Signature,CHP,Champagne,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,100,50,A800,MV SOHO New York,52868.17,14731.05,76,70968.37,66054.71,25045.04,91,84975.29,267,169,98,384,334,0
+MV-76263,Women High Top Essential,VRT,Vert,Footwear,Women,Sneakers,High Top,MV,Maison Voss,100,50,A800,MV SOHO New York,15198.94,4684.65,23,18275.65,14921.26,4707.64,24,19070.25,90,57,33,99,64,0
+MV-53064,Men Skirts Slim,TAN,Tan,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,100,20,A800,MV SOHO New York,17209.69,4366.81,43,21159.19,20890.66,7201.04,55,27064.09,82,65,17,105,99,0
+MV-44718,Women Day Dresses Slim,ROG,Rouge,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,20556.86,6232.67,54,29158.46,24414.26,6853.19,59,31858.32,129,124,5,150,91,0
+MV-26505,Men Leather Belts Relaxed,IVR,Ivoire,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,5303.22,1618.89,6,6801.08,5960.59,1827.2,7,7934.59,13,11,2,13,11,0
+MV-92478,Women Blazers Classic,VRT,Vert,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,2231.47,823.82,6,3264.69,2484.05,815.49,7,3808.81,21,17,4,28,21,0
+MV-23434,Women Card Holders,CRM,Cognac,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,30,A800,MV SOHO New York,21119.45,6598.46,23,28838.75,16279.84,4392.27,17,21315.6,37,31,6,28,20,0
+MV-21542,Women Clutches Signature,BEG,Beige,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,100,50,A800,MV SOHO New York,12601.29,3268.99,13,17097.91,12906.69,4418.94,14,18413.14,49,31,18,54,51,0
+MV-26912,Men Suit Sets Essential,IVR,Ivoire,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,21640.06,8079.76,46,26143.37,15774.03,4666.31,34,19323.36,86,79,7,64,49,0
+MV-58434,Women Shoulder Bags Heritage,GRG,Greige,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,31482.16,7888.4,58,40537.27,23687.29,7780.11,42,29354.57,82,68,14,63,50,0
+MV-83975,Unisex Baseball Caps Classic,CHP,Champagne,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,100,30,A800,MV SOHO New York,5367.43,1353.48,10,7235.77,4788.22,1285.01,9,6512.19,11,7,4,11,7,0
+MV-14852,Men Loafers Slim,NOI,Noir,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,3051.67,1147.35,6,4398.36,2111.03,637.94,4,2932.24,16,11,5,13,8,0
+MV-82199,Men Shorts Classic,VRT,Vert,Ready-to-Wear,Men,Bottoms,Shorts,MVS,MV Signature,100,20,A800,MV SOHO New York,10720.26,2699.07,38,13337.55,11991.28,4482.21,39,13688.53,103,62,41,91,64,0
+MV-15958,Men Pumps Heritage,BRG,Bordeaux,Footwear,Men,Heels,Pumps,MVS,MV Signature,100,70,A800,MV SOHO New York,5001.81,1406.0,8,6338.42,3604.84,1344.15,6,4753.82,24,17,7,16,14,0
+MV-65296,Women Ankle Boots Slim,ANT,Anthracite,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,50,A800,MV SOHO New York,26571.55,9962.58,43,37985.51,33635.99,10015.86,49,43285.81,82,74,8,94,58,0
+MV-39444,Men Key Holders Relaxed,IVR,Ivoire,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,8651.68,2449.03,13,11106.67,9309.74,3204.34,14,11961.03,19,16,3,23,22,0
+MV-12260,Men Knee High Modern,ARG,Argent,Footwear,Men,Boots,Knee High,MVS,MV Signature,100,20,A800,MV SOHO New York,19526.32,5634.66,27,24981.6,21567.42,7470.59,31,28682.58,35,34,1,37,30,0
+MV-55830,Women Jeans Heritage,ARG,Argent,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,30,A800,MV SOHO New York,1272.81,403.84,2,1710.3,647.41,182.08,1,855.15,1,0,1,0,0,0
+MV-74451,Unisex Weekender Modern,ANT,Anthracite,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,17118.68,5996.48,24,22533.05,14304.1,4710.5,20,18777.54,30,27,3,22,15,0
+MV-25043,Men Loafers,ARG,Argent,Footwear,Men,Flats,Loafers,MVS,MV Signature,100,70,A800,MV SOHO New York,9004.33,2608.81,15,13393.64,6585.5,2331.02,10,8929.09,26,23,3,19,15,0
+MV-38760,Unisex Rings Heritage,IVR,Ivoire,Accessories,Unisex,Jewelry,Rings,MV,Maison Voss,100,20,A800,MV SOHO New York,10581.26,3688.21,22,13004.81,11189.98,3900.86,21,12413.68,54,47,7,51,49,0
+MV-73242,Men Chain Belts Luxe,ANT,Anthracite,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,70,A800,MV SOHO New York,3965.71,1315.64,4,5194.24,2801.48,950.07,3,3895.68,5,4,1,3,1,0
+MV-70521,Men Mules Luxe,BEG,Beige,Footwear,Men,Heels,Mules,MV,Maison Voss,100,70,A800,MV SOHO New York,9488.28,3596.24,33,11255.19,6351.03,1606.88,25,8526.66,37,30,7,26,19,0
+MV-66349,Women Crossbody Bags Modern,NVY,Navy,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,33527.82,9357.4,50,41733.9,34316.4,10771.62,55,45907.29,175,158,17,170,156,0
+MV-99224,Men Day Dresses Relaxed,GRG,Greige,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,1885.73,559.19,6,2314.8,1118.18,408.18,4,1543.2,20,13,7,13,11,0
+MV-96760,Women Blouses Signature,BRG,Bordeaux,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,100,50,A800,MV SOHO New York,703.66,226.59,2,966.5,707.96,239.29,2,966.5,3,2,1,2,1,0
+MV-18799,Women Jeans Modern,ARG,Argent,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,70,A800,MV SOHO New York,583.99,151.95,1,814.18,558.73,188.03,1,814.18,3,2,1,3,2,0
+MV-73736,Women Key Holders Relaxed,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,100,50,A800,MV SOHO New York,21115.51,5574.39,25,30294.32,19647.78,6075.71,23,27870.78,34,23,11,27,25,0
+MV-80807,Men Ballet Flats Heritage,NVY,Navy,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,50,A800,MV SOHO New York,16792.85,4562.32,23,21252.25,16108.18,4917.86,21,19404.23,82,54,28,75,60,0
+MV-46559,Men Ballet Flats Luxe,ROG,Rouge,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,20,A800,MV SOHO New York,14487.2,3733.31,19,20765.91,13955.1,4524.7,17,18580.03,15,13,2,12,10,0
+MV-57942,Women Chelsea Boots Modern,BLU,Bleu Marine,Footwear,Women,Boots,Chelsea Boots,MVS,MV Signature,100,70,A800,MV SOHO New York,3445.72,1011.75,6,4956.01,2619.91,897.57,5,4130.01,18,16,2,17,16,0
+MV-91830,Women Bracelets,CAM,Camel,Accessories,Women,Jewelry,Bracelets,MV,Maison Voss,100,70,A800,MV SOHO New York,5919.61,2212.72,12,7495.53,5216.17,1450.05,10,6246.28,38,35,3,32,26,0
+MV-87993,Women Fedoras Modern,CRM,Creme,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,20,A800,MV SOHO New York,7075.86,2108.67,22,9996.21,6931.38,2468.04,24,10904.95,41,30,11,51,33,0
+MV-42541,Women Blazers Slim,BRG,Bordeaux,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,50,A800,MV SOHO New York,5008.96,1498.77,17,6407.74,3783.91,1036.88,13,4900.04,44,28,16,31,25,0
+MV-72031,Women Blazers,TAN,Tan,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,100,30,A800,MV SOHO New York,29838.64,9150.44,111,37555.99,35632.31,11757.05,134,45337.86,142,130,12,198,173,0
+MV-56346,Women Clutches Essential,BRG,Bordeaux,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,100,50,A800,MV SOHO New York,2179.5,586.55,3,2996.64,2048.92,667.93,3,2996.64,11,10,1,12,9,0
+MV-77538,Men Check-In Signature,ECR,Ecru,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,100,50,A800,MV SOHO New York,28312.8,9600.59,29,36921.73,23023.11,6005.34,23,29282.75,19,15,4,13,11,0
+MV-68493,Women Chain Belts Relaxed,BRG,Bordeaux,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,9734.88,3293.52,13,12295.52,11513.71,3529.75,16,15132.95,28,25,3,32,26,0
+MV-16175,Unisex Day Dresses Modern,CHP,Champagne,Ready-to-Wear,Unisex,Dresses,Day Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,5749.52,1497.9,14,7147.28,6853.52,2482.62,16,8168.32,9,6,3,8,7,0
+MV-79615,Women Midi Dresses Slim,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,17159.02,5656.97,31,22792.68,20427.01,7462.34,36,26468.92,96,69,27,106,65,0
+MV-97782,Women Leather Belts Signature,SBL,Sable,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,17888.43,4491.89,29,24506.33,11608.97,4080.71,21,17745.97,94,66,28,73,57,0
+MV-91490,Women Midi Dresses,TRP,Taupe,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,26250.91,6891.22,119,35151.86,20105.85,5223.85,93,27471.62,160,131,29,107,71,0
+MV-30866,Women Loafers Modern,CRM,Creme,Footwear,Women,Flats,Loafers,MVS,MV Signature,100,50,A800,MV SOHO New York,1159.1,313.84,3,1528.78,815.64,204.22,2,1019.19,3,2,1,2,1,0
+MV-96341,Women Card Holders Signature,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,1511.83,480.74,2,1819.25,1506.41,518.32,2,1819.25,5,3,2,6,4,0
+MV-48504,Women Slides Signature,CRM,Cognac,Footwear,Women,Flats,Slides,MVS,MV Signature,100,50,A800,MV SOHO New York,20951.6,6872.76,32,27204.76,22885.67,7107.4,35,29755.21,73,64,9,86,66,0
+MV-69634,Women Day Dresses Signature,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,4110.32,1544.03,21,4957.64,3439.37,1268.21,17,4013.33,44,34,10,34,25,0
+MV-68991,Unisex Pouches Heritage,NOI,Noir,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,100,50,A800,MV SOHO New York,6389.26,2036.78,8,9302.99,5727.62,1492.16,7,8140.12,7,6,1,6,5,0
+MV-89963,Women Cat Eye Luxe,TAN,Tan,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,100,20,A800,MV SOHO New York,1178.88,354.41,2,1520.76,564.47,149.55,1,760.38,2,1,1,1,0,0
+MV-99181,Women Blazers Modern,GRG,Greige,Ready-to-Wear,Women,Outerwear,Blazers,MVS,MV Signature,100,50,A800,MV SOHO New York,1071.61,317.27,2,1372.47,981.98,259.1,2,1372.47,6,5,1,6,5,0
+MV-86484,Men Blazers Essential,BEG,Beige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,10354.1,3735.44,56,13924.89,8939.78,2790.26,46,11438.3,84,83,1,60,39,0
+MV-59672,Women Shoulder Bags Classic,TAN,Tan,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,5489.55,1675.16,5,6741.76,4943.05,1703.27,5,6741.76,2,1,1,1,0,0
+MV-98815,Men Check-In,ARG,Argent,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,100,50,A800,MV SOHO New York,7423.94,2074.84,9,9349.13,7210.76,2366.03,9,9349.13,35,31,4,34,32,0
+MV-73242,Men Chain Belts Luxe,RSE,Rose Poudre,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,6043.37,1911.92,6,7481.85,4698.72,1469.73,5,6234.88,3,2,1,2,1,0
+MV-95191,Women Coats Signature,NOI,Noir,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,100,20,A800,MV SOHO New York,5026.8,1405.05,11,6551.28,4859.47,1747.38,11,6551.28,34,28,6,31,30,0
+MV-69692,Women Suit Sets Essential,SBL,Sable,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,493.38,127.48,1,662.86,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-82910,Men Shirts Signature,NVY,Navy,Ready-to-Wear,Men,Tops,Shirts,MV,Maison Voss,100,20,A800,MV SOHO New York,4593.62,1200.66,18,6340.48,3732.99,988.67,15,5283.73,52,47,5,53,45,0
+MV-12665,Women Suit Trousers Essential,ANT,Anthracite,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,413.28,148.05,1,546.83,416.72,130.02,1,546.83,1,0,1,1,0,0
+MV-78955,Women Pouches Modern,BRG,Bordeaux,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,100,70,A800,MV SOHO New York,15907.59,4671.23,40,20942.18,11660.11,3547.89,30,15706.63,92,58,34,73,63,0
+MV-74451,Unisex Weekender Modern,NOI,Noir,Leather Goods,Unisex,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,4279.32,1295.91,6,5556.88,4261.13,1200.03,6,5556.88,23,15,8,21,17,0
+MV-73242,Men Chain Belts Luxe,TRP,Taupe,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,12186.01,3529.82,19,15296.42,14636.45,4440.23,23,18516.72,41,33,8,41,34,0
+MV-41358,Men Chelsea Boots Heritage,VRT,Vert,Footwear,Men,Boots,Chelsea Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,33666.35,12697.06,53,44981.76,33892.96,9207.69,55,46679.18,35,31,4,38,22,0
+MV-54185,Men Trousers Heritage,NVY,Navy,Ready-to-Wear,Men,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,10734.44,3803.45,26,13841.62,11687.22,3971.75,28,14906.37,51,33,18,64,40,0
+MV-56019,Men Shorts Slim,SBL,Sable,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,6251.78,2241.41,19,8806.47,7512.93,2115.25,21,9733.47,54,45,9,68,50,0
+MV-62772,Men Tote Bags Signature,ECR,Ecru,Leather Goods,Men,Handbags,Tote Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,5238.29,1934.08,9,6595.0,6397.78,2055.35,11,8060.55,30,19,11,43,42,0
+MV-64524,Women Check-In Modern,VRT,Vert,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,30,A800,MV SOHO New York,4274.24,1517.93,10,5872.13,4167.66,1079.7,11,6459.34,26,23,3,28,26,0
+MV-72031,Women Blazers,NVY,Navy,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,100,30,A800,MV SOHO New York,16780.4,6154.11,27,23156.64,20664.03,7596.07,32,27444.91,23,20,3,24,16,0
+MV-91490,Women Midi Dresses,CRM,Creme,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,57352.9,15888.37,129,73207.67,56400.51,19764.59,136,77180.18,178,123,55,174,119,0
+MV-17816,Women Trousers Slim,CRM,Creme,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,30,A800,MV SOHO New York,4927.34,1448.13,27,6932.92,4947.59,1853.03,26,6676.15,17,14,3,18,13,0
+MV-68878,Men Carry-On Heritage,CRM,Cognac,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,100,20,A800,MV SOHO New York,7979.27,2622.75,20,10066.0,9157.6,2498.74,22,11072.6,17,13,4,21,14,0
+MV-23238,Women Knitwear Essential,NVY,Navy,Ready-to-Wear,Women,Tops,Knitwear,MV,Maison Voss,100,20,A800,MV SOHO New York,14988.93,5567.78,33,17429.12,11651.77,3598.84,27,14260.19,71,46,25,57,39,0
+MV-68838,Men Suit Trousers Signature,TAN,Tan,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,70,A800,MV SOHO New York,7735.0,2789.46,15,9957.54,5478.69,1562.24,11,7302.19,43,34,9,37,32,0
+MV-76263,Women High Top Essential,CRM,Creme,Footwear,Women,Sneakers,High Top,MV,Maison Voss,100,20,A800,MV SOHO New York,749.12,196.45,1,951.38,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-26074,Women Fedoras Slim,BEG,Beige,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,50,A800,MV SOHO New York,5482.24,1946.78,20,7762.12,5969.07,2077.31,22,8538.33,10,8,2,10,7,0
+MV-84177,Men Leather Belts Classic,NVY,Navy,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,68123.7,17102.34,79,90480.75,55826.79,19782.33,58,66428.91,118,85,33,82,69,0
+MV-35272,Men Check-In Modern,SBL,Sable,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,100,50,A800,MV SOHO New York,4156.31,1492.28,4,5298.03,2796.68,1059.15,3,3973.52,11,9,2,9,8,0
+MV-80798,Men Chain Belts Modern,IVR,Ivoire,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,24176.48,7048.37,29,33499.82,16633.06,4735.96,21,24258.49,90,75,15,58,49,0
+MV-16175,Unisex Day Dresses Modern,BRG,Bordeaux,Ready-to-Wear,Unisex,Dresses,Day Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,1936.58,527.77,5,2403.72,1827.16,496.67,5,2403.72,8,5,3,8,6,0
+MV-18163,Men Blazers Slim,NVY,Navy,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,9460.42,3128.98,19,12497.82,9342.91,2615.68,21,13813.38,62,40,22,75,70,0
+MV-99173,Women Card Holders Modern,TAN,Tan,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,1226.57,435.16,2,1562.27,1177.92,397.77,2,1562.27,4,2,2,4,2,0
+MV-47243,Men Boots Heritage,TRP,Taupe,Footwear,Men,Heels,Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,11986.7,3787.86,15,15785.46,11575.93,4061.83,14,14733.1,26,18,8,22,19,0
+MV-44099,Women Trousers Essential,BRG,Bordeaux,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,16331.91,4804.9,35,21157.39,14491.47,5191.89,31,18739.41,88,65,23,93,87,0
+MV-54089,Unisex Blazers,ROG,Rouge,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,100,50,A800,MV SOHO New York,7027.49,2547.69,10,9118.5,8648.16,2441.69,12,10942.2,19,18,1,26,19,0
+MV-27139,Men Jackets Signature,ECR,Ecru,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,12749.73,3393.95,27,18289.89,11889.13,3821.5,26,17612.48,32,19,13,32,26,0
+MV-96761,Men Jackets Essential,RSE,Rose Poudre,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,20,A800,MV SOHO New York,17762.0,5850.23,39,22254.8,22301.86,6740.86,49,27961.16,71,69,2,86,71,0
+MV-68529,Men Ankle Boots,SBL,Sable,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,100,30,A800,MV SOHO New York,33000.57,8345.59,66,42127.82,26250.4,9508.62,50,31915.01,230,191,39,146,102,0
+MV-73532,Women Midi Dresses Modern,CHP,Champagne,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,70,A800,MV SOHO New York,1325.5,495.26,6,1905.34,933.8,346.63,4,1270.23,12,8,4,9,6,0
+MV-72031,Women Blazers,ARG,Argent,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,2161.43,733.18,12,2775.3,2352.01,705.52,12,2775.3,33,23,10,39,34,0
+MV-52176,Women Check-In Relaxed,VRT,Vert,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,1841.32,584.11,4,2617.5,1792.33,452.43,4,2617.5,15,14,1,14,13,0
+MV-44335,Women Slides Slim,ECR,Ecru,Footwear,Women,Flats,Slides,MV,Maison Voss,100,50,A800,MV SOHO New York,55182.21,14122.39,123,78091.49,64317.94,22976.11,144,91424.18,384,270,114,392,323,0
+MV-90209,Men Suit Sets Modern,NVY,Navy,Ready-to-Wear,Men,Suits,Suit Sets,MV,Maison Voss,100,20,A800,MV SOHO New York,35589.5,13334.16,65,46534.34,39325.95,14148.81,80,57273.03,107,106,1,142,98,0
+MV-47880,Women Shorts Relaxed,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,12750.84,4039.99,19,16873.38,10867.02,3832.21,15,13321.09,51,46,5,36,30,0
+MV-13761,Women Evening Dresses Luxe,CRM,Cognac,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,25935.54,8210.66,46,36077.68,29154.11,8125.12,56,43920.65,138,87,51,186,174,0
+MV-68929,Women Crossbody Bags Relaxed,CAM,Camel,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,13922.78,3483.47,18,18240.43,10046.1,2895.42,13,13173.64,67,63,4,43,40,0
+MV-92345,Women Leather Belts Modern,ANT,Anthracite,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,16494.55,4438.16,24,23592.72,11610.12,4329.37,17,16711.51,74,50,24,49,34,0
+MV-14852,Men Loafers Slim,SBL,Sable,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,1065.2,340.69,2,1406.66,986.66,333.15,2,1406.66,2,1,1,2,1,0
+MV-96870,Women Day Dresses Relaxed,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,19951.41,5769.73,35,23389.18,25539.84,9261.52,43,28735.28,73,69,4,78,59,0
+MV-37460,Men Jackets Heritage,CAM,Camel,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,100,20,A800,MV SOHO New York,1865.1,686.79,3,2562.99,1332.98,491.77,2,1708.66,7,6,1,5,3,0
+MV-79942,Men Blazers Essential,TRP,Taupe,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,30,A800,MV SOHO New York,23750.48,6364.75,44,31298.41,29936.22,8862.27,55,39123.01,51,45,6,71,67,0
+MV-82135,Women Trousers Slim,NOI,Noir,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,70,A800,MV SOHO New York,21861.3,6218.84,38,28671.07,20238.82,5455.15,37,27916.56,146,115,31,141,89,0
+MV-62196,Women Blazers,SBL,Sable,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,8650.68,3036.43,31,10602.26,7114.49,1833.56,27,9234.23,79,72,7,74,45,0
+MV-11214,Men Coats Heritage,RSE,Rose Poudre,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,100,50,A800,MV SOHO New York,578.52,166.48,1,747.64,0.0,0.0,0,0.0,1,0,1,1,0,0
+MV-80282,Unisex Baseball Caps Signature,ARG,Argent,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,100,20,A800,MV SOHO New York,2893.2,884.97,9,3539.65,2406.4,611.58,7,2753.06,26,25,1,23,21,0
+MV-19869,Women Wool Scarves Slim,CRM,Creme,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,1172.39,417.3,7,1776.17,1282.77,418.23,7,1776.17,21,15,6,23,14,0
+MV-59308,Men Knitwear Essential,SBL,Sable,Ready-to-Wear,Men,Tops,Knitwear,MVS,MV Signature,100,20,A800,MV SOHO New York,5014.0,1698.59,11,6802.55,4322.84,1259.57,9,5565.72,13,12,1,12,8,0
+MV-27892,Men Suit Trousers Modern,ARG,Argent,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,1045.8,349.54,2,1436.4,560.65,177.42,1,718.2,5,3,2,4,3,0
+MV-90301,Men High Top,IVR,Ivoire,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,50,A800,MV SOHO New York,48666.45,16850.69,69,71051.68,52344.94,17931.38,70,72081.41,123,90,33,131,98,0
+MV-48504,Women Slides Signature,ROG,Rouge,Footwear,Women,Flats,Slides,MVS,MV Signature,100,30,A800,MV SOHO New York,5231.98,1430.75,20,7082.21,5086.33,1737.33,22,7790.44,44,42,2,56,40,0
+MV-86556,Women Evening Dresses Classic,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,50,A800,MV SOHO New York,4232.61,1095.15,9,5776.08,4925.81,1792.19,11,7059.65,21,15,6,24,17,0
+MV-96200,Women Suit Sets,BLU,Bleu Marine,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,5841.97,1658.82,12,6974.39,5061.52,1462.27,11,6393.19,18,11,7,15,12,0
+MV-26299,Men High Top Luxe,TAN,Tan,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,11287.33,3562.18,14,15025.21,10973.81,3663.81,15,16098.44,48,47,1,53,47,0
+MV-20745,Unisex Mini Bags Essential,ARG,Argent,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,22699.48,6275.55,23,33500.51,20773.11,6182.93,22,32043.97,52,35,17,43,34,0
+MV-85156,Women Chain Belts Essential,VRT,Vert,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,19378.61,7240.09,18,24510.0,16196.4,6019.17,16,21786.67,57,42,15,44,28,0
+MV-16265,Women Chain Belts Signature,BEG,Beige,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,30,A800,MV SOHO New York,36563.26,12496.03,63,48082.15,37889.63,12809.13,67,51134.98,246,237,9,313,257,0
+MV-80236,Women Coats Slim,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Coats,MVS,MV Signature,100,20,A800,MV SOHO New York,9538.56,3324.44,17,13993.07,12164.01,3322.18,21,17285.55,40,39,1,43,29,0
+MV-43586,Women Jeans Signature,BEG,Beige,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,50,A800,MV SOHO New York,54239.28,14942.39,122,76002.39,58162.52,18569.72,137,85346.95,410,388,22,405,263,0
+MV-22833,Women Midi Dresses Classic,SBL,Sable,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,70,A800,MV SOHO New York,12931.69,4011.8,48,18277.39,9345.37,3358.3,36,13708.05,188,176,12,162,144,0
+MV-62044,Women Low Top Classic,GRG,Greige,Footwear,Women,Sneakers,Low Top,MVS,MV Signature,100,20,A800,MV SOHO New York,2571.27,741.67,5,3251.59,3458.83,1045.28,6,3901.9,5,3,2,7,5,0
+MV-28776,Women Sandals Essential,VRT,Vert,Footwear,Women,Heels,Sandals,MV,Maison Voss,100,50,A800,MV SOHO New York,50426.23,12673.83,67,67533.76,36336.91,11167.19,48,48382.39,54,47,7,45,38,0
+MV-54657,Women Evening Dresses Slim,ARG,Argent,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,1357.63,464.35,3,1862.48,952.92,267.64,2,1241.65,9,6,3,9,5,0
+MV-59391,Women Weekender Signature,BEG,Beige,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,100,50,A800,MV SOHO New York,19072.04,6250.55,42,24623.99,14916.13,4390.74,32,18761.14,29,20,9,18,15,0
+MV-68878,Men Carry-On Heritage,GRG,Greige,Leather Goods,Men,Luggage,Carry-On,MVS,MV Signature,100,20,A800,MV SOHO New York,13400.77,4423.08,12,18274.27,13518.76,3410.04,13,19797.13,43,41,2,56,49,0
+MV-47880,Women Shorts Relaxed,CAM,Camel,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,20,A800,MV SOHO New York,16224.02,5117.86,53,22633.43,12299.61,3276.28,41,17508.88,153,130,23,118,114,0
+MV-27892,Men Suit Trousers Modern,IVR,Ivoire,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,28779.93,9174.47,51,41034.89,28124.48,9339.73,53,42644.1,114,104,10,128,114,0
+MV-69446,Unisex Evening Dresses Modern,NOI,Noir,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,12614.42,3730.34,41,16526.91,14150.35,3775.82,44,17736.2,39,33,6,34,23,0
+MV-65444,Women Berets,CAM,Camel,Accessories,Women,Hats,Berets,MVS,MV Signature,100,20,A800,MV SOHO New York,22629.8,7108.81,39,31631.34,27600.75,7362.4,48,38930.88,129,106,23,189,124,0
+MV-44664,Women Shoulder Bags Modern,TRP,Taupe,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,4917.24,1794.77,9,7128.6,6108.55,2164.68,10,7920.66,5,4,1,6,5,0
+MV-30866,Women Loafers Modern,IVR,Ivoire,Footwear,Women,Flats,Loafers,MVS,MV Signature,100,20,A800,MV SOHO New York,913.99,259.65,2,1129.7,473.53,144.15,1,564.85,3,2,1,2,1,0
+MV-72722,Women Midi Dresses Slim,IVR,Ivoire,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,5525.34,1837.14,12,7457.02,6751.32,2540.97,13,8078.43,30,21,9,32,28,0
+MV-79942,Men Blazers Essential,VRT,Vert,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,2503.87,793.54,4,3232.9,2336.88,733.73,4,3232.9,9,7,2,11,8,0
+MV-11214,Men Coats Heritage,ARG,Argent,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,100,50,A800,MV SOHO New York,17649.01,6612.51,29,24947.63,21134.21,6428.39,34,29248.94,27,26,1,36,21,0
+MV-93746,Women Blazers Essential,NVY,Navy,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,5512.27,1973.35,10,8214.29,5541.12,1584.88,10,8214.29,31,29,2,26,21,0
+MV-68838,Men Suit Trousers Signature,NOI,Noir,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,17918.79,5693.47,93,22460.37,21590.4,7636.37,107,25841.5,295,263,32,349,342,0
+MV-46559,Men Ballet Flats Luxe,CRM,Cognac,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,20,A800,MV SOHO New York,6475.0,1658.97,25,8957.61,5003.57,1486.16,19,6807.78,39,25,14,27,20,0
+MV-97782,Women Leather Belts Signature,NVY,Navy,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,70,A800,MV SOHO New York,26618.4,7090.94,43,33159.62,19939.4,6877.5,31,23905.78,95,87,8,62,49,0
+MV-13761,Women Evening Dresses Luxe,ROG,Rouge,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,1524.54,512.1,3,2053.09,963.11,315.02,2,1368.73,3,2,1,3,2,0
+MV-52487,Men Mini Bags Luxe,BRG,Bordeaux,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,21154.66,5593.33,49,29014.67,24017.17,6685.98,55,32567.49,66,45,21,72,57,0
+MV-37460,Men Jackets Heritage,ECR,Ecru,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,100,20,A800,MV SOHO New York,34747.43,10923.8,64,47688.82,40576.79,10241.64,76,56630.47,244,173,71,327,224,0
+MV-89507,Women Blazers Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,7212.02,2399.46,16,10524.61,6631.98,1727.97,15,9866.82,34,32,2,35,30,0
+MV-39389,Women Mules Modern,SBL,Sable,Footwear,Women,Heels,Mules,MVS,MV Signature,100,30,A800,MV SOHO New York,17782.31,5084.61,23,24359.55,16801.17,6312.3,22,23300.43,16,13,3,18,13,0
+MV-49576,Women Jackets Classic,BRG,Bordeaux,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,100,20,A800,MV SOHO New York,11828.13,3715.13,36,15127.65,14334.24,4062.79,41,17228.71,46,38,8,49,35,0
+MV-97684,Unisex Bracelets Luxe,TRP,Taupe,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,100,50,A800,MV SOHO New York,1423.99,399.98,4,2036.55,1460.82,502.44,4,2036.55,14,8,6,17,12,0
+MV-86483,Women Wallets Luxe,ROG,Rouge,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,100,50,A800,MV SOHO New York,5918.98,2046.39,17,7028.97,5869.53,1906.59,19,7855.91,47,31,16,64,42,0
+MV-92203,Men Clutches,ROG,Rouge,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,100,20,A800,MV SOHO New York,8794.82,2634.96,12,11996.73,6731.88,2167.18,10,9997.28,29,23,6,23,19,0
+MV-30644,Men Chain Belts Slim,CRM,Creme,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,70,A800,MV SOHO New York,2731.72,752.72,3,3964.47,2958.84,855.11,3,3964.47,1,0,1,1,0,0
+MV-80798,Men Chain Belts Modern,BLU,Bleu Marine,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,10906.75,3189.34,11,14196.32,15092.24,4307.83,14,18068.04,39,28,11,52,49,0
+MV-20077,Men Chain Belts Slim,CRM,Creme,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,100,30,A800,MV SOHO New York,658.65,224.64,1,902.01,625.55,196.7,1,902.01,0,0,0,0,0,0
+MV-32527,Women Mules Luxe,TAN,Tan,Footwear,Women,Heels,Mules,MV,Maison Voss,100,30,A800,MV SOHO New York,254.56,77.17,1,342.56,0.0,0.0,0,0.0,3,1,2,2,1,0
+MV-69634,Women Day Dresses Signature,BRG,Bordeaux,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,70,A800,MV SOHO New York,1900.61,635.51,3,2672.28,1989.29,667.06,3,2672.28,7,6,1,9,7,0
+MV-76237,Women Skirts Classic,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,100,20,A800,MV SOHO New York,18199.77,5427.2,83,23117.09,16384.78,5113.69,67,18660.78,190,135,55,147,114,0
+MV-12180,Men High Top Signature,SBL,Sable,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,50,A800,MV SOHO New York,4664.82,1588.86,20,6057.4,4454.84,1657.02,18,5451.66,52,32,20,46,34,0
+MV-96870,Women Day Dresses Relaxed,CAM,Camel,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,30,A800,MV SOHO New York,45002.96,12455.97,85,56776.23,48402.15,12731.72,99,66127.61,315,267,48,322,291,0
+MV-22833,Women Midi Dresses Classic,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,6986.46,2091.05,14,9599.31,6440.94,1877.54,13,8913.65,50,39,11,46,33,0
+MV-56346,Women Clutches Essential,SBL,Sable,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,100,20,A800,MV SOHO New York,8076.9,2583.12,9,10405.4,9721.08,3260.85,10,11561.56,7,6,1,9,6,0
+MV-52415,Men Jeans Relaxed,CAM,Camel,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,100,50,A800,MV SOHO New York,10517.77,3923.75,17,12810.45,10682.5,3634.31,18,13564.01,26,16,10,24,20,0
+MV-23979,Women Check-In Relaxed,CHP,Champagne,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,4525.82,1399.07,14,5578.14,3124.73,874.09,10,3984.39,21,20,1,14,8,0
+MV-85965,Men Fedoras Signature,RSE,Rose Poudre,Accessories,Men,Hats,Fedoras,MV,Maison Voss,100,50,A800,MV SOHO New York,756.97,228.73,2,944.09,759.45,200.12,2,944.09,3,2,1,4,3,0
+MV-76039,Women Boots Relaxed,GRG,Greige,Footwear,Women,Heels,Boots,MVS,MV Signature,100,20,A800,MV SOHO New York,10455.53,2937.09,25,14073.98,9549.88,2566.95,24,13511.02,44,32,12,44,41,0
+MV-15014,Women Bracelets Modern,CRM,Cognac,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,100,50,A800,MV SOHO New York,3338.57,1052.34,6,4269.78,3141.93,1052.45,6,4269.78,11,7,4,13,10,0
+MV-89507,Women Blazers Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,30,A800,MV SOHO New York,5566.45,1961.19,24,7153.94,4750.99,1581.85,19,5663.53,49,35,14,38,26,0
+MV-64524,Women Check-In Modern,CRM,Cognac,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,70,A800,MV SOHO New York,17537.19,5499.46,26,23079.5,14640.64,5200.6,22,19528.8,87,60,27,67,55,0
+MV-57943,Women Shorts Essential,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,30,A800,MV SOHO New York,2828.28,988.92,4,3602.27,1980.37,504.64,3,2701.7,8,5,3,7,4,0
+MV-78494,Men Suit Sets Essential,NVY,Navy,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,500.47,127.41,1,589.28,481.87,144.47,1,589.28,2,1,1,2,1,0
+MV-47880,Women Shorts Relaxed,ARG,Argent,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,9812.73,2652.31,38,13620.74,9595.77,3333.61,33,11828.54,67,61,6,53,43,0
+MV-90356,Women Loafers Signature,CRM,Cognac,Footwear,Women,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,7055.47,1984.14,15,8655.98,8661.65,3155.39,19,10964.24,49,43,6,66,40,0
+MV-47880,Women Shorts Relaxed,CRM,Creme,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,20,A800,MV SOHO New York,236.2,83.64,1,328.87,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-83975,Unisex Baseball Caps Classic,SBL,Sable,Accessories,Unisex,Hats,Baseball Caps,MVS,MV Signature,100,20,A800,MV SOHO New York,75744.59,22925.96,132,89749.08,73532.1,24810.35,142,96548.25,169,133,36,202,167,0
+MV-97782,Women Leather Belts Signature,CHP,Champagne,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,1041.67,364.37,1,1431.28,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-20993,Men Wool Scarves Slim,BLU,Bleu Marine,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,100,50,A800,MV SOHO New York,15265.44,3866.35,29,19378.09,12977.52,3538.11,26,17373.46,100,67,33,109,83,0
+MV-28714,Men Trousers Luxe,ANT,Anthracite,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,64846.5,22648.7,103,92606.22,79115.51,23793.53,121,108789.83,390,250,140,517,449,0
+MV-92203,Men Clutches,VRT,Vert,Leather Goods,Men,Handbags,Clutches,MV,Maison Voss,100,50,A800,MV SOHO New York,2481.09,742.07,6,3197.81,2353.75,870.95,6,3197.81,15,13,2,16,14,0
+MV-32527,Women Mules Luxe,CAM,Camel,Footwear,Women,Heels,Mules,MV,Maison Voss,100,50,A800,MV SOHO New York,2160.4,810.77,3,2982.73,1353.04,448.93,2,1988.49,4,3,1,4,2,0
+MV-27892,Men Suit Trousers Modern,ECR,Ecru,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,1979.3,713.54,3,2364.85,1292.84,475.33,2,1576.57,5,3,2,4,2,0
+MV-79329,Men Suit Trousers Classic,NOI,Noir,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,50,A800,MV SOHO New York,2302.29,753.09,9,2840.61,2320.3,714.17,10,3156.23,34,26,8,37,23,0
+MV-31798,Women Shoulder Bags Essential,RSE,Rose Poudre,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,2009.1,570.45,2,2629.47,2264.02,719.71,2,2629.47,2,1,1,2,1,0
+MV-19862,Men Pumps Slim,GRG,Greige,Footwear,Men,Heels,Pumps,MV,Maison Voss,100,20,A800,MV SOHO New York,8924.14,3250.16,29,11521.64,8583.52,2586.52,27,10727.05,44,42,2,33,27,0
+MV-66531,Unisex Key Holders Modern,ARG,Argent,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,693.12,240.0,1,827.72,657.97,196.41,1,827.72,2,1,1,2,1,0
+MV-80798,Men Chain Belts Modern,ARG,Argent,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,6186.34,1997.69,17,7633.41,5099.07,1710.13,14,6286.34,14,10,4,12,7,0
+MV-29597,Women Leather Belts,BRG,Bordeaux,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,76066.5,20096.35,143,96420.38,70009.06,23080.14,134,90351.96,272,198,74,297,267,0
+MV-82512,Women Shorts Heritage,SBL,Sable,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,15793.4,5425.21,42,22397.06,20001.9,6952.45,49,26129.9,115,79,36,115,106,0
+MV-49618,Men Square Frames Classic,GRG,Greige,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,50,A800,MV SOHO New York,9881.85,3188.13,24,14154.6,8307.96,2184.82,18,10615.95,45,36,9,35,27,0
+MV-68529,Men Ankle Boots,NOI,Noir,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,100,20,A800,MV SOHO New York,2764.68,1015.11,9,4161.86,3354.67,1156.43,11,5086.72,29,21,8,31,28,0
+MV-73736,Women Key Holders Relaxed,CAM,Camel,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,15117.93,4500.44,24,20814.42,16956.38,4848.25,27,23416.22,12,11,1,16,11,0
+MV-95191,Women Coats Signature,TRP,Taupe,Ready-to-Wear,Women,Outerwear,Coats,MV,Maison Voss,100,20,A800,MV SOHO New York,10384.74,2601.94,18,14130.86,8028.87,2385.15,14,10990.67,24,22,2,22,17,0
+MV-68929,Women Crossbody Bags Relaxed,ECR,Ecru,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,70,A800,MV SOHO New York,7550.03,2047.42,13,9619.84,7475.75,1948.13,14,10359.83,8,7,1,7,6,0
+MV-58566,Men Leather Belts Relaxed,BLU,Bleu Marine,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,2253.79,732.85,3,2887.75,2227.29,826.6,3,2887.75,5,4,1,6,3,0
+MV-49251,Men Slides Classic,ANT,Anthracite,Footwear,Men,Flats,Slides,MV,Maison Voss,100,20,A800,MV SOHO New York,27163.75,6992.16,54,33073.66,19101.72,6198.64,38,23274.06,40,28,12,33,24,0
+MV-62521,Women Silk Scarves Luxe,ECR,Ecru,Accessories,Women,Scarves,Silk Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,5145.42,1500.91,15,6779.01,4106.57,1154.27,12,5423.21,27,18,9,24,18,0
+MV-41029,Women Ballet Flats Luxe,IVR,Ivoire,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,100,20,A800,MV SOHO New York,3635.74,1062.35,5,4812.82,2084.62,779.74,3,2887.69,17,16,1,14,10,0
+MV-26704,Men Pouches Classic,BLU,Bleu Marine,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,100,50,A800,MV SOHO New York,8552.22,2783.05,11,11588.33,6728.57,2049.7,9,9481.36,37,32,5,29,26,0
+MV-49576,Women Jackets Classic,ANT,Anthracite,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,100,50,A800,MV SOHO New York,3853.5,1412.68,13,5747.89,3146.87,1138.04,10,4421.45,33,29,4,30,26,0
+MV-23133,Men Trousers Essential,VRT,Vert,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,20537.69,5567.47,44,28709.23,19754.22,5070.72,41,26751.78,113,106,7,121,90,0
+MV-30257,Women Weekender Relaxed,CRM,Cognac,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,50,A800,MV SOHO New York,16708.08,6247.77,33,22949.55,18712.41,6079.6,39,27122.19,61,58,3,69,59,0
+MV-98501,Women Blouses Relaxed,TRP,Taupe,Ready-to-Wear,Women,Tops,Blouses,MVS,MV Signature,100,20,A800,MV SOHO New York,14269.1,4636.89,36,19632.21,16859.61,4863.76,42,22904.24,60,58,2,75,67,0
+MV-76132,Unisex Leather Belts Slim,CRM,Cognac,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,718.84,180.78,1,998.74,0.0,0.0,0,0.0,3,2,1,2,1,0
+MV-73736,Women Key Holders Relaxed,ARG,Argent,Leather Goods,Women,Small Leather Goods,Key Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,9124.17,3303.86,13,13104.75,10816.23,3945.87,15,15120.86,47,36,11,52,32,0
+MV-62383,Men Berets Relaxed,VRT,Vert,Accessories,Men,Hats,Berets,MVS,MV Signature,100,30,A800,MV SOHO New York,9019.47,3285.92,16,11742.97,8035.33,2852.76,14,10275.1,59,37,22,60,37,0
+MV-12260,Men Knee High Modern,CHP,Champagne,Footwear,Men,Boots,Knee High,MVS,MV Signature,100,50,A800,MV SOHO New York,802.5,283.35,1,995.73,758.44,229.73,1,995.73,3,2,1,2,1,0
+MV-80798,Men Chain Belts Modern,BLU,Bleu Marine,Leather Goods,Men,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,7081.94,1982.04,7,9187.76,8479.43,2428.42,8,10500.3,4,3,1,5,3,0
+MV-20077,Men Chain Belts Slim,IVR,Ivoire,Leather Goods,Men,Belts,Chain Belts,MVS,MV Signature,100,30,A800,MV SOHO New York,35501.31,11895.34,35,51443.09,41471.46,11396.14,38,55852.49,71,67,4,73,47,0
+MV-77538,Men Check-In Signature,TAN,Tan,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,1984.23,718.28,3,2619.59,2196.68,624.82,3,2619.59,7,6,1,7,5,0
+MV-31632,Women Weekender Luxe,ECR,Ecru,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,7458.95,2112.9,19,9738.07,8457.85,2512.61,21,10763.13,73,70,3,85,51,0
+MV-42087,Men Slides Slim,BLU,Bleu Marine,Footwear,Men,Flats,Slides,MV,Maison Voss,100,70,A800,MV SOHO New York,2735.32,854.4,6,4015.82,3429.38,1240.59,7,4685.13,22,18,4,29,22,0
+MV-24316,Women Low Top Relaxed,IVR,Ivoire,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,100,20,A800,MV SOHO New York,312.26,114.1,1,407.65,299.76,110.68,1,407.65,0,0,0,0,0,0
+MV-64377,Women Trousers Essential,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,30,A800,MV SOHO New York,4082.91,1307.32,6,5684.41,4785.64,1490.04,7,6631.81,14,11,3,20,16,0
+MV-95918,Women Suit Sets Modern,VRT,Vert,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,100,50,A800,MV SOHO New York,48336.93,14652.37,93,62228.81,37612.63,12220.95,73,48846.27,83,80,3,67,48,0
+MV-12671,Men Ballet Flats Slim,GRG,Greige,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,14276.27,3605.05,40,19831.87,14538.79,3783.22,41,20327.67,25,20,5,23,20,0
+MV-20350,Women Card Holders Essential,CAM,Camel,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,70,A800,MV SOHO New York,33275.32,12157.74,80,40240.19,33091.62,9825.26,89,44767.22,142,100,42,152,123,0
+MV-49472,Men Square Frames Modern,SBL,Sable,Accessories,Men,Sunglasses,Square Frames,MV,Maison Voss,100,20,A800,MV SOHO New York,8615.53,3133.28,16,10733.29,10294.87,3001.37,19,12745.79,49,44,5,56,42,0
+MV-42541,Women Blazers Slim,CRM,Cognac,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,649.85,207.62,2,894.1,289.62,101.28,1,447.05,3,2,1,2,1,0
+MV-96341,Women Card Holders Signature,NOI,Noir,Leather Goods,Women,Small Leather Goods,Card Holders,MVS,MV Signature,100,30,A800,MV SOHO New York,11412.25,3443.38,20,16853.53,8886.93,3038.78,15,12640.15,10,6,4,6,4,0
+MV-89507,Women Blazers Essential,CHP,Champagne,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,3762.07,1107.9,15,4751.35,3712.37,1267.7,14,4434.59,40,31,9,33,20,0
+MV-51441,Women Jackets Modern,GRG,Greige,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,100,30,A800,MV SOHO New York,20029.56,5343.62,46,28466.83,22876.13,5937.95,59,36511.8,44,28,16,57,46,0
+MV-15014,Women Bracelets Modern,TRP,Taupe,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,100,20,A800,MV SOHO New York,546.21,177.41,2,653.52,563.16,203.09,2,653.52,6,5,1,6,5,0
+MV-25974,Women Chain Belts,GRG,Greige,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,16655.13,5093.41,16,23024.33,13723.23,3807.26,14,20146.29,41,31,10,34,22,0
+MV-49576,Women Jackets Classic,NOI,Noir,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,100,70,A800,MV SOHO New York,1685.69,594.92,4,2327.21,1143.42,331.9,3,1745.41,4,3,1,3,2,0
+MV-12671,Men Ballet Flats Slim,ARG,Argent,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,2659.57,726.37,9,3575.04,2749.79,920.93,9,3575.04,34,33,1,40,35,0
+MV-96870,Women Day Dresses Relaxed,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,16050.54,4632.49,33,22852.62,16901.65,5621.43,32,22160.12,39,37,2,43,36,0
+MV-48462,Women Ankle Boots Relaxed,CHP,Champagne,Footwear,Women,Boots,Ankle Boots,MVS,MV Signature,100,20,A800,MV SOHO New York,5026.18,1521.89,16,7272.96,4265.03,1460.48,14,6363.84,25,23,2,26,22,0
+MV-28191,Women Chelsea Boots Luxe,BRG,Bordeaux,Footwear,Women,Boots,Chelsea Boots,MV,Maison Voss,100,30,A800,MV SOHO New York,6410.09,2136.43,11,8548.7,5177.45,1378.74,9,6994.39,23,21,2,22,18,0
+MV-92345,Women Leather Belts Modern,CRM,Creme,Leather Goods,Women,Belts,Leather Belts,MVS,MV Signature,100,30,A800,MV SOHO New York,3540.99,943.91,12,4314.82,3825.63,1393.55,13,4674.38,23,20,3,30,27,0
+MV-38047,Women Round Frames Relaxed,CAM,Camel,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,100,20,A800,MV SOHO New York,6620.32,2167.53,15,9212.09,4873.86,1272.02,12,7369.67,57,55,2,49,30,0
+MV-29597,Women Leather Belts,GRG,Greige,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,14855.57,5296.71,38,19476.92,19363.34,5837.66,48,24602.42,140,98,42,209,152,0
+MV-52415,Men Jeans Relaxed,CRM,Cognac,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,100,70,A800,MV SOHO New York,10192.62,3604.46,56,12554.41,8280.78,2304.26,41,9191.62,92,74,18,74,57,0
+MV-79942,Men Blazers Essential,TAN,Tan,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,38161.21,11142.9,78,49579.49,44769.03,13620.68,93,59114.01,152,133,19,203,186,0
+MV-54089,Unisex Blazers,NVY,Navy,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,100,70,A800,MV SOHO New York,11188.32,3034.93,38,15611.79,14123.76,4083.96,44,18076.81,115,79,36,125,77,0
+MV-53228,Women Shoulder Bags Essential,VRT,Vert,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,6734.39,2421.12,9,8927.19,7282.22,2205.46,10,9919.1,31,26,5,32,24,0
+MV-66531,Unisex Key Holders Modern,ANT,Anthracite,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,26579.21,7626.59,29,32623.82,21976.48,7326.27,24,26999.02,27,22,5,24,21,0
+MV-70648,Women Tops,CRM,Creme,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,50,A800,MV SOHO New York,5870.83,1617.64,14,7255.14,6448.59,2413.54,17,8809.81,40,30,10,39,28,0
+MV-53655,Women Leather Belts Slim,VRT,Vert,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,5887.61,1830.72,7,8183.93,6174.07,2100.47,8,9353.07,11,7,4,14,13,0
+MV-88366,Men Blazers Classic,GRG,Greige,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,13721.72,4925.73,46,19990.02,11816.55,3273.95,38,16513.49,52,35,17,40,37,0
+MV-19862,Men Pumps Slim,CAM,Camel,Footwear,Men,Heels,Pumps,MV,Maison Voss,100,20,A800,MV SOHO New York,503.33,179.42,1,633.45,470.39,127.22,1,633.45,1,0,1,1,0,0
+MV-26704,Men Pouches Classic,CRM,Creme,Leather Goods,Men,Small Leather Goods,Pouches,MVS,MV Signature,100,20,A800,MV SOHO New York,54752.9,20430.35,58,70262.8,59867.88,17490.68,69,83588.5,203,126,77,250,246,0
+MV-80282,Unisex Baseball Caps Signature,CRM,Creme,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,100,20,A800,MV SOHO New York,3388.66,981.77,15,4709.63,3571.27,929.35,16,5023.6,40,29,11,42,26,0
+MV-26912,Men Suit Sets Essential,ECR,Ecru,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,20,A800,MV SOHO New York,14534.29,5229.18,25,17540.88,14170.06,5057.27,24,16839.24,76,72,4,87,64,0
+MV-96870,Women Day Dresses Relaxed,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,9474.68,3445.78,27,13028.23,11313.54,2990.28,33,15923.39,78,73,5,90,71,0
+MV-20682,Men Loafers Slim,GRG,Greige,Footwear,Men,Flats,Loafers,MVS,MV Signature,100,50,A800,MV SOHO New York,25316.09,9556.47,56,35374.16,20920.7,6344.1,45,28425.66,31,28,3,21,16,0
+MV-41029,Women Ballet Flats Luxe,NVY,Navy,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,100,50,A800,MV SOHO New York,18888.71,5044.89,25,25224.4,21021.9,7643.99,30,30269.28,12,9,3,12,7,0
+MV-90356,Women Loafers Signature,CAM,Camel,Footwear,Women,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,13157.32,4308.15,23,18215.95,13752.24,4261.48,23,18215.95,17,11,6,15,14,0
+MV-21164,Men Shorts Relaxed,NOI,Noir,Ready-to-Wear,Men,Bottoms,Shorts,MV,Maison Voss,100,70,A800,MV SOHO New York,415.69,119.3,1,599.7,396.14,137.88,1,599.7,3,2,1,3,2,0
+MV-46421,Women Knee High Slim,ANT,Anthracite,Footwear,Women,Boots,Knee High,MVS,MV Signature,100,50,A800,MV SOHO New York,9272.25,3491.89,18,12793.16,9133.72,2747.39,18,12793.16,16,15,1,16,10,0
+MV-26505,Men Leather Belts Relaxed,ROG,Rouge,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,2919.14,1083.07,4,3691.76,3114.07,797.04,4,3691.76,6,3,3,6,4,0
+MV-13396,Women Wallets Slim,IVR,Ivoire,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,100,50,A800,MV SOHO New York,23719.2,8856.8,33,29343.22,20706.03,7099.88,32,28454.03,34,20,14,35,28,0
+MV-52487,Men Mini Bags Luxe,TAN,Tan,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,13978.27,3900.3,18,18782.91,12615.01,4341.78,16,16695.92,58,57,1,46,41,0
+MV-65851,Women Midi Dresses Slim,SBL,Sable,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,18271.55,6091.75,28,24215.26,17577.79,5186.65,29,25080.09,41,33,8,41,39,0
+MV-62034,Women Necklaces Luxe,RSE,Rose Poudre,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,100,20,A800,MV SOHO New York,281.3,86.76,1,339.13,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-71057,Women Boots,TAN,Tan,Footwear,Women,Heels,Boots,MVS,MV Signature,100,20,A800,MV SOHO New York,502.14,145.36,2,665.18,458.03,169.65,2,665.18,1,0,1,1,0,0
+MV-64377,Women Trousers Essential,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,70,A800,MV SOHO New York,6027.3,1766.4,31,7045.59,5105.47,1801.37,28,6363.76,41,32,9,36,33,0
+MV-16839,Unisex Key Holders Luxe,NOI,Noir,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,353.14,126.83,1,486.54,388.32,102.52,1,486.54,1,0,1,0,0,0
+MV-15014,Women Bracelets Modern,CAM,Camel,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,100,20,A800,MV SOHO New York,183.96,61.73,1,270.31,181.19,68.78,1,270.31,1,0,1,1,0,0
+MV-20543,Men Check-In Classic,CRM,Creme,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,100,50,A800,MV SOHO New York,783.16,242.44,1,1012.49,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-69634,Women Day Dresses Signature,VRT,Vert,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,45477.28,14799.86,79,56434.2,33311.53,9588.27,65,46433.2,126,106,20,109,75,0
+MV-77538,Men Check-In Signature,NOI,Noir,Leather Goods,Men,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,35448.48,10764.32,33,44697.11,36129.33,13683.91,31,41988.19,64,48,16,61,48,0
+MV-12260,Men Knee High Modern,VRT,Vert,Footwear,Men,Boots,Knee High,MVS,MV Signature,100,20,A800,MV SOHO New York,5204.87,1522.68,10,7405.65,3668.55,1109.91,7,5183.95,5,3,2,3,2,0
+MV-53064,Men Skirts Slim,TAN,Tan,Ready-to-Wear,Men,Bottoms,Skirts,MV,Maison Voss,100,20,A800,MV SOHO New York,3110.17,922.87,8,3910.2,3074.27,1032.06,9,4398.98,18,16,2,24,15,0
+MV-71057,Women Boots,ROG,Rouge,Footwear,Women,Heels,Boots,MVS,MV Signature,100,50,A800,MV SOHO New York,3001.99,907.59,10,4467.38,3461.1,884.82,12,5360.85,23,14,9,24,19,0
+MV-31632,Women Weekender Luxe,ANT,Anthracite,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,18453.15,6531.59,37,24559.69,20634.15,6275.19,39,25887.24,60,47,13,67,62,0
+MV-27961,Women Blouses Signature,TAN,Tan,Ready-to-Wear,Women,Tops,Blouses,MV,Maison Voss,100,20,A800,MV SOHO New York,6789.16,1918.88,27,8599.48,8075.41,2590.18,31,9873.47,50,44,6,52,40,0
+MV-69473,Women Chain Belts Heritage,CHP,Champagne,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,3005.55,959.65,5,3654.12,1608.64,547.59,3,2192.47,9,6,3,6,3,0
+MV-69692,Women Suit Sets Essential,RSE,Rose Poudre,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,50,A800,MV SOHO New York,1833.37,521.19,4,2434.11,1768.6,656.13,4,2434.11,13,12,1,13,11,0
+MV-70258,Men Platform Slim,GRG,Greige,Footwear,Men,Sneakers,Platform,MV,Maison Voss,100,50,A800,MV SOHO New York,1445.56,485.0,2,1891.53,1363.1,446.96,2,1891.53,7,6,1,7,5,0
+MV-17331,Women Key Holders Relaxed,VRT,Vert,Leather Goods,Women,Small Leather Goods,Key Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,27535.05,8729.63,27,36024.91,22348.11,5909.12,20,26685.12,94,88,6,73,52,0
+MV-18163,Men Blazers Slim,ECR,Ecru,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,18302.16,6166.13,36,23941.35,18183.6,5278.03,32,21281.2,74,59,15,63,52,0
+MV-33703,Men Earrings Slim,RSE,Rose Poudre,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,100,50,A800,MV SOHO New York,3600.01,1114.71,7,5239.41,3350.06,930.14,6,4490.92,4,2,2,4,2,0
+MV-85156,Women Chain Belts Essential,IVR,Ivoire,Leather Goods,Women,Belts,Chain Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,655.58,215.0,1,958.27,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-65296,Women Ankle Boots Slim,CHP,Champagne,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,1176.85,438.42,2,1579.06,1057.37,298.29,2,1579.06,1,0,1,1,0,0
+MV-52487,Men Mini Bags Luxe,TAN,Tan,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,76886.46,21462.02,86,105256.79,68930.94,21055.75,75,91793.72,286,211,75,296,260,0
+MV-75308,Men Ballet Flats,BEG,Beige,Footwear,Men,Flats,Ballet Flats,MVS,MV Signature,100,20,A800,MV SOHO New York,4150.33,1052.02,8,5855.4,2772.6,885.56,6,4391.55,15,10,5,12,7,0
+MV-14852,Men Loafers Slim,ECR,Ecru,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,8396.86,2667.99,36,12300.15,5712.09,1772.49,25,8541.77,55,45,10,43,36,0
+MV-19869,Women Wool Scarves Slim,ROG,Rouge,Accessories,Women,Scarves,Wool Scarves,MVS,MV Signature,100,30,A800,MV SOHO New York,9756.27,3464.02,24,12471.36,8535.76,2162.07,23,11951.72,16,15,1,17,10,0
+MV-71797,Men Shoulder Bags Classic,NVY,Navy,Leather Goods,Men,Handbags,Shoulder Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,12548.41,3642.71,12,17492.83,9569.52,2637.79,9,13119.62,14,13,1,9,7,0
+MV-52487,Men Mini Bags Luxe,GRG,Greige,Leather Goods,Men,Handbags,Mini Bags,MV,Maison Voss,100,70,A800,MV SOHO New York,1722.2,438.72,5,2128.9,1580.06,521.56,5,2128.9,5,3,2,5,3,0
+MV-27892,Men Suit Trousers Modern,TRP,Taupe,Ready-to-Wear,Men,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,1389.79,402.2,3,1873.28,982.76,317.83,2,1248.85,5,4,1,3,2,0
+MV-50213,Women Tops Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,30,A800,MV SOHO New York,5464.23,1539.24,24,7843.94,3773.71,944.05,17,5556.13,90,55,35,67,61,0
+MV-65255,Women Evening Dresses Heritage,CRM,Cognac,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,18042.19,6245.5,37,26371.57,13648.34,4259.52,30,21382.36,126,87,39,125,85,0
+MV-64377,Women Trousers Essential,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,50,A800,MV SOHO New York,14613.12,3942.48,26,20059.67,11722.5,4329.97,20,15430.52,85,78,7,76,71,0
+MV-76132,Unisex Leather Belts Slim,IVR,Ivoire,Leather Goods,Unisex,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,20951.46,6294.71,19,25485.55,21951.93,6781.4,20,26826.89,15,13,2,19,18,0
+MV-78494,Men Suit Sets Essential,RSE,Rose Poudre,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,30,A800,MV SOHO New York,581.79,147.97,1,819.32,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-49139,Men Wool Scarves Essential,ECR,Ecru,Accessories,Men,Scarves,Wool Scarves,MV,Maison Voss,100,20,A800,MV SOHO New York,18308.21,6237.12,87,26983.0,13240.18,4321.17,67,20780.01,229,222,7,167,117,0
+MV-99353,Women Tote Bags,TAN,Tan,Leather Goods,Women,Handbags,Tote Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,35918.95,12073.83,40,50346.85,43112.25,14299.94,42,52864.19,65,51,14,78,54,0
+MV-58566,Men Leather Belts Relaxed,BLU,Bleu Marine,Leather Goods,Men,Belts,Leather Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,3221.52,971.87,8,4328.96,4321.05,1500.08,10,5411.2,31,23,8,33,30,0
+MV-41029,Women Ballet Flats Luxe,CRM,Creme,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,100,20,A800,MV SOHO New York,54847.26,19300.22,98,71733.38,76648.61,27096.46,126,92228.63,87,79,8,92,85,0
+MV-74866,Women Wool Scarves Luxe,ARG,Argent,Accessories,Women,Scarves,Wool Scarves,MV,Maison Voss,100,20,A800,MV SOHO New York,4346.94,1522.61,23,5997.71,3313.69,1097.01,18,4693.86,52,34,18,35,24,0
+MV-87993,Women Fedoras Modern,CRM,Creme,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,50,A800,MV SOHO New York,9096.79,3423.09,22,11199.82,9899.34,3545.82,25,12727.07,59,53,6,73,69,0
+MV-98815,Men Check-In,BEG,Beige,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,100,50,A800,MV SOHO New York,21823.48,6200.31,34,28475.29,26828.37,7142.6,42,35175.36,97,94,3,120,102,0
+MV-66349,Women Crossbody Bags Modern,ARG,Argent,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,50,A800,MV SOHO New York,41760.51,15802.9,42,62938.61,45300.27,15871.99,47,70431.3,98,64,34,95,72,0
+MV-79942,Men Blazers Essential,NVY,Navy,Ready-to-Wear,Men,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,17270.67,5726.25,26,24557.57,13811.65,4741.7,20,18890.44,88,58,30,65,58,0
+MV-65851,Women Midi Dresses Slim,ARG,Argent,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,30,A800,MV SOHO New York,1188.21,427.98,3,1466.02,1073.35,328.97,3,1466.02,1,0,1,1,0,0
+MV-22833,Women Midi Dresses Classic,NVY,Navy,Ready-to-Wear,Women,Dresses,Midi Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,5273.86,1420.75,10,7465.8,7089.84,2589.87,12,8958.96,33,30,3,49,32,0
+MV-67104,Men Sandals Essential,SBL,Sable,Footwear,Men,Heels,Sandals,MV,Maison Voss,100,20,A800,MV SOHO New York,36680.65,13634.81,66,50468.86,42466.04,12344.57,70,53527.58,242,185,57,234,168,0
+MV-95918,Women Suit Sets Modern,ROG,Rouge,Ready-to-Wear,Women,Suits,Suit Sets,MV,Maison Voss,100,20,A800,MV SOHO New York,3936.24,1261.47,6,5551.44,4125.63,1303.49,6,5551.44,21,20,1,20,18,0
+MV-86483,Women Wallets Luxe,BLU,Bleu Marine,Leather Goods,Women,Small Leather Goods,Wallets,MVS,MV Signature,100,20,A800,MV SOHO New York,6588.64,2057.35,11,8343.1,7639.89,2745.15,12,9101.57,17,12,5,20,18,0
+MV-59015,Unisex Baseball Caps Relaxed,CRM,Creme,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,100,50,A800,MV SOHO New York,7985.22,2629.27,14,10997.24,6259.22,1704.54,11,8640.69,24,15,9,16,14,0
+MV-74038,Women Pouches,RSE,Rose Poudre,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,100,70,A800,MV SOHO New York,14240.69,4294.83,14,19377.7,10981.57,3780.19,10,13841.21,17,11,6,13,8,0
+MV-53655,Women Leather Belts Slim,NOI,Noir,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,13066.68,3652.91,23,17059.11,12963.49,4008.29,24,17800.81,85,70,15,93,69,0
+MV-85914,Women Wallets,ANT,Anthracite,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,50,A800,MV SOHO New York,39487.42,13566.91,72,50084.39,37177.82,10596.65,74,51475.63,57,35,22,63,62,0
+MV-81364,Unisex Crossbody Bags Signature,CHP,Champagne,Leather Goods,Unisex,Handbags,Crossbody Bags,MVS,MV Signature,100,20,A800,MV SOHO New York,5083.31,1841.02,6,6712.83,6178.07,1628.1,7,7831.63,6,5,1,7,6,0
+MV-62034,Women Necklaces Luxe,VRT,Vert,Accessories,Women,Jewelry,Necklaces,MVS,MV Signature,100,20,A800,MV SOHO New York,1632.48,609.25,3,2085.46,943.43,321.64,2,1390.31,7,4,3,5,4,0
+MV-98188,Women Knee High Heritage,CAM,Camel,Footwear,Women,Boots,Knee High,MV,Maison Voss,100,20,A800,MV SOHO New York,1801.89,560.97,5,2497.04,1905.98,653.93,6,2996.45,11,6,5,14,9,0
+MV-64377,Women Trousers Essential,ARG,Argent,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,70,A800,MV SOHO New York,29349.37,7362.46,54,38570.79,27346.81,9030.84,49,34999.42,186,152,34,144,113,0
+MV-96870,Women Day Dresses Relaxed,NVY,Navy,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,14360.8,4328.67,26,18507.41,14701.44,3801.92,29,20642.88,69,61,8,72,45,0
+MV-20543,Men Check-In Classic,NOI,Noir,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,4684.8,1639.29,8,5649.44,4804.64,1644.63,8,5649.44,7,6,1,6,3,0
+MV-38903,Men Coats Essential,VRT,Vert,Ready-to-Wear,Men,Outerwear,Coats,MV,Maison Voss,100,20,A800,MV SOHO New York,27161.88,8658.21,42,35130.55,24897.27,6233.45,35,29275.46,153,132,21,138,131,0
+MV-64524,Women Check-In Modern,RSE,Rose Poudre,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,20,A800,MV SOHO New York,33561.38,9007.91,49,44886.35,35112.64,13145.16,51,46718.45,29,24,5,34,30,0
+MV-50213,Women Tops Slim,BLU,Bleu Marine,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,29153.62,9850.66,47,39378.82,29833.28,7494.19,50,41892.36,57,34,23,57,54,0
+MV-30253,Men Weekender Essential,NVY,Navy,Leather Goods,Men,Luggage,Weekender,MVS,MV Signature,100,70,A800,MV SOHO New York,37641.72,12085.15,63,49448.51,29340.26,8441.76,54,42384.44,193,158,35,139,123,0
+MV-67637,Men Midi Dresses Essential,GRG,Greige,Ready-to-Wear,Men,Dresses,Midi Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,2352.24,767.36,7,3103.83,1984.19,572.33,6,2660.42,6,3,3,6,5,0
+MV-82512,Women Shorts Heritage,ARG,Argent,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,30,A800,MV SOHO New York,24057.89,8630.51,35,30536.55,24123.46,8252.28,39,34026.44,63,55,8,77,50,0
+MV-48462,Women Ankle Boots Relaxed,BEG,Beige,Footwear,Women,Boots,Ankle Boots,MVS,MV Signature,100,70,A800,MV SOHO New York,6132.31,1775.55,15,8680.83,4873.37,1439.98,12,6944.66,21,13,8,18,15,0
+MV-91490,Women Midi Dresses,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,70,A800,MV SOHO New York,11919.63,4175.52,46,15792.49,14555.42,3803.36,56,19225.64,170,154,16,234,170,0
+MV-70258,Men Platform Slim,ARG,Argent,Footwear,Men,Sneakers,Platform,MV,Maison Voss,100,50,A800,MV SOHO New York,15291.6,3986.82,32,21743.67,14797.57,4555.71,33,22423.16,75,45,30,69,48,0
+MV-49576,Women Jackets Classic,TRP,Taupe,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,100,50,A800,MV SOHO New York,16961.04,6085.28,37,23135.25,11549.77,3535.73,26,16257.2,122,114,8,79,75,0
+MV-23979,Women Check-In Relaxed,BRG,Bordeaux,Leather Goods,Women,Luggage,Check-In,MV,Maison Voss,100,30,A800,MV SOHO New York,27257.54,9155.74,26,33669.07,30625.61,9107.46,29,37553.96,93,57,36,114,84,0
+MV-33703,Men Earrings Slim,ARG,Argent,Accessories,Men,Jewelry,Earrings,MVS,MV Signature,100,20,A800,MV SOHO New York,1389.2,489.11,4,1955.8,1876.49,710.49,5,2444.75,13,8,5,18,16,0
+MV-20336,Men Blazers Heritage,CHP,Champagne,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,4952.33,1880.16,19,6775.61,3935.35,984.13,17,6062.39,47,44,3,39,31,0
+MV-65296,Women Ankle Boots Slim,CHP,Champagne,Footwear,Women,Boots,Ankle Boots,MV,Maison Voss,100,70,A800,MV SOHO New York,25535.88,6986.6,105,34916.4,33486.46,11752.29,128,42564.76,126,111,15,160,120,0
+MV-20336,Men Blazers Heritage,NOI,Noir,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,70,A800,MV SOHO New York,18349.84,6103.72,69,25206.17,21843.66,7982.89,76,27763.32,176,156,20,156,155,0
+MV-47243,Men Boots Heritage,ANT,Anthracite,Footwear,Men,Heels,Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,774.96,269.81,1,1049.23,768.45,239.98,1,1049.23,3,2,1,2,1,0
+MV-64377,Women Trousers Essential,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,50,A800,MV SOHO New York,2517.64,788.39,4,3698.87,2600.89,833.14,4,3698.87,9,6,3,12,9,0
+MV-62383,Men Berets Relaxed,BEG,Beige,Accessories,Men,Hats,Berets,MVS,MV Signature,100,50,A800,MV SOHO New York,1209.47,339.29,3,1563.66,746.93,242.6,2,1042.44,5,3,2,4,3,0
+MV-99381,Women Fedoras Signature,NOI,Noir,Accessories,Women,Hats,Fedoras,MVS,MV Signature,100,30,A800,MV SOHO New York,12054.31,4240.52,32,15830.8,10313.11,3554.31,27,13357.24,108,98,10,86,75,0
+MV-27139,Men Jackets Signature,RSE,Rose Poudre,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,50,A800,MV SOHO New York,13996.2,5006.22,42,17264.49,18036.62,6253.23,53,21786.14,40,34,6,59,42,0
+MV-49576,Women Jackets Classic,BLU,Bleu Marine,Ready-to-Wear,Women,Outerwear,Jackets,MV,Maison Voss,100,20,A800,MV SOHO New York,2481.9,878.7,6,3138.89,2207.29,626.18,6,3138.89,10,8,2,10,9,0
+MV-26505,Men Leather Belts Relaxed,ROG,Rouge,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,12820.55,4378.55,17,18486.5,14257.11,4625.0,17,18486.5,34,27,7,32,25,0
+MV-11214,Men Coats Heritage,BLU,Bleu Marine,Ready-to-Wear,Men,Outerwear,Coats,MVS,MV Signature,100,70,A800,MV SOHO New York,19811.03,6308.07,46,25702.67,24663.26,9359.21,59,32966.47,58,41,17,61,57,0
+MV-60052,Unisex Evening Dresses,VRT,Vert,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,13697.8,4115.24,33,18115.21,15548.28,5666.12,39,21408.88,95,89,6,104,63,0
+MV-30257,Women Weekender Relaxed,NOI,Noir,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,13177.42,4152.68,19,17636.21,11197.9,3210.75,15,13923.32,25,16,9,20,16,0
+MV-20745,Unisex Mini Bags Essential,CAM,Camel,Leather Goods,Unisex,Handbags,Mini Bags,MVS,MV Signature,100,70,A800,MV SOHO New York,11860.95,4448.58,22,16972.07,14595.17,5412.77,25,19286.45,63,47,16,62,48,0
+MV-66531,Unisex Key Holders Modern,ECR,Ecru,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,14492.61,4923.09,17,20422.87,11424.69,3135.95,14,16818.84,66,46,20,57,35,0
+MV-76039,Women Boots Relaxed,ARG,Argent,Footwear,Women,Heels,Boots,MVS,MV Signature,100,50,A800,MV SOHO New York,3263.38,1110.63,8,4000.53,2417.58,914.5,6,3000.39,5,4,1,3,2,0
+MV-39444,Men Key Holders Relaxed,ANT,Anthracite,Leather Goods,Men,Small Leather Goods,Key Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,9257.49,2644.24,20,12808.99,7331.54,2280.94,17,10887.64,37,33,4,26,21,0
+MV-71537,Women Trousers Heritage,SBL,Sable,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,14837.71,4336.18,29,19033.14,17540.55,5382.98,33,21658.41,55,52,3,54,35,0
+MV-14877,Women Necklaces Heritage,BEG,Beige,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,100,30,A800,MV SOHO New York,23294.43,7928.18,52,32294.38,21145.83,5969.11,47,29189.15,26,18,8,22,20,0
+MV-69829,Men Ballet Flats Slim,ECR,Ecru,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,30,A800,MV SOHO New York,6062.75,1908.52,25,8893.47,4445.92,1555.45,20,7114.78,65,56,9,62,42,0
+MV-28714,Men Trousers Luxe,CAM,Camel,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,20960.11,6360.09,36,27355.52,25225.43,6402.22,40,30395.02,40,35,5,40,33,0
+MV-44664,Women Shoulder Bags Modern,CAM,Camel,Leather Goods,Women,Handbags,Shoulder Bags,MVS,MV Signature,100,70,A800,MV SOHO New York,2621.23,676.46,4,3593.72,1175.2,361.65,2,1796.86,15,13,2,10,7,0
+MV-31798,Women Shoulder Bags Essential,SBL,Sable,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,12306.22,4161.57,15,17204.87,8758.84,2386.29,10,11469.91,10,8,2,6,4,0
+MV-53655,Women Leather Belts Slim,CRM,Creme,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,758.28,243.91,1,1092.27,802.31,220.77,1,1092.27,1,0,1,1,0,0
+MV-80807,Men Ballet Flats Heritage,NVY,Navy,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,50,A800,MV SOHO New York,2197.5,792.23,7,3108.34,2291.7,639.76,8,3552.39,15,9,6,20,12,0
+MV-42087,Men Slides Slim,CRM,Creme,Footwear,Men,Flats,Slides,MV,Maison Voss,100,50,A800,MV SOHO New York,9295.49,2543.6,32,11534.62,7957.3,2795.58,26,9371.88,51,43,8,39,34,0
+MV-51116,Unisex Tops Essential,BEG,Beige,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,100,50,A800,MV SOHO New York,66487.28,17994.21,121,98920.53,81991.71,27535.31,152,124263.81,412,370,42,420,265,0
+MV-22097,Men Leather Belts Essential,BRG,Bordeaux,Leather Goods,Men,Belts,Leather Belts,MV,Maison Voss,100,20,A800,MV SOHO New York,1486.48,468.87,2,1818.76,737.41,215.42,1,909.38,6,4,2,5,4,0
+MV-57943,Women Shorts Essential,ARG,Argent,Ready-to-Wear,Women,Bottoms,Shorts,MV,Maison Voss,100,50,A800,MV SOHO New York,7411.18,2522.18,12,9656.37,8174.06,2316.68,14,11265.76,40,29,11,46,31,0
+MV-26683,Women Blazers Relaxed,BEG,Beige,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,11920.14,4235.94,40,16165.3,14784.93,5039.88,49,19802.5,58,42,16,71,64,0
+MV-37535,Men Shirts Relaxed,CRM,Creme,Ready-to-Wear,Men,Tops,Shirts,MVS,MV Signature,100,70,A800,MV SOHO New York,1127.93,304.44,5,1591.7,1217.25,352.78,5,1591.7,9,5,4,9,7,0
+MV-42541,Women Blazers Slim,CAM,Camel,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,50,A800,MV SOHO New York,10342.08,2621.61,20,12750.58,10157.12,2990.34,21,13388.11,70,44,26,76,58,0
+MV-59391,Women Weekender Signature,ECR,Ecru,Leather Goods,Women,Luggage,Weekender,MVS,MV Signature,100,20,A800,MV SOHO New York,27589.44,10353.78,33,37985.63,20574.23,6217.21,23,26474.83,51,40,11,41,38,0
+MV-60052,Unisex Evening Dresses,NVY,Navy,Ready-to-Wear,Unisex,Dresses,Evening Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,10943.07,3109.21,24,14113.79,8927.82,2878.01,18,10585.34,42,41,1,34,24,0
+MV-76039,Women Boots Relaxed,IVR,Ivoire,Footwear,Women,Heels,Boots,MVS,MV Signature,100,50,A800,MV SOHO New York,1341.74,338.87,5,1802.51,1524.76,468.4,6,2163.01,18,11,7,18,14,0
+MV-26683,Women Blazers Relaxed,IVR,Ivoire,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,6898.66,2575.8,11,8940.58,4055.14,1262.24,7,5689.46,16,11,5,10,9,0
+MV-58434,Women Shoulder Bags Heritage,CRM,Cognac,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,24761.5,6458.32,38,31593.89,25855.64,6644.44,42,34919.56,148,94,54,193,159,0
+MV-86484,Men Blazers Essential,NOI,Noir,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,8486.21,2316.39,20,11637.33,7132.02,2128.12,19,11055.47,20,17,3,20,13,0
+MV-65444,Women Berets,BLU,Bleu Marine,Accessories,Women,Hats,Berets,MVS,MV Signature,100,50,A800,MV SOHO New York,447.68,163.47,1,531.6,0.0,0.0,0,0.0,2,1,1,1,0,0
+MV-55830,Women Jeans Heritage,ECR,Ecru,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,30,A800,MV SOHO New York,22656.1,6574.8,36,28861.88,23107.71,8274.5,38,30465.32,39,25,14,43,37,0
+MV-30257,Women Weekender Relaxed,RSE,Rose Poudre,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,50,A800,MV SOHO New York,404.33,112.18,1,534.31,0.0,0.0,0,0.0,3,2,1,3,1,0
+MV-23434,Women Card Holders,VRT,Vert,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,36590.23,12934.97,34,51023.37,42822.97,12907.32,39,58526.81,85,77,8,102,76,0
+MV-76542,Men Suit Sets Modern,GRG,Greige,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,50,A800,MV SOHO New York,3160.79,1105.29,5,4385.88,1831.59,650.37,3,2631.53,10,8,2,5,3,0
+MV-14877,Women Necklaces Heritage,TAN,Tan,Accessories,Women,Jewelry,Necklaces,MV,Maison Voss,100,30,A800,MV SOHO New York,26933.09,6937.44,79,35435.24,20842.36,7800.89,68,30501.22,259,207,52,194,173,0
+MV-49251,Men Slides Classic,TRP,Taupe,Footwear,Men,Flats,Slides,MV,Maison Voss,100,20,A800,MV SOHO New York,4152.4,1177.61,11,4981.89,3888.32,1358.7,11,4981.89,17,16,1,19,12,0
+MV-17816,Women Trousers Slim,GRG,Greige,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,6131.57,2299.83,9,8498.88,6383.08,1803.46,9,8498.88,25,23,2,26,22,0
+MV-86484,Men Blazers Essential,ECR,Ecru,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,30,A800,MV SOHO New York,2375.13,799.42,4,2873.42,1632.63,419.26,3,2155.06,11,9,2,8,5,0
+MV-37460,Men Jackets Heritage,BEG,Beige,Ready-to-Wear,Men,Outerwear,Jackets,MV,Maison Voss,100,20,A800,MV SOHO New York,5217.66,1539.22,9,7158.69,3733.39,1403.06,7,5567.87,20,19,1,12,11,0
+MV-79924,Unisex Blazers Modern,TAN,Tan,Ready-to-Wear,Unisex,Outerwear,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,14205.12,4563.37,52,18304.15,17895.91,4711.22,63,22176.19,136,134,2,189,174,0
+MV-91490,Women Midi Dresses,ANT,Anthracite,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,70,A800,MV SOHO New York,42538.83,11599.73,141,59966.71,33821.56,9545.39,122,51886.09,295,189,106,278,268,0
+MV-42541,Women Blazers Slim,ANT,Anthracite,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,70,A800,MV SOHO New York,6789.06,2169.74,11,8318.6,6196.7,2200.62,10,7562.37,18,11,7,19,12,0
+MV-51116,Unisex Tops Essential,CHP,Champagne,Ready-to-Wear,Unisex,Tops,Tops,MV,Maison Voss,100,50,A800,MV SOHO New York,9125.97,3459.74,15,12183.35,8911.01,2835.62,15,12183.35,56,41,15,51,41,0
+MV-88366,Men Blazers Classic,CHP,Champagne,Ready-to-Wear,Men,Outerwear,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,22110.91,5919.2,32,26718.41,15835.01,5884.77,22,18368.91,127,126,1,86,82,0
+MV-16839,Unisex Key Holders Luxe,NOI,Noir,Leather Goods,Unisex,Small Leather Goods,Key Holders,MVS,MV Signature,100,50,A800,MV SOHO New York,56179.75,21259.72,54,74774.44,69717.54,22699.02,60,83082.71,74,70,4,83,50,0
+MV-85914,Women Wallets,CAM,Camel,Leather Goods,Women,Small Leather Goods,Wallets,MV,Maison Voss,100,50,A800,MV SOHO New York,21100.78,7246.85,22,28166.67,22791.77,7680.38,25,32007.58,42,40,2,40,29,0
+MV-80807,Men Ballet Flats Heritage,BEG,Beige,Footwear,Men,Flats,Ballet Flats,MV,Maison Voss,100,50,A800,MV SOHO New York,3703.32,1379.29,12,4404.48,4073.89,1264.92,15,5505.61,33,24,9,37,22,0
+MV-41029,Women Ballet Flats Luxe,ECR,Ecru,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,100,70,A800,MV SOHO New York,3586.48,1009.11,13,4357.26,4211.0,1081.69,14,4692.44,44,43,1,43,41,0
+MV-53025,Men Loafers Heritage,ANT,Anthracite,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,13406.62,4080.82,29,18341.82,12476.9,4516.7,25,15811.92,95,60,35,86,58,0
+MV-20543,Men Check-In Classic,NOI,Noir,Leather Goods,Men,Luggage,Check-In,MVS,MV Signature,100,20,A800,MV SOHO New York,990.9,298.62,1,1293.79,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-97684,Unisex Bracelets Luxe,ROG,Rouge,Accessories,Unisex,Jewelry,Bracelets,MV,Maison Voss,100,20,A800,MV SOHO New York,6259.72,1588.3,24,8359.45,7221.41,2395.36,27,9404.38,58,46,12,61,38,0
+MV-76542,Men Suit Sets Modern,BRG,Bordeaux,Ready-to-Wear,Men,Suits,Suit Sets,MVS,MV Signature,100,70,A800,MV SOHO New York,4635.47,1661.55,11,6486.07,4792.25,1580.24,10,5896.43,20,19,1,20,18,0
+MV-59015,Unisex Baseball Caps Relaxed,BRG,Bordeaux,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,100,20,A800,MV SOHO New York,23023.1,5863.53,39,31788.19,25622.61,6919.0,46,37493.76,52,45,7,71,47,0
+MV-90356,Women Loafers Signature,SBL,Sable,Footwear,Women,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,1509.95,523.88,2,1936.38,1374.56,507.67,2,1936.38,2,1,1,2,1,0
+MV-43586,Women Jeans Signature,TAN,Tan,Ready-to-Wear,Women,Bottoms,Jeans,MV,Maison Voss,100,20,A800,MV SOHO New York,8729.84,2797.09,22,12519.16,8304.17,2792.21,21,11950.1,37,29,8,36,32,0
+MV-46655,Women Cat Eye Heritage,NOI,Noir,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,100,50,A800,MV SOHO New York,3649.94,1039.95,16,4866.38,4118.29,1548.86,19,5778.83,61,36,25,66,53,0
+MV-68991,Unisex Pouches Heritage,BLU,Bleu Marine,Leather Goods,Unisex,Small Leather Goods,Pouches,MV,Maison Voss,100,20,A800,MV SOHO New York,20816.75,6200.83,25,27878.15,22857.72,6435.67,28,31223.53,90,60,30,122,79,0
+MV-24316,Women Low Top Relaxed,CHP,Champagne,Footwear,Women,Sneakers,Low Top,MV,Maison Voss,100,20,A800,MV SOHO New York,625.81,213.87,1,779.05,0.0,0.0,0,0.0,0,0,0,0,0,0
+MV-56346,Women Clutches Essential,CAM,Camel,Leather Goods,Women,Handbags,Clutches,MV,Maison Voss,100,20,A800,MV SOHO New York,12320.85,3341.64,21,16935.51,10846.88,3070.69,20,16129.05,66,65,1,59,43,0
+MV-12128,Women Cat Eye Signature,ARG,Argent,Accessories,Women,Sunglasses,Cat Eye,MV,Maison Voss,100,20,A800,MV SOHO New York,9855.1,3636.68,20,13445.64,7743.98,2397.23,16,10756.51,12,7,5,9,8,0
+MV-65851,Women Midi Dresses Slim,BEG,Beige,Ready-to-Wear,Women,Dresses,Midi Dresses,MV,Maison Voss,100,50,A800,MV SOHO New York,4413.53,1602.23,20,5996.0,3902.02,1208.96,19,5696.2,46,43,3,52,38,0
+MV-44099,Women Trousers Essential,SBL,Sable,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,15830.57,4845.11,23,19330.13,17363.5,6025.04,25,21011.01,28,24,4,32,20,0
+MV-48504,Women Slides Signature,BRG,Bordeaux,Footwear,Women,Flats,Slides,MVS,MV Signature,100,20,A800,MV SOHO New York,16472.74,5529.91,28,20823.37,14120.59,4307.08,27,20079.68,29,25,4,25,18,0
+MV-48462,Women Ankle Boots Relaxed,CRM,Cognac,Footwear,Women,Boots,Ankle Boots,MVS,MV Signature,100,50,A800,MV SOHO New York,15702.0,5058.72,41,19492.17,12142.49,3545.53,35,16639.65,28,18,10,26,17,0
+MV-56955,Women Ballet Flats Relaxed,BLU,Bleu Marine,Footwear,Women,Flats,Ballet Flats,MVS,MV Signature,100,30,A800,MV SOHO New York,1634.27,569.86,7,2008.15,1499.95,403.02,7,2008.15,8,5,3,9,5,0
+MV-51441,Women Jackets Modern,BEG,Beige,Ready-to-Wear,Women,Outerwear,Jackets,MVS,MV Signature,100,50,A800,MV SOHO New York,9008.67,2494.25,43,12507.54,6951.9,1991.21,30,8726.19,143,104,39,99,64,0
+MV-13761,Women Evening Dresses Luxe,CHP,Champagne,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,7723.27,2364.05,17,9742.62,9329.16,3085.43,22,12608.09,36,34,2,49,35,0
+MV-67939,Women Weekender Classic,ANT,Anthracite,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,1071.81,392.87,2,1510.61,1089.79,306.45,2,1510.61,5,3,2,6,3,0
+MV-52415,Men Jeans Relaxed,GRG,Greige,Ready-to-Wear,Men,Bottoms,Jeans,MV,Maison Voss,100,20,A800,MV SOHO New York,376.68,124.74,1,515.34,366.56,136.53,1,515.34,2,1,1,2,1,0
+MV-13761,Women Evening Dresses Luxe,CAM,Camel,Ready-to-Wear,Women,Dresses,Evening Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,2114.75,573.78,10,2769.08,2540.41,885.87,11,3045.98,18,13,5,22,18,0
+MV-89928,Men Suit Trousers Slim,BRG,Bordeaux,Ready-to-Wear,Men,Suits,Suit Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,22189.94,7866.29,38,29302.34,18290.6,4668.62,33,25446.77,126,82,44,116,105,0
+MV-56438,Men Boots Essential,RSE,Rose Poudre,Footwear,Men,Heels,Boots,MV,Maison Voss,100,20,A800,MV SOHO New York,6804.24,2428.63,30,9599.79,6327.38,1879.92,30,9599.79,105,70,35,126,115,0
+MV-76237,Women Skirts Classic,TAN,Tan,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,100,50,A800,MV SOHO New York,12214.35,3424.44,39,17429.45,10555.12,3522.44,31,13854.18,127,77,50,91,61,0
+MV-29597,Women Leather Belts,NVY,Navy,Leather Goods,Women,Belts,Leather Belts,MV,Maison Voss,100,50,A800,MV SOHO New York,17552.15,5111.33,18,23435.35,21095.4,6832.04,21,27341.25,53,37,16,71,59,0
+MV-69634,Women Day Dresses Signature,RSE,Rose Poudre,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,7981.12,2084.87,14,11079.03,9679.87,3552.57,17,13453.11,11,10,1,11,10,0
+MV-66881,Men Trousers Modern,BLU,Bleu Marine,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,1675.41,554.63,4,2227.81,908.41,308.81,2,1113.9,14,10,4,10,6,0
+MV-12665,Women Suit Trousers Essential,BLU,Bleu Marine,Ready-to-Wear,Women,Suits,Suit Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,2508.85,915.15,10,3399.42,1750.25,598.6,7,2379.59,22,21,1,14,10,0
+MV-99224,Men Day Dresses Relaxed,TAN,Tan,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,100,30,A800,MV SOHO New York,3679.84,1260.28,14,4872.07,3765.25,1224.43,14,4872.07,40,28,12,40,27,0
+MV-76237,Women Skirts Classic,CRM,Cognac,Ready-to-Wear,Women,Bottoms,Skirts,MV,Maison Voss,100,20,A800,MV SOHO New York,895.49,261.23,2,1260.9,882.75,331.34,2,1260.9,6,5,1,5,4,0
+MV-41029,Women Ballet Flats Luxe,BLU,Bleu Marine,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,100,50,A800,MV SOHO New York,4687.28,1605.39,6,6060.35,4075.8,1387.61,5,5050.29,4,3,1,3,2,0
+MV-65255,Women Evening Dresses Heritage,BEG,Beige,Ready-to-Wear,Women,Dresses,Evening Dresses,MV,Maison Voss,100,70,A800,MV SOHO New York,5105.36,1489.43,22,6112.8,4766.28,1728.66,22,6112.8,19,16,3,21,12,0
+MV-72031,Women Blazers,BLU,Bleu Marine,Ready-to-Wear,Women,Suits,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,19999.87,7325.3,33,25780.84,16443.5,5125.73,31,24218.37,61,38,23,63,49,0
+MV-24530,Women Day Dresses Luxe,CAM,Camel,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,101378.85,28098.75,161,129091.62,85899.78,25878.91,134,107442.71,551,476,75,545,436,0
+MV-17816,Women Trousers Slim,NVY,Navy,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,20,A800,MV SOHO New York,43285.73,14704.31,68,61971.67,61096.41,18764.79,87,79287.29,235,143,92,264,248,0
+MV-31581,Men Key Holders Slim,SBL,Sable,Leather Goods,Men,Small Leather Goods,Key Holders,MVS,MV Signature,100,20,A800,MV SOHO New York,22542.95,7375.94,25,27497.53,18794.31,5384.98,23,25297.73,92,86,6,102,77,0
+MV-69473,Women Chain Belts Heritage,SBL,Sable,Leather Goods,Women,Belts,Chain Belts,MVS,MV Signature,100,20,A800,MV SOHO New York,11400.01,3580.85,13,16184.88,8631.85,2990.8,11,13694.9,20,18,2,18,14,0
+MV-54089,Unisex Blazers,NVY,Navy,Ready-to-Wear,Unisex,Outerwear,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,4962.02,1260.26,25,6665.67,4045.74,1407.28,21,5599.16,42,34,8,35,24,0
+MV-86484,Men Blazers Essential,BEG,Beige,Ready-to-Wear,Men,Suits,Blazers,MV,Maison Voss,100,50,A800,MV SOHO New York,16884.47,5828.3,38,23494.19,18080.41,6496.2,41,25348.99,84,55,29,104,75,0
+MV-68529,Men Ankle Boots,BEG,Beige,Footwear,Men,Boots,Ankle Boots,MVS,MV Signature,100,50,A800,MV SOHO New York,924.37,351.13,3,1167.31,876.49,231.95,3,1167.31,8,5,3,10,7,0
+MV-90356,Women Loafers Signature,NOI,Noir,Footwear,Women,Flats,Loafers,MV,Maison Voss,100,70,A800,MV SOHO New York,10229.3,3278.96,13,13270.31,7566.05,2785.47,10,10207.93,31,24,7,23,18,0
+MV-40005,Men Silk Scarves Classic,VRT,Vert,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,12101.84,3598.26,46,14969.74,10023.43,2911.37,39,12691.74,90,82,8,77,68,0
+MV-31632,Women Weekender Luxe,RSE,Rose Poudre,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,5615.99,1647.05,12,7894.35,3918.85,1433.26,9,5920.76,30,23,7,19,13,0
+MV-79822,Unisex Fedoras Slim,ROG,Rouge,Accessories,Unisex,Hats,Fedoras,MV,Maison Voss,100,20,A800,MV SOHO New York,8044.94,2470.79,21,10127.07,8634.14,2769.2,24,11573.79,62,54,8,78,74,0
+MV-12180,Men High Top Signature,NVY,Navy,Footwear,Men,Sneakers,High Top,MVS,MV Signature,100,20,A800,MV SOHO New York,9325.14,2785.95,22,11990.19,8357.71,2186.48,20,10900.17,57,43,14,58,52,0
+MV-71669,Men Silk Scarves,ECR,Ecru,Accessories,Men,Scarves,Silk Scarves,MV,Maison Voss,100,20,A800,MV SOHO New York,2174.94,685.33,5,2885.83,1869.2,527.27,4,2308.66,11,7,4,11,10,0
+MV-40595,Women Day Dresses Heritage,BLU,Bleu Marine,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,20,A800,MV SOHO New York,2420.38,690.9,11,3131.71,1667.44,565.56,7,1992.9,16,11,5,11,9,0
+MV-42541,Women Blazers Slim,ARG,Argent,Ready-to-Wear,Women,Suits,Blazers,MVS,MV Signature,100,20,A800,MV SOHO New York,2984.17,1126.0,10,3550.33,2032.33,548.29,7,2485.23,32,31,1,28,21,0
+MV-71474,Men Loafers Relaxed,CRM,Cognac,Footwear,Men,Flats,Loafers,MV,Maison Voss,100,20,A800,MV SOHO New York,389.67,119.96,1,463.3,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-90031,Women Loafers Heritage,CRM,Creme,Footwear,Women,Flats,Loafers,MV,Maison Voss,100,70,A800,MV SOHO New York,430.62,122.13,1,562.86,0.0,0.0,0,0.0,2,1,1,2,1,0
+MV-57920,Women Blazers Slim,CRM,Creme,Ready-to-Wear,Women,Outerwear,Blazers,MV,Maison Voss,100,20,A800,MV SOHO New York,9224.73,3233.95,44,12315.54,11350.39,2866.02,49,13715.04,64,51,13,64,45,0
+MV-38047,Women Round Frames Relaxed,ANT,Anthracite,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,100,50,A800,MV SOHO New York,1416.29,485.26,8,1946.75,1078.58,350.47,6,1460.06,28,18,10,25,20,0
+MV-50213,Women Tops Slim,TRP,Taupe,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,8576.83,3237.98,18,11356.73,9344.8,3249.23,18,11356.73,38,33,5,47,44,0
+MV-23434,Women Card Holders,CAM,Camel,Leather Goods,Women,Small Leather Goods,Card Holders,MV,Maison Voss,100,20,A800,MV SOHO New York,3353.97,1226.11,8,4065.87,2296.14,839.08,5,2541.17,24,15,9,20,13,0
+MV-71537,Women Trousers Heritage,TAN,Tan,Ready-to-Wear,Women,Bottoms,Trousers,MVS,MV Signature,100,20,A800,MV SOHO New York,36599.11,12357.34,71,46130.2,39201.07,13959.3,81,52627.41,212,173,39,275,211,0
+MV-12260,Men Knee High Modern,ROG,Rouge,Footwear,Men,Boots,Knee High,MVS,MV Signature,100,30,A800,MV SOHO New York,4323.86,1088.14,7,6213.06,4158.45,1340.29,7,6213.06,26,16,10,31,22,0
+MV-53228,Women Shoulder Bags Essential,ECR,Ecru,Leather Goods,Women,Handbags,Shoulder Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,15218.61,5344.23,14,20343.77,12409.48,4618.66,11,15984.39,21,14,7,19,17,0
+MV-41029,Women Ballet Flats Luxe,BRG,Bordeaux,Footwear,Women,Flats,Ballet Flats,MV,Maison Voss,100,30,A800,MV SOHO New York,37567.01,10123.1,51,54051.53,43691.31,16582.57,60,63590.04,170,138,32,211,167,0
+MV-99224,Men Day Dresses Relaxed,BEG,Beige,Ready-to-Wear,Men,Dresses,Day Dresses,MVS,MV Signature,100,50,A800,MV SOHO New York,24859.73,8346.43,46,34915.47,27117.5,6949.57,50,37951.6,45,42,3,46,39,0
+MV-31632,Women Weekender Luxe,ANT,Anthracite,Leather Goods,Women,Luggage,Weekender,MV,Maison Voss,100,20,A800,MV SOHO New York,1811.67,649.76,5,2354.59,1165.69,422.55,3,1412.75,19,18,1,15,12,0
+MV-66349,Women Crossbody Bags Modern,SBL,Sable,Leather Goods,Women,Handbags,Crossbody Bags,MV,Maison Voss,100,20,A800,MV SOHO New York,41673.37,12674.87,40,59303.9,37224.88,9674.32,39,57821.31,150,105,45,141,121,0
+MV-44718,Women Day Dresses Slim,GRG,Greige,Ready-to-Wear,Women,Dresses,Day Dresses,MVS,MV Signature,100,70,A800,MV SOHO New York,9083.15,2474.43,15,11496.19,10959.0,3833.11,17,13029.02,53,42,11,72,66,0
+MV-96761,Men Jackets Essential,ROG,Rouge,Ready-to-Wear,Men,Outerwear,Jackets,MVS,MV Signature,100,70,A800,MV SOHO New York,9436.63,3244.4,16,13557.06,12172.58,3807.23,20,16946.33,24,20,4,36,28,0
+MV-69048,Women Tops Luxe,NOI,Noir,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,1358.48,504.11,3,1962.81,1290.08,348.82,3,1962.81,9,8,1,9,5,0
+MV-94323,Women Round Frames Classic,BRG,Bordeaux,Accessories,Women,Sunglasses,Round Frames,MVS,MV Signature,100,50,A800,MV SOHO New York,697.46,211.72,2,926.04,712.43,179.92,2,926.04,4,2,2,4,2,0
+MV-15014,Women Bracelets Modern,VRT,Vert,Accessories,Women,Jewelry,Bracelets,MVS,MV Signature,100,50,A800,MV SOHO New York,14215.74,4789.61,32,18702.01,10955.72,2929.2,23,13442.07,28,24,4,23,15,0
+MV-25396,Women Clutches Slim,ANT,Anthracite,Leather Goods,Women,Handbags,Clutches,MVS,MV Signature,100,20,A800,MV SOHO New York,15110.89,4735.21,17,20484.53,19932.08,6995.61,21,25304.42,39,31,8,55,53,0
+MV-78146,Men Day Dresses,ARG,Argent,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,100,50,A800,MV SOHO New York,9367.88,3202.12,14,11424.56,6878.69,2229.95,10,8160.4,50,40,10,32,22,0
+MV-78955,Women Pouches Modern,CAM,Camel,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,100,50,A800,MV SOHO New York,26759.23,9069.64,32,35613.26,23128.07,7633.18,28,31161.61,54,50,4,53,46,0
+MV-17816,Women Trousers Slim,RSE,Rose Poudre,Ready-to-Wear,Women,Bottoms,Trousers,MV,Maison Voss,100,50,A800,MV SOHO New York,13446.95,3518.74,36,17807.71,13288.74,4355.39,34,16818.4,38,24,14,43,30,0
+MV-59015,Unisex Baseball Caps Relaxed,ANT,Anthracite,Accessories,Unisex,Hats,Baseball Caps,MV,Maison Voss,100,30,A800,MV SOHO New York,641.68,223.38,4,935.54,344.46,88.85,2,467.77,8,5,3,6,5,0
+MV-68138,Women Tops Modern,CRM,Creme,Ready-to-Wear,Women,Tops,Tops,MV,Maison Voss,100,20,A800,MV SOHO New York,13520.7,5008.51,23,17978.77,16327.83,6103.64,29,22668.89,29,17,12,42,37,0
+MV-96200,Women Suit Sets,CHP,Champagne,Ready-to-Wear,Women,Suits,Suit Sets,MVS,MV Signature,100,50,A800,MV SOHO New York,1748.98,535.62,3,2467.22,1141.08,336.13,2,1644.81,8,5,3,5,3,0
+MV-40005,Men Silk Scarves Classic,GRG,Greige,Accessories,Men,Scarves,Silk Scarves,MVS,MV Signature,100,20,A800,MV SOHO New York,16948.18,4373.31,35,21028.47,21084.53,7459.96,40,24032.54,120,114,6,133,128,0
+MV-66881,Men Trousers Modern,ARG,Argent,Ready-to-Wear,Men,Bottoms,Trousers,MV,Maison Voss,100,30,A800,MV SOHO New York,7186.05,1936.13,26,9125.75,6495.82,2420.85,24,8423.77,76,50,26,86,69,0
+MV-57052,Men Day Dresses Signature,CHP,Champagne,Ready-to-Wear,Men,Dresses,Day Dresses,MV,Maison Voss,100,20,A800,MV SOHO New York,46076.44,16017.04,79,64023.87,34923.73,9674.81,65,52677.86,49,45,4,44,40,0
+MV-38683,Men Tops Slim,CRM,Creme,Ready-to-Wear,Men,Tops,Tops,MVS,MV Signature,100,20,A800,MV SOHO New York,513.35,141.98,1,672.85,568.17,174.97,1,672.85,1,0,1,1,0,0
+MV-52176,Women Check-In Relaxed,GRG,Greige,Leather Goods,Women,Luggage,Check-In,MVS,MV Signature,100,30,A800,MV SOHO New York,702.2,245.48,1,1007.01,0.0,0.0,0,0.0,1,0,1,0,0,0
+MV-78955,Women Pouches Modern,RSE,Rose Poudre,Leather Goods,Women,Small Leather Goods,Pouches,MV,Maison Voss,100,20,A800,MV SOHO New York,5191.83,1929.19,8,6901.36,5611.4,1897.1,9,7764.03,17,13,4,21,17,0
