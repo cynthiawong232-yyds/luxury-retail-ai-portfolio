@@ -43,7 +43,7 @@ def _mix_table(breakdown_df: pd.DataFrame, dim_col: str, dim_label: str,
     }
 
     st.dataframe(
-        display.style.format(fmt).applymap(color_yoy, subset=['YoY %']),
+        display.style.format(fmt).map(color_yoy, subset=['YoY %']),
         hide_index=True,
         use_container_width=True
     )
@@ -238,7 +238,7 @@ def render(data: dict, period: str):
             }
 
             st.dataframe(
-                display_df.style.format(fmt).applymap(color_yoy, subset=['YoY %']),
+                display_df.style.format(fmt).map(color_yoy, subset=['YoY %']),
                 hide_index=True,
                 use_container_width=True,
                 height=500

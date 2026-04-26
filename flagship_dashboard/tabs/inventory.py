@@ -83,8 +83,8 @@ def render(data: dict, period: str):
             'WOS':            '{:.1f}',
             'Sell-Thru %':    '{:.1f}%',
         })
-        .applymap(color_wos, subset=['WOS'])
-        .applymap(color_var, subset=['EOH Var %']),
+        .map(color_wos, subset=['WOS'])
+        .map(color_var, subset=['EOH Var %']),
         hide_index=True,
         use_container_width=True
     )
@@ -175,8 +175,8 @@ def render(data: dict, period: str):
                         'Transit %': '{:.1f}%',
                         'WOS':       '{:.1f}',
                     })
-                    .applymap(color_wos_cell,  subset=['WOS'])
-                    .applymap(color_var_cell,  subset=['EOH Var %']),
+                    .map(color_wos_cell,  subset=['WOS'])
+                    .map(color_var_cell,  subset=['EOH Var %']),
                     hide_index=True,
                     use_container_width=True,
                     height=320
