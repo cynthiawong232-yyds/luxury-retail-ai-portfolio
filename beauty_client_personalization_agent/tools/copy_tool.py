@@ -1,4 +1,4 @@
-"""Generate A/B outreach copy per segment via Groq LLaMA 3.3 70B.
+"""Generate A/B outreach copy per segment via Groq GPT-OSS 120B.
 
 Variant A: warm boutique-advisor tone.
 Variant B: exclusive, aspirational luxury tone.
@@ -26,7 +26,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(PROJECT_ROOT / ".env")
 
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "openai/gpt-oss-120b"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 REQUEST_TIMEOUT_SEC = 60
 

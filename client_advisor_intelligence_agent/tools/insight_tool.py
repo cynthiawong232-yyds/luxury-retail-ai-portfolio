@@ -1,6 +1,6 @@
 """Generate natural-language insights from structured client/segment data via Groq.
 
-Uses LLaMA 3.3 70B. Falls back to a deterministic narrative if the Groq SDK
+Uses GPT-OSS 120B via Groq. Falls back to a deterministic narrative if the Groq SDK
 or GROQ_API_KEY is unavailable, so the rest of the agent still works in dev.
 """
 
@@ -23,7 +23,7 @@ except ImportError:
     _GROQ_AVAILABLE = False
 
 
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
 
 VALID_USE_CASES = {
     "client_briefing", "segment_summary", "next_best_action",
